@@ -2,6 +2,8 @@
 
 ## v0.8.0 — first public release — 2026-11-05
 
+- Correct Automatic-patching compatibility after the initial upload: supply Retro Trans's standard manifest/validation/checksum contract and register SLPS-25070 in its shared game library/catalog. Preserve the exact published patch, game output, version and source tag; retain original provenance and disc-verification reports separately.
+- Hosted catalog validation and 46 focused shared-tool checks pass. A real-ISO Automatic run with a fresh cache downloads the published patch and reproduces the exact target in 109.656 seconds, then recognizes it as already-current. See docs/automatic_patching_0.8.0.md/json. This verifies the backend, not GUI interaction, CHD conversion or gameplay.
 - Package the verified cumulative local v0.2.31 image as public v0.8.0. Game bytes are identical; the public version is not a completion percentage.
 - Publish an original-Japanese-disc xdelta patch, complete source/output fingerprints, instructions, validation records and checksums. Decode the patch with source verification enabled and require an exact full-image reconstruction.
 - Add a public README and release notes following retro-trans/SRW-Z, with this project's own coverage, model-assisted translation disclosure, credits and remaining 56 battle holds/testing limits.

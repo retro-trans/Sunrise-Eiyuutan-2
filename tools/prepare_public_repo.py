@@ -22,6 +22,8 @@ def selected_files():
     add('docs/public_README.md', 'README.md')
     add('docs/public_STATUS.md', 'docs/STATUS.md')
     add('docs/release_0.8.0.md')
+    add('docs/automatic_patching_0.8.0.md')
+    add('docs/automatic_patching_0.8.0.json')
     add('licenses/OFL-NotoSansJP.txt')
     add('work/output/social-preview/sunrise-eiyuutan-2-social-preview.jpg', 'assets/social-preview.jpg')
     add('work/output/social-preview/prompt.txt', 'assets/social-preview-prompt.txt')
@@ -33,9 +35,10 @@ def selected_files():
         add(path.relative_to(ROOT))
     add('work/glossary/glossary.json')
     add('work/glossary/movie_terms.json')
-    for name in ('BUILD-MANIFEST.json', 'VALIDATION.json', 'README-v0.8.0.txt',
+    for name in ('BUILD-MANIFEST.json', 'BUILD-PROVENANCE.json', 'VALIDATION.json',
+                 'DISC-VALIDATION.json', 'README-v0.8.0.txt', 'SHA256SUMS.txt',
                  'SHA256SUMS-v0.8.0.txt', 'SHA1SUMS-v0.8.0.txt', 'CHANGELOG-v0.8.0.txt'):
-        add('work/output/v0.8.0/release/' + name, 'docs/releases/v0.8.0/' + name)
+        add('work/output/v0.8.0/automatic-release/' + name, 'docs/releases/v0.8.0/' + name)
     return files
 
 

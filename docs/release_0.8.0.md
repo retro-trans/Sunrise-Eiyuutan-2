@@ -6,6 +6,8 @@ This is the first public release. It packages the cumulative, verified local v0.
 
 ### Apply
 
+**Automatic:** In [Retro Trans](https://github.com/retro-trans/retro-trans-tools), click **Refresh catalog**, open **Automatic**, select your original Japanese ISO, choose v0.8.0 (or Latest), then click **Patch** and select a new output file. Recognition uses the disc's complete hash, so its filename can differ.
+
 Apply the `.xdelta` with [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) or [xdelta3](https://github.com/jmacd/xdelta). You need your own unpacked Japanese disc image.
 
 | Your source image | Patch |
@@ -39,6 +41,8 @@ Patched image SHA-256:
 
 The cumulative build passes complete disc verification: **20 files, 5,614 resource packs, 80 event members and 489 movie members**. The release patch was decoded from the exact original Japanese image and checked against the verified target's complete size, SHA-256, SHA-1 and MD5. Source and output fingerprints are supplied in `BUILD-MANIFEST.json` and `README-v0.8.0.txt`.
 
+The corrected Automatic route passes a full real-ISO test using Retro Trans 0.5.20: live catalog refresh, exact source recognition, public patch download into an empty cache, application with the app's xdelta engine and complete output verification. The output is then recognized as already-current v0.8.0. See [the Automatic validation record](https://github.com/retro-trans/Sunrise-Eiyuutan-2/blob/main/docs/automatic_patching_0.8.0.md). This is a backend test, not a GUI or CHD-conversion test.
+
 Focused native checks cover representative menus, formation, reward items, Trade panels, the opening, selected captioned movies and ending lyric-window timing. The newest Trade preview uses synthetic available recipe IDs; the original unlock route and a successful trade were not replayed.
 
 **This is not a fully playtested or completely translated game.** Fifty-six battle rows remain Japanese; five unclear movie tracks were left untouched. Movie subtitles are reviewed machine-assisted transcriptions, with timing qualifications and no human listening certification. Movie re-encoding is lossy. The actual ending-credit composition, all routes, full battle-caption playback and physical PS2/OPL behavior remain unverified. Earlier automated startup/dialogue checks timed out, so successful full-game startup/playthrough is not established by those checks. Later successful isolated previews do not resolve that limitation.
@@ -46,6 +50,8 @@ Focused native checks cover representative menus, formation, reward items, Trade
 ### Downloads and source
 
 Download the `.xdelta` patch, instructions, build manifest, validation report and checksum files from the release assets. No complete game image is distributed. There is no upgrade patch for the earlier local test builds.
+
+Automatic-patching metadata was corrected after the initial upload. The standard manifest, validation report, canonical checksums and central SLPS-25070 registration now describe the existing patch. Its bytes, source/output hashes, v0.8.0 version and original source tag are unchanged. `BUILD-PROVENANCE.json` and `DISC-VALIDATION.json` retain the original reports; current release assets supply the corrected protocol metadata.
 
 GitHub's automatic **Source code (zip)** contains the repository snapshot at this tag: tools, English translation exports, glossary and documentation. Historical build inputs, Japanese source dumps, fonts, external encoders and local movie caches are not bundled. This source snapshot alone is not a one-command rebuild kit. English working exports can include reviewed material beyond the playable build; the manifest and hold inventory describe release coverage.
 

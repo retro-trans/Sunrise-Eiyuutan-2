@@ -20,6 +20,8 @@ Most Python tools are read-only or print a plan unless passed `--write`. Native 
 | `export_opening_mp4.py` | Standalone opening-video export from local original media/caption caches |
 | `verify.py` | Exact expected ELF, changed packs/overlays/movies and unchanged-disc verification |
 | `package_release.py` | Guarded original-to-English xdelta encoding and full reconstruction hash check |
+| `prepare_automatic_metadata.py` | Stage the standard Retro Trans release protocol around the unchanged v0.8.0 patch |
+| `verify_retro_trans_automatic.py` | Real-ISO Automatic catalog refresh, recognition, download and verified patch application in an isolated cache |
 | `dbg/` | Cold-boot native UI probes and emulator helpers; user audio/cards remain protected |
 | `tests/` | Focused source, instruction, control, width and buffer checks |
 
@@ -43,5 +45,7 @@ These commands inspect/extract source data; they do not build the released trans
 The source snapshot includes the actual tools and English exports, but not all of the ignored working drafts, review inputs, historical build snapshots or prepared movie assets they consume. Several scripts intentionally require exact predecessor hashes. Paths in `movie_subtitles.py` still identify the original local source-IPU cache and pinned .NET/IPUenc checkout. `fontgen.py` expects a local Noto Sans JP font; movie rendering uses installed Windows fonts and FFmpeg. These need to be configured/restored before rebuilding.
 
 `package_release.py` packages the verified local v0.2.31 image as public v0.8.0. It does not generate that cumulative baseline from an original disc alone. Its output ISO is a checksum-verified reconstruction used for validation and stays local. Upload only the release patch, instructions, manifests and checksums.
+
+The first package used a project-specific provenance manifest. Run `prepare_automatic_metadata.py` (dry, then `--write`) to stage the standard Automatic manifest, hash-bound validation and canonical `SHA256SUMS.txt`; this preserves the original reports and existing patch bytes. New release versions must follow Retro Trans's release standard and register package IDs before publishing. Use the corrected release assets for v0.8.0, rather than the initial metadata retained in the original source tag.
 
 No downloaded game binaries or Japanese script dumps are necessary to read and review the published tools/English; they are required locally for source verification and native builds.

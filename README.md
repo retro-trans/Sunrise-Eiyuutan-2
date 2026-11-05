@@ -20,6 +20,8 @@ It includes the inventoried main-story dialogue, encyclopedia entries, 6,463 sha
 
 ### Apply
 
+**Automatic:** Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools). Click **Refresh catalog**, open **Automatic**, select your original Japanese ISO, choose **Latest** (v0.8.0), then click **Patch** and save to a new output file. The app recognizes the source by its full hash and verifies the downloaded patch and completed image.
+
 Download `Sunrise-Eiyuutan-2-English-v0.8.0.xdelta` from the release. Apply it with [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) or [xdelta3](https://github.com/jmacd/xdelta) to your own unpacked Japanese disc image.
 
 | Your source image | Patch |

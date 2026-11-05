@@ -16,6 +16,8 @@ incoming - outside files that need agent to look into
 - Be conscious of subscription limit before creating sub-agents
 
 ** REMEMBER **
+- Retro Trans Automatic requires its standard release manifest, manifest-bound validation report, canonical SHA256SUMS.txt and central game-library/catalog registration. Use registered PS2 disc ID SLPS-25070. Public v0.8.0 Automatic compatibility is verified; preserve its published patch and binary hashes. See docs/automatic_patching_0.8.0.md/json.
+- Public repository: https://github.com/retro-trans/Sunrise-Eiyuutan-2, published using binhlt0402. The Git checkout is work/publish/v0.8.0/repo; the project root has no Git metadata. Public v0.8.0 packages byte-exact local v0.2.31. See docs/github_publication_0.8.0.json for release and asset verification. Later releases still require an explicit user request.
 - Keep the original normal dialogue/help box size and position. Any extra height needed by long detail text must be scoped to that content, so ordinary help boxes return to the original layout (user preference, 2026-11-05).
 - Opening and ending song subtitles should display romaji and English, with no Japanese lyric tier (user preference, 2026-11-05).
 - Follow the editorial-pass workflow in `BASE_RULES.md` for translated scripts: accuracy review, editorial review for clarity and character voice, then final proofreading.

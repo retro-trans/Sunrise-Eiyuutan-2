@@ -6,6 +6,8 @@ This is the first public release. It packages the cumulative, verified local v0.
 
 ### Apply
 
+**Automatic:** In [Retro Trans](https://github.com/retro-trans/retro-trans-tools), click **Refresh catalog**, open **Automatic**, select your original Japanese ISO, choose v0.8.0 (or Latest), then click **Patch** and select a new output file. Recognition uses the disc's complete hash, so its filename can differ.
+
 Apply the `.xdelta` with [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) or [xdelta3](https://github.com/jmacd/xdelta). You need your own unpacked Japanese disc image.
 
 | Your source image | Patch |
@@ -46,6 +48,8 @@ Focused native checks cover representative menus, formation, reward items, Trade
 ### Downloads and source
 
 Download the `.xdelta` patch, instructions, build manifest, validation report and checksum files from the release assets. No complete game image is distributed. There is no upgrade patch for the earlier local test builds.
+
+Automatic-patching metadata was corrected after the initial upload. The standard manifest, validation report, canonical checksums and central SLPS-25070 registration now describe the existing patch. Its bytes, source/output hashes, v0.8.0 version and original source tag are unchanged. `BUILD-PROVENANCE.json` and `DISC-VALIDATION.json` retain the original reports; current release assets supply the corrected protocol metadata.
 
 GitHub's automatic **Source code (zip)** contains the repository snapshot at this tag: tools, English translation exports, glossary and documentation. Historical build inputs, Japanese source dumps, fonts, external encoders and local movie caches are not bundled. This source snapshot alone is not a one-command rebuild kit. English working exports can include reviewed material beyond the playable build; the manifest and hold inventory describe release coverage.
 
