@@ -1,0 +1,96 @@
+{
+ "table": "05611_01237",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81900400}{C:81958296983200000000}It's the same here. The concentration is rising.\nWe can still get out now. What will you do?\n\n{C:81900300}{C:81958296993200000000}We can carry on, can't we, big brother?\n\n{C:81930100}{C:819582969A3200000000}Yeah.\nWe have to enter\nsome continent or other, anyway.\n\n{C:81900400}{C:819582969B3200000000}And we need information on the Norstan.\n\n{C:81900300}{C:819582969C3200000000}Exactly.\n\n{C:819582969D3200000000}With any luck,\nwe might find more people\nwilling to join us.\n\n\n{x00}",
+   "source_sha256": "a3b5ea4abbf6e9a4a38a9698233cd0cb9143556a5c573147991b053dc9b6f76e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930400}{C:81958296D23200000000}Is that a blip on the radar?\n\n{C:81930300}{C:81958296D33200000000}Should we prepare for battle?\n\n{C:81930400}{C:81958296D43200000000}There's only one machine,\nso I don't think we need to go that far.\n\n{C:81930300}{C:81958296D53200000000}Then I'll ask\nmy brother to go out.\n\n\n\n{x00}",
+   "source_sha256": "2b98cde6826da3f1d2627c9469e2e19ae54e1e28a6176716bf7d5aaf2447bab7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930300}{C:81958296D63200000000}Big brother!\nAn unidentified flying object is approaching.\nGo out in Impulse 7 and take a look.\n\n{C:81930100}{C:81958296D73200000000}Understood. I'll launch right away.\n\n\n{x00}",
+   "source_sha256": "8583c76310ef3047adf613f15fd0cfed67359646b21847ad8841ce274e284611",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81900400}{C:81958296D83200000000}Is that the machine that came from the Cloud Sea?\n\n{C:81930100}{C:81958296D93200000000}Yes, but...\nIt's obviously an FT, isn't it?\n\n{C:81900300}{C:81958296DA3200000000}Is there anything in the cockpit?\n\n{C:81930100}{C:81958296DB3200000000}I'm looking right now, aren't I?\n...Oh, here it is.\nI'll put it on the monitor.\n\n\n{x00}",
+   "source_sha256": "cbf98e65df5c9e5a367e1cddf8fab6a05b8384bd6fd862de6c54df09645a56b0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81930700}{C:81958296DC3200000000}Good work on your mission to pursue the Norstan.\nThat's what Akatsuki\nwould probably say, but...\n\n{C:81958296DD3200000000}Above all, I'm concerned\nabout your safety.\n\n{C:81958296DE3200000000}So, to ease your burden even a little,\nI've sent the newly developed \n{C:819782830400}ＦＴ－Ⅱ Cloud Saber{C:819782830000}.\n\n{C:81958296E03200000000}I'm sure you can handle it.\nProtect Rie and Nelfea for me.\nI'm counting on you.\n\n{C:81930100}{C:81958296E13200000000}I know, Professor.\n\n{C:81900300}{C:81958296E23200000000}Make sure you protect us, big brother.\n\n{C:81930100}{C:81958296E33200000000}Still, the Professor takes some crazy risks.\nWhat was the plan\nif we hadn't picked it up?\n\n{C:81900400}{C:81958296E43200000000}What are you talking about?!\nUnc... the Professor would never\ndo something like that without being sure.\n\n{C:81900300}{C:81958296E63200000000}Then how did the Professor\nknow where we were?\n\n\n{x00}",
+   "source_sha256": "128caa37a89368175007af457d4709ffbae731792b201d05a0001e31973d31f6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81900400}{C:81958296E73200000000}Well, that's... mumble, mumble.\n\n{C:81900300}{C:81958296E83200000000}Ahahahaha!\nSorry, sorry.\nI was only joking!\n\n{C:81900400}{C:81958296E93200000000}Oh!\nRie, you're so mean!!\n\n\n{x00}",
+   "source_sha256": "b5a370dd55823e3b137920376eb206fbf01bc8b148f036187445db0b6e2b7f33",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930100}{C:81958296EA3200000000}(Professor... The Cloud Saber...\n I'll put it to good use!!)\n\n\n{x00}",
+   "source_sha256": "0cfbaccd8d0a3202213fa97e7215aa7b135c24a59f8ace39f407416b7265d7f5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

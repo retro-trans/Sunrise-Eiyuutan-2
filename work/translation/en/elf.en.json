@@ -1,0 +1,102 @@
+{
+ "rows": [
+  {
+   "id": "E1C9990",
+   "va": 1874320,
+   "source_size": 38,
+   "en": "\"PlayStation 2\" Memory Card (8 MB)",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "c9542aa434b54426a3fe343794b29c98d98fdbf501d33c6fd75f2f7a2b8dc928",
+   "status": "reviewed-draft"
+  },
+  {
+   "id": "E224E08",
+   "va": 2248200,
+   "source_size": 42,
+   "en": "Saving needs %d KB of free space.",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "9362ae6aa5baff5e8674132783fe319ed706c5598c9bd69503796ec42ef4190a",
+   "status": "reviewed-draft"
+  },
+  {
+   "id": "E224EF0",
+   "va": 2248432,
+   "source_size": 20,
+   "en": "is not connected.",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "ce6c1f170027a2268568c57937e23f52c077f768ee10ad7b93d50d733d274d83",
+   "status": "reviewed-draft"
+  },
+  {
+   "id": "E224F28",
+   "va": 2248488,
+   "source_size": 18,
+   "en": "Sunrise Eiyuutan 2",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "f57e3bca00a180a08d9c7be6bfcb0c97010e73febb44d49a9681cd19281d5f6b",
+   "status": "reviewed-draft"
+  },
+  {
+   "id": "E224F40",
+   "va": 2248512,
+   "source_size": 22,
+   "en": "Continue anyway?",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "35ae871989d6ea245b9ddab829c4c75b7cef9a7e068d441029b3a1b6945a723d",
+   "status": "reviewed-draft"
+  },
+  {
+   "id": "E224F58",
+   "va": 2248536,
+   "source_size": 28,
+   "en": "Press Circle to start.",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "85fd88903abc02dfc075964b969eaa28aae6c6b7f14755635c338eb051ad8e7f",
+   "status": "reviewed-draft"
+  },
+  {
+   "id": "E224F78",
+   "va": 2248568,
+   "source_size": 26,
+   "en": " is not connected. ",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "source_sha256": "87b42b90960c7c9a4a1bb4b825a04d0022c4b7a453c6160c34a237e9571a8bee",
+   "status": "reviewed-draft"
+  }
+ ]
+}

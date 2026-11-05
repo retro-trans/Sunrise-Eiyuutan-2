@@ -1,0 +1,873 @@
+{
+ "version": "0.2.21",
+ "table": "04970_10511",
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "language_sha256": "4a4875fd78daaa07ea763f894ba9d77bec0d1dad1c0a7ebf597fdfacbb7b98ed",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81930100}{C:81958296B91700000000}The enemy! We're going to fight!!\n\n\n\n{x00}",
+   "source_sha256": "028c6e1bf15344d6c6d09784e635d0d1493dee0c5035d9f0edec78cc940506e0"
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930200}{C:81958296C31700000000}Battle is about to begin.\nPlease take up battle stations.\n\n\n\n{x00}",
+   "source_sha256": "e685e157a53ecb189b750dea280a6e53313006e7ed18765fb40edaea0997a95c"
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930300}{C:81958296D21700000000}We're entering combat.\nAll units, prepare to launch.\n\n\n\n{x00}",
+   "source_sha256": "a45d40d50962dcec4646a63c0f444805943cc9f78a2594c533d92810030771e2"
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81930400}{C:81958296DC1700000000}We're beginning combat.\nHurry and prepare all units for launch!\n\n\n\n{x00}",
+   "source_sha256": "89f16ff460f4d90cec305793389d0b49f305212f8520653688cd1a652977c0ef"
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81930600}{C:81958296E61700000000}Combat begins now!\n\n\n\n{x00}",
+   "source_sha256": "6918e82117cce9fb4ec489280d3889b4f1637d65accc9509b225cc234e099c67"
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930700}{C:81958296F01700000000}All hands, take your battle stations.\n\n\n\n{x00}",
+   "source_sha256": "229bab479aef6042f0e4a34607de6ce4b38076cade485ebe297d363685c38766"
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930900}{C:81958296FB1700000000}All right, here they come!\n\n\n\n{x00}",
+   "source_sha256": "8fd9ea7a3f1be1ace2e12753189330afc81c7331e5efee6d13385b672f8fbeac"
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81930C00}{C:81958296041800000000}Combat begins now.\n\n\n\n{x00}",
+   "source_sha256": "749678907c294e86adb40ad0d23570ef6ee82dd298208166d709f88dea1ceaed"
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81930D00}{C:819582960D1800000000}You intend to fight me?\nFool, you don't know your place.\n\n\n{x00}",
+   "source_sha256": "17e36aed1a19bab7d2ca07c663b679eb0a59e566a515a2e4d05e0ae98b57be07"
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81931000}{C:81958296201800000000}Enemy sighted!\n\n\n\n{x00}",
+   "source_sha256": "3773844a93818dd7153857250a8de32fa0b30ac9382c7f76f9141dce4de13649"
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81931200}{C:819582962C1800000000}We've encountered the enemy.\n\n\n\n{x00}",
+   "source_sha256": "214a9cb82870a710f9e83557cdf5ae696871d41812013b745e36595dd01be924"
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81931800}We're beginning combat.\n\n\n\n{x00}",
+   "source_sha256": "5652e1a48f88d9063c535045f06bc3ee92b7d792c9f6193a5df152b23c929fd5"
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81931900}{C:81958296351800000000}We've encountered the enemy.\n\n\n\n{x00}",
+   "source_sha256": "d1471b0a5d1feeba7b13d15822e9f4e55a1570405a4c47e6923a58157b9694dd"
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81931E00}{C:819582963E1800000000}The enemy!\nTake up battle stations!\n\n\n\n{x00}",
+   "source_sha256": "707f9e2c93c5075367604e110b5b2a98a33ea2e3094672abf24ff86e07bf3921"
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81932000}{C:81958296481800000000}All hands, take up battle stations.\nGet every unit launched, quickly!\n\n\n\n{x00}",
+   "source_sha256": "59cef9850660b53fabf549f0c63e00c10f2f32c538985672bcc90a10be0896e5"
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81932400}{C:81958296511800000000}Battle is about to begin.\nGet ready.\n\n\n\n{x00}",
+   "source_sha256": "384bd73ff66910a1163b9150c307cf30a8ed272c3d007bd1eadf43a42875a826"
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81932600}{C:819582965B1800000000}The enemy! Don't let them escape!\n\n\n\n{x00}",
+   "source_sha256": "cf6d98693859e2b0a7d7eda3cfa9c90483007eb6fe654601ffc728373cd18260"
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81932700}{C:81958296651800000000}Well, there's the enemy.\nEveryone on this ship, get out there.\nWe're starting a fight!\n\n\n\n{x00}",
+   "source_sha256": "9b00dbacae35aff54661c3d1f40219064e918773fec99a6cd698d24f568a35cf"
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81932800}{C:81958296701800000000}I'm the one who's going to sink them!\n\n\n\n{x00}",
+   "source_sha256": "0d58b0c603141295f5eb9ebfcd4271fb0595810ef361877c7af7fd26c7ab1d29"
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81932900}{C:81958296791800000000}Curse your bad luck\nfor appearing before me.\n\n\n\n{x00}",
+   "source_sha256": "25b2a94288527c7a1d682f1f10d1aeb16ca90b35bae2ccd658ff206915a8e45c"
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81932A00}{C:81958296821800000000}The enemy?\nEven I should be able to do this!\nEveryone, here we go!\n\n\n\n{x00}",
+   "source_sha256": "de03a0a28b1ec1101ae64a168325a77a287cd94c69c592e5e0e66d59fb3bf7f7"
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81932B00}{C:819582968D1800000000}We'll stop them here.\nAura Battler squad, advance!\n\n\n\n{x00}",
+   "source_sha256": "25b6389be9c748407ee35bc40747fa978beaa6782ac00d1a0a8bdc57b82bcc5b"
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81933100}{C:81958296961800000000}I'm lucky to meet you here.\n\n\n\n{x00}",
+   "source_sha256": "b53a507ff3c9118873e2294d55b3e6e20be73529f69263f1a2c0bab3f8d42258"
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81933200}{C:81958296A31800000000}For the likes of you\nto fight me is laughable!\n\n\n\n{x00}",
+   "source_sha256": "bcded73a819d005d24fb36ebc3fb1157c670c7e57dbccc5fe4d61855026c8605"
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81933300}{C:81958296AD1800000000}If possible,\nplease avoid combat.\n\n\n\n{x00}",
+   "source_sha256": "e47b46231d5d8a0a241987cf78e05b882450e6cf08effc08bea08b8213619af4"
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81933800}{C:81958296B61800000000}How foolish of you to defy me.\nCrush them!\n\n\n\n{x00}",
+   "source_sha256": "1ddd4dcb5adf4f3f2e43a8a69a72e84be72b0bfbbc55f458a77d682ddc7c8af5"
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81933900}{C:81958296C11800000000}Enemy sighted.\nWe're beginning combat.\n\n\n\n{x00}",
+   "source_sha256": "df10236624257c21bbf873df9f5ef646847c9fa1bce9623834a69f511b1f97c9"
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81933B00}{C:81958296C91800000000}For Lord Drake's sake,\nwe'll bring them down!\n\n\n\n{x00}",
+   "source_sha256": "4d04906a3cfd9f06bd013f84fc0a211e527873ec77c71caa7ed0fb12bc3e6e33"
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81934100}{C:81958296D31800000000}No matter what it takes,\nwe'll hold the enemy back!\n\n\n\n{x00}",
+   "source_sha256": "aff57af0a5b0bbf83bd24289741c35e182790b816b91421daf38a6c3c1ca4629"
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81934700}{C:81958296DD1800000000}Enemy units sighted!\nWe're preparing for combat.\n\n\n\n{x00}",
+   "source_sha256": "fba2a32e868856da67b480dbaf9b85724246a7654fd6cd65cf42214317db5740"
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81934D00}{C:81958296E61800000000}Is that the enemy ship...?\n\n\n\n{x00}",
+   "source_sha256": "e6bcdaed0044a21cc558d73263143c674a6f53f7fb16a61c4781c86e198dc249"
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81935300}{C:81958296F01800000000}The enemy?\nI have no choice. I'll fight!\n\n\n\n{x00}",
+   "source_sha256": "1f11da96153d1276c2d12235cb6f895debed86e99ac015ca72181dfa7ab9d521"
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81935500}{C:81958296F91800000000}Here comes our enemy.\nI'm going to fight~!\n\n\n\n{x00}",
+   "source_sha256": "c8033d61dd22814cdd7e2b3bd87a62bc7a8ecb19809f5aa390caf85b18771d83"
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81935600}{C:81958296021900000000}They're here, they're here, they're heeere!\nI'm gonna beat them~!\n\n\n\n{x00}",
+   "source_sha256": "400e459ec4c4718d9db694be3bf4135040607b670be7f7b3bd8a5b9f2740a5d0"
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81935700}{C:819582960C1900000000}If we lose this fight, there's no future for us.\nSo give it your all!\n\n\n\n{x00}",
+   "source_sha256": "6afe26aebb541632d6149262a084295b81c99de4a55f5f260729b6d217638227"
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81935800}{C:81958296151900000000}Reduce the enemy's strength, even if only a little.\n\n\n\n{x00}",
+   "source_sha256": "9d54561e7ab298ace5e7d1fed3193d84bd6c0666142062c706800cb8dab728d3"
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81935900}{C:819582961E1900000000}Heh heh heh...\nBad luck for you that I found you.\n\n\n\n{x00}",
+   "source_sha256": "89846f1c848015c8e0bf757f98f0e35f1516c35fe763dc35450903a3e63825cb"
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81935F00}{C:81958296271900000000}Aren't you lucky,\nrunning into me like this?\n\n\n\n{x00}",
+   "source_sha256": "f50f210060a4c11bac0583dd7d49ed13d10cb221510d699b707c5299902c5387"
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81936500}{C:81958296321900000000}It must be fate that we met here.\nHurry up and die!\n\n\n\n{x00}",
+   "source_sha256": "091db88d5b37604589a9ee881df96ccf824ef232623fcd6ae1440a069ecc079a"
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81936E00}{C:819582963C1900000000}You fools who defy me,\ndie and regret it!\n\n\n\n{x00}",
+   "source_sha256": "f81be99bcb3dc8d51bea4db6507d547a23fd2b89b1ec3e961304b6e7f8f86813"
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81936F00}{C:81958296451900000000}I'll have you become\nthe foundation of a new age!\n\n\n\n{x00}",
+   "source_sha256": "fd5f727a7124a49f1f8943dae4a5fdcc81a2c0f72b7cf496e01deb45a5aadfcc"
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81937000}{C:81958296501900000000}Let's shoot them down\nand take their treasure.\n\n\n\n{x00}",
+   "source_sha256": "fc0090d61e2bf26d60784e0ee0ba5601a2aaf30d47084be565f5b913d0b358f3"
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81937600}{C:819582965A1900000000}I'll shoot down anyone\nwho sides with Posaydal!\n\n\n\n{x00}",
+   "source_sha256": "80110d82bbb549befaa834e9a160053883546ad4ab3e8bb9c99200cc01a1b521"
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81937C00}{C:81958296661900000000}Is that it,\nthe ship that defies our revered Posaydal?\n\n\n\n{x00}",
+   "source_sha256": "64a3396d708e5dcf9e1082784cca96c993fa1367c2fd1629dac91bfaef2361d0"
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81938400}{C:81958296721900000000}All hands, battle stations.\nWe're going to engage the enemy.\n\n\n\n{x00}",
+   "source_sha256": "05c92c5bcd2cb234e40de4d2e7a78a87e75ec850ad1ccfac8a791a233563dd40"
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81938900}{C:819582967B1900000000}Enemy sighted. We're entering combat.\nAll units, launch in sequence!\n\n\n\n{x00}",
+   "source_sha256": "0d0c3e524483e383b964852cdcc2f04fcd661cfe6f7dcc9adbc24644ea2baf6a"
+  },
+  {
+   "id": 46,
+   "en": "\n{C:81938F00}{C:81958296BC2800000000}I won't let you do as you please!\nI'll bring you down right here!!\n\n\n\n{x00}",
+   "source_sha256": "08260ffcae31b5757fd5d08378cb5189d35bd3aa3171fb58b495987e8d59c669"
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81939200}{C:819582968F1900000000}For Jerid's sake too,\nwe must reduce their numbers...\nLet's go, everyone!\n\n\n\n{x00}",
+   "source_sha256": "6f55cc481c7e900afeccf4af189322090f1ceafe658bb3316d2e2740d5344273"
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81939500}{C:81958296981900000000}Are you the one making me feel so awful?!\nI hate you!\n\n\n\n{x00}",
+   "source_sha256": "672aa8b102c79b922e1279504335ce2d886c970537139857c1d81645108632fa"
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81939B00}{C:81958296A21900000000}Is that it...?\nI sense an unpleasant pressure.\nI'd better sink it.\n\n\n\n{x00}",
+   "source_sha256": "89e2cf45a896fa77c560be0ccdfd559cb33eb787e48632a7861ce60f1f8867df"
+  },
+  {
+   "id": 50,
+   "en": "\n{C:81939E00}{C:81958296AB1900000000}You're the one who made me waver!\nThen I won't forgive you!!\n\n\n\n{x00}",
+   "source_sha256": "9e08db769cddd78a5f8b28b54c94b0aad3fb165d5d67ea6585698a14834f7b07"
+  },
+  {
+   "id": 51,
+   "en": "\n{C:8193A000}{C:81958296B41900000000}Enemy sighted.\nWe're moving to intercept.\n\n\n\n{x00}",
+   "source_sha256": "6bd172cdf03590f8f7881a0e542399afd7874b8d035ea8a4d5d6d00278ea6a1b"
+  },
+  {
+   "id": 52,
+   "en": "\n{C:8193B200}{C:81958296BC1900000000}There they are, the fools\nwho defy us Titans...\nI'll sink them!\n\n\n\n{x00}",
+   "source_sha256": "afccfdf842405ddfa2dea033b851dbad05aa530cc3bd97b81f6af88210837036"
+  },
+  {
+   "id": 53,
+   "en": "\n{C:8193B800}{C:81958296C61900000000}I'll simply eliminate anyone\nwho opposes Zeon!\n\n\n\n{x00}",
+   "source_sha256": "fdd5ca04d15ccaea2c1e73d83372219107ffd05799ffaf581f773e34a8fc51ed"
+  },
+  {
+   "id": 54,
+   "en": "\n{C:8193BA00}{C:81958296CE1900000000}I'll eliminate anyone\nwho opposes Zeon!\n\n\n\n{x00}",
+   "source_sha256": "fc0724b699a95b059326ed291571d9692727eaeb0ee7d34aff216ddcd3bceb3c"
+  },
+  {
+   "id": 55,
+   "en": "\n{C:8193BC00}{C:81958296D61900000000}Death to all who oppose us!\n\n\n\n{x00}",
+   "source_sha256": "71bbb1af86e2a15f743d91bc18704a2d5b10073177a4c001abb6a75bb8c1566c"
+  },
+  {
+   "id": 56,
+   "en": "\n{C:8193C200}{C:81958296580200000000}I'll eliminate every enemy.\n\n\n\n{x00}",
+   "source_sha256": "edb0b95ecc4724cdfc6d33bb985de1cb6230f3067b6550cd2e454bc28c202895"
+  },
+  {
+   "id": 57,
+   "en": "\n{C:8193C800}{C:81958296E81900000000}Enemy units sighted. We're going to fight.\n\n\n\n{x00}",
+   "source_sha256": "38bd7427ed0b7046396a63a1fbcf6d0aef4974af3f3f06481bad9cca027ba807"
+  },
+  {
+   "id": 58,
+   "en": "\n{C:8193C900}{C:81958296F21900000000}So we have to fight...\n\n\n\n{x00}",
+   "source_sha256": "095d2f89fbe46f26f3e9680f256a301f1d9079439fcae0473c11d01ceed5dac5"
+  },
+  {
+   "id": 59,
+   "en": "\n{C:8193CF00}{C:81958296FC1900000000}To end the fighting,\nwe have to fight...\n\n\n\n{x00}",
+   "source_sha256": "c4ee0a8e7ae420d4f61474cf6a54a5fb6aa19f76e7a8802b47509d9969a6adf6"
+  },
+  {
+   "id": 60,
+   "en": "\n{C:8193D300}{C:81958296041A00000000}Has the time finally come\nwhen we must fight?\n\n\n\n{x00}",
+   "source_sha256": "0d2be401ed2f1a526cc4430ec05af73124fe25fc135c26ee29570bd0cb7d73af"
+  },
+  {
+   "id": 61,
+   "en": "\n{C:8193D400}{C:81958296131A00000000}This will be your grave!\n\n\n\n{x00}",
+   "source_sha256": "32411ec3d29ab66a8c81121c2898a9151715b332982c8d808ae1dfe592abd8d7"
+  },
+  {
+   "id": 62,
+   "en": "\n{C:8193DA00}{C:819582961C1A00000000}I don't want to fight them,\nbut I suppose there's no choice.\n\n\n\n{x00}",
+   "source_sha256": "ae0382ae9188f1831c96f6135623faec6ea456d85da3b741eb151f763aa606d5"
+  },
+  {
+   "id": 63,
+   "en": "\n{C:8193DB00}{C:81958296251A00000000}Heh heh heh heh, so you've come\nall this way just to get killed!\n\n\n\n{x00}",
+   "source_sha256": "253af412d44f49634d996005c99c38c5199c18addc6752a01a45fc5ea1244950"
+  },
+  {
+   "id": 64,
+   "en": "\n{C:8193E000}{C:819582962E1A00000000}I'll personally send you to your grave.\nPrepare yourself!\n\n\n\n{x00}",
+   "source_sha256": "b0d4db3cf6655e090b1d3ecc74c160c29c15ebd5f172806901cc67cf60771e6a"
+  },
+  {
+   "id": 65,
+   "en": "\n{C:8193E100}{C:819582963A1A00000000}Attention, all hands.\nUse all our strength to annihilate the ship we've located!\n\n\n\n{x00}",
+   "source_sha256": "299059bdf4d55a2e5f43ffe22d6c778ef980452068ecd83a59c805fc8ec3675d"
+  },
+  {
+   "id": 66,
+   "en": "\n{C:8193E200}{C:81958296421A00000000}All personnel, take your battle stations.\n\n\n\n{x00}",
+   "source_sha256": "28e256b97668609208f6b7f52c9ea0cbec64ea33d14889022ad23868fd4dc9cc"
+  },
+  {
+   "id": 67,
+   "en": "\n{C:8193E400}{C:819582964A1A00000000}Battle stations!\n\n\n\n{x00}",
+   "source_sha256": "98328a8c797967ae834cb39d120d6dab2a131dad97d8f42f83d3daea63998407"
+  },
+  {
+   "id": 68,
+   "en": "\n{C:8193F000}{C:81958296521A00000000}Enemy sighted.\nWe're beginning combat!\n\n\n\n{x00}",
+   "source_sha256": "5f677873ab5f6e7e2c872922c042305bd36d0ec647586fc4a4bdccc483a0fb18"
+  },
+  {
+   "id": 69,
+   "en": "\n{C:8193F200}{C:819582965C1A00000000}Enemy units sighted! Begin the attack!\n\n\n\n{x00}",
+   "source_sha256": "b59a9e7490fc59e9398ec9c9789935cba528d9e4875b3db6530f4dce8b089086"
+  },
+  {
+   "id": 70,
+   "en": "\n{C:81930D01}{C:81958296661A00000000}Tch, I didn't want to run into them,\nbut now that we have, there's no choice.\nBegin combat!\n\n\n\n{x00}",
+   "source_sha256": "ab021c330dd7a331bbb715f87f3d45c7045d6797b41e64851ea0742a4221432f"
+  },
+  {
+   "id": 71,
+   "en": "\n{C:81930F01}{C:81958296801A00000000}They look formidable, but\nthey won't beat us so easily!\n\n\n\n{x00}",
+   "source_sha256": "b7f1b6abf5c5e30022d21e30d954cbb25f4104067e81fe16044b0806af27c124"
+  },
+  {
+   "id": 72,
+   "en": "\n{C:81931001}{C:81958296881A00000000}All hands, take your stations.\n\n\n\n{x00}",
+   "source_sha256": "c177368f68eed9e928c1c04336d596d43c7d234a2a02d1f900eab32486d8038b"
+  },
+  {
+   "id": 73,
+   "en": "\n{C:81931601}{C:81958296911A00000000}Only in battle do people shine\nand unleash their vitality.\n\n\n\n{x00}",
+   "source_sha256": "328fa8f9d7edd442da4dca1e36d0f72c5f0db2928c94718b6eca582051e9a627"
+  },
+  {
+   "id": 74,
+   "en": "\n{C:81931701}{C:81958296A50100000000}I will not tolerate acts\nthat defy His Majesty!\n\n\n\n{x00}",
+   "source_sha256": "6c8dde962d5b52375557cbb6ee2e7419191a2bfc7a8a6dfc3d9b6f917f15a987"
+  },
+  {
+   "id": 75,
+   "en": "\n{C:81931801}{C:81958296991A00000000}I've been looking forward\nto fighting you.\n\n\n\n{x00}",
+   "source_sha256": "8132e9974a7ac5a2f6cf6dd6e3a80e5132fb0ecff082c022b9e8bac82994bcf2"
+  },
+  {
+   "id": 76,
+   "en": "\n{C:81931901}{C:81958296A51A00000000}To challenge us head-on\ntakes admirable spirit.\n\n\n\n{x00}",
+   "source_sha256": "0fe392cc0d5c48cec84ab67efb7caabcdfe511237e658e394c35e31f3217d05f"
+  },
+  {
+   "id": 77,
+   "en": "\n{C:81931A01}{C:81958296AE1A00000000}Our ship is preparing to attack.\n\n\n\n{x00}",
+   "source_sha256": "a827fff5bfaa2ee5ec2d583274909d4315ef63d5c24d2d173a695aabe88acaf1"
+  },
+  {
+   "id": 78,
+   "en": "\n{C:81931A01}{C:81958296B71A00000000}Combat begins now.\n\n\n\n{x00}",
+   "source_sha256": "23e0e442204a35518147536504c8665103247e3d2f8f035b6d9ca12d83d328d2"
+  },
+  {
+   "id": 79,
+   "en": "\n{C:81931C01}{C:81958296C11A00000000}All hands, battle stations!\n\n\n\n{x00}",
+   "source_sha256": "4f611caa808a7f4d96dbf6a883e602511fb2a4bb29cb1b0d9fcc9c4f45c68fa2"
+  },
+  {
+   "id": 80,
+   "en": "\n{C:81932201}{C:81958296CA1A00000000}I've located the enemy.\nI've got no choice. I'm engaging!\n\n\n\n{x00}",
+   "source_sha256": "9217cd026fd95d0ddeeb8b8647a26ca572f5a4f7aca8c13a83d0c9a1a6c68c25"
+  },
+  {
+   "id": 81,
+   "en": "\n{C:81932B01}{C:81958296D41A00000000}You fools standing in my way...\nDie and regret it!\n\n\n\n{x00}",
+   "source_sha256": "ec27594401feb822b5849ee3abc92fdb2f733b6fcc7e21d532540df14e28cfdd"
+  },
+  {
+   "id": 82,
+   "en": "\n{C:81932C01}{C:81958296DE1A00000000}Heh-heh-heh-heh-heh-heh!\nYou're my prey.\nI won't ever let you get away!\n\n\n\n{x00}",
+   "source_sha256": "4e5a35024b7d454b8e75a733d8e033a534150a5ed549035c03c1705de2dfc0b3"
+  },
+  {
+   "id": 83,
+   "en": "\n{C:81932D01}{C:81958296E71A00000000}Is that it...? Geh-heh-heh-heh-heh-heh!\n\n\n\n{x00}",
+   "source_sha256": "b9075b95fabcf264614cac437074ad2125a544dd0b6fbd1a14fbe32004906a21"
+  },
+  {
+   "id": 84,
+   "en": "\n{C:81932E01}{C:81958296F01A00000000}Heh-heh-heh-heh!\nWhat shall I do to you?\n\n\n\n{x00}",
+   "source_sha256": "b5d6ac8f46f70a4e72c450d5e3e5ead0bf8d460811b6318c38ad865203b2ed2d"
+  },
+  {
+   "id": 85,
+   "en": "\n{C:81932F01}{C:81958296FB1A00000000}I found you! I fouuund you!\n\n\n\n{x00}",
+   "source_sha256": "5d719fa4f5e3f0408e407265109eb3161923fbed63c8b7537683fce9ff94cb3d"
+  },
+  {
+   "id": 86,
+   "en": "\n{C:81933001}{C:81958296041B00000000}So they're here... All ships, take your battle stations!\nWe'll crush the enemy!\n\n\n\n{x00}",
+   "source_sha256": "8fe524e1414b285116540b880a201acdb24fee43a02f6eaf5f05ea85d74c6242"
+  },
+  {
+   "id": 87,
+   "en": "\n{C:81934501}{C:81958296111B00000000}We'll eliminate you to maintain public order!\n\n\n\n{x00}",
+   "source_sha256": "8aa3098a8d12a22502e93fc12b0c9f5b1478b4ec61b179fd648a2ad78a28a15d"
+  },
+  {
+   "id": 88,
+   "en": "\n{C:81935701}{C:819582961A1B00000000}Enemy craft have appeared on radar.\nPlease prepare for battle.\n\n\n\n{x00}",
+   "source_sha256": "f61c4482a38515e8b51494b168e97885626d6d00f7f558849a28936dd590b109"
+  },
+  {
+   "id": 89,
+   "en": "\n{C:81935801}{C:81958296241B00000000}The enemy is closing in.\nWe're entering the combat aaarea!\n\n\n\n{x00}",
+   "source_sha256": "5cc1f4b7639e2a279aa7759e3b44431be88c7e25dee69ebe2eb4166a0f422627"
+  },
+  {
+   "id": 90,
+   "en": "\n{C:81935901}{C:819582962E1B00000000}The enemy's here.\nI'm gonna smash them, so get ready!\n\n\n\n{x00}",
+   "source_sha256": "44b4e30074f6a135b6af5373f241e5dc8208042696f598b8e123fed2d4255f60"
+  },
+  {
+   "id": 91,
+   "en": "\n{C:81936101}{C:81958296371B00000000}Fleet combat authorized!!\n\n\n\n{x00}",
+   "source_sha256": "628530ef5b2349ad2ea94ae1d925752910ca7fb31cf0c2ee11cefcd30b7406ea"
+  },
+  {
+   "id": 92,
+   "en": "\n{C:81936301}{C:81958296411B00000000}I won't let you get in our way!!\n\n\n\n{x00}",
+   "source_sha256": "82dc782491dc8d9509e1d13b6ba98989e0631bff78b4a759ce3ca12b71739418"
+  },
+  {
+   "id": 93,
+   "en": "\n{C:81936401}{C:81958296511B00000000}I don't want to get involved\nin your stupid racket,\nbut it looks like I have no choice.\n\n\n\n{x00}",
+   "source_sha256": "2e31bf079799f6604dd6b7d068b7911e933991bf4b515407cf7145902d5b6e61"
+  },
+  {
+   "id": 94,
+   "en": "\n{C:8193B601}{C:819582965A1B00000000}The enemy's here!\nEveryone, take your battle stations!\n\n\n\n{x00}",
+   "source_sha256": "c4f2eb0a9e4cbb6f94dab72f1b4a955ba1e1b451f4087cf095d903c30c57bd83"
+  },
+  {
+   "id": 95,
+   "en": "\n{C:8193D601}{C:81958296641B00000000}The enemy has arrived.\nI'm delighted! The war is beginning!\n\n\n\n{x00}",
+   "source_sha256": "860cd01c1a54f4332c985ce297e769ddde8cfcf31dee3df18c352c318ac8cb6b"
+  },
+  {
+   "id": 96,
+   "en": "\n{C:8193D701}{C:819582966C1B00000000}Enemy craft spotted! I'm entering combat.\n\n\n\n{x00}",
+   "source_sha256": "c738e24549f385a9b5722e557838736f35803937501293a69850e16ac992c528"
+  },
+  {
+   "id": 97,
+   "en": "\n{C:8193D801}{C:81958296741B00000000}I'll show you\nthe power of the Maganac Corps!\n\n\n\n{x00}",
+   "source_sha256": "c005b977435168cb8421e557f1fb83312e74cdfded179f412d54c3ced35ed203"
+  },
+  {
+   "id": 98,
+   "en": "\n{C:8193E901}{C:819582967C1B00000000}So you've come... I'm commencing combat.\n\n\n\n{x00}",
+   "source_sha256": "e9d98bac54bfd493d2fc3f3d0ffbd14e818fbbc2bc633b54e1b866345e8729dc"
+  },
+  {
+   "id": 99,
+   "en": "\n{C:8193EA01}{C:819582967C1B00000000}So you've come... I'm commencing combat.\n\n\n\n{x00}",
+   "source_sha256": "2f4100500ad8620b9820c6fe9b94756ba4ce413251b251d1f90643ae5ce22d18"
+  },
+  {
+   "id": 100,
+   "en": "\n{C:8193EB01}{C:81958296841B00000000}We'll enter combat shortly.\nEveryone, take your stations.\n\n\n\n{x00}",
+   "source_sha256": "5eb7c1f240dd7a3b618d2164e039150b59ed3921897c53e8dcdd81b31ae28a62"
+  },
+  {
+   "id": 101,
+   "en": "\n{C:8193EC01}{C:819582968F1B00000000}Heh...\nI'll show you an elegant fight.\n\n\n\n{x00}",
+   "source_sha256": "956e781e8b47a1ed04ada75f5639f51597d6b49c83f77c312b51bd6d20facb80"
+  },
+  {
+   "id": 102,
+   "en": "\n{C:8193ED01}{C:81958296991B00000000}Oh...\nYou mean to stand in my way?\nYou seem to have steeled yourself.\n\n\n\n{x00}",
+   "source_sha256": "96a015c4b7b66847f2ec01e37b3734ddfe5aca91c87c1ef81da19c7c033687b3"
+  },
+  {
+   "id": 103,
+   "en": "\n{C:8193F701}{C:81958296A11B00000000}Prepare for battle!\n\n\n\n{x00}",
+   "source_sha256": "0367aff7d5a0459eb548e3a4a7c42666fe1edeef808c5911460e769dadbf8eb8"
+  },
+  {
+   "id": 104,
+   "en": "\n{C:8193FE01}{C:81958296AA1B00000000}These are your captain's orders.\nWipe out every last enemy!\n\n\n\n{x00}",
+   "source_sha256": "c5a6f55981331b863248ed23b82605f8f27572a81fedb6690f4c869c1b642e57"
+  },
+  {
+   "id": 105,
+   "en": "\n{C:8193FF01}{C:81958296B21B00000000}I'm Rag, your captain.\nWe're starting a fight, so do as I say!\n\n\n\n{x00}",
+   "source_sha256": "389f24061500180f698377041bfd917686933f1ad496923617b3059a488511ae"
+  },
+  {
+   "id": 106,
+   "en": "\n{C:81930A02}{C:81958296BA1B00000000}You bastards, crush them completely!\n\n\n\n{x00}",
+   "source_sha256": "b0d20e44f3ef77e2a7a6de0b69f8421ac4317e10d701f7897c38b7c1b9ea70e6"
+  },
+  {
+   "id": 107,
+   "en": "\n{C:81931E02}{C:81958296C21B00000000}Leave rice cakes to the rice-cake makers.\nLeave war to us.\n\n\n\n{x00}",
+   "source_sha256": "bdf2c8c307d9c49ca7eab2bb464a934037086ed0824f072b7a7c954fbe3768bf"
+  },
+  {
+   "id": 108,
+   "en": "\n{C:81932D02}{C:81958296CA1B00000000}Prepare for battle!\n\n\n\n{x00}",
+   "source_sha256": "76f47a9f2f11129a4c581b10c7c63892fdb352785e19855af766a670f4532daf"
+  },
+  {
+   "id": 109,
+   "en": "\n{C:81933902}{C:81958296D21B00000000}Hmph, you're certainly raring to go.\n\n\n\n{x00}",
+   "source_sha256": "b21fdafc21ffdbb391911c88474eec6b80cfb47f526fe648fabb6fc1df06adc5"
+  },
+  {
+   "id": 110,
+   "en": "\n{C:81933A02}{C:81958296DD1B00000000}You're taking me on?\nI like that. I'll take you on!\n\n\n\n{x00}",
+   "source_sha256": "9b868b98df586fb90111e621d0ad6266f950f3eb3e65bb44156dc336fe2e11d6"
+  },
+  {
+   "id": 111,
+   "en": "\n{C:81933C02}{C:81958296E91B00000000}Hurry up and prepare for battle.\n\n\n\n{x00}",
+   "source_sha256": "e1569202284c19f3ab328312bad6a966b14843d2790dba4aa5144ac909e0e750"
+  },
+  {
+   "id": 112,
+   "en": "\n{C:81934402}{C:81958296F41B00000000}Enemy craft confirmed.\nI've got no choice. I'll fiiight!\n\n\n\n{x00}",
+   "source_sha256": "d27c40e6f890f1dc0551369df6a26009788545292f1fce2199595d0f77dec873"
+  },
+  {
+   "id": 113,
+   "en": "\n{C:81935002}{C:81958296FD1B00000000}Hurry up and prepare for battle!\nDon't let the enemy get the jump on you!\n\n\n\n{x00}",
+   "source_sha256": "7a5135f548bbd818b3d1e997594a5fcff65848043b011f996919ba16c160ef46"
+  },
+  {
+   "id": 114,
+   "en": "\n{C:81935A02}{C:81958296051C00000000}It seems I have no choice but to fight.\n\n\n\n{x00}",
+   "source_sha256": "183dd5dad957a20331f44b11d0d6150ab407a4f7591da8486dbe37416e2cd4fd"
+  },
+  {
+   "id": 115,
+   "en": "\n{C:81935E02}{C:819582960E1C00000000}Oh, a chance to make money\nhas come waltzing right up to me!\nLet's go, you bastards!\n\n\n\n{x00}",
+   "source_sha256": "b2ab2041a89a96a4045f5efea71a45f0dd0b6620c98b7836065705f3c90c43e3"
+  },
+  {
+   "id": 116,
+   "en": "\n{C:81935F02}{C:81958296181C00000000}Here I go! Follow me!\n\n\n\n{x00}",
+   "source_sha256": "9dd01b212690ebed47b9413fe3e2404379279318168aff7c5e64e26bc878a5e3"
+  },
+  {
+   "id": 117,
+   "en": "\n{C:81936002}{C:81958296221C00000000}Guh-heh-heh-heh-heh-heh!\nI'll take you on!\n\n\n\n{x00}",
+   "source_sha256": "9e2201e59d3d869e16cf4ba19c4c6ead68757a01e7afc69a563dfe18b4efa425"
+  },
+  {
+   "id": 118,
+   "en": "\n{C:81936102}{C:819582962C1C00000000}Now, what should I do?\n...Maybe I'll toy with you a little.\n\n\n\n{x00}",
+   "source_sha256": "fa1ed1f2ee35fa7d60d6986471d3afaa7996929f366501e80086061f00363e87"
+  },
+  {
+   "id": 119,
+   "en": "\n{C:81936202}{C:81958296371C00000000}Ee-hee-hee-hee-hee...\n\n\n\n{x00}",
+   "source_sha256": "670b0a774b8399b1ee2348e11c9c2462def1d89032bb3b21b9bbc2d2dbebf955"
+  },
+  {
+   "id": 120,
+   "en": "\n{C:81937502}{C:819582963F1C00000000}Guh-heh-heh, I'm gonna kill you!\n\n\n\n{x00}",
+   "source_sha256": "a6bd135b36d3302ffce91aaa4afaa611eb1015dcfd6f0363547a9d893478ab4d"
+  },
+  {
+   "id": 121,
+   "en": "\n{C:81937E02}{C:81958296461C00000000}Here we go! Everyone, move out!\n\n\n\n{x00}",
+   "source_sha256": "147156aefaea5ae88381152fd5a418c2907ea514c2f5a4dd1f38c3bb964cc0fe"
+  },
+  {
+   "id": 122,
+   "en": "\n{C:81938E02}{C:819582964F1C00000000}All right, here I go!\n\n\n\n{x00}",
+   "source_sha256": "4d3d0df3c9116393455c2b5629dd5ec201bc477294cb53d71dd998f756e54fe1"
+  },
+  {
+   "id": 123,
+   "en": "\n{C:81938F02}{C:81958296571C00000000}Come on, I'll fight you.\n\n\n\n{x00}",
+   "source_sha256": "8bbdca921d00156b8c4381804420fe78b864ab5d16409212fc04e7d851c684a9"
+  },
+  {
+   "id": 124,
+   "en": "\n{C:81939D02}{C:819582965F1C00000000}The battle begiiins!\n\n\n\n{x00}",
+   "source_sha256": "296503200ac2d92bb29d4c1e64a81361e350f1e7fb7b83a398ee8e9a06ae946e"
+  },
+  {
+   "id": 125,
+   "en": "\n{C:8193A602}{C:81958296671C00000000}You've got guts\nto challenge someone as great as me!\n\n\n\n{x00}",
+   "source_sha256": "73bafaba51806f42d0284ceee947be1e7dd272c9030fb628c7056329863fdd45"
+  },
+  {
+   "id": 126,
+   "en": "\n{C:8193AA02}{C:81958296711C00000000}So you've come! Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "3822cc926bb6a2377fdbbe3642d580f59a64212567135ef0b1c5c58bcb4f9f2d"
+  },
+  {
+   "id": 127,
+   "en": "\n{C:8193AB02}{C:819582967A1C00000000}So you've come! Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "6c1aee59da090690b1d3cf395fbc95cdb04f3c89b8445e0618d931de265912de"
+  },
+  {
+   "id": 128,
+   "en": "\n{C:8193AC02}{C:81958296821C00000000}They're here! Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "01703174a51f733841ad067ea7be4b4b47a83af698f42c616287c1811ab7eb91"
+  },
+  {
+   "id": 129,
+   "en": "\n{C:8193AD02}{C:819582968B1C00000000}So you've come! Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "cc881b20aeb2aff90edf94965ce1d6332b7d6961a15c1b8f492bace6aa6eb284"
+  },
+  {
+   "id": 130,
+   "en": "\n{C:8193AE02}{C:81958296931C00000000}Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "16b68e8d18d6d0f23c48c08bd04f699a857369b3d1ac62e88cc237a3cf68bc82"
+  },
+  {
+   "id": 131,
+   "en": "\n{C:8193B102}{C:819582969C1C00000000}I've been waiting for you bastards!\n\n\n\n{x00}",
+   "source_sha256": "771fc885eba42e106ff65edb79cebb18fd9bed5682acde62b70e9cd96b632597"
+  },
+  {
+   "id": 132,
+   "en": "\n{C:8193B202}{C:81958296A41C00000000}I've been waiting!\n\n\n\n{x00}",
+   "source_sha256": "3241bd94a689988ca0a9e8c1ee176cd69b3822cd9bf86c7829c65bc4d047d8c3"
+  },
+  {
+   "id": 133,
+   "en": "\n{C:8193B302}{C:81958296AC1C00000000}This place will be your grave!\n\n\n\n{x00}",
+   "source_sha256": "f8142d3a443aafde7a2de3af75be5160e01ffa99c45a7919802723589c60cb49"
+  },
+  {
+   "id": 134,
+   "en": "\n{C:8193B402}{C:81958296B61C00000000}Come at me!\n\n\n\n{x00}",
+   "source_sha256": "50f18cdfe821fbf523493d5468e4c5cd673286238640996df7ad56378902898d"
+  },
+  {
+   "id": 135,
+   "en": "\n{C:8193B502}{C:81958296BE1C00000000}Have you come to die, you fools?!\n\n\n\n{x00}",
+   "source_sha256": "e38038ca08cbcb0ca48b251431f40d9eb99eacc0821f03ca9dcfd78b94a5fa99"
+  },
+  {
+   "id": 136,
+   "en": "\n{C:8193B602}{C:81958296C71C00000000}Come!\n\n\n\n{x00}",
+   "source_sha256": "35ed8149173028300ca42fe1aa890239546728badd46084231af568d9fb03359"
+  },
+  {
+   "id": 137,
+   "en": "\n{C:8193BC02}{C:81958296CF1C00000000}Let's go, you bastards!\n\n\n\n{x00}",
+   "source_sha256": "b5ae52a81a7c42a8491ac1cd001d238df46b28c33f171b6d0ab7a4a649f95b54"
+  },
+  {
+   "id": 138,
+   "en": "\n{C:8193BD02}{C:81958296D81C00000000}Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "e6f87dd0afa2a8f19d5be0460ad526d0497c988909a6f71ce4117c47d01f6336"
+  },
+  {
+   "id": 139,
+   "en": "\n{C:8193BE02}{C:81958296E11C00000000}Here I go!\n\n\n\n{x00}",
+   "source_sha256": "fb85305f2e84670cae6b0652dca34e156a6cb772d4ec9ea02b8c69ccac5534b8"
+  },
+  {
+   "id": 140,
+   "en": "\n{C:8193BF02}{C:81958296EA1C00000000}Everyone, here we go.\n\n\n\n{x00}",
+   "source_sha256": "0d0e2fc44edb856655b8f77db25a69218055c2523e8f20e99802721cffef10d5"
+  },
+  {
+   "id": 141,
+   "en": "\n{C:8193C002}{C:81958296F21C00000000}Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "e7b9fa6c32d7e858eae7aac164bb32ed43ce978f5f260c706b75b4efc7f28c71"
+  },
+  {
+   "id": 142,
+   "en": "\n{C:8193C102}{C:81958296FA1C00000000}Let's go, you bastards!\n\n\n\n{x00}",
+   "source_sha256": "8eb74515a0542febcaf2665bf2a43074d9323322fec4a0d9eb770daa12465237"
+  },
+  {
+   "id": 143,
+   "en": "\n{C:8193C202}{C:81958296021D00000000}Everyone, here we go.\n\n\n\n{x00}",
+   "source_sha256": "59ddee21537340bc5beef3fca328415bda43fd859cd4c56e5c8fa9abae7e287a"
+  },
+  {
+   "id": 144,
+   "en": "\n{C:8193C302}{C:819582960B1D00000000}Let's go, you bastards!\n\n\n\n{x00}",
+   "source_sha256": "20d6f917acd9f60415261498499422ba4c9aa0289b40f138d5d0fbc2d63957f9"
+  },
+  {
+   "id": 145,
+   "en": "\n{C:8193C402}{C:81958296131D00000000}Everyone, here we go.\n\n\n\n{x00}",
+   "source_sha256": "5fa3bbc1f8def6107137bd53801846fd7e82f1297d9691ee744221487a2e2528"
+  },
+  {
+   "id": 146,
+   "en": "\n{C:8193C502}{C:819582961B1D00000000}Everyone, the battle begins!\n\n\n\n{x00}",
+   "source_sha256": "a791ba8e23a7f8e3f344200dd2ccb004adf52c4692f33d4b6a6a012d31d9acc0"
+  },
+  {
+   "id": 147,
+   "en": "\n{C:8193C602}{C:81958296241D00000000}Everyone, let's go!\n\n\n\n{x00}",
+   "source_sha256": "a25708ca4732a8af5bdb41701b27b55a5b16f3ddaec03edb1ada0d193c64fdde"
+  },
+  {
+   "id": 148,
+   "en": "\n{C:8193C702}{C:819582962C1D00000000}Everyone, here we go!\n\n\n\n{x00}",
+   "source_sha256": "af08e5920911ff2e9aa3c63596a0801bbc138249af55a4e7fcbbaa02f80f0c9c"
+  },
+  {
+   "id": 149,
+   "en": "\n{C:8193C802}{C:81958296341D00000000}Here I go, bosses!!\n\n\n\n{x00}",
+   "source_sha256": "720a7df409248225b86d97a176e6027ba942cfa3ee46e1d6fd1aac19542912a6"
+  },
+  {
+   "id": 150,
+   "en": "\n{C:8193C902}{C:819582963C1D00000000}All right, here I go!\n\n\n\n{x00}",
+   "source_sha256": "8b57284d35296d58721ff0b1d88f43f7d80fa286139b4c4586e253571cf146b3"
+  },
+  {
+   "id": 151,
+   "en": "\n{C:8193CA02}{C:81958296461D00000000}The enemy's here, damn it.\nGet ready for combat!\n\n\n\n{x00}",
+   "source_sha256": "ca862390d7a99c6d985d87728f6cc85c3e77f0ae639b22a480aabaf452f99f44"
+  },
+  {
+   "id": 152,
+   "en": "\n{C:8193CB02}{C:819582964E1D00000000}Get ready for combat.\nThe guests have arrived.\n\n\n\n{x00}",
+   "source_sha256": "810028625b57d096b41620491b2fedc43ce7ac0f7d7ec03ed3b9dbd4c75de9c9"
+  },
+  {
+   "id": 153,
+   "en": "\n{C:8193CC02}{C:81958296561D00000000}The enemy's here.\nYou lot deal with them yourselves, okay?\n\n\n\n{x00}",
+   "source_sha256": "1605973a1ec3329a070a359e471d82d7b858ec11a837abe72908e4cfb37c2a36"
+  },
+  {
+   "id": 154,
+   "en": "\n{C:8193CD02}{C:819582965E1D00000000}Enemies, enemies, welcooome!\nA whole group's heeere!\n\n\n\n{x00}",
+   "source_sha256": "a66d7407ebc925ffed7752bbb11a58870785125deba569e6acd49e5c53ffd2bb"
+  },
+  {
+   "id": 155,
+   "en": "\n{C:81936600}{C:81958296D33900000000}Fu-ha-ha-ha-ha-ha! How lucky I am\nto run into you here!\n\n{x00}",
+   "source_sha256": "35c777ef2b67d63484e4bb7b2d72f4e4157cc7b5aed61e617106cd10dbbd74bc"
+  },
+  {
+   "id": 156,
+   "en": "\n{C:81936600}{C:81958296D43900000000}Your fate is sealed.\nYou will die here!\n\n\n\n{x00}",
+   "source_sha256": "5dc0d782f97b79bc2755008e53d2dfa68346c42792759eb67d07666dc7aaf079"
+  },
+  {
+   "id": 157,
+   "en": "\n{C:81936300}{C:81958296E53900000000}We've gone and crossed paths.\nShall I send you to the bottom?\n\n{x00}",
+   "source_sha256": "ef5dbffd68275ff936846aba06fe66e5cf71bf7b916e0cf719fcee19a3386f5d"
+  },
+  {
+   "id": 158,
+   "en": "\n{C:81936300}{C:81958296E63900000000}Enemy contacts spotted.\nThe attack begins now.\n\n\n\n{x00}",
+   "source_sha256": "77ed6cbfbc08a9fa9226f58ae5ab01b69d04544be022954397bb18673579062f"
+  },
+  {
+   "id": 159,
+   "en": "\n{C:81935D00}{C:81958296F23900000000}You're an eyesore!\nJust by existing!!\n\n{x00}",
+   "source_sha256": "f4d24494fe72e22470285c9d6834c421e83f5a8190419ae25ca59b225105f94f"
+  },
+  {
+   "id": 160,
+   "en": "\n\n{C:81935D00}{C:81958296F33900000000}It's the enemy!\nI'll attack!!\n\n\n\n{x00}",
+   "source_sha256": "29f8574e6f3ea6b4175a0bfe61b5d5866a54fb4d5ba0a42c6b8d1f8864cb6191"
+  },
+  {
+   "id": 161,
+   "en": "\n\n{C:81935E00}{C:81958296043A00000000}Heh-heh-heh... Curse your bad luck\nfor running into me here!\n\n{x00}",
+   "source_sha256": "d447f13042fbd725bf206caf66cf1ec148a9b44f6ccd76c9d01f8fff5e0c8cf1"
+  },
+  {
+   "id": 162,
+   "en": "\n{C:81935E00}{C:81958296063A00000000}There's the enemy!\nGet ready for battle!!\n\n\n\n{x00}",
+   "source_sha256": "d9a2bef9fb29232b26b37f89905002a454f46d3df258d74742c0a8a7c4475644"
+  },
+  {
+   "id": 163,
+   "en": "\n{C:81933400}{C:81958296323A00000000}To run into the enemy in a place like this...\n\n{x00}",
+   "source_sha256": "658228f3ffbf7e852f6830f299c1e037ac51521f479b30094282aff93784adac"
+  },
+  {
+   "id": 164,
+   "en": "\n{C:81933400}{C:81958296333A00000000}If you bring that one down, this will be over.\nEveryone, attack!!\n\n\n\n{x00}",
+   "source_sha256": "a046cd2cde5c0ea8e812de89c367375755abddb423d3ce9994084d26a81d48ca"
+  },
+  {
+   "id": 165,
+   "en": "\n{C:8193E402}{C:819582960E1800000000}You'd fight me?\nYou don't know your place, fool!\n\n\n{x00}",
+   "source_sha256": "9c6db93aa7b1e555855deda4c601b970add046f6ca3c15f38f61faf65430a526"
+  },
+  {
+   "id": 166,
+   "en": "\n{C:8193DE02}{C:819582962F0200000000}\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n\n\n{x00}",
+   "source_sha256": "17dc5da43c8cdeebd3c255834a030af3b37e4c6d7fbc53a14a2b4dd1a5478a9c"
+  },
+  {
+   "id": 167,
+   "en": "\n{C:8193DE02}{C:81958296300200000000}\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n\n\n{x00}",
+   "source_sha256": "0c4c560b5194300654acaa49f43854999766aa353c17f75c09065ac7238e3925"
+  },
+  {
+   "id": 168,
+   "en": "\n{C:8193DE02}{C:81958296310200000000}\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n\n\n{x00}",
+   "source_sha256": "70374d51cbfa3ccc7394b2fc8f77e7d8896a8b9a17199a5890cf75c623adc6bb"
+  },
+  {
+   "id": 169,
+   "en": "\n{C:8193DE02}{C:81958296320200000000}\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n\n\n{x00}",
+   "source_sha256": "e0799b5f3fabdee8271028608ad6cf61b1fd051be93f603093797876c9a85d70"
+  },
+  {
+   "id": 170,
+   "en": "\n{C:8193DE02}{C:81958296330200000000}\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n\n\n\n{x00}",
+   "source_sha256": "1914220620fb7c6ebc13fb3d8c35deaef2d69bc7af0817ded4e8ba93342ffb8a"
+  },
+  {
+   "id": 171,
+   "en": "\n{C:81932D00}{C:81958296A83A00000000}Believe it or not, I've got sharp eyes.\nI've found you...\n{x00}",
+   "source_sha256": "1256afaac948e5d138bcc91f0f1ce4f5071f1d6c44e92ba3ea272becdd5783e6"
+  }
+ ]
+}

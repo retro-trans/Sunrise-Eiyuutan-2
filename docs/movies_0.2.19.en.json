@@ -1,0 +1,2127 @@
+{
+ "schema": 1,
+ "version": "0.2.19",
+ "review": {
+  "accuracy": "independent-reviewed-asr",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "scope": "Whisper-derived movie and episode-preview subtitles; game-cut opening and native ending lyrics, romaji and English.",
+ "movies": [
+  {
+   "member": 249,
+   "width": 640,
+   "height": 384,
+   "frames": 193,
+   "source_movie_sha256": "0abc77723011a9c5936fec3b7cfdc99c636fedf02be99077f2775d89563fbbe2",
+   "source_video_sha256": "9a019cf003e397b4c86d76fafff5324b2d9441859aeba45389b94aa5a54a3a55",
+   "spoken": [
+    {
+     "id": "M249-0",
+     "start": 0.0,
+     "end": 4.22,
+     "en": "Become light!"
+    }
+   ]
+  },
+  {
+   "member": 253,
+   "width": 640,
+   "height": 384,
+   "frames": 193,
+   "source_movie_sha256": "0297b8fbe487ff61e297b3c56f26db25ebd0bca06bac5dfc2c8a85fd685dc077",
+   "source_video_sha256": "9a019cf003e397b4c86d76fafff5324b2d9441859aeba45389b94aa5a54a3a55",
+   "spoken": [
+    {
+     "id": "M253-0",
+     "start": 1.5,
+     "end": 3.84,
+     "en": "Become light!"
+    }
+   ]
+  },
+  {
+   "member": 254,
+   "width": 640,
+   "height": 384,
+   "frames": 193,
+   "source_movie_sha256": "061d6f7881560045f3fa91e4c2b17bc4376e6dec2a202f58cebaec020a7e6a85",
+   "source_video_sha256": "9a019cf003e397b4c86d76fafff5324b2d9441859aeba45389b94aa5a54a3a55",
+   "spoken": [
+    {
+     "id": "M254-0",
+     "start": 0.0,
+     "end": 3.3,
+     "en": "Become light!"
+    }
+   ]
+  },
+  {
+   "member": 263,
+   "width": 640,
+   "height": 384,
+   "frames": 240,
+   "source_movie_sha256": "fb7afd8de1d65ad950939b408622ae8af4d62f9a21cdc3d2eac41291d97408fa",
+   "source_video_sha256": "258c8573fecfc1eeadb4c8d1f91bba4ad3a0b984e2bc843b98c01d9145e16cf7",
+   "spoken": [
+    {
+     "id": "M263-0",
+     "start": 0,
+     "end": 7.32,
+     "en": "Goldion Hammer! Become light!"
+    }
+   ]
+  },
+  {
+   "member": 309,
+   "width": 640,
+   "height": 384,
+   "frames": 270,
+   "source_movie_sha256": "cc03a1b435e6239cfcd4f34ab7f331602be9bb018e48353b9c7b6991e322f143",
+   "source_video_sha256": "66cef105d0924d6acecc93968dc07634d5ff69c8caff29366ccda9b94be41786",
+   "spoken": [
+    {
+     "id": "M309-0",
+     "start": 5.02,
+     "end": 7.94,
+     "en": "Bakunetsu God Finger!"
+    }
+   ]
+  },
+  {
+   "member": 310,
+   "width": 640,
+   "height": 384,
+   "frames": 240,
+   "source_movie_sha256": "f6d91b9051a992088205dc525c213f0b79137b02342c7de987e6f394f4129510",
+   "source_video_sha256": "65e33b16af2155d7498e3f369f0f25423a635ffad8f07f44a0071cf4c8aaed6f",
+   "spoken": [
+    {
+     "id": "M310-0",
+     "start": 2.56,
+     "end": 6.4,
+     "en": "Sekiha Tenkyouken!"
+    }
+   ]
+  },
+  {
+   "member": 313,
+   "width": 640,
+   "height": 384,
+   "frames": 270,
+   "source_movie_sha256": "d094668d5a38c1fe98f7f02aeb8b7b6f67bb2888b9bbf028675ec2f5dc51fdae",
+   "source_video_sha256": "66cef105d0924d6acecc93968dc07634d5ff69c8caff29366ccda9b94be41786",
+   "spoken": [
+    {
+     "id": "M313-0",
+     "start": 4.6,
+     "end": 7.32,
+     "en": "Bakunetsu God Finger!"
+    }
+   ]
+  },
+  {
+   "member": 314,
+   "width": 640,
+   "height": 384,
+   "frames": 240,
+   "source_movie_sha256": "5b8bd735c6f8dcb1dfb46e6c73d482cd4fa17f696c533fb571ff12b6bc9a7c5e",
+   "source_video_sha256": "65e33b16af2155d7498e3f369f0f25423a635ffad8f07f44a0071cf4c8aaed6f",
+   "spoken": [
+    {
+     "id": "M314-0",
+     "start": 3.54,
+     "end": 6.52,
+     "en": "Sekiha Tenkyouken!"
+    }
+   ]
+  },
+  {
+   "member": 398,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "6b35382159c5b26386ea57b8d8f20fb6ce98021b5f7a74f576ab67688c9dc68e",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M398-0",
+     "start": 1.46,
+     "end": 2.8,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M398-1",
+     "start": 9.38,
+     "end": 11.94,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 399,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "1078676099907e52def6f2b362c0cf0a73a5e13f410803aa448f47917d1b09f0",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M399-0",
+     "start": 1.56,
+     "end": 2.96,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M399-1",
+     "start": 9.96,
+     "end": 11.82,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 400,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "154faaf6283cccca3da551583b8b44de0784631d18d67afa9a4200d237d17e4f",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M400-0",
+     "start": 1.22,
+     "end": 3.26,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M400-1",
+     "start": 9.36,
+     "end": 11.92,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 401,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "97edd05b234b8ac637a16a414e10b11e5004110719f401eba561f28c105f2f9e",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M401-0",
+     "start": 1.84,
+     "end": 2.7,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M401-1",
+     "start": 9.84,
+     "end": 11.66,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 402,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "cb25b2d73ef1b60ac2807849bfe5ce7b8cd223b0d92e38923243d50366dbb003",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M402-0",
+     "start": 1.18,
+     "end": 2.48,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M402-1",
+     "start": 9.44,
+     "end": 11.7,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 403,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "1aa043292fec7959b07d650ebef8e9910c6431a468587ccdc1432453d89e8cab",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M403-0",
+     "start": 1.68,
+     "end": 3.1,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M403-1",
+     "start": 9.52,
+     "end": 11.76,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 404,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "a9c3a3cc6d4617e0d6f4c3e11456789d0440d82946a3d65187d28eb34ecf3737",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M404-0",
+     "start": 1.48,
+     "end": 2.9,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M404-1",
+     "start": 9.7,
+     "end": 11.84,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 405,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "017dab4c5703cf4dca2e7133c3ea551aff4393e41e4436d04d1747dbb2f65db3",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M405-0",
+     "start": 1.04,
+     "end": 2.62,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M405-1",
+     "start": 9.58,
+     "end": 11.78,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 406,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "d80e578da7597287bd45dd3372ca482ef9ae74783386f459434d617538975e45",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M406-0",
+     "start": 1.26,
+     "end": 3.34,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M406-1",
+     "start": 9.7,
+     "end": 11.92,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 407,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "1084fefac8f8b8fcb36f8b34e330a8a1d7195a6f51a7bdf012e39bba4e6a69b3",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M407-0",
+     "start": 1.38,
+     "end": 2.82,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M407-1",
+     "start": 9.9,
+     "end": 11.78,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 408,
+   "width": 640,
+   "height": 384,
+   "frames": 360,
+   "source_movie_sha256": "45b413fa304bd571e646c4f7bc3456d2cbbb97c0f54a1ff01ab35419b4f2b8aa",
+   "source_video_sha256": "2bc63104b434aee74546b722f16c081ace18161c22809a99241f87e583e8f22d",
+   "spoken": [
+    {
+     "id": "M408-0",
+     "start": 1.42,
+     "end": 2.72,
+     "en": "Raijin Sword!"
+    },
+    {
+     "id": "M408-1",
+     "start": 9.92,
+     "end": 11.7,
+     "en": "God Thunder Crash!"
+    }
+   ]
+  },
+  {
+   "member": 419,
+   "width": 640,
+   "height": 384,
+   "frames": 615,
+   "source_movie_sha256": "6086caa0fbcc9ea58a4754af2a7296906d84434c722cb3772c1c78d47a21f957",
+   "source_video_sha256": "35a7c7cce231c41aed14ef30a83a7a9c042f7c2b3fdf62cb7587c7fb316730b7",
+   "spoken": [
+    {
+     "id": "M419-0",
+     "start": 18.2,
+     "end": 20.14,
+     "en": "Ganba Final Attack!"
+    }
+   ]
+  },
+  {
+   "member": 420,
+   "width": 640,
+   "height": 384,
+   "frames": 615,
+   "source_movie_sha256": "d4bca86a31adc04e96e46854e7b22178813fc542a8e034d4d1299c0e2208e898",
+   "source_video_sha256": "35a7c7cce231c41aed14ef30a83a7a9c042f7c2b3fdf62cb7587c7fb316730b7",
+   "spoken": [
+    {
+     "id": "M420-0",
+     "start": 17.68,
+     "end": 19.9,
+     "en": "Ganba Final Attack!"
+    }
+   ]
+  },
+  {
+   "member": 421,
+   "width": 640,
+   "height": 384,
+   "frames": 615,
+   "source_movie_sha256": "e8c7da03b436a0b4248565ee5957c404be7f2fc24ba336aa1f2ca1dabcb00100",
+   "source_video_sha256": "35a7c7cce231c41aed14ef30a83a7a9c042f7c2b3fdf62cb7587c7fb316730b7",
+   "spoken": [
+    {
+     "id": "M421-0",
+     "start": 18.12,
+     "end": 19.98,
+     "en": "Ganba Final Attack!"
+    }
+   ]
+  },
+  {
+   "member": 428,
+   "width": 640,
+   "height": 384,
+   "frames": 120,
+   "source_movie_sha256": "00af15be8dc0a2207a7211f1be9df24cbcafe2f06ec57149719cf061080d53ef",
+   "source_video_sha256": "0163629826a3c795b011925e09c82f0c8b8e6b1483945f5c36dae39fbd6ec6aa",
+   "spoken": [
+    {
+     "id": "M428-0",
+     "start": 1.88,
+     "end": 3.46,
+     "en": "Finishing move—Toryuken!"
+    }
+   ]
+  },
+  {
+   "member": 465,
+   "width": 640,
+   "height": 384,
+   "frames": 700,
+   "source_movie_sha256": "46414f6ebab57f045585874a1cfc197e3e4730be84309a9a7ebf3bf902ab982e",
+   "source_video_sha256": "460f5e03ae0f3bbe7543b7bdfb24c028890085542bb81fc8a0689a90bc155a10",
+   "spoken": [
+    {
+     "id": "M465-0",
+     "start": 0.4799999999999979,
+     "end": 3.0,
+     "en": "The continent of Claudia floats upon the Cloud Sea."
+    },
+    {
+     "id": "M465-1",
+     "start": 4.499999999999998,
+     "end": 6.64,
+     "en": "Having emerged from war, that continent..."
+    },
+    {
+     "id": "M465-2",
+     "start": 6.64,
+     "end": 9.74,
+     "en": "...was about to venture into the unknown Cloud Sea."
+    },
+    {
+     "id": "M465-3",
+     "start": 11.239999999999998,
+     "end": 14.84,
+     "en": "But when a dark shadow swept across the continent..."
+    },
+    {
+     "id": "M465-4",
+     "start": 14.84,
+     "end": 17.92,
+     "en": "...a new war began."
+    },
+    {
+     "id": "M465-5",
+     "start": 18.399999999999995,
+     "end": 20.1,
+     "en": "Launch, Astante!"
+    },
+    {
+     "id": "M465-6",
+     "start": 21.319999999999997,
+     "end": 23.18,
+     "en": "A flash of light pierces you."
+    }
+   ],
+   "title": {
+    "en": "Launch, Astante!",
+    "heading": "Next Time",
+    "first_frame": 536,
+    "end_frame": 700,
+    "heading_rect": [
+     266,
+     66,
+     375,
+     119
+    ],
+    "title_rect": [
+     63,
+     183,
+     594,
+     252
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 466,
+   "width": 640,
+   "height": 384,
+   "frames": 640,
+   "source_movie_sha256": "50dc6a97c94f194d66a9946f61ad62d3d1b815d3b75ee287fd61aa0b6c892691",
+   "source_video_sha256": "a065d4e8581c97706a1c18d72876d7f21303ec8ce22920d944a0bf876a41b133",
+   "spoken": [
+    {
+     "id": "M466-0",
+     "start": 0.0,
+     "end": 5.8,
+     "en": "It was inevitable that the understrength AEUG would seek help from the newly arrived Astante."
+    },
+    {
+     "id": "M466-1",
+     "start": 6.28,
+     "end": 11.66,
+     "en": "Yet amid it all, people meet, then face separation in battle."
+    },
+    {
+     "id": "M466-2",
+     "start": 12.900000000000002,
+     "end": 14.86,
+     "en": "Can that be called inevitable?"
+    },
+    {
+     "id": "M466-3",
+     "start": 15.440000000000001,
+     "end": 17.32,
+     "en": "Next time: Encounter."
+    },
+    {
+     "id": "M466-4",
+     "start": 18.000000000000004,
+     "end": 20.54,
+     "en": "You will see the tears of time."
+    }
+   ],
+   "title": {
+    "en": "Encounter",
+    "heading": "Next Time",
+    "first_frame": 480,
+    "end_frame": 640,
+    "heading_rect": [
+     64,
+     46,
+     173,
+     99
+    ],
+    "title_rect": [
+     221,
+     149,
+     436,
+     217
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 467,
+   "width": 640,
+   "height": 384,
+   "frames": 592,
+   "source_movie_sha256": "350c5bf794624373cae899bd821d294b41b7919242bb4d0c445e53b0cd14a70e",
+   "source_video_sha256": "bae83485e1120fd9545ebecb47df361c5e3adf0d7392b3b7aa633331137b9ee9",
+   "spoken": [
+    {
+     "id": "M467-0",
+     "start": 0.8200000000000005,
+     "end": 5.26,
+     "en": "Those trapped by the past hunt iron warriors, drenched in blood and gunsmoke."
+    },
+    {
+     "id": "M467-1",
+     "start": 6.2,
+     "end": 11.66,
+     "en": "What role will the Astante be given here, now that it has arrived on the continent of Astragius?"
+    },
+    {
+     "id": "M467-2",
+     "start": 13.88,
+     "end": 15.16,
+     "en": "Next time: Transfer Voyage."
+    },
+    {
+     "id": "M467-3",
+     "start": 15.16,
+     "end": 18.26,
+     "en": "All things, beyond oblivion."
+    }
+   ],
+   "title": {
+    "en": "Transfer Voyage",
+    "heading": "Next Time",
+    "first_frame": 426,
+    "end_frame": 592,
+    "heading_rect": [
+     206,
+     70,
+     316,
+     122
+    ],
+    "title_rect": [
+     262,
+     163,
+     406,
+     232
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 468,
+   "width": 640,
+   "height": 384,
+   "frames": 665,
+   "source_movie_sha256": "0006684e2bf7a694f3e44bdbd4091378622d63df6a07222085e00f8a0c5a277a",
+   "source_video_sha256": "0b702b87b66eda73301d4bc5539bc41afcb0a2f1e36fe726e836fabe9b11f95f",
+   "spoken": [
+    {
+     "id": "M468-0",
+     "start": 0.5599999999999996,
+     "end": 5.9,
+     "en": "Astante joins the Zelerna in opposing Drake Luft's ambitions."
+    },
+    {
+     "id": "M468-1",
+     "start": 6.3999999999999995,
+     "end": 9.38,
+     "en": "There, Sho Zama of Drake's army..."
+    },
+    {
+     "id": "M468-2",
+     "start": 9.38,
+     "end": 13.5,
+     "en": "...meets Marvel and begins to question the fighting."
+    },
+    {
+     "id": "M468-3",
+     "start": 14.139999999999999,
+     "end": 16.94,
+     "en": "Next time on Sunrise Eiyuutan 2:"
+    },
+    {
+     "id": "M468-4",
+     "start": 17.46,
+     "end": 22.06,
+     "en": "'The One Behind It.' The clouds of war call Sho."
+    }
+   ],
+   "title": {
+    "en": "The One Behind It",
+    "heading": "Next Time",
+    "first_frame": 440,
+    "end_frame": 665,
+    "heading_rect": [
+     64,
+     46,
+     173,
+     99
+    ],
+    "title_rect": [
+     146,
+     176,
+     484,
+     230
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 469,
+   "width": 640,
+   "height": 384,
+   "frames": 489,
+   "source_movie_sha256": "2da5c288d042384df35a702e5315ee0b2050230cb18ba5fc3e2f8b0428fb2f36",
+   "source_video_sha256": "238abd55ac8693adfbd5270ee6bad3c7290789da630d799bcc444c30de034716",
+   "spoken": [
+    {
+     "id": "M469-0",
+     "start": 1.2599999999999998,
+     "end": 6.18,
+     "en": "As we fight Mardoul, an iron ship appears before us: the Astante!"
+    },
+    {
+     "id": "M469-1",
+     "start": 7.859999999999999,
+     "end": 12.3,
+     "en": "Then, as if in answer, the legendary giant Galient awakens."
+    },
+    {
+     "id": "M469-2",
+     "start": 13.799999999999999,
+     "end": 16.2,
+     "en": "'Awakening of the Iron Giant.' Stay tuned!"
+    }
+   ],
+   "title": {
+    "en": "Awakening of the Iron Giant",
+    "heading": "Next Time",
+    "first_frame": 418,
+    "end_frame": 489,
+    "heading_rect": [
+     104,
+     71,
+     214,
+     123
+    ],
+    "title_rect": [
+     127,
+     161,
+     540,
+     215
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 470,
+   "width": 640,
+   "height": 384,
+   "frames": 743,
+   "source_movie_sha256": "91b91f2ce4659f28d7e22d8085fef326b2e5dab54aa3f021ebf6a8f9a14a5bcb",
+   "source_video_sha256": "8de6795a5ccfd18b72ef74c5fd0d18dfc4911ddc9af0e8ea3aa851bfdb3a6d56",
+   "spoken": [
+    {
+     "id": "M470-0",
+     "start": 0.7800000000000005,
+     "end": 3.6,
+     "en": "Let me reveal the latest information to you!"
+    },
+    {
+     "id": "M470-1",
+     "start": 4.74,
+     "end": 8.6,
+     "en": "From the continent of Brave, where Posaydal's forces were driven back and peace restored..."
+    },
+    {
+     "id": "M470-2",
+     "start": 8.6,
+     "end": 10.94,
+     "en": "...Mamoru sets out with Galeon."
+    },
+    {
+     "id": "M470-3",
+     "start": 12.26,
+     "end": 16.54,
+     "en": "But Posaydal's forces reappear, as though they have been lying in wait."
+    },
+    {
+     "id": "M470-4",
+     "start": 17.38,
+     "end": 20.0,
+     "en": "Next: Heroes of Light Gather."
+    },
+    {
+     "id": "M470-5",
+     "start": 20.54,
+     "end": 22.74,
+     "en": "Final Fusion authorized next time, too!"
+    },
+    {
+     "id": "M470-6",
+     "start": 22.74,
+     "end": 24.66,
+     "en": "This is the key to victory!"
+    }
+   ],
+   "title": {
+    "en": "Heroes of Light Gather",
+    "heading": "NEXT",
+    "first_frame": 505,
+    "end_frame": 699,
+    "heading_rect": [
+     86,
+     50,
+     205,
+     92
+    ],
+    "title_rect": [
+     94,
+     232,
+     564,
+     286
+    ]
+   },
+   "cards": [
+    {
+     "first_frame": 699,
+     "end_frame": 743,
+     "labels": [
+      {
+       "en": "GaoFighGar",
+       "rect": [
+        398,
+        222,
+        590,
+        255
+       ],
+       "size": 24
+      },
+      {
+       "en": "Next Time",
+       "rect": [
+        28,
+        272,
+        190,
+        311
+       ],
+       "size": 28
+      },
+      {
+       "en": "Stay tuned! ☆",
+       "rect": [
+        28,
+        321,
+        238,
+        366
+       ],
+       "size": 26
+      }
+     ]
+    }
+   ],
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 471,
+   "width": 640,
+   "height": 384,
+   "frames": 459,
+   "source_movie_sha256": "f2cdddd676d0b83a962065dc6bb84552eb130b772a7b97cff46ae4658b841c30",
+   "source_video_sha256": "f9eb839dd4df9b647acc215b864d120ea5447ca8bfa49dcfa4a51e8479f84b70",
+   "spoken": [
+    {
+     "id": "M471-0",
+     "start": 0.0,
+     "end": 5.4,
+     "en": "We're fighting Posaydal, so we're thrilled to have Astante's help!"
+    },
+    {
+     "id": "M471-1",
+     "start": 7.22,
+     "end": 10.2,
+     "en": "But hey, Posaydal isn't our only enemy!"
+    },
+    {
+     "id": "M471-2",
+     "start": 11.74,
+     "end": 14.38,
+     "en": "See you again! Final Battle!"
+    }
+   ],
+   "title": {
+    "en": "Final Battle",
+    "heading": "Next Time",
+    "first_frame": 361,
+    "end_frame": 459,
+    "heading_rect": [
+     265,
+     62,
+     378,
+     116
+    ],
+    "title_rect": [
+     65,
+     167,
+     593,
+     221
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 472,
+   "width": 640,
+   "height": 384,
+   "frames": 632,
+   "source_movie_sha256": "a810c23a64d72406ec21ddebde8286ff1ac381e5a0e7670d92aa7961a6e3814d",
+   "source_video_sha256": "5aa65cdaafb4c1da0b1492401921846ac1a1a2e400779f33d3da4b0243fcbac4",
+   "spoken": [
+    {
+     "id": "M472-0",
+     "start": 0.5000000000000004,
+     "end": 2.86,
+     "en": "With peace restored, the Astante..."
+    },
+    {
+     "id": "M472-1",
+     "start": 3.4400000000000004,
+     "end": 7.18,
+     "en": "...leaves Pentagona to take its companions home."
+    },
+    {
+     "id": "M472-2",
+     "start": 7.720000000000001,
+     "end": 10.84,
+     "en": "But the Astante, now underway..."
+    },
+    {
+     "id": "M472-3",
+     "start": 10.84,
+     "end": 14.42,
+     "en": "...is met by a shining blue comet: Layzner."
+    },
+    {
+     "id": "M472-4",
+     "start": 16.36,
+     "end": 17.54,
+     "en": "Blue Comet."
+    },
+    {
+     "id": "M472-5",
+     "start": 18.64,
+     "end": 20.6,
+     "en": "A flash of light pierces you."
+    }
+   ],
+   "title": {
+    "en": "Blue Comet",
+    "heading": "Next Time",
+    "first_frame": 494,
+    "end_frame": 632,
+    "heading_rect": [
+     266,
+     66,
+     375,
+     119
+    ],
+    "title_rect": [
+     173,
+     183,
+     461,
+     252
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 473,
+   "width": 640,
+   "height": 384,
+   "frames": 592,
+   "source_movie_sha256": "9ca9caabe59cc5473faef5e36296e4f190e2bf2486ff320a365fc4f5b691f5a2",
+   "source_video_sha256": "df0c27ca80501358328a28a3081413698d2295044173300b593c03bd83ccd39d",
+   "spoken": [
+    {
+     "id": "M473-0",
+     "start": 0.5199999999999997,
+     "end": 1.8,
+     "en": "On conflict-torn Terra..."
+    },
+    {
+     "id": "M473-1",
+     "start": 1.8,
+     "end": 4.6,
+     "en": "...Kanji spots Four, who was supposed to be dead."
+    },
+    {
+     "id": "M473-2",
+     "start": 6.08,
+     "end": 9.26,
+     "en": "Kamille rushes out of the Astante to search for Four."
+    },
+    {
+     "id": "M473-3",
+     "start": 9.26,
+     "end": 13.04,
+     "en": "Reunion at Kilimanjaro."
+    },
+    {
+     "id": "M473-4",
+     "start": 14.0,
+     "end": 16.24,
+     "en": "You will see the tears of time."
+    }
+   ],
+   "title": {
+    "en": "Reunion at Kilimanjaro",
+    "heading": "Next Time",
+    "first_frame": 351,
+    "end_frame": 592,
+    "heading_rect": [
+     64,
+     46,
+     173,
+     99
+    ],
+    "title_rect": [
+     43,
+     175,
+     603,
+     228
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 474,
+   "width": 640,
+   "height": 384,
+   "frames": 592,
+   "source_movie_sha256": "9f0432fe479a229496389e52c31690f43ebd0349d1c8b61ed5597273bf45d6ac",
+   "source_video_sha256": "dfd824c50ec2f07749fa518c126c7d9733db580d4a948b00e1e1a15307cb2554",
+   "spoken": [
+    {
+     "id": "M474-0",
+     "start": 0.5400000000000006,
+     "end": 4.4,
+     "en": "When we embrace the new, is the old nothing but useless baggage?"
+    },
+    {
+     "id": "M474-1",
+     "start": 5.720000000000001,
+     "end": 10.12,
+     "en": "Under Norstan's final onslaught, the Astante sinks in Astragius."
+    },
+    {
+     "id": "M474-2",
+     "start": 11.700000000000001,
+     "end": 16.8,
+     "en": "'A New Power.' Amid a reunion, a beloved name is called: 'Fyana!'"
+    }
+   ],
+   "title": {
+    "en": "A New Power",
+    "heading": "Next Time",
+    "first_frame": 381,
+    "end_frame": 592,
+    "heading_rect": [
+     206,
+     70,
+     316,
+     122
+    ],
+    "title_rect": [
+     145,
+     160,
+     507,
+     229
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 475,
+   "width": 640,
+   "height": 384,
+   "frames": 532,
+   "source_movie_sha256": "36cec14e6155a049cf59da1a41e3c3be6925af133c93d37ce914041bcf73e47e",
+   "source_video_sha256": "1f4c3851fc7d4eaece3891a668ca865c11dcf58b120dcd4f65ce006be99c2aae",
+   "spoken": [
+    {
+     "id": "M475-0",
+     "start": 0.8600000000000005,
+     "end": 5.9,
+     "en": "I declare myself a prince of the Vorder royal family and finally face Mardoul!"
+    },
+    {
+     "id": "M475-1",
+     "start": 7.6000000000000005,
+     "end": 11.62,
+     "en": "But when we learn Mardoul's true intentions, doubt takes hold of us."
+    },
+    {
+     "id": "M475-2",
+     "start": 12.16,
+     "end": 13.82,
+     "en": "Just what should we do?"
+    },
+    {
+     "id": "M475-3",
+     "start": 15.26,
+     "end": 17.56,
+     "en": "'Mardoul's True Intent.' Stay tuned!"
+    }
+   ],
+   "title": {
+    "en": "Mardoul's True Intent",
+    "heading": "Next Time",
+    "first_frame": 428,
+    "end_frame": 532,
+    "heading_rect": [
+     104,
+     71,
+     214,
+     123
+    ],
+    "title_rect": [
+     115,
+     168,
+     526,
+     221
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 476,
+   "width": 640,
+   "height": 384,
+   "frames": 690,
+   "source_movie_sha256": "ecbb40f8dc4d3f16dfcde03962ba3403645debf0c6fe1e63a27017f002c26c73",
+   "source_video_sha256": "b362d92f9257cb1421ea6f027a68bc2462820e912eb33784ad68fd1624bda268",
+   "spoken": [
+    {
+     "id": "M476-0",
+     "start": 0.4400000000000006,
+     "end": 3.32,
+     "en": "Let me reveal the latest information to you!"
+    },
+    {
+     "id": "M476-1",
+     "start": 4.260000000000001,
+     "end": 8.32,
+     "en": "Mamoru returns and performs Final Fusion into GaoGaiGar, King of the Braves."
+    },
+    {
+     "id": "M476-2",
+     "start": 9.100000000000001,
+     "end": 10.88,
+     "en": "Guy is forced into a showdown."
+    },
+    {
+     "id": "M476-3",
+     "start": 10.88,
+     "end": 13.1,
+     "en": "What will you do, our King of the Braves?"
+    },
+    {
+     "id": "M476-4",
+     "start": 14.4,
+     "end": 16.94,
+     "en": "Next: Showdown! King of the Braves!!"
+    },
+    {
+     "id": "M476-5",
+     "start": 17.62,
+     "end": 20.0,
+     "en": "Final Fusion authorized next time, too!"
+    },
+    {
+     "id": "M476-6",
+     "start": 20.94,
+     "end": 22.58,
+     "en": "This is the key to victory!"
+    }
+   ],
+   "title": {
+    "en": "Showdown! King of the Braves!!",
+    "heading": "NEXT",
+    "first_frame": 431,
+    "end_frame": 633,
+    "heading_rect": [
+     86,
+     50,
+     205,
+     92
+    ],
+    "title_rect": [
+     117,
+     255,
+     531,
+     308
+    ]
+   },
+   "cards": [
+    {
+     "first_frame": 633,
+     "end_frame": 690,
+     "labels": [
+      {
+       "en": "Guy Shishioh",
+       "rect": [
+        400,
+        231,
+        590,
+        260
+       ],
+       "size": 24
+      },
+      {
+       "en": "Next Time",
+       "rect": [
+        28,
+        272,
+        190,
+        311
+       ],
+       "size": 28
+      },
+      {
+       "en": "Stay tuned! ☆",
+       "rect": [
+        28,
+        321,
+        238,
+        366
+       ],
+       "size": 26
+      }
+     ]
+    }
+   ],
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 477,
+   "width": 640,
+   "height": 384,
+   "frames": 489,
+   "source_movie_sha256": "3aa165e861cfc15062ca4e944d9d17141ecaecd7bd33e6532f724fb210bdd00e",
+   "source_video_sha256": "cba0131ff5bee3b044fc07828762428ea08e851852bd75059143a9ecc4dbf3f1",
+   "spoken": [
+    {
+     "id": "M477-0",
+     "start": 0.4399999999999995,
+     "end": 1.78,
+     "en": "What's going on, Daba?!"
+    },
+    {
+     "id": "M477-1",
+     "start": 2.1199999999999997,
+     "end": 5.5,
+     "en": "Nobody told me you were a survivor of the Yaman dynasty!"
+    },
+    {
+     "id": "M477-2",
+     "start": 6.64,
+     "end": 8.82,
+     "en": "Well, we are gaining some new friends..."
+    },
+    {
+     "id": "M477-3",
+     "start": 9.54,
+     "end": 12.18,
+     "en": "...so why not ride that momentum and defeat Posaydal?"
+    },
+    {
+     "id": "M477-4",
+     "start": 12.959999999999999,
+     "end": 14.0,
+     "en": "See you again!"
+    },
+    {
+     "id": "M477-5",
+     "start": 14.68,
+     "end": 15.62,
+     "en": "Search II!"
+    }
+   ],
+   "title": {
+    "en": "Search II",
+    "heading": "Next Time",
+    "first_frame": 378,
+    "end_frame": 489,
+    "heading_rect": [
+     265,
+     62,
+     378,
+     116
+    ],
+    "title_rect": [
+     198,
+     167,
+     439,
+     222
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 478,
+   "width": 640,
+   "height": 384,
+   "frames": 665,
+   "source_movie_sha256": "f6a6757c048eb8da3e59de0c2cd74f5fd3b3c6dc1c60e23dd14c2220532016f3",
+   "source_video_sha256": "3c508394ee950327562585161f570176ac7637f3be320b1ec70311a9fb2d3903",
+   "spoken": [
+    {
+     "id": "M478-0",
+     "start": 0.0,
+     "end": 4.42,
+     "en": "Ciela, pursued across the Cloud Sea, was the queen of the Kingdom of Na."
+    },
+    {
+     "id": "M478-1",
+     "start": 4.880000000000001,
+     "end": 7.68,
+     "en": "The Astante rescues her, unaware of who she is."
+    },
+    {
+     "id": "M478-2",
+     "start": 7.68,
+     "end": 10.98,
+     "en": "With the new Aura Battler Billbine in hand..."
+    },
+    {
+     "id": "M478-3",
+     "start": 10.98,
+     "end": 13.48,
+     "en": "...the Astante II heads into battle."
+    },
+    {
+     "id": "M478-4",
+     "start": 14.08,
+     "end": 16.96,
+     "en": "Which side will seize victory?"
+    },
+    {
+     "id": "M478-5",
+     "start": 17.72,
+     "end": 18.92,
+     "en": "Queen of the Storm."
+    },
+    {
+     "id": "M478-6",
+     "start": 19.46,
+     "end": 22.02,
+     "en": "A swift wind calls for a showdown."
+    }
+   ],
+   "title": {
+    "en": "Queen of the Storm",
+    "heading": "Next Time",
+    "first_frame": 522,
+    "end_frame": 665,
+    "heading_rect": [
+     64,
+     46,
+     173,
+     99
+    ],
+    "title_rect": [
+     179,
+     159,
+     478,
+     229
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 479,
+   "width": 640,
+   "height": 384,
+   "frames": 592,
+   "source_movie_sha256": "21dea60f862b118097784844a9b9545a835c76cdc51f22a5c2d92a76e8cceef3",
+   "source_video_sha256": "e75b7a4d4cbdcd5a764f84bff96f4540298590eefb1107c1b967b34c71928829",
+   "spoken": [
+    {
+     "id": "M479-0",
+     "start": 0.7600000000000013,
+     "end": 1.46,
+     "en": "Anna..."
+    },
+    {
+     "id": "M479-1",
+     "start": 2.7600000000000016,
+     "end": 3.54,
+     "en": "I'm sorry..."
+    },
+    {
+     "id": "M479-2",
+     "start": 5.700000000000001,
+     "end": 6.38,
+     "en": "...for being late."
+    },
+    {
+     "id": "M479-3",
+     "start": 8.700000000000001,
+     "end": 10.2,
+     "en": "I won't die."
+    },
+    {
+     "id": "M479-4",
+     "start": 11.680000000000001,
+     "end": 13.64,
+     "en": "I've got my friends, after all."
+    }
+   ],
+   "title": {
+    "en": "Binzvanker",
+    "heading": "Next Time",
+    "first_frame": 387,
+    "end_frame": 592,
+    "heading_rect": [
+     134,
+     72,
+     246,
+     126
+    ],
+    "title_rect": [
+     98,
+     177,
+     563,
+     232
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 480,
+   "width": 640,
+   "height": 384,
+   "frames": 592,
+   "source_movie_sha256": "b9d83eeb34b7173c39dbb1f523a149e8dc6019c23877a8211c0b5382e2fc046a",
+   "source_video_sha256": "a2a8a815062b182d623de26aa7079d8eebce14129aae4a81c630475928f4ed4d",
+   "spoken": [
+    {
+     "id": "M480-0",
+     "start": 0.5399999999999996,
+     "end": 4.48,
+     "en": "Claudia—the site Binzvanker chose for the final battle."
+    },
+    {
+     "id": "M480-1",
+     "start": 5.779999999999999,
+     "end": 8.86,
+     "en": "Against Binzvanker, who has gained power beyond human limits..."
+    },
+    {
+     "id": "M480-2",
+     "start": 9.4,
+     "end": 11.44,
+     "en": "...can they prevail?"
+    },
+    {
+     "id": "M480-3",
+     "start": 12.84,
+     "end": 15.18,
+     "en": "Final episode: Dark Power."
+    },
+    {
+     "id": "M480-4",
+     "start": 16.64,
+     "end": 18.54,
+     "en": "A flash of light pierces you."
+    }
+   ],
+   "title": {
+    "en": "Dark Power",
+    "heading": "Final Episode",
+    "first_frame": 397,
+    "end_frame": 592,
+    "heading_rect": [
+     249,
+     66,
+     416,
+     119
+    ],
+    "title_rect": [
+     224,
+     173,
+     436,
+     242
+    ]
+   },
+   "episode_heading": {
+    "en": "Next Episode Preview",
+    "first_frame": 0,
+    "end_frame": 96
+   }
+  },
+  {
+   "member": 488,
+   "width": 640,
+   "height": 384,
+   "frames": 2752,
+   "source_movie_sha256": "20b6160ec48fdbec8219526f2f34fd7a600315bf6b4bc5ac2e58e8de15bcc0a6",
+   "source_video_sha256": "4e223a38212710bcd687dffa8cd2ef55b5ea369af5a8885976fe44ec6a2d1b53",
+   "lyrics": [
+    {
+     "id": "OP488-001",
+     "start": 0,
+     "end": 0.74,
+     "en": "Fighter!",
+     "romaji": "FIGHTER!",
+     "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+    },
+    {
+     "id": "OP488-002",
+     "start": 3.5,
+     "end": 5.16,
+     "en": "Fighter!",
+     "romaji": "FIGHTER!",
+     "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+    },
+    {
+     "id": "OP488-003",
+     "start": 8.82,
+     "end": 12.84,
+     "en": "Tearing through the silence—",
+     "romaji": "Shizukesa o hikisaite",
+     "jp_sha256": "eecd6b0fdfa541c5c5bf4bbef8809e8e634ebf1a0f7b2778383b5b91235a922c"
+    },
+    {
+     "id": "OP488-004",
+     "start": 12.9,
+     "end": 15.84,
+     "en": "The killer, hungry for blood!",
+     "romaji": "Chi ni ueta The Killer!!",
+     "jp_sha256": "31f6894db14f1e160124e7c651267cea2500b6ae08d5b8022e589c250ef90139"
+    },
+    {
+     "id": "OP488-005",
+     "start": 15.84,
+     "end": 20.42,
+     "en": "Dangerous war!",
+     "romaji": "Dangerous war!!",
+     "jp_sha256": "4519b354e4ff1d51b33e896a2562b7c0d1aa268584b7fdcf169c30e4f45ad984"
+    },
+    {
+     "id": "OP488-006",
+     "start": 21.84,
+     "end": 25.8,
+     "en": "Stir your soul—",
+     "romaji": "Tamashii o yusabutte",
+     "jp_sha256": "44a632428ef71b80d1e04d314f69789e949a90cdcb5c5431765bd8aca8d66218"
+    },
+    {
+     "id": "OP488-007",
+     "start": 25.98,
+     "end": 28.06,
+     "en": "Stand and fight!",
+     "romaji": "Tachimukae",
+     "jp_sha256": "b3c658e1d236a0d54dba0804281f8a40e509c2ca59a93d04b79056c0e2d27b64"
+    },
+    {
+     "id": "OP488-008",
+     "start": 28.06,
+     "end": 28.94,
+     "en": "Oh, get it!",
+     "romaji": "OH Get it!",
+     "jp_sha256": "fc10819e47e3c3b9ba028582a2fa96267338e90d732f1ee16e0f07038ea414f3"
+    },
+    {
+     "id": "OP488-009",
+     "start": 28.94,
+     "end": 32.82,
+     "en": "Power war!",
+     "romaji": "Power war!!",
+     "jp_sha256": "a785226332dfdbbff8db62bc5e0b8ba288154a75771bbb11e724af546e3219df"
+    },
+    {
+     "id": "OP488-010",
+     "start": 33.88,
+     "end": 37.32,
+     "en": "(Final war)",
+     "romaji": "(Final war)",
+     "jp_sha256": "7b3ac5b5f9e4c1ab7ee270e1ddca8abcaaf16ac900e3bfdc230e85e402940634"
+    },
+    {
+     "id": "OP488-011",
+     "start": 38.12,
+     "end": 42.02,
+     "en": "Break through the darkness!",
+     "romaji": "Yami o tsukinukete yuke",
+     "jp_sha256": "91b1dd61bc7a4b610e1395c08955cfb530341191f687b3d5821dca60e4b055d0"
+    },
+    {
+     "id": "OP488-012",
+     "start": 42.72,
+     "end": 46.32,
+     "en": "If there is love there,",
+     "romaji": "Soko ni ai ga aru nara",
+     "jp_sha256": "1bcb717a1c2728c987880fbb730d189f90345a4fb0da028e8c7f4110a13931fe"
+    },
+    {
+     "id": "OP488-013",
+     "start": 47.34,
+     "end": 51.62,
+     "en": "there's nothing to fear.",
+     "romaji": "Nani mo osoreru mono nado nai sa",
+     "jp_sha256": "eb7d45a2f9f4abac0c1b0fb744f363288e51235fde1ca725f0bc9ff4fb7b9c6b"
+    },
+    {
+     "id": "OP488-014",
+     "start": 51.62,
+     "end": 54.66,
+     "en": "Go on without hesitation!",
+     "romaji": "Mayowazu ni susume!",
+     "jp_sha256": "a77fe23eaedb59e67e7b470af94faa3a37b06fb56387d53cc5fbf3b92d28421c"
+    },
+    {
+     "id": "OP488-015",
+     "start": 58.16,
+     "end": 60.28,
+     "en": "Going in my way",
+     "romaji": "Going in my way",
+     "jp_sha256": "80ed20da6804ffc127541fe4f30b0fb10258b2be72fdc1476ceefbaf14eb75a4"
+    },
+    {
+     "id": "OP488-016",
+     "start": 60.28,
+     "end": 62.28,
+     "en": "Toward the one",
+     "romaji": "Kakegae no nai",
+     "jp_sha256": "1be45f425ff8f616210a8941db9af96cb52f82a7db266d73f106a41f111c198c"
+    },
+    {
+     "id": "OP488-017",
+     "start": 62.82,
+     "end": 66.24,
+     "en": "I love, whom no one can replace.",
+     "romaji": "Itoshii hito ni mukatte",
+     "jp_sha256": "71c70f851be1ae2f99da565db4cb5f879c5bc9e0f8287bb7f9fc257b4ce6ad8a"
+    },
+    {
+     "id": "OP488-018",
+     "start": 66.94,
+     "end": 70.18,
+     "en": "Take it to your heart",
+     "romaji": "Take it to your heart",
+     "jp_sha256": "c327cd7335ddf98ea5e724ee36a304356c0d240dee3f18c292e955f254e46b29"
+    },
+    {
+     "id": "OP488-019",
+     "start": 70.48,
+     "end": 75.24,
+     "en": "Hold the light close.",
+     "romaji": "Hikari o dakishime",
+     "jp_sha256": "cf08847e7a1c5c415518fdfa7fdf06bbc48d2e851b6b6c538fd25ddf6346af22"
+    },
+    {
+     "id": "OP488-020",
+     "start": 76.03,
+     "end": 78.8,
+     "en": "Fighter!",
+     "romaji": "FIGHTER!",
+     "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+    },
+    {
+     "id": "OP488-021",
+     "start": 78.8,
+     "end": 81.42,
+     "en": "Fighter!",
+     "romaji": "FIGHTER!",
+     "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+    }
+   ]
+  }
+ ],
+ "ending": {
+  "stream_member": 0,
+  "title": "The Thread of Fate",
+  "cues": [
+   {
+    "id": "ED0-001",
+    "start": 0.0,
+    "end": 3.74,
+    "en": "There may still be time, right now.",
+    "romaji": "Mada maniau kamo shirenai, ima nara",
+    "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+   },
+   {
+    "id": "ED0-002",
+    "start": 3.74,
+    "end": 9.84,
+    "en": "Before time tears us apart,",
+    "romaji": "Toki ga futari o hikisaku mae ni",
+    "jp_sha256": "253020252ee6861c1b1918e15b98fc0bede0c58a141c11ece07d556d59af6b77"
+   },
+   {
+    "id": "ED0-003",
+    "start": 9.84,
+    "end": 14.02,
+    "en": "drawing the thread of fate closer,",
+    "romaji": "Unmei no ito o hikiyosete",
+    "jp_sha256": "e280ea320b7b9de70d85ea9cea55e91c9a7634c99caa6e4d830d690474936e27"
+   },
+   {
+    "id": "ED0-004",
+    "start": 14.02,
+    "end": 17.94,
+    "en": "I want to reach you…",
+    "romaji": "Anata ni tadoritsukitai…",
+    "jp_sha256": "1eda19e86652797de17545653d766e5cb0976c7bd858f0bca99d49e7b6b5e6c4"
+   },
+   {
+    "id": "ED0-005",
+    "start": 30.0,
+    "end": 38.6,
+    "en": "Alone, I ask myself:\nWhat have I been protecting?",
+    "romaji": "Hitori toikakete miru\nNani o mamotte kita no?",
+    "jp_sha256": "9c909fd8aef2e411b714fb80420e57b2956f4f512ac1c77bc47256776de7a67d"
+   },
+   {
+    "id": "ED0-006",
+    "start": 40.0,
+    "end": 46.78,
+    "en": "I locked away the past of my weaker self.",
+    "romaji": "Yowai jibun no kako ni kagi o kaketa",
+    "jp_sha256": "d413c1ccc59a5c3c2feb74b3598c207e3c6593613dfeaeeee48ab9164f45192e"
+   },
+   {
+    "id": "ED0-007",
+    "start": 48.66,
+    "end": 55.64,
+    "en": "Crossing the night, linking the stars—",
+    "romaji": "Yoru o koe, hoshi o tsunagi",
+    "jp_sha256": "49f0e1d0f9d1eee55825e11478eebf6929de514cbcd0d25b5ddd2f97d8c6ed15"
+   },
+   {
+    "id": "ED0-008",
+    "start": 58.42,
+    "end": 66.58,
+    "en": "I want to keep dreaming the same dream forever.",
+    "romaji": "Itsumademo onaji yume mite itai",
+    "jp_sha256": "55e7ff913f8cf049c23f1ea3383cf7cb31e64775ab3e4cc79de7c0ead5554255"
+   },
+   {
+    "id": "ED0-009",
+    "start": 68.58,
+    "end": 72.28,
+    "en": "There may still be time, right now.",
+    "romaji": "Mada maniau kamo shirenai, ima nara",
+    "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+   },
+   {
+    "id": "ED0-010",
+    "start": 72.28,
+    "end": 78.46,
+    "en": "Before time carries us away,",
+    "romaji": "Toki ga futari o tsuresaru mae ni",
+    "jp_sha256": "290116c31130151cf400741ce17d0bbe3854022b8c595ea0ffa7480ef8a4e014"
+   },
+   {
+    "id": "ED0-011",
+    "start": 78.46,
+    "end": 82.7,
+    "en": "returning to that day, once more,",
+    "romaji": "Ano hi ni kaette, mou ichido",
+    "jp_sha256": "2696a8c28f9c4cade7bb8d624468f69f56bfe125bc5db67606e13982c03d1ba6"
+   },
+   {
+    "id": "ED0-012",
+    "start": 82.7,
+    "end": 87.02,
+    "en": "I want to find you again.",
+    "romaji": "Anata ni meguriaitai",
+    "jp_sha256": "bdaa1771f0d6fdfb203bab3f3031dd6a0326849ec93960e6350ad925f4d35fd7"
+   },
+   {
+    "id": "ED0-013",
+    "start": 98.64,
+    "end": 107.1,
+    "en": "Even our tangled hearts\ncan surely be tied together again.",
+    "romaji": "Karamiatta kokoro mo, kitto musubinaoseru",
+    "jp_sha256": "89aa3237d3ad98344c5691d9ad8b15e59a7c2cb53135f042645459f6eaea7556"
+   },
+   {
+    "id": "ED0-014",
+    "start": 108.5,
+    "end": 115.52,
+    "en": "Just looking into your eyes\nmade my heart tremble.",
+    "romaji": "Hitomi mitsumeru dake de, mune ga furueta",
+    "jp_sha256": "bd884edc56a5f2c66078f1435f8751271b42d139698e182027fb7cd8bf56cbe2"
+   },
+   {
+    "id": "ED0-015",
+    "start": 117.38,
+    "end": 120.24,
+    "en": "That tenderness,",
+    "romaji": "Yasashisa ga",
+    "jp_sha256": "8f7fdc2154ddcf06589e568745ce22652aa76c8fb1c4d398edacfc31c39b1baf"
+   },
+   {
+    "id": "ED0-016",
+    "start": 120.24,
+    "end": 124.22,
+    "en": "that warmth",
+    "romaji": "Nukumori ga",
+    "jp_sha256": "60e59e084645ee0bfee43f8a6ee9e69e2d00be7d2ee1d8b570b9cb6324b2b16e"
+   },
+   {
+    "id": "ED0-017",
+    "start": 124.22,
+    "end": 129.06,
+    "en": "will always",
+    "romaji": "Itsumademo",
+    "jp_sha256": "b7c9841525033095eae60ec966e46e20fa5e9492307e8cd2fcba3abdafcaea7c"
+   },
+   {
+    "id": "ED0-018",
+    "start": 129.06,
+    "end": 135.0,
+    "en": "remember you.",
+    "romaji": "Anata o oboeteru",
+    "jp_sha256": "38f0dd5fc0b13dde614effa11c42e4f416ba3cade35f9c113fe3becf96983950"
+   },
+   {
+    "id": "ED0-019",
+    "start": 136.72,
+    "end": 141.02,
+    "en": "There may still be time, right now.",
+    "romaji": "Mada maniau kamo shirenai, ima nara",
+    "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+   },
+   {
+    "id": "ED0-020",
+    "start": 141.02,
+    "end": 147.0,
+    "en": "Before time tears us apart,",
+    "romaji": "Toki ga futari o hikisaku mae ni",
+    "jp_sha256": "253020252ee6861c1b1918e15b98fc0bede0c58a141c11ece07d556d59af6b77"
+   },
+   {
+    "id": "ED0-021",
+    "start": 147.0,
+    "end": 151.08,
+    "en": "drawing the thread of fate closer,",
+    "romaji": "Unmei no ito o hikiyosete",
+    "jp_sha256": "e280ea320b7b9de70d85ea9cea55e91c9a7634c99caa6e4d830d690474936e27"
+   },
+   {
+    "id": "ED0-022",
+    "start": 151.08,
+    "end": 154.86,
+    "en": "I want to reach you…",
+    "romaji": "Anata ni tadoritsukitai…",
+    "jp_sha256": "1eda19e86652797de17545653d766e5cb0976c7bd858f0bca99d49e7b6b5e6c4"
+   },
+   {
+    "id": "ED0-023",
+    "start": 156.26,
+    "end": 160.66,
+    "en": "There may still be time, right now.",
+    "romaji": "Mada maniau kamo shirenai, ima nara",
+    "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+   },
+   {
+    "id": "ED0-024",
+    "start": 160.66,
+    "end": 166.66,
+    "en": "Before time carries us away,",
+    "romaji": "Toki ga futari o tsuresaru mae ni",
+    "jp_sha256": "290116c31130151cf400741ce17d0bbe3854022b8c595ea0ffa7480ef8a4e014"
+   },
+   {
+    "id": "ED0-025",
+    "start": 166.66,
+    "end": 170.88,
+    "en": "returning to that day, once more,",
+    "romaji": "Ano hi ni kaette, mou ichido",
+    "jp_sha256": "2696a8c28f9c4cade7bb8d624468f69f56bfe125bc5db67606e13982c03d1ba6"
+   },
+   {
+    "id": "ED0-026",
+    "start": 170.88,
+    "end": 174.74,
+    "en": "I want to find you again.",
+    "romaji": "Anata ni meguriaitai",
+    "jp_sha256": "bdaa1771f0d6fdfb203bab3f3031dd6a0326849ec93960e6350ad925f4d35fd7"
+   },
+   {
+    "id": "ED0-027",
+    "start": 215.22,
+    "end": 219.22,
+    "en": "There may still be time, right now.",
+    "romaji": "Mada maniau kamo shirenai, ima nara",
+    "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+   },
+   {
+    "id": "ED0-028",
+    "start": 220.1,
+    "end": 225.4,
+    "en": "Before that radiance becomes a memory,",
+    "romaji": "Kagayaki ga omoide ni kawaru mae ni",
+    "jp_sha256": "fbb7bde1bb8b303b1ff7e846e9f8dadd63d24e11753e5dd67a35a76a8b3f63c2"
+   },
+   {
+    "id": "ED0-029",
+    "start": 225.4,
+    "end": 229.62,
+    "en": "with eternity at stake, once more,",
+    "romaji": "Eien o kakete, mou ichido",
+    "jp_sha256": "24d9be809a5082d5c8c9b48ee2c488677250bf1162fed1afa3d1ba9f556b1b5f"
+   },
+   {
+    "id": "ED0-030",
+    "start": 229.62,
+    "end": 233.2,
+    "en": "tie the threads between us.",
+    "romaji": "Futari no ito o tsunaide",
+    "jp_sha256": "6584c141a86d724a82322fe5f48828a1d14a4986c22608ea2adcd84921443089"
+   },
+   {
+    "id": "ED0-031",
+    "start": 234.62,
+    "end": 239.04,
+    "en": "There may still be time, right now.",
+    "romaji": "Mada maniau kamo shirenai, ima nara",
+    "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+   },
+   {
+    "id": "ED0-032",
+    "start": 239.04,
+    "end": 244.92,
+    "en": "Before time tears us apart,",
+    "romaji": "Toki ga futari o hikisaku mae ni",
+    "jp_sha256": "253020252ee6861c1b1918e15b98fc0bede0c58a141c11ece07d556d59af6b77"
+   },
+   {
+    "id": "ED0-033",
+    "start": 244.92,
+    "end": 249.1,
+    "en": "drawing the thread of fate closer,",
+    "romaji": "Unmei no ito o hikiyosete",
+    "jp_sha256": "e280ea320b7b9de70d85ea9cea55e91c9a7634c99caa6e4d830d690474936e27"
+   },
+   {
+    "id": "ED0-034",
+    "start": 249.1,
+    "end": 252.8,
+    "en": "I want to reach you…",
+    "romaji": "Anata ni tadoritsukitai…",
+    "jp_sha256": "1eda19e86652797de17545653d766e5cb0976c7bd858f0bca99d49e7b6b5e6c4"
+   }
+  ]
+ },
+ "name_audit": {
+  "base_entries": 1705,
+  "base_glossary_sha256": "f5ef15f4d4fbf01b7571371e80935ec8fee0f52e6e77b430a2673062b65690fe",
+  "changes": [
+   {
+    "member": 465,
+    "cue": 0,
+    "old": "The continent of Claudia floats upon a sea of clouds.",
+    "en": "The continent of Claudia floats upon the Cloud Sea.",
+    "entry": 905
+   },
+   {
+    "member": 465,
+    "cue": 2,
+    "old": "...was about to venture into an unknown sea of clouds.",
+    "en": "...was about to venture into the unknown Cloud Sea.",
+    "entry": 905
+   },
+   {
+    "member": 478,
+    "cue": 0,
+    "old": "Ciela, pursued across the sea of clouds, was the queen of the Kingdom of Na.",
+    "en": "Ciela, pursued across the Cloud Sea, was the queen of the Kingdom of Na.",
+    "entry": 905
+   },
+   {
+    "stage": "explicit_ASR_timing_review",
+    "member": 263,
+    "cue": 0,
+    "old": [
+     0.0,
+     5.88
+    ],
+    "new": [
+     0,
+     7.32
+    ],
+    "basis": "877 compact word brackets;866 held-vowel end for263/407; no human synchronization claim"
+   },
+   {
+    "stage": "explicit_ASR_timing_review",
+    "member": 404,
+    "cue": 1,
+    "old": [
+     9.66,
+     11.04
+    ],
+    "new": [
+     9.7,
+     11.84
+    ],
+    "basis": "877 compact word brackets;866 held-vowel end for263/407; no human synchronization claim"
+   },
+   {
+    "stage": "explicit_ASR_timing_review",
+    "member": 405,
+    "cue": 1,
+    "old": [
+     4.74,
+     11.64
+    ],
+    "new": [
+     9.58,
+     11.78
+    ],
+    "basis": "877 compact word brackets;866 held-vowel end for263/407; no human synchronization claim"
+   },
+   {
+    "stage": "explicit_ASR_timing_review",
+    "member": 407,
+    "cue": 1,
+    "old": [
+     5.5,
+     11.48
+    ],
+    "new": [
+     9.9,
+     11.78
+    ],
+    "basis": "877 compact word brackets;866 held-vowel end for263/407; no human synchronization claim"
+   }
+  ],
+  "supplemental_term": {
+   "en": "Toryuken",
+   "scope": "Project romanization for Ryujinmaru sword; no official English claim",
+   "source": "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=5325&prd_id=4573102654236000"
+  }
+ },
+ "qualifications": [
+  "Transcription and cue timing are Whisper-derived and source-text reviewed, not certified by a human hearing.",
+  "Unresolved movie audio remains unchanged and is not certified silent.",
+  "No extra album verses are added to the opening."
+ ],
+ "held_movie_members": [
+  250,
+  251,
+  252,
+  311,
+  312
+ ],
+ "timing_followup_members": [
+  263,
+  404,
+  405,
+  407
+ ],
+ "input_guards": {
+  "movie874_editorial.json": "17463a73bb5c52c4fc91cf50bd212e024ebfef577e4fe69bfba1685f42c4a271",
+  "movie873_preview_decisions.json": "a306197b497cbba732ca3dc1bfcb4da5811c079fd8c0154a26155208785ca444",
+  "movie865_accuracy.json": "71f1759e9cd653c83513ba8bf67a8ea666a9de953eff7da6cdd925160373f54d",
+  "movie876_attack_accuracy.json": "6e8a5a2157d229178c458ad888eed250a5b9ce236b55a2407d78d068df6c532a",
+  "movie869_attack_language.json": "2da2ea180e8d5a2d65a5b442da1259ace04be82bba2eae2935e0b48f813c4334",
+  "movie_whisper877.jsonl": "5a6a022254841ae157f5dd96fd7d49f1ec6537cb822280795c99b6ad7ca932fb"
+ },
+ "proof": {
+  "report_sha256": "6f2cb23889cac170969b3984bb94af9fd54a1227ae7ba2a4a1e1575752868d7c",
+  "saved_english_input_sha256": "a9d9c22c0555056559183c0ca313ce794d50a986474e3c52394f2d57ba1d7d7e",
+  "correction": "M465-4 begins to began; changed cue and adjacent past-tense clauses reread after correction."
+ },
+ "additional_heading_review": {
+  "source": "Original preview heading sampled in movie882 first150 source frames",
+  "source_label": "Source label has next-episode and preview components.",
+  "en": "Next Episode Preview",
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "proofreading": "complete",
+  "reviewer": "term_research156; approved complete label in current turn"
+ }
+}

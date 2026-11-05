@@ -1,0 +1,811 @@
+{
+ "table": "04928_10406",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:8190A202}{C:81958296512F00000000}Apparently an enemy called the Gon Jem Squad\nis somewhere nearby.\n\n{C:81958296522F00000000}I hear they're mercenaries.\nAs a negotiator,\nI'll go and talk to them.\n\n{C:81900200}{C:81958296532F00000000}Isn't that dangerous?\n\n{C:8190A202}{C:81958296542F00000000}Negotiations\nalways go hand in hand with danger.\nThe more dangerous, the more interesting.\n\n{C:81930100}{C:81958296552F00000000}Still, our information says\nthey're called the Filth of {C:819782830300}Giganos{C:819782830000},\nso please be careful.\n\n{C:8190A202}{C:81958296562F00000000}Understood.\nI'll be careful.\n\n\n\n{x00}",
+   "source_sha256": "7220bb4f9d650b436bc11a9bba646a29050bdb8909b29f406a77edb4709cd30a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81935E02}{C:81958296572F00000000}Spare me the bullshit.\nWhat I want is money! Money!\nHow much is your outfit offering?\n\n{C:8193A202}{C:81958296582F00000000}How much?\nI believe there are matters\nwe ought to discuss first...\n\n{C:81935F02}{C:81958296592F00000000}Well, aren't you impressive,\nMr. Negotiator?\n\n{C:81935E02}{C:819582965A2F00000000}Captain {C:819782830400}Min{C:819782830000}, keep your mouth shut.\n\n{C:819582965B2F00000000}Let's see. If we're adding conditions,\nyou can compensate us for the damage\nwe took fighting you, too.\n\n{C:8193A202}{C:819582965C2F00000000}You would demand even that?\nNegotiations are conducted between equals.\nDo you have any intention of negotiating?\n\n{C:81935E02}{C:819582965D2F00000000}I never had any intention of negotiating.\nI just wanted a look at the mug\nof the fool who proposed negotiations.\n\n{C:8193A202}{C:819582965E2F00000000}What?!\n\n{C:81936102}{C:81958296602F00000000}That's how it is.\nNow that you understand, get lost!\nHya ha ha ha ha!\n\n{C:8193A202}{C:81958296612F00000000}This is distasteful. Good day.\n\n\n{x00}",
+   "source_sha256": "c0a24f9b060da092aa0534877b71b34ed4ed1c42909d7f51af332e43a7647eca",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81900200}{C:81958296622F00000000}Roger!\nYou're safe!\n\n{C:81930100}{C:81958296632F00000000}How... did the negotiations go?\n\n{C:8190A202}{C:81958296642F00000000}You both waited for me?\nThank you.\n\n{C:81958296652F00000000}There were no negotiations.\nThey never intended\nto negotiate in the first place.\n\n{C:81930100}{C:81958296662F00000000}I see.\nThank you for trying, Roger.\n\n{C:8190A202}{C:81958296672F00000000}I'm sorry, but I'm tired.\nI'll go back to the Astante II\nand get some rest.\n\n{C:81930100}{C:81958296682F00000000}Yes, of course.\n\n\n\n\n{x00}",
+   "source_sha256": "709f70b8d678c2a45ef6d0e58cfcf28e8cd6dcf2675fba0d237e8601cf9e2a74",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:8190C001}{C:81958296802F00000000}So you've finally all shown your ugly mugs.\n\n{C:8190C202}{C:81958296240100000000}Master!\nWhat's the situation?\n\n{C:8190C001}{C:81958296812F00000000}It's not good.\nNatsumi was taken by the Four Masho to \n{C:819782830300}Arago Castle{C:819782830000}.\n\n{C:8190AD02}{C:81958296822F00000000}What?!\nWeren't you supposed\nto be protecting her?!\n\n{C:8190C001}{C:81958296832F00000000}If certain fools didn't start fighting\nevery time they met up,\nI could have stayed with Natsumi!\n\n{C:8190C402}{C:81958296842F00000000}Let's discuss\nwhat we should do.\n\n{C:8190AA02}{C:81958296862F00000000}Kira is right.\nWhat should we do, Master?\n\n{C:8190C702}{C:81958296872F00000000}Is there any way?\n\n{C:8190C001}{C:81958296892F00000000}There is just one.\nDomon.\nThe Shuffle Alliance is all here, yes?\n\n{C:8190B501}{C:819582968A2F00000000}Yes!\n\n{C:8190C001}{C:819582968C2F00000000}Then concentrate your power\nas the Shuffle Alliance right here!\nGet on with it!\n\n\n{x00}",
+   "source_sha256": "d52d1a59c7f1e62d66c488e5f5c13f61bc05410a66f9327da2f73763103fa694",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:8190B501}{C:819582968D2F00000000}I'm sorry, everyone.\nLend me your strength.\n\n{C:8190B901}{C:819582968E2F00000000}If it's for justice, I will.\n\n\n{x00}",
+   "source_sha256": "88c697fd0056ef66724893460dbdf4bfbff6cc798deb0813c565965509c6efa0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:8193BA01}{C:819582968F2F00000000}Black Joker!\n\n{C:8193B901}{C:81958296902F00000000}Jack in Diamond!\n\n{C:8193B701}{C:81958296912F00000000}Queen the Spade!\n\n{C:8193B801}{C:81958296260100000000}Club Ace!\n\n{C:8193B501}{C:81958296922F00000000}And...\nKing of Hearts!\n\n\n{x00}",
+   "source_sha256": "5a0b82d9735aec4268aa9b0e3c7fe74f7d7c756ac678e1afe71b747fc84603a8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:8193B501}{C:81958296550200000000}We are the Shuffle Alliance!\n\n\n\n\n{x00}",
+   "source_sha256": "caa140eb2a4d831c017eed9779975a9fe93f82e016025d67517b322a51d5b71c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:8193C001}{C:819582969F2F00000000}We managed to break through\nthe Yoja barrier.\n\n{C:8190AB02}{C:81958296A02F00000000}To think Arago Castle was there!\n\n{C:8190C001}{C:81958296A12F00000000}Now, let's go.\n\n\n\n\n{x00}",
+   "source_sha256": "31f327ef2e0acc8523a61129d73bbb9ade10c042b7df2f656fef7b35a8340547",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81930100}{C:81958296A22F00000000}I can't do anything to help,\nbut may I come too?\n\n{C:8190B501}{C:81958296A32F00000000}I'll leave the driving to you.\nYou're the best at it.\n\n{C:81930100}{C:81958296A42F00000000}Thank you, Domon.\n\n\n\n\n{x00}",
+   "source_sha256": "e71061a5528f566dfd51b68e5cdbf6c546b55c06581ba6abf8459ed8018c60b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:8190C001}{C:81958296A52F00000000}From here on, it's one battle after another.\nDon't let your guard down!\n\n{C:8190C102}{C:81958296A62F00000000}Uwoooooh!\nI'm itching for a fight!\n\n{C:8190B602}{C:81958296A72F00000000}Master Asia, have you betrayed us?!\n\n{C:8190C001}{C:81958296A82F00000000}No more talk!\n\n\n\n{x00}",
+   "source_sha256": "1147443ffc1edf45fa5bffc2322ac7b73eeba8c62a25d8db5393f507f5a74350",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:8190BD02}{C:81958296AA2F00000000}Master Asia, Undefeated of the East...\nWhatever you call yourself,\nwhat exactly are you trying to do?!\n\n{C:8190BE02}{C:81958296AB2F00000000}Yeah, I'd like to know too.\n\n{C:8190C602}{C:81958296AC2F00000000}Would you tell us, old man?\n\n{C:8190C001}{C:81958296AD2F00000000}You can't understand unless I explain...\nThat's why you're all idiots!\n\n{C:8190B501}{C:81958296B02F00000000}Master!\nWe're risking our lives in these battles!\nPlease explain it to them!\n\n{C:8190C001}{C:81958296B12F00000000}Arago learned of a baby who crossed time and space\nand is plotting to take\nthat power for himself.\n\n{C:81958296B22F00000000}I learned of this before anyone else\nand took action, but I couldn't\nfind out where Arago was.\n\n{C:8190C702}{C:81958296B32F00000000}So you infiltrated the enemy's ranks.\n\n{C:8190C001}{C:81958296B42F00000000}Precisely.\nBut I couldn't locate his castle without gaining his trust.\n\n{C:8190AD02}{C:81958296B52F00000000}So you turned against us\nand took Natsumi away from us?\n\n{C:8190C001}{C:81958296B62F00000000}I never imagined the Four Masho\nwould do what they did, though.\nThat was the one thing I miscalculated.\n\n{C:8190C802}{C:81958296B72F00000000}Forget about that for now.\nLet's hurry up and rescue Natsumi and the others!\n\n{C:8190C102}{C:81958296B92F00000000}Oh, what a splendid idea!\nI think you and I will get along, little monkey!\nCome on, let's get moving!\n\n{C:8190C001}{C:81958296BA2F00000000}Hmm, you're right.\nFor now, I'll devote all my strength\nto rescuing Natsumi and Mirai.\n\n\n\n{x00}",
+   "source_sha256": "d81ffd6e8526afbe9c0cc41dcd397708a10e3ee176d6f0d38db660e493072859",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:8190B102}{C:81958296BB2F00000000}I commend you\nfor getting this far inside!\n\n{C:8190B202}{C:81958296BC2F00000000}I thought you were acting strangely.\nSo you did betray us after all,\nMaster Asia!\n\n{C:8190C001}{C:81958296BD2F00000000}Betrayal?\nThat word applies to comrades.\nI was never one of yours!\n\n{C:8190B302}{C:81958296BE2F00000000}Talk about\na brazen thief!\n\n{C:8190C302}{C:81958296BF2F00000000}Hah! You took Natsumi away\nwhen Master wasn't there.\nYou've got a nerve!\n\n{C:8190AE02}{C:81958296C02F00000000}Quit your whining\nand come at us, Four Masho!\n\n{C:8190B402}{C:81958296C12F00000000}Enough of your insolence!\nPrepare yourselves, brats!\n\n\n\n\n{x00}",
+   "source_sha256": "96fd37f4f8db3b2a40fac0b000993280e8a70aa7ec54d37d74d332b02621b636",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:8190B502}{C:81958296C22F00000000}Four Masho, gather before me!\n\n{C:8190B102}{C:81958296C32F00000000}Lord Arago?!\n\n{C:8190B302}{C:81958296C42F00000000}Next time, we'll settle this once and for all!\n\n\n{C:8190BC02}{C:81958296C52F00000000}With all of us together,\nwe should be able to manage.\n\n{C:8190B801}{C:819582962A0100000000}Heh heh, this is a piece of cake!\n\n{C:8190BD02}{C:81958296C62F00000000}We shouldn't get careless.\n\n{C:8190C902}{C:81958296C72F00000000}Hmph! Why are humans\nsuch cowards?\n\n{C:8190C202}{C:819582962C0100000000}Shall we rest a little before going on?\n\n{C:8190C001}{C:81958296C92F00000000}Our next battle will likely be against Arago.\nA rest would be wise.\n\n\n{x00}",
+   "source_sha256": "300cb74bbdd738d3a6b95174944b54fe0eefd44d14ad421da1b87a87dde64419",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:8190BF02}{C:81958296CA2F00000000}We must get Natsumi back,\nno matter what!\n\n{C:8190AC02}{C:81958296CC2F00000000}All right, let's go!\n\n\n\n\n{x00}",
+   "source_sha256": "d998c2ec96435d6412d80f3b6f4139adec2b9d18845e79b461c07b9006db48f0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:8190B102}{C:81958296C43700000000}Everyone, wait.\n\n{C:8190B202}{C:81958296C53700000000}What is it, Shuten?\n\n{C:8190B102}{C:81958296C63700000000}Don't you think\nLord Arago is acting strangely?\n\n{C:8190B402}{C:81958296C73700000000}You think so too?\n\n{C:8190B302}{C:81958296C83700000000}So you've all felt it as well?\n\n{C:8190B202}{C:81958296C93700000000}It seems none of us\ncan make sense of it.\n\n{C:8190B102}{C:81958296CA3700000000}I suspect that Lord Arago\nmay be an impostor.\n\n{C:8190B302}{C:81958296CB3700000000}If that's true, what will you do?\n\n{C:8190B402}{C:81958296CC3700000000}Surely you don't mean to defy him?\n\n{C:8190B102}{C:81958296CD3700000000}If he truly is Lord Arago,\nthere's no way we could win.\nShall we try fighting him?\n\n\n{C:8190C001}{C:81958296CE3700000000}You seem to be wavering.\nUnderstandably so.\n\n{C:8190B102}{C:81958296CF3700000000}Master,\ndo you know something?\n\n{C:8190C001}{C:81958296D13700000000}Your leader is an impostor.\nThough I don't know where the real one is.\n\n{C:8190B302}{C:81958296D23700000000}How do you expect us\nto believe that?\n\n{C:8190C001}{C:81958296D33700000000}You fool!\nHow dare you call yourselves the Four Masho\nwhen you can't even see that?!\n\n{C:8190B202}{C:81958296D43700000000}I'll side with Master Asia.\nIf Lord Arago is an impostor,\nI cannot let that impostor go unpunished.\n\n{C:8190B402}{C:81958296D53700000000}So we are to fight?\nThen I'll join you.\n\n{C:8190B102}{C:81958296D63700000000}Master,\nwe would like you\nto let us join your group as well.\n\n{C:8190AD02}{C:81958296D83700000000}What?!\nThere's no way\nI'll fight alongside the likes of you!\n\n{C:8190B302}{C:81958296D93700000000}Then shall we settle this right here?!\n\n{C:8190C001}{C:81958296DA3700000000}Kaaaah!\nStop it, you fools!\n\n{C:81958296DB3700000000}This is not where we belong!\nA true battle is fought where one belongs!\nDo not fight meaningless battles!\n\n{C:8190B102}{C:81958296DC3700000000}You are right.\n\n{C:8190AA02}{C:81958296DD3700000000}Then let us fight together.\n\n{C:8190B202}{C:81958296DE3700000000}Very well.\nBut if Lord Arago is not an impostor,\nwe will strike you down at once!\n\n{C:8190AB02}{C:81958296DF3700000000}I'd like to see you try!\n\n{C:81930100}{C:81958296E03700000000}Well, let's move on.\n\n{C:8190C001}{C:81958296E13700000000}Good. Let's head to the final battlefield!\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "88bea3743553a30634c555163d5238d98a8ef25e1e2cc53a658741bce24d4805",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:8190B502}{C:81958296CD2F00000000}Welcome, you fools!\nI will deal with you personally!\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "1163a4121e6248ea99b6e888cee826f9b35f67539bd7da35cf11e80c9c63defd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:8190AA02}{C:81958296CE2F00000000}I've found Natsumi!\n\n{C:8190C602}{C:81958296CF2F00000000}We must get out at once!\nEveryone, hurry!\n\n\n\n\n\n{x00}",
+   "source_sha256": "4917a58fdb2b4a82d1a42ad4b41fb3391a68cdc30bb1682b3b578c6bde754245",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:8190C402}{C:81958296D02F00000000}Natsumi won't wake up.\nWhat's wrong with her?\n\n{C:8193DA02}{C:81958296D12F00000000}Mmm...\n\n{C:8190BC02}{C:81958296D22F00000000}She's awake!\n\n{C:8190DA02}{C:81958296D42F00000000}Good morning...\nWhat's going on?\nWhy is everyone here?\n\n\n{x00}",
+   "source_sha256": "8925b0739bc9f7f4e27014cec4e782ea312543503979159f403d4c52fa4af51f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:8190C902}{C:81958296D62F00000000}This kid\ndoesn't remember a thing?\n\n{C:8190DA02}{C:81958296D72F00000000}Huh? What?\nDid something happen?\n\n{C:81930100}{C:81958296D82F00000000}If she doesn't remember,\nwhy don't we just leave it at that?\n\n{C:8190C302}{C:81958296D92F00000000}What?!\nThen all our hard work...\n\n{C:8190C001}{C:81958296DA2F00000000}Hah ha ha ha ha ha!\nWhat does our hard work matter?\nIt's just a drop in the ocean!\n\n{C:8190C702}{C:81958296DB2F00000000}Those are fine words.\n\n{C:8190B501}{C:81958296DD2F00000000}That's my master!\n\n{C:8190C001}{C:81958296DE2F00000000}Enough flattery.\n\n{C:81958296DF2F00000000}You still have things\nyou must do, don't you?\nGo on, then.\n\n{C:8190C602}{C:81958296E02F00000000}What will you do?\nWon't you come with us?\n\n{C:81930100}{C:81958296E12F00000000}I'd like to ask too.\nWould you please come with us?\n\n{C:8190C001}{C:81958296E22F00000000}Hmm... That might not be so bad.\nI think I'll join you.\n\n{C:81930100}{C:81958296E32F00000000}Then let's go!\n\n\n\n\n{x00}",
+   "source_sha256": "2085e13aba4750bb76be08131601a7890a9606795ee05c3cf3135a4c84142baa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930100}{C:81958296472E00000000}It's Rie and the others...\nThat's an interesting group.\nWell, I'd better not disturb them.\n\n\n\n{x00}",
+   "source_sha256": "bd13dd68f28da82871df7767cec35461ce9eed19cb51574292723d947abb2322",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81939F02}{C:81958296482E00000000}...That's what happened.\nHonestly, Van\nis so rude!\n\n{C:8193A102}{C:81958296492E00000000}You is much the same.\nHe kisses me at every opportunity.\nIn front of everyone, too!\n\n{C:81930300}{C:819582964A2E00000000}Wow, how bold!\n\n{C:819582964B2E00000000}Still, you two are lucky.\nYou have someone you can talk about like that.\nAll I have is my big brother...\n\n{C:8193A102}{C:819582964C2E00000000}What? That's not so bad.\nHe seems nice.\n\n{C:81939F02}{C:819582964D2E00000000}I agree!\nHe's really sweet!\n\n{C:81930300}{C:819582964E2E00000000}Do you think so?\nI'm the one\nwho envies you two.\n\n{C:8193A102}{C:819582964F2E00000000}The grass is always greener, as they say.\nWant to trade him for You?\n\n{C:81930300}{C:81958296502E00000000}What?!\nNo, no, no!\n\n{C:81939F02}{C:81958296512E00000000}See? That's why Nelfea\nsays you've got a brother complex!\n\n\n\n\n{x00}",
+   "source_sha256": "6c82702516d68b133aa40e18ef13696d9640d5d7f9f9e424ea056ca31df8adbf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:8193A302}{C:819582965E2E00000000}Norman.\n\n{C:8193A302}{C:81958296522E00000000}I don't think you need\nto do the maintenance.\n\n{C:8193A402}{C:81958296532E00000000}Making sure Master Roger can use\nthe Megadeus whenever he wishes\nis part of my job.\n\n{C:8193A302}{C:81958296542E00000000}Then Roger ought\nto do it himself.\n\n{C:8193A402}{C:81958296552E00000000}Unfortunately, Master Roger\ncannot maintain the Megadeus.\n\n{C:8193A302}{C:81958296562E00000000}He's clumsy, then.\n\n{C:8193A402}{C:81958296572E00000000}No, no. Master Roger\nsimply lacks the necessary knowledge.\n\n{C:8193A302}{C:81958296592E00000000}I see.\nThen I suppose it can't be helped.\n\n{C:8193A402}{C:819582965A2E00000000}Doing maintenance\nhas its rewards, too.\n\n{C:8193A302}{C:819582965C2E00000000}Rewards?\n\n{C:8193A402}{C:819582965D2E00000000}A beautiful young lady\nmakes tea for me.\n\n{C:8193A302}{C:819582965E2E00000000}Norman.\n\n{C:8193A402}{C:819582965F2E00000000}Yes?\n\n{C:8193A302}{C:81958296602E00000000}Thank you.\n\n\n\n\n{x00}",
+   "source_sha256": "b811270609b5fad1b58c6fc06a20a7781ccd76da41f9463e3c3f12fc772c027c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81909400}{C:81958296923600000000}I've finally caught up\nwith the Astante II!\n\n{C:81930100}{C:81958296933600000000}Um, can I help you?\n\n{C:81909400}{C:81958296943600000000}I'm joining the crew today. I'm \n{C:819782830400}Yazan Gable{C:819782830000}.\nI'll be counting on you.\n\n{C:81930100}{C:81958296953600000000}Rie, have you heard about this?\n\n{C:81900300}{C:81958296973600000000}No?\nUm, Mr. Yazan...\n\n{C:81909400}{C:81958296983600000000}Oh, I decided that myself.\nI'm not being used\nby someone I know nothing about.\n\n{C:81958296993600000000}I walked out on that guy\nBinzvanker.\nBinzvanker's your enemy, right?\n\n{C:81900600}{C:819582969A3600000000}That's right.\n\n{C:81909400}{C:819582969B3600000000}At the very least, I don't want\nto team up with that bastard.\nAnd I sure as hell won't be ruled by that bastard.\n\n{C:819582969C3600000000}That's my reason.\nIt's enough, isn't it?\n\n{C:81900600}{C:819582969D3600000000}I see.\nWe can let him join us, can't we, Rie?\n\n{C:81900300}{C:819582969E3600000000}If you say so, Dad.\n\n\n\n{x00}",
+   "source_sha256": "b43e2448bb7dea12b5ebf1aabe3cc7d5e61ae822e711ca25eed1911563097a51",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81909400}{C:819582969F3600000000}Until this fighting is over,\nI'll be counting on you.\n\n\n\n\n{x00}",
+   "source_sha256": "f1e001ca3eba7eac468cf53ef1762f2695c653843cdce70f0f78fc5e51c5487c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:8193A202}{C:81958296763300000000}What do you think of this fighting?\n\n{C:8193CA02}{C:81958296773300000000}...It's pointless.\n\n{C:8193A202}{C:81958296783300000000}Heh. Is that so?\nThen why did you come aboard\nthe Astante II?\n\n{C:8193CA02}{C:819582967A3300000000}There's someone I don't like.\nNot someone out in the open,\nbut someone sneaking around behind the scenes.\n\n{C:819582967C3300000000}Besides... The people on that ship\nare fun to watch.\n\n{C:8193CA02}{C:819582967D3300000000}That's about it.\n\n\n\n\n{x00}",
+   "source_sha256": "80abc0dd89c313319060585a22f6866fac3360bf0cb6dd29386c7efdb4e116ca",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:8190E301}{C:819582968D2900000000}You realize your struggle\nwon't end easily, don't you?\n\n{C:819582968E2900000000}But there are limits\nto the help we can give you.\n\n\n\n{x00}",
+   "source_sha256": "4d13ee5fe5aef1bae119b2e7aaf9c3f16c5f60bc83516db5d5ea9b645867535c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:8190E301}{C:819582968F2900000000}This should be of some use.\n\n{C:81958296902900000000}Whatever happens, you must survive.\nIf you don't survive,\nyou have no future anyway...\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "1aeb9ff48423c134235cfc77b62510fdf7057ec93aa957994234b683fb4bf360",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81930100}{C:81958296D63000000000}Lun, have you got a moment?\n\n{C:81900200}{C:81958296D83000000000}Yes!\nWhat is it?\n\n{C:81930100}{C:81958296D93000000000}I'd like you to leave the Astante II.\n\n{C:81900200}{C:81958296DB3000000000}What? Why?\n\n{C:81930100}{C:81958296DC3000000000}I think the fighting\nis going to get even worse.\nI can't leave you in a place like that.\n\n{C:81900200}{C:81958296DD3000000000}But it's all right for Rie and Nelfea?\nThey're younger than I am.\n\n{C:81930100}{C:81958296DF3000000000}That's because they've both\nhad combat training.\nIt's different for you.\n\n\n{C:81900200}{C:81958296E13000000000}I can pilot a GT too!\nIsn't that enough?\n\n{C:81900300}{C:81958296E23000000000}Heh heh heh.\nYou've lost this one, big brother!\n\n{C:81930100}{C:81958296E33000000000}Oh, Rie. You were here?\n\n{C:81900300}{C:81958296E43000000000}Yes, I was!\nI know how you feel, big brother,\nbut let's all do our best together to the end!\n\n{C:81900200}{C:81958296E63000000000}Exactly!\n\n{C:81930100}{C:81958296E73000000000}All right.\nBut please don't\npush yourself too hard.\n\n{C:81900200}{C:81958296E83000000000}I won't.\n\n\n\n{x00}",
+   "source_sha256": "c68de5d4b185247536fc34d8727344b6d0616bd1b23c02fa992df24e97920819",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81900B00}{C:81958296400100000000}How did things go?\n\n{C:81930100}{C:81958296EA3000000000}Admiral Tsuragi!\nWe destroyed the Norstan,\nbut we couldn't capture the mastermind.\n\n{C:81900B00}{C:81958296410100000000}I see...\nWell done.\n\n{C:81930100}{C:81958296EB3000000000}But the fighting isn't over yet.\nA new enemy has appeared.\n\n{C:81900B00}{C:81958296420100000000}I've received the report.\nA ghost from the past has appeared.\n\n{C:81930100}{C:81958296EC3000000000}A ghost from the past...?\n\n{C:81900B00}{C:81958296430100000000}Yes.\nPeace was almost within reach,\nand yet that person still seeks war.\n\n{C:81958296440100000000}It will be a hard fight.\nI cannot tell you not to push yourselves,\nbut please stay safe.\n\n{C:81930100}{C:81958296ED3000000000}Yes. Thank you.\n\n\n\n{x00}",
+   "source_sha256": "0c4dbf4f5a39562e96515d42b2a4babcedb27d168b0da8721610a752a7ae8091",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:8190D002}{C:81958296EE3000000000}Welcome home!\n\n{C:81930100}{C:81958296EF3000000000}Huh? This is...\n\n{C:81900600}{C:81958296F03000000000}You're late.\nWhere did you stop on the way?\n\n{C:81930100}{C:81958296F23000000000}Dad, when did you have a secret child...\n\n{C:81900600}{C:81958296F33000000000}I knew you'd say that,\nyou idiot son!\n\n{C:81958296F53000000000}Just after you left Claudia,\nsome people wandered into this world.\nWe've been looking after them.\n\n{C:8190D002}{C:81958296F63000000000}{C:819782830400}Asuka Sugo{C:819782830000} is my name.\n\n{C:81930100}{C:81958296F73000000000}Oh, hello.\n\n{C:81900600}{C:81958296F83000000000}I have a daughter named Rie as well,\nbut she's aboard the ship\nand hasn't returned yet.\n\n{C:8190D002}{C:81958296F93000000000}There are others here too,\nbut they've all gone out.\n\n{C:81930100}{C:81958296FA3000000000}Dad, just how many people\nare you looking after?\n\n{C:81900600}{C:81958296FB3000000000}There are nine altogether,\nbut the two staying with us\nare Asuka and {C:819782830400}Hayato{C:819782830000}.\n\n{C:81958296FC3000000000}I asked Rondo and the others to help too.\nThey should be all over the place.\nGo and say hello if you like.\n\n\n\n{x00}",
+   "source_sha256": "0a2eb949968e78bc47a84b2f8672a866fae802b5c89303bc8da98bedd0c78c7a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:8193D002}{C:81958296FD3000000000}Hayato...\nYou'll make yourself ill if you don't eat.\n\n{C:8193CF02}{C:81958296FE3000000000}I don't need anything.\nI don't want to eat!\n\n{C:8193D002}{C:81958296003100000000}But you won't even be able to race...\n\n{C:8193CF02}{C:81958296013100000000}Where in this world\nare there any races?!\n\n{C:81958296023100000000}Aren't you afraid, Asuka?\nWe've been thrown into a place we don't know.\n\n{C:8193D002}{C:81958296033100000000}I'm terribly afraid.\nBut... you're here, Hayato.\nI can bear it because you're with me.\n\n{C:8193CF02}{C:81958296043100000000}Asuka...\n\n\n\n\n{x00}",
+   "source_sha256": "0ad13325a426263105180ac90aa0456fcea4eb85c04f6b6610bd9fa2f21d3159",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81930700}{C:81958296223100000000}Can't you understand\nwhy I left you behind?\n\n\n{C:81930500}{C:81958296233100000000}I understand.\nBut I can pilot a GT too,\nand yet I'm not allowed to fight...\n\n{C:81930700}{C:81958296243100000000}{C:819782830400}Shuud{C:819782830000}'s wish...\nIt's what your father wanted:\nnot to have his son fight.\n\n{C:81930500}{C:81958296253100000000}But I...!\n\n\n{C:81930700}{C:81958296263100000000}{C:819782830400}Ryo{C:819782830000}...\n\n\n{x00}",
+   "source_sha256": "e960b09510f4c600d2a20a32fa1934b7964baec1e589968954cfb9f37507315c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81930100}{C:81958296273100000000}Professor, who was that boy?\n\n{C:81900700}{C:81958296283100000000}Ryo Siegel.\nHe's the son of a late comrade of mine.\n\n{C:81930100}{C:81958296293100000000}{C:819782830400}Siegel{C:819782830000}, was he the man they called\nyour right-hand man?\n\n{C:81900700}{C:819582962A3100000000}Yes.\nI don't want to drag him into the fighting,\nbut he just won't accept it.\n\n{C:81930100}{C:819582962B3100000000}He has a strong sense of justice.\n\n{C:81900700}{C:819582962C3100000000}Which is all the more reason\nI don't want him joining the fighting.\n\n{C:819582962D3100000000}If possible, I'd like him to protect his mother, {C:819782830400}Siruna{C:819782830000},\nand the girl\nhe grew up with.\n\n{C:81930100}{C:819582962E3100000000}Heh. I don't think that'll work, Professor.\n\n\n\n\n{x00}",
+   "source_sha256": "d853c9cd032a9ebb526a778ae912ef1f4b010d34fd8ce8094ad3957f5c32e63f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81900500}{C:819582963B3100000000}Professor Rondo, please let me come too!\nWith Dad gone, I'll protect\nMom and {C:819782830400}Tilfy{C:819782830000} myself!\n\n{C:81930100}{C:819582963C3100000000}See?\n\n{C:81900700}{C:819582963D3100000000}Don't give me that.\n\n{C:819582963E3100000000}Ryo, you can protect your mother and childhood friend\non Claudia as well.\nCan't you understand that?\n\n{C:81900500}{C:819582963F3100000000}But the Astante is\nthe only Cloud Ship left!\nIf it sinks, I won't be able to protect anyone!\n\n{C:81930100}{C:81958296403100000000}Professor, let's take him with us.\nWhen he's this determined,\nthere's no telling what he'll do.\n\n{C:81900700}{C:81958296413100000000}You're right.\nRyo, come with us.\nBut whatever you do, don't push yourself too hard.\n\n{C:81900500}{C:81958296423100000000}Thank you!\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "cff896509901456200a72e05e9d104ecefcc09e2b7363f62db65f4e9a51e4573",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:8193C102}{C:81958296263300000000}We Dagwon have combined\nto become more powerful before.\n\n{C:8193AC02}{C:81958296273300000000}Combined?\n\n{C:8193BD02}{C:81958296283300000000}D-don't get the wrong idea.\nWe have machines of our own,\nthough we don't have them right now.\n\n{C:8193AD02}{C:81958296293300000000}Of course.\nI thought that sounded strange.\n\n{C:8193C102}{C:819582962A3300000000}Why don't you Troopers\ntry combining with us?\n\n{C:8193BD02}{C:819582962B3300000000}Geki!\nDon't shout about combining\nin the middle of the street!\n\n{C:8193C102}{C:819582962C3300000000}Combining is a man's dream!\n\n\n{x00}",
+   "source_sha256": "dea3a4fe0283b1c816f2fa15862ce38b26505b5fc0f3c3365b1106593094a1e8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81900300}{C:819582962D3300000000}Geki!\nPlease stop! It's embarrassing!\n\n{C:8190C102}{C:819582962E3300000000}But, Rie...\n\n{C:81900400}{C:819582962F3300000000}What's the harm?\nIt's funny. Just leave him be.\n\n{C:81900300}{C:81958296303300000000}No!\n\n{C:81958296313300000000}Do you understand, Geki?\n\n{C:8193C102}{C:81958296323300000000}Very well, I understand...\n\n\n\n\n{x00}",
+   "source_sha256": "dde9405aac52d1c609b74905ea56725fe8c2972d3467dde2f708954a770d1938",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:8190B801}{C:819582965F0100000000}Bro, it's good that we have more companions\nwho can fight without machines,\nbut don't you think they're disorganized?\n\n{C:81930100}{C:81958296333300000000}I can't fight without a machine,\nso I'm in no position to lecture them,\nbut they don't seem to get along.\n\n{C:8190B501}{C:81958296343300000000}That doesn't seem to be the case.\nTake a look, both of you.\n\n\n{x00}",
+   "source_sha256": "291691b7e494cb7d84dce2b42e1c14a73315d5accf619b5d60dbe150294b929c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:8190AB02}{C:81958296353300000000}What we must do\nis rescue Natsumi.\n\n{C:8190C002}{C:81958296363300000000}So we agree on that.\nBut why do you protect her?\n\n{C:8190BC02}{C:81958296373300000000}You don't even have to think about it.\nShe's a child. She's weak.\nThe strong have to protect her.\n\n{C:8190AA02}{C:81958296383300000000}Exactly.\nBut why did you think Arago\nwas protecting the world?\n\n{C:8190AB02}{C:81958296393300000000}I'd like to know that too.\n\n{C:8190C002}{C:819582963A3300000000}I've thought so ever since\nI first met Natsumi.\n\n{C:8190BC02}{C:819582963B3300000000}Come to think of it, I feel like I couldn't\nbecome Dagwon anymore once I decided\nto hand Natsumi over to Arago.\n\n{C:8190AB02}{C:819582963C3300000000}Perhaps Arago cast\nsome sort of spell on you.\n\n{C:8190BC02}{C:819582963D3300000000}Damn Arago!\n\n{C:819582963E3300000000}No matter how you look at it,\nthe Troopers can't be in the wrong.\nWe were completely fooled.\n\n\n{C:81930100}{C:81958296403300000000}You're right.\nIt is just as you said.\n\n{C:8190B501}{C:81958296413300000000}They're warriors too.\nThey can understand each other.\n\n\n\n{x00}",
+   "source_sha256": "1ccef238a6b74941826f5428d7668130ca4bec5c723e01ea81993906f67becaa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:8193CA02}{C:81958296623300000000}So you're Domon.\nI've got a message from Master.\n\n{C:8193B501}{C:81958296633300000000}From my master?!\nWhere did you meet him?\n\n{C:8193CA02}{C:81958296643300000000}Don't get so impatient.\nHis message was, 'Trust me.'\nI have no idea what he meant.\n\n{C:8193B501}{C:81958296653300000000}Did he say\nanything else?\n\n{C:8193CA02}{C:81958296663300000000}He said, 'Keep training, you idiot apprentice.'\nThat's what he told me.\n\n{C:8193B501}{C:81958296673300000000}What did you say?!\n\n{C:8193CA02}{C:81958296683300000000}Hey, hey.\nI'm just passing on his words.\nDon't get so angry.\n\n{C:8193B501}{C:81958296693300000000}Oh, right. Of course.\n...I'm sorry!\n\n{C:8193CA02}{C:819582966A3300000000}Well, that's the message.\nSee you!\n\n\n\n{x00}",
+   "source_sha256": "f6bdbefc65295e62a536f9667aafacb9344ca65611ca9d82c7617c77d2ff3f75",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:8193D702}{C:81958296063100000000}Yooou...!!\n\n{C:81930100}{C:81958296073100000000}Whoa, they're fighting in the street!\n\n\n{x00}",
+   "source_sha256": "438db47d7146ac162af948927b05051087a3d5c59ab97456ca6e07cf5f133e87",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:8193D802}{C:81958296083100000000}I'm not saying\nI won't cooperate!\n\n{C:8193D702}{C:819582960A3100000000}Then why do you find fault\nwith every single thing I say?!\n\n{C:8193D802}{C:819582960B3100000000}Because everything you say\nis a waste of breath!\nWhy don't you use your head for once?\n\n{C:8193D702}{C:819582960D3100000000}What was that?!\n\n{C:81930100}{C:819582960E3100000000}(I don't even know them,\n so I'll just ignore them.)\n\n\n\n{x00}",
+   "source_sha256": "6f4f7ae48afe7b45f46b194ebf113f2280b2d4f855f8ae8a80ab1c023934aa76",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:8193D302}{C:819582960F3100000000}...You're saying I should\nrespect my mechanic?\n\n{C:8193B601}{C:81958296103100000000}Yes.\nMechanics work hard\nfor their drivers too.\n\n{C:81958296113100000000}But I mean respect.\nThat doesn't mean subservience.\n\n{C:8193D302}{C:81958296123100000000}That's difficult.\n\n{C:8193B601}{C:81958296153100000000}You're teammates. There's nothing difficult about it.\nJust be honest about your feelings.\nIt's simple, isn't it?\n\n{C:8193D302}{C:81958296163100000000}Honest... I'll try that.\nThank you, Ms. Mikamura.\n\n\n{x00}",
+   "source_sha256": "9e059bdb686033e7f0ac8153aed461176cc1da3656a11153e749fba15e5ab86d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:8190B601}{C:81958296173100000000}Oh, what's wrong?\nWhy are you standing there in a daze?\n\n{C:81930100}{C:81958296183100000000}Who was that?\nI've never seen him before.\n\n{C:8190B601}{C:81958296193100000000}He's just a passerby.\nHe spoke to me while I was doing maintenance.\n\n{C:819582961B3100000000}He said he wasn't getting along with his mechanic,\nso I gave him some advice.\n\n{C:81930100}{C:819582961C3100000000}You're kind even to complete strangers,\nRain.\n\n{C:8190B601}{C:819582961D3100000000}Oh, stop it!\nDon't tease me!\n\n{C:81930100}{C:819582961E3100000000}I mean it!\n\n{C:8190B601}{C:819582961F3100000000}Well, thank you.\nIf Domon were this open with me,\nit would make my life easier.\n\n{C:81958296203100000000}Now, I'd better get back to maintenance.\n\n\n{x00}",
+   "source_sha256": "44e0a375da9528a64a6ef16a35f220ca28c8d1d37585df954b11384afcccd7ad",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81930400}{C:81958296433100000000}You've got quite an attitude\nfor someone freeloading at Uncle's!\n\n{C:8193D202}{C:81958296443100000000}I'm simply being looked after.\nPlease don't use a word like freeloading.\nIt isn't elegant.\n\n{C:81930400}{C:81958296453100000000}Grrr...\nYou're really getting on my nerves.\n\n{C:81930100}{C:81958296463100000000}Nelfea,\nwhat's wrong?\n\n\n{x00}",
+   "source_sha256": "3e927115c30ba521aed75763edf39e6a21762ba87a12199b39bd43a94c2e50e0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81900400}{C:81958296473100000000}Doesn't he seem full of himself?\nHe claims he's a genius.\nSelf-proclaimed, I'm sure.\n\n{C:8190D202}{C:81958296483100000000}You're mistaken.\nEveryone recognizes my genius, myself included.\n\n{C:81930100}{C:81958296493100000000}Pfft... Ha ha ha ha ha!\n\n{C:81900400}{C:819582964A3100000000}What are you laughing at?\n\n\n{C:81930100}{C:819582964B3100000000}I think he's a lot like\nyou were when we first met, Nelfea.\n\n\n{C:81900400}{C:819582964C3100000000}Anyway, don't\ncause Uncle any trouble!\n\n{C:8190D202}{C:819582964D3100000000}I would never do\nanything so uncouth.\n\n{C:81900400}{C:819582964E3100000000}Let's leave this guy and go.\n\n{C:81930100}{C:819582964F3100000000}Don't pull so hard!\n\n\n\n{x00}",
+   "source_sha256": "df623828a7e91fb7389f43d4ab024716263eba7ddb3b2f799741eecb906b87ed",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81930100}{C:81958296503100000000}We're minors, so a bar\nisn't really our kind of place.\n\n{C:8190D502}{C:81958296DA0100000000}You there!\nYou're obviously underage.\nWhat are you doing here?\n\n\n{x00}",
+   "source_sha256": "4df3bcd0d313f3ef0af404ca30a13d2084f44aa0db79d4084bcdf1412dfc29ea",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:8190C302}{C:81958296513100000000}I didn't come here to drink alcohol.\nI just want peach juice...\n\n{C:8190D502}{C:81958296DC0100000000}Then you hardly needed\nto come all the way to a bar.\n\n{C:8190C302}{C:81958296523100000000}What a pain in the ass you are.\n\n{C:8190D502}{C:81958296DE0100000000}Underage drinking hinders mental and physical growth.\nIt does you no good at all.\nRemember that.\n\n{C:8190C302}{C:81958296533100000000}Yeah, yeah.\nPeach juice is all I'm interested in anyway,\nso it doesn't concern me.\n\n{C:81930100}{C:81958296543100000000}I'm glad I didn't go in.\n\n\n\n{x00}",
+   "source_sha256": "1bbfadde0235fe27322460c2ef26983d8fa10dde17552f0fbc388c9ebcd13d1a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:8193D402}{C:81958296553100000000}It's best to take everything easy.\n\n{C:8193AD02}{C:81958296563100000000}Yeah, you're right.\nYou can't show your true strength\nif you're all tensed up.\n\n{C:81958296573100000000}You know, that's good advice.\n\n{C:8193D402}{C:81958296583100000000}It's nothing.\nYou just looked like\nyou were carrying a lot of tension in your back.\n\n{C:81958296593100000000}I suppose I'm meddling.\n\n{C:8193AD02}{C:819582965A3100000000}No, you really helped.\n\n{C:8193D402}{C:819582965B3100000000}I'm glad.\nMy business here is done,\nso I'll be going.\n\n\n{x00}",
+   "source_sha256": "42162922e4682f03e86acae82537b3ef1f4366c87b88b3f71d73024ca31608df",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81930100}{C:819582965C3100000000}Shu, who was that?\n\n{C:8190AD02}{C:819582965D3100000000}I was thinking about Arago,\nand he came over\nand told me to relax.\n\n{C:81930100}{C:819582965E3100000000}Hmm.\n\n{C:8190AD02}{C:819582965F3100000000}He's a good guy.\nI'd like to see him again\nonce the fighting is over.\n\n{C:81930100}{C:81958296213100000000}Yes.\n\n\n\n\n{x00}",
+   "source_sha256": "9226d84f76b52577737968c01ae957980ccdc4872c389bf2501a442e34f94b9e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81930100}{C:819582962F3100000000}Are you sure this is the right way?\n\n{C:8190AA02}{C:81958296303100000000}Yes, this way.\nI can sense tremendous armor power.\n\n{C:81930100}{C:81958296313100000000}Was it really all right for only me to come?\n\n{C:8190AA02}{C:81958296323100000000}It's around here.\n\n\n{x00}",
+   "source_sha256": "b2a0d4300c959e0b5797b52ad7879f648b0869977623b18815010f2ea55120cf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:8190AA02}{C:81958296333100000000}What?!\nPower is welling up inside me!\n\n{C:81930000}{C:819782830400}Kikoutei{C:819782830000}'s power was acquired.\n\n\n{x00}",
+   "source_sha256": "e2e260059ff6090f6d1f3de530c382fe1f213a6007531b76f7d08de0ebe16c35",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:81930100}{C:81958296343100000000}{C:819782830400}Kikoutei{C:819782830000}...?\n\n{C:8190AA02}{C:81958296353100000000}You heard it too?\n\n{C:81930100}{C:81958296363100000000}I heard Kikoutei.\nDid you hear it too, Ryo?\n\n{C:8190AA02}{C:81958296373100000000}Yes. Kikoutei is the name of a Yoroi Gear.\nI've obtained a new Yoroi Gear.\n\n{C:81930100}{C:81958296383100000000}That's incredible!\nThat'll make us stronger.\n\n{C:8190AA02}{C:81958296393100000000}Yes!\nThank you for coming with me.\n\n{C:81930100}{C:819582963A3100000000}All I did was come along.\nI haven't done anything.\nWell, shall we head back?\n\n\n\n{x00}",
+   "source_sha256": "ec929716c657eb406f2b653d36b218e5754c6615c795aff57b2f6bd44609ed34",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:81935401}{C:81958296193300000000}...To me, you're already heroes,\nfighting with nothing but yourselves\nas you do.\n\n{C:8193AA02}{C:819582961A3300000000}We wear Yoroi Gear,\nso there's not much difference.\n\n\n\n{C:81935401}{C:819582961B3300000000}A hero is someone with courage.\nThat makes everyone a hero,\nincluding our friends who pilot machines.\n\n\n\n\n{x00}",
+   "source_sha256": "e258df359cd935964b2bc449e8167c4dcb354735726610e8610fbc5d2c50a8cd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:8190D902}{C:81958296743600000000}You're Mr. Akatsuki's son, aren't you?\n\n{C:81930100}{C:81958296753600000000}Yes. Who are you?\n\n{C:8190D902}{C:81958296763600000000}I'm {C:819782830400}Akira Hiyoshi{C:819782830000}.\nYour father has helped me\nin all sorts of ways.\n\n{C:81930100}{C:81958296773600000000}Oh, has he?\n\n{C:8190D902}{C:81958296783600000000}I heard you were back,\nso I thought I'd at least say hello.\n\n{C:81930100}{C:81958296793600000000}Thank you for going out of your way.\n\n{C:8190D902}{C:819582967A3600000000}Oh, it's nothing.\nSorry for holding you up.\n\n\n\n\n\n{x00}",
+   "source_sha256": "0a34882b7ffebe83f382690f6dbed58536fd395ed6a3397fd0f027791e509aa9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:8190A000}{C:81958296E13600000000}I've been waiting for you.\n\n{C:81930100}{C:81958296E23600000000}Huh? For me?\n\n{C:8190A000}{C:81958296E33600000000}Yes. You're traveling\nwith Captain Quattro, aren't you?\n\n{C:81930100}{C:81958296E43600000000}I am. Can I help you?\n\n{C:8190A000}{C:81958296E53600000000}Actually, I have a machine\nI'd like you to give to Captain Quattro.\n\n{C:81930100}{C:81958296E63600000000}That's fine,\nbut I can't accept it here.\n\n{C:81900300}{C:81958296E73600000000}Oh, big brother!\n\n{C:81900400}{C:81958296E83600000000}You don't have to point out the obvious.\n\n{C:8190A000}{C:81958296E93600000000}Ha ha... Quite right. At the \n{C:819782830300}dock{C:819782830000}, I'll have it loaded onto your ship.\n\n{C:81958296EA3600000000}But it's a prototype,\nso please keep it confidential.\n\n{C:81930100}{C:81958296EB3600000000}Understood.\nI'll check it when I get back to the dock.\n\n{C:8190A000}{C:81958296EC3600000000}Then I'll leave it in your hands.\n\n\n\n\n{x00}",
+   "source_sha256": "b7b2987b2ce328ed7435cb14eac93624815371dbaceb5d96e10af82f0f23a172",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 55,
+   "en": "\n{C:8190BA00}{C:81958296FF3600000000}We meet again.\n\n{C:81930100}{C:81958296003700000000}Oh, hello.\nYou're Haman, aren't you?\n\n{C:8190BA00}{C:81958296013700000000}Excuse me.\nAre they here?\n\n{C:81930100}{C:81958296023700000000}Did you bring us\nanother machine this time?\n\n{C:8190BA00}{C:81958296033700000000}Something like that.\n\n{C:81909E00}{C:81958296043700000000}You're awfully familiar, boy.\nBeing so approachable\ncan be quite a nuisance.\n\n{C:8190BA00}{C:81958296053700000000}L-Lady Haman!\nI-I'm terribly sorry!\n\n{C:81909E00}{C:81958296063700000000}Never mind.\nWhat have you brought this time?\n\n\n{C:8190BA00}{C:81958296073700000000}Yes, it's ready.\nIt's already been loaded onto the ship.\n\n{C:81909E00}{C:81958296083700000000}Well done.\nGive everyone my regards.\n\n{C:8190BA00}{C:81958296093700000000}Your words honor us!\nI'll pass them on.\nNow, if you'll excuse me.\n\n\n{C:81909E00}{C:819582960A3700000000}Boy, you understand without my saying it now, yes?\n\n{C:81930100}{C:819582960B3700000000}You want me to tell Captain Quattro\nto use the new machine.\n\n{C:81909E00}{C:819582960C3700000000}Exactly.\nI'm counting on you, boy.\n\n\n\n\n{x00}",
+   "source_sha256": "8da5b6d94fe80a9af467da1621a7cf9e9ee6f96b8de2d7be991e157bc8737475",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 56,
+   "en": "\n{C:81939B00}{C:81958296912900000000}You act out of concern for the world.\nYour dedication as a soldier\nis something I would like to emulate.\n\n{C:81930D00}{C:81958296922900000000}There's no need for flattery.\n\n{C:81958296932900000000}I'm going to another continent.\nWhat will you do?\n\n{C:81939B00}{C:81958296942900000000}I still have things to do on this continent,\nso I'll remain on the Terra continent.\n\n{C:81930D00}{C:81958296952900000000}I see.\nThen let us meet again, if the opportunity arises.\n\n\n{x00}",
+   "source_sha256": "cb07e285b5374ec2b7bd59a65ff6eb512fd7ec4d93316ed9a940d81ba36a6e1b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 57,
+   "en": "\n{C:81909B00}{C:81958296962900000000}Even if it was a coincidence,\nthere is a reason someone like that appeared.\n\n{C:81958296972900000000}It may be a sign\nof the tide of the times.\n\n{C:81958296982900000000}You cannot win\nby opposing such a tide.\nFor now, I shall observe the situation.\n\n\n\n\n{x00}",
+   "source_sha256": "99f4202637f7d83746d6a33f5ddd71745c896ea6f0e90bb44be3d46bb04ef37e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 58,
+   "en": "\n{C:81930100}{C:819582967A2900000000}Oh, it's Lun.\nWhat's she doing with Sai Saici\nat that stall?\n\n{C:81900200}{C:819582967B2900000000}Is this right?\n\n{C:8190B801}{C:81958296B40000000000}Whoa, miss!\nThat's salt! Salt!\n\n{C:81900200}{C:819582967C2900000000}Huh? What?\n\n{C:8190B801}{C:81958296B70000000000}And stop swinging\nthe pan around like that!\nIt's dangerous!\n\n{C:81900200}{C:819582967E2900000000}If you're going to complain so much,\nshow me how it's done, Sai Saici!\n\n\n{x00}",
+   "source_sha256": "e9d66fc3a840141c690fd176463721d4b9e9d3074433f038cb6edd1aae83246d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 59,
+   "en": "\n{C:8193B801}{C:81958296B90000000000}You do it like this,\nand just a little flick...\nThere, it's done!\n\n{C:81930200}{C:819582967F2900000000}Amaaaazing!\n\n{C:8193B801}{C:81958296BA0000000000}Heh heh heh!\nWith me on the job,\nit's a piece of cake!\n\n{C:81958296BC0000000000}You'd better try harder too, miss,\nor Bro won't like you anymore!\n\n{C:81930200}{C:81958296812900000000}It isn't like that!\nOh, Sai Saici!\nIdiot...\n\n{C:81930100}{C:81958296822900000000}Taste-testing looks scary,\nso I'd better get out of here!\n\n\n\n\n{x00}",
+   "source_sha256": "4efbb1753c51a487880034382a41b847c9b6ac534f5d879f64daac632f91e865",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 60,
+   "en": "\n{C:8190E401}{C:819582968B2900000000}Well, I don't need to say anything.\nYou know what you must do, don't you?\nDo your best.\n\n\n\n{x00}",
+   "source_sha256": "396e131157e590303dde95609f794ac2ad8cefb4beac495d2d913fd06dada28f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 61,
+   "en": "\n\n{C:8190E401}{C:819582968C2900000000}I guarantee this will be of at least some use.\nNow go.\n\n\n{x00}",
+   "source_sha256": "137cac958ae79527efb67d28a9b9c247baaf40e9d62e418e084acd8a5b20240f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all62unique499verdicts,fourshared,eightactual490groups+assessments,tenfullJP/current/proposedsevenfieldrepairs read. Accept1/3/10/14/18/32/35/39/41/42;52whole490exact,noholds. Separateall62complete510English editorialread sourceorder; no furtherchanges. Author134/independent131source scopes separated; reviewer272correctivepair afterEnglish expresslydisclosed,266incidental. Queen the Spade fixedreferencepriority, You propername notsecondperson. Actual1207preservespriorentries; shared183names/finalMAINproof follow. Alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

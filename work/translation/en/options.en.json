@@ -1,0 +1,163 @@
+{
+ "rows": [
+  {
+   "va": 2236352,
+   "en": "Message Speed",
+   "source_size": 15,
+   "source_sha256": "6641a3488fa599e1bb67882e619047396c19c9f1f190a56dd59837511d968654"
+  },
+  {
+   "va": 2236368,
+   "en": "BGM Volume",
+   "source_size": 11,
+   "source_sha256": "455f332804863e0664a69d0aa9ad4ef8fead3224423d044004880129f22aaf8c"
+  },
+  {
+   "va": 2236384,
+   "en": "SE Volume",
+   "source_size": 9,
+   "source_sha256": "674716a19ba48e497554a0b42fc646af5853be328d53c6c44132ef6cc3e0e46b"
+  },
+  {
+   "va": 2236400,
+   "en": "Voice Volume",
+   "source_size": 11,
+   "source_sha256": "f3cf5bf8fadacc4b13d1276dfcbb2e67466e5b4d14ccd262ecd0d44738209a89"
+  },
+  {
+   "va": 2236416,
+   "en": "B.E.S Volume",
+   "source_size": 15,
+   "source_sha256": "e799f92b381f3d69e0ba537154aff4dff1ba34499e9dfdb9ad4b7d06d07a5b74"
+  },
+  {
+   "va": 2236456,
+   "en": "Options",
+   "source_size": 11,
+   "source_sha256": "ac64f48d5cb2954b3b09ab8a4bc1b0f727fa139bc8faefdd2648327b27d8f941"
+  },
+  {
+   "va": 2236512,
+   "en": "Slightly Fast",
+   "source_size": 9,
+   "source_sha256": "78c85c7f4849d9014874c8c87ab89bfb444c785122f5950d6114a9994e09d09c"
+  },
+  {
+   "va": 2236528,
+   "en": "Slightly Slow",
+   "source_size": 9,
+   "source_sha256": "c96a1955bdab2517817ff6f59fd5b499f5e039fb7f209a9279c27ede3e40ec47"
+  },
+  {
+   "va": 2325456,
+   "en": "Fast",
+   "source_size": 5,
+   "source_sha256": "2f46a240ce0f614a2c40c9482f0299df7a21dfdf85f76ffd71347f2c495a03ee"
+  },
+  {
+   "va": 2325464,
+   "en": "Normal",
+   "source_size": 5,
+   "source_sha256": "55381e731a09632ac9ff5fafbffbfe6113da5183a659cc1f183ab322fc1f84a1"
+  },
+  {
+   "va": 2325472,
+   "en": "Slow",
+   "source_size": 5,
+   "source_sha256": "958e585c354690d0f81cb3546b9405fb329234106bc356ac46cf1c180e2e744d"
+  },
+  {
+   "va": 2237784,
+   "en": "Options",
+   "source_size": 11,
+   "source_sha256": "ac64f48d5cb2954b3b09ab8a4bc1b0f727fa139bc8faefdd2648327b27d8f941"
+  }
+ ],
+ "references": [
+  {
+   "kind": "code",
+   "site": 1305148,
+   "lui": 1305140,
+   "target": 2236456,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612638760,
+   "adjacent": false
+  },
+  {
+   "kind": "pointer",
+   "site": 2325700,
+   "target": 2237784
+  },
+  {
+   "kind": "pointer",
+   "site": 2236432,
+   "target": 2236352
+  },
+  {
+   "kind": "pointer",
+   "site": 2236436,
+   "target": 2236368
+  },
+  {
+   "kind": "pointer",
+   "site": 2236440,
+   "target": 2236384
+  },
+  {
+   "kind": "pointer",
+   "site": 2236444,
+   "target": 2236400
+  },
+  {
+   "kind": "pointer",
+   "site": 2236448,
+   "target": 2236416
+  },
+  {
+   "kind": "pointer",
+   "site": 2236544,
+   "target": 2325456
+  },
+  {
+   "kind": "pointer",
+   "site": 2236548,
+   "target": 2236512
+  },
+  {
+   "kind": "pointer",
+   "site": 2236552,
+   "target": 2325464
+  },
+  {
+   "kind": "pointer",
+   "site": 2236556,
+   "target": 2236528
+  },
+  {
+   "kind": "pointer",
+   "site": 2236560,
+   "target": 2325472
+  }
+ ],
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy": {
+  "report_sha256": "be49656a77823b0a9ab886722ce8e83ac4f53b03f341f426a1972149c830b81f",
+  "report": "C:\\Users\\Binh\\Documents\\Codex\\2026-10-31\\referenced-chatgpt-conversation-this-is-an\\work\\options_accuracy765.json",
+  "rows_examined": 12
+ },
+ "editorial": "Separate English-only pass: all twelve labels read in screen/table order. Standard Title Case, retain BGM/SE and unexplained B.E.S source abbreviations. Preserve the five speed grades and native ordering; no wording changes needed. Separate ship-system Options retains the broad original label.",
+ "glossary": {
+  "entries": 1681,
+  "registered_variants": 24,
+  "sha256": "d0504ff8698783f685646eb4a8bf3cae4b7d5ff56d890f2ee2d253c174cd70e2",
+  "hits": []
+ },
+ "proofreading": "Twelve saved labels checked for spelling, punctuation, capitalization and completeness. No placeholders or controls in these literals. Help text and exit questions retain prior complete approved translations."
+}

@@ -1,0 +1,17 @@
+*.iso
+*.bin
+*.afs
+*.pack
+*.p2s
+*.xdelta
+*.mp4
+__pycache__/
+work/source/
+work/output/
+work/emulator/
+work/ui/
+work/publish/
+incoming/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+work/translation/**/slices/

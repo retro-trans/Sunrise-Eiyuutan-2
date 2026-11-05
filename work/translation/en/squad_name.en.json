@@ -1,0 +1,35 @@
+{
+ "rows": [
+  {
+   "id": "ELF/rodata:00000108",
+   "va": 2229768,
+   "en": "Retake Norstan",
+   "source_size": 15,
+   "source_sha256": "aa139c61caeb63aedecd7b2e5e4929507de0b8edc69d47d0126b30e87e389105"
+  }
+ ],
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy_report_sha256": "23d878c4e06a967cb3799f02a087638632f079f7541e2da73d4cfc8445fea0cf",
+ "glossary_sha256": "f5ef15f4d4fbf01b7571371e80935ec8fee0f52e6e77b430a2673062b65690fe",
+ "editorial": "Root read complete accepted caption after accuracy and retained it as a natural action-caption squad name; no meaning or length edits.",
+ "name_audit": "Applied actual registered Norstan spelling after accuracy and editorial; zero changes. Whole active corpus variant scan recorded separately; no historical draft rewrite. Full active JSON scan for Nolstan/Nolustan/Norustan returned no matches.",
+ "layout": {
+  "font": 26,
+  "width": 178,
+  "available_name_width": 334
+ },
+ "qualifications": [
+  "Norstan is retained as the existing glossary ship name; this label does not establish a new town or location.",
+  "The Japanese is a compact nominal objective label. English Retake is an action-caption convention, not a claim that a voiced imperative, runtime mission success or specific owner is stated.",
+  "This is a project translation, not verified official English. Recapture Norstan is also semantically possible; no replacement is required.",
+  "Fourteen source text bytes exclude the NUL; the original record inspected is fifteen bytes including NUL. The proposed ASCII text is fourteen bytes plus NUL. These are source/capacity facts only, not rendered fit or runtime validation.",
+  "Some R5900 instructions are undecoded by the inspection disassembler. The bounded pointer-load/call and 16-byte copy evidence is positive; no exhaustive engine or save-compatibility proof is claimed.",
+  "No ROOT/product writes, build, execution, native tests or encoding changes performed."
+ ],
+ "proof_sha256": "fada082e299cb8d1e11e857d0ebe5ff6c60abaf7fb297633dd8125a72ed596d2"
+}

@@ -1,0 +1,31 @@
+{
+ "table": "05611_01238",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81900300}{C:819582969E3200000000}Nelfea?\n\n{C:81900400}{C:819582969F3200000000}Don't ask me.\nOr do you want to hear\nthe same answer for the fourth time?\n\n{C:81900300}{C:81958296A23200000000}No, that's all right.\n\n\n\n{x00}",
+   "source_sha256": "988b36252ad74eb16d7328f26cae8fe9b4e8b1098ec5ec8354ce686ef550b157",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296EB3200000000}At last... the final continent.\nWill this be the end of everything...?\n\n{C:81900400}{C:81958296EC3200000000}Are you scared?\n\n{C:81930100}{C:81958296ED3200000000}I'm not afraid of fighting.\n\n{C:81958296EE3200000000}(What scares me\n is not getting Lun back.)\n\n{C:8190B801}{C:819582965E0100000000}If you can think that way, you'll be fine.\nRight, Domon?\n\n{C:8190B501}{C:81958296EF3200000000}Yeah.\nBesides, we're with you too.\nDon't worry.\n\n{C:81908400}{C:81958296F03200000000}But don't get overconfident.\nCarelessness can bring unexpected danger.\n\n{C:81905401}{C:81958296F13200000000}If we all stick together,\nthere's nothing to fear.\nWe're heroes, after all!\n\n{C:81909302}{C:81958296F23200000000}That's right! With us,\nthe Ganba Team, here,\nthere's no way we'll lose!!\n\n{C:8190A802}{C:81958296F33200000000}Now, now, everyone.\nDo not let your guard down.\nThere's no telling what may happen.\n\n{C:8190CF01}{C:81958296F43200000000}Like getting shot down out of nowhere.\n\n{C:81905700}{C:81958296F53200000000}Oh, will you shut up?!\nWe'll find out when we get there!\nIsn't that enough?!\n\n{C:81900300}{C:81958296F63200000000}Now, now,\nplease calm down, Leccee.\n\n{C:81958296F73200000000}I know things will still\nbe difficult for everyone,\nbut please keep helping us.\n\n{x00}",
+   "source_sha256": "f3f846529b95c0a5495e53625968fc489034fb1e94aecb61fc0eb25023eda520",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

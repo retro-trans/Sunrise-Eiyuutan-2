@@ -1,0 +1,720 @@
+{
+ "table": "04912_10390",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n\n\n\n{C:81931601}{C:81958296F12200000000}Thanks to your efforts,\nthe excavation of Panzer Blades\nis proceeding smoothly.\n\n{C:81958296F22200000000}(Through this conflict,\nI should be able to guide humanity's evolution.)\n\n{C:81930C00}{C:81958296F32200000000}I see...\n\n{C:81931701}{C:81958296AF0100000000}You! His Majesty is addressing you in person,\nand you dare respond\nwith such insolence!\n\n{C:81931601}{C:81958296F42200000000}It's all right, High.\n\n{C:81931701}{C:81958296B00100000000}I spoke out of turn.\nForgive me, Your Majesty.\n\n\n{C:81931601}{C:81958296F62200000000}(I do not know\nwhat you are plotting.\n\n{C:81958296F82200000000}But the longer the conflict continues,\nthe better it serves my purposes.)\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "bca8aba145e63bee4f586a3bf04ea54f4a147a19c69d2855f4973b19a0f161fc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:8190D101}{C:81958296F92200000000}It's a pleasure to meet you, travelers from beyond the Cloud Sea.\nI'm {C:819782830400}Quatre Raberba Winner.{C:819782830000}\n\n{C:81958296FA2200000000}Would you let me join you\nto fight Posaydal's army?\n\n{C:81930100}{C:81958296FB2200000000}That's a very straightforward request.\n\n{C:8190D101}{C:81958296FD2200000000}Considering the movements of Posaydal's army,\nwe don't have time to take things slowly.\nWould you please let me join you?\n\n{C:81930100}{C:81958296FE2200000000}What do you think, Rie?\n\n{C:81900300}{C:81958296FF2200000000}What do I think...?\nWhat should we do, Nelfea?\n\n{C:81900400}{C:81958296002300000000}Don't pass it off to me.\nIt all comes down to whether\nwe can trust him, doesn't it?\n\n{C:8190D101}{C:81958296022300000000}I'll do anything\nto earn your trust!\n\n{C:81900300}{C:81958296032300000000}Anything?\nThen you can clean the Astante's toilets\nfor as long as you're aboard!\n\n{C:8190D101}{C:81958296052300000000}...All right.\nI've never cleaned toilets before,\nbut I'll do my very best!\n\n{C:81900300}{C:81958296062300000000}Oh, no, I'm kidding!\nThe toilet cleaning was a joke!\n\n{C:8190D101}{C:81958296072300000000}A joke...?\n\n{C:81930100}{C:81958296082300000000}Anyone willing to fight alongside us\nis more than welcome.\nIt's good to have you... May I call you Quatre?\n\n{C:8190D101}{C:81958296092300000000}Yes.\nI'm glad to be working with you too.\n\n\n\n{x00}",
+   "source_sha256": "c411a45def8d9fa57c79b7cf1970cd1199cba504f9c87b2273cb12036f6d84a5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8190D101}{C:819582960A2300000000}From what I've learned,\nthis land is ruled by \n{C:819782830400}Mardoul{C:819782830000}, who has allied with Posaydal's army.\n\n{C:819582960C2300000000}Mardoul also appears to have ties\nto a ship with the same shape\nas yours.\n\n{C:81900300}{C:819582960D2300000000}This continent's caught up in it too.\nWe have to do something, fast.\n\n{C:81930100}{C:819582960E2300000000}(That's right.\nThere's Lun to think about too.\nWe have to hurry.)\n\n{C:8190D101}{C:819582960F2300000000}I've heard there are anti-Mardoul forces,\nbut unfortunately,\nI don't know where...\n\n{C:81900400}{C:81958296102300000000}Don't you know anyone\nwho might know?\n\n{C:8190D101}{C:81958296112300000000}{C:819782830400}Azuves{C:819782830000} is an old knight\nI've heard\nis leading them.\n\n{C:81900300}{C:81958296122300000000}Azuves...\nIt looks like we'll have to find him.\n\n{C:81900400}{C:81958296132300000000}For now, let's go\nwherever we can.\n\n\n\n{x00}",
+   "source_sha256": "a4f548ba064d294f1f232403f3f84cc5a4ffc4d97370035309bde33bd6c24d34",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81901C01}{C:81958296142300000000}Hey, stop!\n\n\n{x00}",
+   "source_sha256": "9b11356d39529786c91f1f3293a44cfd59d5b447033a5d49475425c5acfbab6d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81930300}{C:81958296152300000000}Do they mean us?\n\n{C:81930400}{C:81958296162300000000}I think so, but ignore them, ignore them.\nI'm sure nothing good will come of it.\n\n{C:81930100}{C:81958296172300000000}Agreed. Let's ignore them.\n\n{C:81901C01}{C:81958296182300000000}You there!\nIgnoring me only makes you\nall the more suspicious!\n\n{C:81930100}{C:81958296192300000000}Oops. That backfired.\n\n\n{x00}",
+   "source_sha256": "646b54e50081b4929365d815ddefdb272261cc4721af4ed190fbd6001dddc6f1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81901C01}{C:819582961A2300000000}Gweh...\n\n\n{x00}",
+   "source_sha256": "fc44d10817d80057007094459ca630f09e3db76ecf9769db9a997341918fbfb2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81900E01}{C:819582961C2300000000}That was a close call.\n\n{C:81900300}{C:819582961D2300000000}Thank you very much.\nUm, your name...?\n\n\n\n{C:81900E01}{C:819582961F2300000000}This land is ruled\nby the Conqueror King, Mardoul.\nYou would do well to be careful.\n\n\n{C:81900400}{C:81958296202300000000}Aw, he's gone.\n\n{C:81900D01}{C:81958296212300000000}You silly children.\nThat was the hero Azuves\nyou've been looking for.\n\n{C:8190D101}{C:81958296232300000000}It was?!\nWe missed our chance.\n\n{C:81958296242300000000}Um, where could we go\nto meet Azuves?\n\n{C:81900D01}{C:81958296262300000000}Who knows?\nThere aren't that many places you can go.\nYou'll have to do your best on your own.\n\n\n\n\n{x00}",
+   "source_sha256": "e3378347e331d63c48124aea75dd819e513e4bf3a036357910849535adfc33df",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:8190D101}{C:819582964F2300000000}Oh, isn't that\nAzuves over there?\n\n{C:81930100}{C:81958296502300000000}It is! We did it, Quatre!\nWe've found Azuves!\n\n{C:8190D101}{C:81958296512300000000}We did.\nLet's go speak to him!\n\n{C:81930100}{C:81958296522300000000}Yeah!\n\n{C:81958296552300000000}Excuse me, Azuves!!\n\n{C:81900E01}{C:81958296562300000000}Ah, you're the people from earlier.\nWhat can I do for you?\n\n{C:81930100}{C:81958296572300000000}Are you... Azuves?\n\n{C:81900E01}{C:81958296582300000000}Indeed I am.\n\n{C:81930100}{C:81958296592300000000}We heard you're\nwith the anti-Mardoul...\n\n\n{C:81900E01}{C:819582965A2300000000}Ah, that.\nThen this isn't the place.\nLet's meet aboard your ship.\n\n{C:81930100}{C:819582965B2300000000}Yes.\n\n\n\n{x00}",
+   "source_sha256": "ca73bf172c6c91bfc0854886b415ae33e7646e3d5566dbeac752abab60967ac7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81900D01}{C:819582965E2300000000}Are you the ones\nlooking for Azuves?\n\n{C:81930100}{C:819582965F2300000000}Yes, but who are you?\n\n{C:81900D01}{C:81958296612300000000}That doesn't matter.\nYou want to know where Azuves is,\ndon't you, boys?\n\n{C:8190D101}{C:81958296622300000000}You know?!\n\n{C:81900D01}{C:81958296632300000000}{C:819782830300}Iron City{C:819782830000} is the other town.\nTry going there.\n\n{C:81900400}{C:81958296662300000000}She might be lying.\n\n{C:81900D01}{C:81958296682300000000}What a rude little girl.\nWell, whether you believe me\nis up to you boys.\n\n{C:81958296692300000000}Do as you please.\n\n\n{C:81900400}{C:819582966B2300000000}What do we do?\n\n{C:81930100}{C:819582966C2300000000}We have to find him,\nso trusting her is one option.\n\n{C:81900400}{C:819582966D2300000000}So we're just making it up\nas we go along after all.\n\n{C:81930100}{C:819582966E2300000000}That's right.\n\n\n\n\n{x00}",
+   "source_sha256": "2353c71e4fa6a3fac36fa2a0070649835e277363650b031f13986973169a6921",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81900E01}{C:819582968A2300000000}Ah, you're back.\nMy apologies for earlier.\n\n{C:819582968B2300000000}The anti-Mardoul forces\nare still far too weak.\nToo much attention would cause us trouble.\n\n{C:81930100}{C:819582968C2300000000}I'm sorry.\n\n{C:81900E01}{C:819582968D2300000000}No, no, don't worry about it.\nNow, why were you\nlooking for us?\n\n{C:81900300}{C:819582968E2300000000}We came to this continent pursuing\na ship called the Norstan.\n\n{C:819582968F2300000000}We heard it had allied\nwith someone called Mardoul here...\n\n{C:81900E01}{C:81958296902300000000}You mean to lend us your strength?\n\n{C:81930100}{C:81958296912300000000}Would you\naccept us?\n\n{C:81900E01}{C:81958296922300000000}Young people with such honest eyes\nare rare in this day and age.\nVery well.\n\n{C:81900300}{C:81958296932300000000}Thank you very much.\n\n\n{C:81900E01}{C:81958296952300000000}Then let me introduce our comrades.\nCould you take this ship\nto where they are?\n\n\n{x00}",
+   "source_sha256": "6211f76864eeb94bbe0e31e48a5d0f6f4c0f119c11a59e6c57e628c23660a250",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81900300}{C:81958296962300000000}Yes!\n\n{C:81900400}{C:81958296972300000000}This is all thanks to Quatre.\n\n{C:8190D101}{C:81958296982300000000}We found him\nbecause we all searched together.\nI didn't do it alone.\n\n{C:81930100}{C:81958296992300000000}That's not true.\nWe wouldn't have learned anything\nif you hadn't joined us, Quatre.\n\n{C:819582969A2300000000}Thanks, Quatre.\n\n{C:8190D101}{C:819582969C2300000000}Thank you.\n\n\n\n\n{x00}",
+   "source_sha256": "d692b08838e610cbbda398a94d5828e1573211aa5e36bedb0271e045c2d3179d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930E01}{C:819582969D2300000000}Forgive me, but {C:819782830300}White Valley{C:819782830000} is where\nI'd like to go as soon as possible.\nPlease head straight there.\n\n\n{x00}",
+   "source_sha256": "6e4518eb283c2854f612a2f27c9b8447e9dc2c0900f44ac2d049d0e96b0b41ea",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81900A01}{C:819582969E2300000000}Welcome back, Grandpa.\nHuh? Who are they?\n\n{C:81900E01}{C:819582969F2300000000}Ah, Jojo.\nThese people will fight Mardoul\nalongside us.\n\n{C:81900A01}{C:81958296A02300000000}Really, Grandpa?!\nAll right!\nI'll go tell everyone!!\n\n{C:81900400}{C:81958296A12300000000}He's an energetic boy.\n\n{C:81900E01}{C:81958296A32300000000}My grandson's name is {C:819782830400}Jojo.{C:819782830000} Now,\nshall we go to the square?\n\n\n\n{x00}",
+   "source_sha256": "3c3b7d6d850e81d94bcfbdcd5592677ecfdc4f17ead16e7369da7922cf30c24c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81900E01}{C:81958296A52300000000}Heroes who have crossed the Cloud Sea\nhave joined us!\n\n{C:81958296A72300000000}Comrades of White Valley!\nGive them a warm welcome!!\n\n\n{x00}",
+   "source_sha256": "c8fb6a06a885baeaed599f7a1bbe64eb83eea15627f0ce3ade5e98c5ff1f8c60",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81900B01}{C:81958296B90100000000}Aww, no!\nYou said you didn't believe it,\nJojo!\n\n{C:81900A01}{C:81958296A82300000000}Things have changed.\nI want to fight too.\n\n{C:81958296A92300000000}The blacksmith {C:819782830400}Shulove{C:819782830000} told you about \n{C:819782830400}Galient{C:819782830000}'s location.\nI want you to take me there.\n\n{C:81900B01}{C:81958296BA0100000000}{C:819782830400}A Kurakku{C:819782830000} could have its lair\nthere, you know.\n\n{C:81900A01}{C:81958296AA2300000000}Don't worry.\nI'll protect you.\n\n{C:81900B01}{C:81958296BB0100000000}Then all right.\n\n{C:81930100}{C:81958296AB2300000000}(Huh? Where are Jojo\nand the others going?)\n\n{x00}",
+   "source_sha256": "6184637c517cf0ae9fd97f767bcbd08c4a6beb92bd75b096256b872b6ac80ca0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81900E01}{C:81958296AD2300000000}I'm counting on you from here on.\nI'll remain in White Valley\nfor a while.\n\n{C:81958296AE2300000000}I must bring the people\nof the valley together.\n\n{C:81900300}{C:81958296AF2300000000}Yes, Azuves.\n\n\n\n\n{x00}",
+   "source_sha256": "c660f7d1b3dcdf40382ffdd4f64613261f89e80611d4e64ae4d5751a6775ac48",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81900D01}{C:81958296B02300000000}Oh, it's you.\nI'm glad\nyou found Azuves.\n\n{C:81930100}{C:81958296B32300000000}Just who are you?\n\n{C:81900D01}{C:81958296B52300000000}I'm {C:819782830400}Hilmocha.{C:819782830000}\nOne thing's certain:\nI'm on Jojo's side.\n\n{C:81930100}{C:81958296B72300000000}I'll believe you for now.\nBeing suspicious of people doesn't come naturally to me.\n\n{C:81900D01}{C:81958296B92300000000}You're a good boy.\nBut the young ladies there\ndon't seem convinced.\n\n{C:81900300}{C:81958296BA2300000000}I don't really...\n\n{C:81900400}{C:81958296BB2300000000}I'm not convinced.\nYou're far too suspicious.\n\n{C:81900D01}{C:81958296BD2300000000}Ahahaha! That's true.\nWell, think whatever you like.\nI'm not going to run or hide.\n\n{C:81900400}{C:81958296BF2300000000}Then I will.\n\n\n\n{x00}",
+   "source_sha256": "c8efa084426b1ab1ba12528e0c0cd3e815a17f367af7fca50f529dad55689795",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81930100}{C:81958296C02300000000}Um, it's Jojo, right?\nWhat are you doing?\n\n{C:81900A01}{C:81958296C12300000000}Oh, just something.\n\n{C:81930100}{C:81958296C22300000000}You're going to look\nfor that Gali-something, aren't you?\n\n{C:81900A01}{C:81958296C32300000000}How did you know?!\n\n{C:81900400}{C:81958296C52300000000}When you talk that loudly,\nanyone can hear you.\n\n{C:81930100}{C:81958296C62300000000}Could we come along too?\nI'm a little curious.\n\n{C:81900A01}{C:81958296C72300000000}Sure, but\nit might be a Kurakku's lair.\nAre you still all right with that?\n\n{C:81900300}{C:81958296C82300000000}What's a Kurakku?\n\n{C:81900B01}{C:81958296BC0100000000}It's a really huge,\nloooong creature.\nIt could swallow the likes of you in one gulp.\n\n{C:81900300}{C:81958296C92300000000}What?!\nLet's not go, big brother!\n\n{C:81930100}{C:81958296CA2300000000}It sounds interesting.\nI'll go\nwith Jojo.\n\n{C:81900300}{C:81958296CB2300000000}Then Nelfea and I\nwill wait here.\n\n{C:81900400}{C:81958296CC2300000000}Huh? I'm waiting too?\n\n{C:81930100}{C:81958296CD2300000000}Sorry, Nelfea.\nStay here with Rie.\n\n{C:81900400}{C:81958296CE2300000000}Yes, yes.\n\n{C:81900A01}{C:81958296CF2300000000}Then let's go.\n\n\n{x00}",
+   "source_sha256": "6230ab6a235818ed167ef4e442e3646d565d49319e26daf3e3709ebd859d5b34",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81900B01}{C:81958296BD0100000000}There's absolutely nothing here.\n\n{C:81900A01}{C:81958296D02300000000}Were we tricked?\n\n{C:81900B01}{C:81958296BE0100000000}A little farther.\nLet's try going just a little farther.\n\n{C:81930100}{C:81958296D12300000000}Still, I'm impressed\nthat you two can walk normally\nin a place like this.\n\n{C:81900A01}{C:81958296D22300000000}We've had different training.\n\n{C:81900B01}{C:81958296BF0100000000}There's something written here.\n\n{C:81900A01}{C:81958296D32300000000}You're right.\n\n\n{x00}",
+   "source_sha256": "6e355b12fa8c5b33f59f5817f6013bb772ced2314a54f38134fd08eef29b61db",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930A01}{C:81958296D42300000000}I found it! It's Galient!!\n\n\n{x00}",
+   "source_sha256": "8100bb53932cb5033bd19ebe2af5c346e71319056617d9e7e0742ee95590a960",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81930400}{C:81958296D52300000000}Can you hear me?!\nThe enemy has begun attacking!\nHurry back to the Astante!\n\n{C:81930100}{C:81958296D62300000000}Understood! I'll be right back!!\n\n{C:81930A01}{C:81958296D82300000000}I'll go out in Galient too!\n\n{C:81930B01}{C:81958296C00100000000}Will you be all right, Jojo?\n\n{C:81930A01}{C:81958296D92300000000}I'll be fine! I can do it!!\n\n\n\n\n{x00}",
+   "source_sha256": "d9a9a3a7ee21e3b4c722d7eb28248a261ec04eff17323e63575ed38e6d774d08",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81900E01}{C:81958296DA2300000000}Mardoul's subordinate {C:819782830400}Lordan{C:819782830000}\nhas attacked us.\nMay we ask for your help?\n\n{C:81930100}{C:81958296DB2300000000}Of course!\n\n\n\n{x00}",
+   "source_sha256": "0e690122df2f7fa172496249730621386ffd187eb7e4d52b84c36589c543e2fc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81900A01}{C:81958296DC2300000000}I've been waiting.\nI'll join the battle too!\n\n{C:81930100}{C:81958296DD2300000000}You can handle it, Jojo?\n\n{C:81900A01}{C:81958296DF2300000000}I piloted it all the way here.\nI'll be fine!\n\n\n{x00}",
+   "source_sha256": "1c503330811b554c25b737edc27090968248c07f245cbae44f2249afb95c4d84",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81930100}{C:81958296E02300000000}You heard him, Rie!\nWe're reorganizing the units!\n\n{C:81900300}{C:81958296E12300000000}The enemy's close.\nHurry!\n\n\n{x00}",
+   "source_sha256": "fd0f0a6863762349c876f28c6944460cbf2d8f14eca41e5e3e6d6c5c0d8ba9d5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81931901}{C:81958296E22300000000}When did those wretches\nget hold of a ship like that?\n\n{C:81958296E52300000000}So that's the ship Mardoul spoke of.\nWell, no matter.\nI'll simply crush them!\n\n\n{x00}",
+   "source_sha256": "664b723002d208b62a8764df77e895941f5e564664d69b46009b75864ac12c1e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81930B01}{C:81958296C10100000000}Jojooo!!\n\n{C:81930A01}{C:81958296E62300000000}Churull?\nIsn't that Hilmocha?!\nWhere is she taking her?!\n\n\n{C:81930400}{C:81958296E72300000000}{C:819782830300}Omuga{C:819782830000}--they seem to be heading in that direction.\n\n{C:81930A01}{C:81958296E82300000000}Rie!\n\n{C:81930300}{C:81958296E92300000000}Leave it to me!\n\n\n\n{x00}",
+   "source_sha256": "3807beea0b15a451d346ad8ebeabd3946826c67c25275ce110625baf560c1f6a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81900A01}{C:81958296EA2300000000}Grandpa!\nWhere's Churull?!\n\n{C:81900E01}{C:81958296EB2300000000}I haven't seen her.\nHas something happened to Churull?\n\n{C:81900A01}{C:81958296EC2300000000}No, it's nothing.\n\n\n\n{x00}",
+   "source_sha256": "fdc197291ba2ebeb06ef8e78ed7de0eda9f2eedb9d46c47f508a17ecc4e2455f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81900A01}{C:81958296ED2300000000}Where could Churull be?\n\n{C:81930100}{C:81958296EE2300000000}Let's look for clues.\nWe'll help you too.\n\n{C:81900400}{C:81958296EF2300000000}Was Hilmocha\nour enemy after all?\n\n{C:81900300}{C:81958296F02300000000}Somehow, I can't believe it.\n\n{C:81900400}{C:81958296F12300000000}To tell the truth,\nI find it a little hard to believe too.\n\n{C:81958296F22300000000}Whatever I said,\nshe didn't look like a bad person.\n\n{C:81900A01}{C:81958296F32300000000}Whatever the case,\nwe have to find Churull.\n\n\n\n\n{x00}",
+   "source_sha256": "3f59045346e47625fa0bc4fca6b974c83cda37e6ee6481b79bb1ce5d4f0adec0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81900C01}{C:81958296670000000000}Hey, boys and girls.\nI've got a great proposition.\nWant in?\n\n{C:81930100}{C:81958296042400000000}Ignore him, ignore him.\n\n{C:81900C01}{C:81958296680000000000}That's cold.\nI've got a great way\nto make some money, you know.\n\n{C:81930400}{C:81958296062400000000}Ignore him, ignore him.\n\n{C:81900C01}{C:81958296690000000000}If you help me,\nI'll tell you something good.\n\n{C:81930300}{C:81958296082400000000}Ignore him, ignore him.\n\n{C:81900C01}{C:819582966A0000000000}Aww, all right, all right.\nForget the money-making scheme.\nFine, I'll tell you anyway.\n\n{C:819582966B0000000000}The girl you're looking for\nisn't here anymore.\n\n{C:81900A01}{C:819582960B2400000000}You mean Churull?\nThen where\ndid she go?!\n\n{C:81900C01}{C:819582966C0000000000}{C:819782830300}Iron City{C:819782830000}--isn't that the way she went?\nIf she's not here,\nwhere else would she be?\n\n{C:8190D101}{C:819582960D2400000000}Thank you very much.\n\n{C:81900C01}{C:819582966D0000000000}Hold on a second.\n\n{C:81900400}{C:81958296102400000000}What now? Do you still want something?\n\n{C:81900C01}{C:819582966E0000000000}Well, you look like\nyou'd be fun to be around.\nCould you take me along too?\n\n{C:81900A01}{C:81958296122400000000}We're in a hurry.\nDo as you please.\n\n{C:81900C01}{C:819582966F0000000000}I see, I see!\nI'm the great thief, {C:819782830400}Red Window.{C:819782830000}\nGood to meet you!\n\n\n{x00}",
+   "source_sha256": "c71a9dbb51d24269aad39179ad27909de3896bb55f2b691e6e6d5d323ccdafef",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81930100}{C:81958296152400000000}If Churull isn't here,\nwe have no more business here.\nLet's get back to the Astante!\n\n\n\n{x00}",
+   "source_sha256": "f7c7a0f72c4286a25a938d6ad365f32f138b65c64aa225116cfaf9ddd30c74f8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81900A01}{C:81958296162400000000}Window!\nWhat are you doing? You're late!\n\n{C:81900C01}{C:81958296700000000000}What do you mean?\nNow that I'm one of you,\nI brought a little gift.\n\n{C:81930100}{C:81958296182400000000}A gift?\n\n{C:81900C01}{C:81958296710000000000}Yep. Take it.\n\n\n{x00}",
+   "source_sha256": "03136081b94bce229e2f5b93f3b416eff75df5bfbd7d2b7d893b2575c0b0df82",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81900A01}{C:819582961A2400000000}How did you get something like this...?\nThanks, Window!\n\n{C:81900C01}{C:81958296720000000000}Don't mention it.\nWe're comrades, after all.\n\n\n{x00}",
+   "source_sha256": "8cdf29d222ab5c928788f95d9b6b55393505dcb64f58ca54ec0108bbf20f1a56",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81900300}{C:819582961C2400000000}Big brother, the enemy's arriving overhead.\nFinish organizing the units\nwhile you still can.\n\n{C:81930100}{C:819582961D2400000000}Understood!\n\n\n{x00}",
+   "source_sha256": "8f09b1ebab29c6c39ae39517e03e88a9ad832326fcfdc9509d3751da215a6848",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81931801}{C:819582961E2400000000}So that's the ship from another world...\n\n\n{x00}",
+   "source_sha256": "a1e82cee54f0883de0d9f655862bc739ff9a9fedce3a5d893b3962fdbf9d1438",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81930A01}{C:819582961F2400000000}Churull headed for \n{C:819782830300}Iron City{C:819782830000}, right?\n\n{C:81930C01}{C:81958296730000000000}Probably.\n\n{C:81930100}{C:81958296212400000000}Could you head to Iron City?\n\n{C:81930300}{C:81958296222400000000}Of course!\n\n\n\n{x00}",
+   "source_sha256": "d39fecc161cab3d58e02daa84116967a695e0a35274c8c326e2cedb4cdee3def",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81931701}{C:81958296C30100000000}You traitors who defy His Majesty Mardoul!\nI'll teach you a lesson!!\n\n{C:8193A602}{C:81958296232400000000}Hey, you! Let me talk too!\n\n{C:81931701}{C:81958296C40100000000}H-hey, brat!\nDon't interrupt!\n\n{C:8193A602}{C:81958296242400000000}Shut uuup!\nI won't be satisfied\nunless I'm first, no matter what!\n\n{C:81931701}{C:81958296C50100000000}(What is His Majesty thinking,\nletting a child like this aboard?)\n\n\n\n{x00}",
+   "source_sha256": "78f506e0d97c900787e8fcbf0aabc4ee91f49e2f17592280ac0d90f51cec8432",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81930A01}{C:81958296252400000000}This is amazing!\nWith this kind of strength,\nwe can beat even Mardoul!\n\n{C:81958296262400000000}I have to tell Grandpa!!\n{C:819782830300}White Valley{C:819782830000}--take us\nback there!!\n\n{C:81930300}{C:81958296272400000000}J-Jojo?\n\n{C:81930400}{C:81958296282400000000}You can't expect to win\nby rushing straight into battle.\nCalm down a little!\n\n{C:81930A01}{C:81958296292400000000}It'll be all right!\nWe're so strong!\n\n{C:81930100}{C:819582962A2400000000}Rie, please take us\nback to White Valley for now.\nThat would be best.\n\n{C:81930300}{C:819582962B2400000000}Yes, all right.\n\n\n\n{x00}",
+   "source_sha256": "0277b2d53c7ef1cbc790bf8be6f7811a5afedc1d70fd940ba481b4b8fce4cc9b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81900B01}{C:81958296C60100000000}Jojooo!!\n\n{C:81900A01}{C:819582962C2400000000}Churull!\nWhy are you here?!\n\n{C:81900D01}{C:819582962D2400000000}I'm sorry, Jojo.\n\n{C:81958296302400000000}I wanted you to travel around\nand get used to Galient,\nso I asked Churull to help.\n\n{C:81930100}{C:81958296312400000000}But Churull's voice back then\ndidn't sound like an act.\n\n{C:81900B01}{C:81958296C70100000000}That's because\nI didn't know at first!\n\n{C:81900D01}{C:81958296332400000000}She was so noisy\nthat I explained it to her along the way.\n\n{C:81900300}{C:81958296342400000000}Oh, so that's it.\n\n{C:8190D101}{C:81958296352400000000}Churull is safe.\nIsn't that what matters?\n\n{C:81900400}{C:81958296362400000000}And Hilmocha wasn't our enemy either.\n\n{C:81900D01}{C:81958296382400000000}What, were you still suspicious of me?\n\n{C:81900400}{C:819582963A2400000000}A little... yes.\n\n{C:81900A01}{C:819582963B2400000000}Never mind that now.\nLet's go see Grandpa.\nI'm going to fight Mardoul as soon as I can!\n\n{C:81900D01}{C:819582963C2400000000}Jojo, wait a minute!\nWhat on earth happened?\n\n{C:81930100}{C:819582963F2400000000}Hilmocha, your plan\nmay have had the opposite effect.\n\n\n\n{x00}",
+   "source_sha256": "5751035065b400fee64fd661403145fd893314abddc968ab8a1bcd9b906887e5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81900A01}{C:81958296412400000000}Grandpa!\nWe can beat Mardoul now!\n\n{C:81900E01}{C:81958296422400000000}What on earth has happened,\nJojo?\n\n{C:81900A01}{C:81958296432400000000}Fighting alongside everyone made me realize it!\nWith Galient and that ship,\nwe're sure to win!\n\n{C:81900D01}{C:81958296442400000000}Don't be foolish!\nThe fighting has only just begun!\n\n{C:81958296472400000000}Besides, just defeating Mardoul\nwon't end this conflict.\n\n{C:81930100}{C:819582964A2400000000}Hilmocha...\n\n{C:81900E01}{C:819582964B2400000000}Hilmocha is right.\nYou mustn't overestimate your own strength.\nStrength alone isn't enough.\n\n{C:81900A01}{C:819582964D2400000000}What? Even you, Grandpa?!\nFine! I'll do it,\neven if I have to go alone!!\n\n\n{x00}",
+   "source_sha256": "9f1b361bed7d86fa848f7e4c7c1fb888da1c22a03067a5ecc83a05fbf128985d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81930100}{C:819582964E2400000000}Jojo!\n\n{C:81900E01}{C:819582964F2400000000}What a troublesome boy...\nWill you go after him?\n\n{C:81930100}{C:81958296502400000000}Oh, yes!\n\n{C:8190D101}{C:81958296512400000000}...I'll go too.\nNo, please let me go.\n\n{C:81900400}{C:81958296522400000000}We'll return to the Astante.\nIf Jojo comes, we'll keep him there.\n\n{C:81930100}{C:81958296532400000000}I'm counting on you, Nelfea.\nLet's go, Quatre.\n\n\n\n{x00}",
+   "source_sha256": "d0419313387d27ed9127024880cbe4e260069dee148b61ca9e2fe8b0f296914a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81900400}{C:81958296542400000000}Jojo hasn't come this way.\n\n{C:81930100}{C:81958296552400000000}All right. I'll try somewhere else.\n\n\n{x00}",
+   "source_sha256": "b282bc319037c9174c7b45e9993a44563a43eb3e085ac2b0de3547036dba7572",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81930100}{C:81958296562400000000}Window,\nhas Jojo come here?\n\n{C:81900C01}{C:81958296740000000000}Jojo?\nNope, I haven't seen him.\n\n{C:81958296750000000000}Anyway,\nthis is a nice place.\nI've really taken a liking to it.\n\n{C:81958296760000000000}So, what was that about Jojo?\n\n{C:81930100}{C:819582965A2400000000}If he hasn't come here, never mind.\n\n\n\n{x00}",
+   "source_sha256": "0d57670409d28baa50296e5d780f1afa84c7a56ba6dbfd4d8aedaf4a7844e2bf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81930100}{C:819582965B2400000000}Azuves,\nhas Jojo come back?\n\n{C:81900E01}{C:819582965C2400000000}No, not yet.\n\n{C:81930100}{C:819582965D2400000000}All right.\nI'll look somewhere else.\n\n{C:81900E01}{C:819582965E2400000000}I'm sorry to put you to such trouble,\nbut please find him.\n\n{C:81930100}{C:819582965F2400000000}Yes.\n\n\n\n{x00}",
+   "source_sha256": "1c26aac18c7c1a9ffa5c89df4ddc057040e66c43b0a80fab90bd2d61bdad51fa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81900A01}{C:81958296602400000000}I won't listen to anyone.\n\n{C:8190D101}{C:81958296612400000000}May I speak to him?\n\n{C:81930100}{C:81958296632400000000}Yes.\n\n\n{x00}",
+   "source_sha256": "c4d02d16f7e5c91301f8d80dfbce13a4efbabfd90d0d32796db9736820ac1a97",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:8193D101}{C:81958296642400000000}Please listen, Jojo.\nI've been through something similar myself.\nI was obsessed with power...\n\n{C:81930A01}{C:81958296652400000000}You, Quatre?\nYou don't seem like that.\n\n{C:8193D101}{C:81958296662400000000}Thank you, Jojo.\nBut it's true.\n\n{C:81958296672400000000}And...\nwhat do you think happened?\n\n{C:81930A01}{C:81958296682400000000}You won, right?\n\n{C:8193D101}{C:81958296692400000000}It isn't a matter\nof winning or losing.\n\n{C:819582966A2400000000}I nearly killed\na dear friend with my own hands.\nIn fact, I came close to killing them.\n\n{C:819582966B2400000000}Jojo, that's how dangerous it is\nto have power\nand let it go to your head.\n\n\n{x00}",
+   "source_sha256": "cf81815fdf4c7dabb952a01b65fbb44010593d3ecb5b9e2afb7d743e879685e1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81900A01}{C:819582966C2400000000}Then what should I do...?\n\n{C:81930100}{C:819582966D2400000000}Listen, Jojo.\nWhy don't you travel to the other continents... with us?\n\n{C:81900A01}{C:819582966E2400000000}The other continents?\n\n{C:81930100}{C:819582966F2400000000}Yes. We'll have Azuves\ncome with us too.\n\n{C:81958296702400000000}He'll be able to see\nhow you grow\nas a person.\n\n{C:8190D101}{C:81958296712400000000}I also think that would be better\nfor learning all sorts of things.\nWhat do you say?\n\n{C:81900A01}{C:81958296722400000000}...I'll do it.\nYes! I'll go with you\nand earn Grandpa's recognition!\n\n{C:81930100}{C:81958296732400000000}Let's do our best, Jojo!\n\n{C:81900A01}{C:81958296742400000000}It's good to be working with you again.\n\n{C:8190D101}{C:81958296752400000000}Let's do our best together.\n\n\n\n\n{x00}",
+   "source_sha256": "20f65e4885f3ea1254a8325ca70bff9d1184ca5b332098d7b8486e9e92ea131e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:81900F01}{C:81958296772400000000}Ah, so these are the young heroes!\n\n{C:81958296792400000000}I am {C:819782830400}Don Slarzen.{C:819782830000}\nUntil now,\nI was wagging my tail for Mardoul.\n\n{C:819582967B2400000000}But from now on,\nI shall fight alongside you.\n\n{C:81900E01}{C:819582967C2400000000}Lord Slarzen is a warrior like few others.\nYou can count on him, Jojo.\n\n{C:81900F01}{C:819582967D2400000000}Such praise from the hero Azuves\nmakes me blush.\nI shall do all I can for you.\n\n\n\n\n{x00}",
+   "source_sha256": "745896c82b3e3d0bfc81f577b708dd7c2bd03b9686eebe748e4b8429fc2b054a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81900400}{C:819582967E2400000000}Ah, there you are!\nCome to the Astante.\n\n{C:81930100}{C:819582967F2400000000}What's happened?\n\n{C:81900400}{C:81958296802400000000}The people who seized Posaydal's ship\nhave come, but...\nAnyway, could you come?\n\n{C:81930100}{C:81958296812400000000}I'll be right there.\n\n\n\n{x00}",
+   "source_sha256": "8c76fe956c5606366a14fd599f5d08616cdbf34c0875048dd751ae9150cf55c8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81930100}{C:81958296822400000000}So, who's come?\n\n{C:8193A702}{C:81958296832400000000}It's meee!\n\n\n\n{x00}",
+   "source_sha256": "c4e82ab6a6fa246c860b9871c35c2e1d7f504b3525fcba72d7c335035b105132",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81930100}{C:81958296842400000000}Ugwah!!\n\n{C:8190A502}{C:81958296852400000000}Whoa! Himiko!\nHow many times do I have to tell you to stop?!\nUm... Are you all right?\n\n\n{x00}",
+   "source_sha256": "23adbebd7f1b4e712f7ca6cf10dc2e9cd9617eb23489eba1ad222e2aeb0e39fa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:81930100}{C:81958296862400000000}Ugggh...\nIf she does that again, I might die.\n\n{C:81958296872400000000}...\nSo, are you the ones\nwho took over a ship from Posaydal's army?\n\n{C:8190A702}{C:81958296882400000000}That's right!\n{C:819782830400}Wataru{C:819782830000} went bang, kaboom,\nand rat-a-tat-tat-tat-tat!\n\n{C:8190A802}{C:81958296892400000000}Hey, Himiko.\nNo one can understand an explanation like that.\n\n{C:819582968A2400000000}In short, we defeated\nthe villains and seized their ship.\nNow we're looking for allies.\n\n{C:819582968B2400000000}Then we heard rumors about you,\nand so we came here.\nWill you fight alongside us?\n\n{C:8190B901}{C:819582968C2400000000}Allow me to join you too.\n\n\n{C:81900400}{C:819582968D2400000000}You're letting people this strange\njoin us?\n\n{C:81930100}{C:819582968F2400000000}We need allies.\nI'm sure we'll manage.\n\n{C:81958296902400000000}Um, {C:819782830400}Shibaraku{C:819782830000},\nI understand the situation.\nLet's fight together.\n\n{C:8190A802}{C:81958296922400000000}Yes. I'm counting on you.\n\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "857572a3952f583b3d8cd872db0b3e3a054b9a0f76ca1e576edc26c37b87fe15",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:81900E01}{C:81958296932400000000}Are these...\nyour new comrades?\n\n{C:81930100}{C:81958296942400000000}Yes, they are.\nThey're a little eccentric, though.\n\n{C:81900E01}{C:81958296952400000000}Oh, yes, my thanks are overdue.\nThank you\nfor persuading Jojo.\n\n{C:81930100}{C:81958296962400000000}No, that was thanks to Quatre.\nI couldn't do anything.\n\n{C:81900E01}{C:81958296972400000000}You're too modest.\nAs you suggested,\nI shall go with Jojo as well.\n\n{C:81958296982400000000}Slarzen, of course,\nwill do the same.\n\n{C:81930100}{C:81958296992400000000}That's reassuring!\nThank you, Azuves.\n\n{C:8190A502}{C:819582969B2400000000}Sorry to interrupt.\nI noticed a little while ago,\nand thought I should tell you the Cloud Sea has cleared.\n\n{C:81930100}{C:819582969C2400000000}Nelfea!\n\n{C:81900400}{C:819582969D2400000000}Prepare for departure, right?!\n\n{C:81930100}{C:819582969E2400000000}I'm counting on you!\n\n\n\n\n{x00}",
+   "source_sha256": "9a9ad149688ce4b186be6cb977895b041bdaa7b68c09186b961167010668cd00",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:81900300}{C:819582969F2400000000}We've suddenly gained so many more people again.\nSo, are we leaving already?\n\n{C:81930100}{C:81958296A02400000000}The Cloud Sea seems to have opened up,\nso I'd like to get moving soon.\n\n{C:81900300}{C:81958296A12400000000}But there's just one problem.\n\n{C:81900400}{C:81958296A22400000000}Apparently there are enemies overhead again.\n\n{C:81930100}{C:81958296A32400000000}We have more allies now.\nI'm sure we'll manage.\n\n{C:8190A802}{C:81958296A42400000000}Hold a moment!!\n\n{C:81930100}{C:81958296A52400000000}Whoa, you startled me!\nYou were here?\n\n{C:8190A802}{C:81958296A62400000000}Enemies overhead, you say?\nI must call {C:819782830400}Senjinmaru{C:819782830000} at once!\n\n{C:81900300}{C:81958296A72400000000}Senjinmaru?\n\n{C:8190A802}{C:81958296A82400000000}Is there a public telephone nearby?\n\n{C:81900400}{C:81958296AA2400000000}Of course there isn't\nanything like that here!\n\n{C:8190A802}{C:81958296AB2400000000}Oh, no!\nThat makes me completely useless!\n\n\n{C:8190A702}{C:81958296AC2400000000}You mean a hippo?\n\n{C:81930100}{C:81958296AD2400000000}I can't deal with this.\nRie, let's go!\n\n\n{x00}",
+   "source_sha256": "1a0441311311f7ba5f367e095b1469af2cb733ed2e34b761a981cf5ffc4aea52",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:81931801}{C:81958296AF2400000000}Your strength... I'll put it to the test!!\n\n\n{x00}",
+   "source_sha256": "27fd40886d14b550fc67810a1633b00ff3a8352ac43eac44c38cbfa2b54dfea7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:81930A01}{C:81958296B02400000000}(Crescent...\nI swear I'll return!)\n\n\n\n{x00}",
+   "source_sha256": "394b78afffc47a3a1e4cd8cded433384d33973a4e4f00c1a3507aa4e2f8c4136",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique413verdicts/omission reviews/five shared qualifiers/nine actual411 groups/full guarded0source-current-proposed before424adoption.0 restores personal potential/expectation to guide evolution through conflict. Then separately read all55 complete424English sourceorder;16collocation improved after independent full-source exactphrase acceptance.428 changes16only; other54 complete424records exact. All controls/LFs/493calls321voices0functions retained. Actual1148 later binding preserves historical1143preparation. Shared179names after all meaning/editorial edits, then actual CURRENT MAIN full proofreading. No testing until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

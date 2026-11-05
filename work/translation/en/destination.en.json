@@ -1,0 +1,211 @@
+{
+ "rows": [
+  {
+   "va": 2234728,
+   "en": "Set Destination",
+   "source_size": 11,
+   "source_sha256": "67baef69378471bcdfe05242731785ed7d203fbd9601096603fec4d890d6bd0f"
+  },
+  {
+   "va": 2325224,
+   "en": "None",
+   "source_size": 5,
+   "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1"
+  },
+  {
+   "va": 2233992,
+   "en": "Cloud City",
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab"
+  },
+  {
+   "va": 2233976,
+   "en": "Deon Town",
+   "source_size": 13,
+   "source_sha256": "82c72400eb7c8c80a119fc2cd4195e3e7de012babdc9888dbc61a972eb5cf0e2"
+  },
+  {
+   "va": 2233952,
+   "en": "Astante Fortress Ruins",
+   "source_size": 17,
+   "source_sha256": "5c39b14d88733996f0d0a806c4bfab14525db6b1ec71aa0bb6d2abfee85f3260"
+  }
+ ],
+ "references": [
+  {
+   "kind": "code",
+   "site": 1281420,
+   "lui": 1281404,
+   "target": 2325224,
+   "register": 21,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 609581800,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1281428,
+   "lui": 1281412,
+   "target": 2234728,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612637032,
+   "adjacent": false
+  },
+  {
+   "kind": "pointer",
+   "site": 1839352,
+   "target": 2233992
+  },
+  {
+   "kind": "pointer",
+   "site": 1839356,
+   "target": 2233976
+  },
+  {
+   "kind": "pointer",
+   "site": 1839360,
+   "target": 2233952
+  },
+  {
+   "kind": "pointer",
+   "site": 1839452,
+   "target": 2233992
+  }
+ ],
+ "overlays": [
+  {
+   "id": "EVEMAP/00036:000004D0",
+   "member": 36,
+   "offset": 1232,
+   "en": "Deon Town",
+   "source_size": 13,
+   "source_sha256": "82c72400eb7c8c80a119fc2cd4195e3e7de012babdc9888dbc61a972eb5cf0e2",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "sites": [
+    1128,
+    1140,
+    1152
+   ]
+  },
+  {
+   "id": "EVEMAP/00036:000004E0",
+   "member": 36,
+   "offset": 1248,
+   "en": "Bar",
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "sites": [
+    1212
+   ]
+  },
+  {
+   "id": "EVEMAP/00036:000004E8",
+   "member": 36,
+   "offset": 1256,
+   "en": "Outskirts",
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "sites": [
+    1200
+   ]
+  },
+  {
+   "id": "EVEMAP/00036:000004F0",
+   "member": 36,
+   "offset": 1264,
+   "en": "Main Street",
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "sites": [
+    1188
+   ]
+  },
+  {
+   "id": "EVEMAP/00036:00000508",
+   "member": 36,
+   "offset": 1288,
+   "en": "Airport",
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "sites": [
+    1176
+   ]
+  },
+  {
+   "id": "EVEMAP/00036:00000510",
+   "member": 36,
+   "offset": 1296,
+   "en": "Maintenance Deck",
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "sites": [
+    1164
+   ]
+  },
+  {
+   "id": "EVEMAP/00061:000009B0",
+   "member": 61,
+   "offset": 2480,
+   "en": "Deon Town",
+   "source_size": 13,
+   "source_sha256": "82c72400eb7c8c80a119fc2cd4195e3e7de012babdc9888dbc61a972eb5cf0e2",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "sites": [
+    2172
+   ]
+  },
+  {
+   "id": "EVEMAP/00061:00000998",
+   "member": 61,
+   "offset": 2456,
+   "en": "Astante Fortress Ruins",
+   "source_size": 17,
+   "source_sha256": "5c39b14d88733996f0d0a806c4bfab14525db6b1ec71aa0bb6d2abfee85f3260",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "sites": [
+    2216
+   ]
+  },
+  {
+   "id": "EVEMAP/00061:000009C0",
+   "member": 61,
+   "offset": 2496,
+   "en": "Cloud City",
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "sites": [
+    2128
+   ]
+  }
+ ],
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy": {
+  "report_sha256": "d7e1ae42336097f6a1d9c2b768c99bd77b6989d33011eb2f78308ed064032f8f",
+  "report": "C:\\Users\\Binh\\Documents\\Codex\\2026-10-31\\referenced-chatgpt-conversation-this-is-an\\work\\destination_accuracy769.json",
+  "addendum_sha256": "cedcc2be6008ba65c26804b7c583d68a2cb0c1f9e423913e0993741f4fe1fbf7",
+  "addendum": "C:\\Users\\Binh\\Documents\\Codex\\2026-10-31\\referenced-chatgpt-conversation-this-is-an\\work\\destination_accuracy769_addendum.json",
+  "labels_examined": 14
+ },
+ "editorial": "Separate English pass in selector/town order: Set Destination heading follows Select Destination action. Full glossary spellings retained. Bar matches the Deon venue rather than copying Cloud City Home at the same offset. Other area labels match established English UI. Map61 copies use the same full names; retained ELF Cloud City is already approved. No changes needed.",
+ "glossary": {
+  "entries": 1681,
+  "registered_variants": 24,
+  "sha256": "d0504ff8698783f685646eb4a8bf3cae4b7d5ff56d890f2ee2d253c174cd70e2",
+  "hits": []
+ },
+ "proofreading": "Saved fourteen complete English labels checked for spelling, title case and completeness. No controls/placeholders in these literals. Duplicate map names share exact glossary spellings; native IDs/order/availability unchanged."
+}

@@ -1,0 +1,330 @@
+{
+ "table": "04924_10402",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n\n{C:8193A702}{C:819582969E2C00000000}Bear! Bear!\nLet's go over there next!\n\n{C:8193C902}{C:819582969F2C00000000}How many times do I have to tell you?!\nI'm not a bear! I'm Teddyam!\n\n{C:8193A702}{C:81958296A02C00000000}Oh, Bear!\nI want to see over there too!\n\n{C:8193C802}{C:81958296A12C00000000}Ah ha ha ha ha ha!\nEven Teddyam's\nmet their match!\n\n{C:8193C602}{C:81958296A22C00000000}Good grief. What a handful this young lady is.\n\n{C:8193C702}{C:81958296A32C00000000}We're in a bind.\nAt this rate, we can't go\nand look for Toya and the others.\n\n\n\n{x00}",
+   "source_sha256": "10447e3bc7aad2769fc913e62097867fa5919f374297b5dfaced02409a3502ab",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296A42C00000000}If I remember right, they said Toya,\nthe one Greyfus and the others are looking for,\nwears clothes that show his belly button.\n\n{C:8190AD02}{C:81958296A52C00000000}A belly-baring look, huh?\nThat sounds pretty uncool.\n\n{C:8190AC02}{C:81958296A62C00000000}Like that, you mean?\n\n\n{x00}",
+   "source_sha256": "a64f4365d4753cb359d036d634374e6906bbd4487c6d5b2eaa1fae388c2e96f3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8190C302}{C:81958296A72C00000000}Damn, going after a child and a baby!\nWhat a bunch of bastards!\n\n{C:8190C402}{C:81958296A92C00000000}Toya,\ndon't those people watching over there\nlook like the ones we heard about?\n\n{C:8190C302}{C:81958296AA2C00000000}One, two... The number's exactly right too.\n\n{C:8190B801}{C:81958296E60000000000}Things are starting\nto look pretty bad...\n\n\n{x00}",
+   "source_sha256": "d934d9bacee96d473a57cc3da2e42ea53fe55a3dfcd2a8d053573bd120d6a274",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:8190C302}{C:81958296AB2C00000000}Hey, you bastards!\nYou're those Troopers who kidnapped\na girl called Natsumi, aren't you?!\n\n{C:81958296AC2C00000000}Spit out where she is,\nor I'll beat the hell out of you!\n\n{C:8190AE02}{C:81958296AD2C00000000}What?! You're saying\nwe kidnapped Natsumi?!\n\n{C:8190C702}{C:81958296AE2C00000000}Toya! Kira!\nThese people aren't evil!\n\n{C:8190C302}{C:81958296AF2C00000000}Don't let them fool you!\nThey're the mortal enemies of Arago,\nwho's trying to protect the world!\n\n{C:8190C402}{C:81958296B02C00000000}Teddyam! Everyone!\nPlease fight alongside us!\n\n{C:8190C802}{C:81958296B12C00000000}What do we do, Greyfus?\n\n{C:8190C902}{C:81958296B22C00000000}I'm siding with Kira.\n\n{C:8190C602}{C:81958296B42C00000000}It can't be helped.\nFor now, we have no choice\nbut to fight while holding back.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "054ef64c1eaacc854762ef2e05f45066c5b39afd20027d8b360d78943da73080",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:8190C001}{C:81958296B62C00000000}Haaah!\nStop it, you fools!\n\n{C:8190B501}{C:81958296B72C00000000}Master?!\n\n{C:8190AA02}{C:81958296B92C00000000}Master Asia!\n\n{C:8190C001}{C:81958296BA2C00000000}What you should be doing\nis not fighting each other!\nJoin hands and fight together!\n\n{C:8190C302}{C:81958296BB2C00000000}What are you talking about, old man?!\nI'll send you flying with my warrior powers!\n\n{C:8190C602}{C:81958296BC2C00000000}Stop, Toya!\nThat man is... strong!\n\n{C:8190AB02}{C:81958296BD2C00000000}Master Asia,\nwe have no intention of listening to you,\nnot after you abducted Natsumi!\n\n{C:8190C001}{C:81958296BE2C00000000}That's why you're fools!\nIf I hadn't claimed to abduct her\nand taken her away, who would protect her?!\n\n{C:81958296BF2C00000000}You lot are\nimmature! Utterly immature!\n\n{C:8190AD02}{C:81958296C12C00000000}What did you say?!\n\n{C:8190C001}{C:81958296C22C00000000}If that stings, gather more allies,\nincluding those called {C:819782830400}Dagwon{C:819782830000} on the other continents, and storm\n{C:819782830300}Arago Castle{C:819782830000}!\n\n{C:81958296C32C00000000}Once Arago has been defeated,\nNatsumi and Mirai's safety is guaranteed!\nUnderstood, all of you?!\n\n\n\n{x00}",
+   "source_sha256": "0b64b7ea6e91fc83e143e41a5c0cf6ff39a8bb1477ab96a4fc98dae07d2621b4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:8190AB02}{C:81958296C42C00000000}Well, what do we do, everyone?\nDo we listen to Master Asia?\n\n{C:8190B501}{C:81958296C62C00000000}I believe my master.\n\n{C:8190B801}{C:81958296E70000000000}Me too.\nI think we can trust him.\n\n{C:8190AC02}{C:81958296C72C00000000}I can't believe him.\n\n{C:8190C302}{C:81958296C82C00000000}Neither can I.\nIt looks like we agree\non that, at least!\n\n{C:8190AA02}{C:81958296C92C00000000}Why don't we travel together\nand find out whether it's true?\n\n{C:8190AB02}{C:81958296CA2C00000000}Will adding them put too much\nstrain on the Astante II?\n\n{C:81930100}{C:81958296CB2C00000000}That'll be fine.\n\n{C:81958296CC2C00000000}But what about you?\nDo you want to come with us?\n\n{C:8190C402}{C:81958296CD2C00000000}There's Konoha to think about too.\nWouldn't it be safer to go together?\n\n{C:8190C702}{C:81958296CE2C00000000}Why don't we look for Dagwon\nfirst, at any rate?\nWe can decide after that.\n\n{C:8190C802}{C:81958296CF2C00000000}He did say they were on other continents.\nGetting a ride on the Astante II\nwould be safest, boss.\n\n{C:8190C302}{C:81958296D02C00000000}You're right...\nWith Konoha to think about too,\nwe'll take you up on your help.\n\n{C:81958296D12C00000000}We'll go get Konoha\nand come to your ship, then.\nSee you later.\n\n\n\n{x00}",
+   "source_sha256": "25e46c5ccbc878a3f9963c38198c9402d8124dc8336e7236146fa8a125f40714",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:8190C202}{C:81958296E90000000000}Master!\n\n{C:8190C001}{C:81958296D22C00000000}Rai? What is it?\n\n{C:8190C202}{C:81958296EA0000000000}Was that all right?\nTelling them so much?\nIsn't it too soon...?\n\n{C:8190C001}{C:81958296D42C00000000}Perhaps it is.\nBut that was the only way\nto calm those fools down, wouldn't you say?\n\n{C:8190C202}{C:81958296EB0000000000}I do think\nyou're right, Master.\nBut if the Yoja find out, your position...\n\n{C:8190C001}{C:81958296D52C00000000}Heh... There's no need to worry.\nStill, you were the only one\nwho understood my intentions from the start.\n\n{C:8190C202}{C:81958296EC0000000000}That was just chance.\n\n{C:8190C001}{C:81958296D62C00000000}Well, all we can do is pray\nthat they join forces.\n\n\n\n{x00}",
+   "source_sha256": "e256c39d2cbfdc2a385bc0ad1b46bcb5e3a73cdb21073ee7a4f54e20c3d9f1b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:8190B202}{C:81958296D72C00000000}Well, what an interesting place\nto meet such interesting people.\n\n{C:81958296D82C00000000}How convenient.\nFor Lord Arago's sake,\nyou can all die here!\n\n\n\n\n{x00}",
+   "source_sha256": "20d203c913497c3e06f2604d05d3ba572663d8f6e4e11e52a5932a056628bc7b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81930100}{C:81958296DA2C00000000}You fight enemies like that?\nYou and your friends are amazing, Ryo.\n\n{C:8190AA02}{C:81958296DB2C00000000}Not really.\nOn the other hand, we're completely hopeless\nat piloting machines.\n\n{C:8190AD02}{C:81958296DC2C00000000}Exactly.\nEveryone has their own strengths.\nDon't let it bother you.\n\n\n\n\n{x00}",
+   "source_sha256": "71f5bfdecf5c4ae188ae74c2bde869a2eed285675b01f94d59b3473bbfdb5e08",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:8190C302}{C:81958296DD2C00000000}We've come for that ride you promised.\n\n{C:8190C402}{C:81958296DE2C00000000}Thank you for having us.\nAnd this is\nKonoha Maihara.\n\n{C:8190C502}{C:81958296DF2C00000000}I'm {C:819782830400}Konoha Maihara{C:819782830000}.\nI'm sorry for the trouble.\n\n\n\n\n\n{x00}",
+   "source_sha256": "dd073053523f779378c964c2201f8b6470cb79dc682ddea76f5b6071f7258118",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81900300}{C:81958296E12C00000000}Everyone has their own reasons\nfor being aboard this ship,\nso please make yourself at home.\n\n\n\n\n{x00}",
+   "source_sha256": "39d0272b4938cf1be83a49767be37d26f206c2fc06750aeeab53c14111b91902",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930100}{C:81958296192C00000000}Shall we stop and rest here?\n\n{C:8190D101}{C:819582961A2C00000000}We mustn't.\nThis is a {C:819782830300}bar{C:819782830000}, so it's not a place\nwe should be going into.\n\n{C:8190D801}{C:819582961B2C00000000}Oh, that voice!\n\n{C:8190D101}{C:819582961D2C00000000}Rasid?\nIt's you, Rasid!\n\n{C:8190D801}{C:819582961E2C00000000}We've been looking for you, Master Quatre!\nThe entire {C:819782830400}Maganac{C:819782830000} Corps\nis here.\n\n\n{x00}",
+   "source_sha256": "ebdfb17b5da5b7534c5ef64efde656c5d64897a20238ed7839bfa26779fb4bbb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:8193D801}{C:81958296202C00000000}From now on, we of the Maganac Corps\nintend to fight\nalongside Master Quatre.\n\n\n\n{x00}",
+   "source_sha256": "6abf735be1fca35ff8412d47f9e273b81d4391ddf47837d1fbbe3a43b3b064db",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:8190D101}{C:81958296212C00000000}Thank you, {C:819782830400}Rasid{C:819782830000}.\n\n\n\n\n{x00}",
+   "source_sha256": "1e99f2942f6ea7032b6d2dc3878abd2366e827a811fb4108e8285bc4bde6ea3d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:8193B801}{C:81958296660100000000}Hey, Wufei,\nare you always like that?\n\n{C:8193D201}{C:81958296C43300000000}Like what?\n\n{C:8193B801}{C:81958296670100000000}Your shoulders always seem\nso tense, you know.\nDoesn't it wear you out?\n\n{C:8193D201}{C:81958296C63300000000}This is who I am.\nNothing more, nothing less.\nStrength is all that's expected of me.\n\n{C:8193B801}{C:81958296680100000000}Hmm... Is that so?\nI couldn't do it.\nI'd definitely get tired.\n\n{C:81958296690100000000}I've got a goal too,\nbut there's no point getting worn out\nbefore you achieve it.\n\n{C:8193D201}{C:81958296C83300000000}A goal...\n\n{C:81958296C93300000000}(What is my goal now...?)\n\n\n\n{x00}",
+   "source_sha256": "8026e1ce72fe2e92c90ee7b73976f2d26025948beb77b8ce1498baebe84c72ec",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:8190A202}{C:81958296352C00000000}Norman!\n\n{C:81930100}{C:81958296362C00000000}Whoa! That startled me...\nOh, it's Roger.\nWhat's he so angry about?\n\n{C:8190A202}{C:81958296372C00000000}What in the world\nhave you been doing all this time?\nI've been looking everywhere for you!\n\n{C:8190A402}{C:81958296382C00000000}My apologies.\nThe Posaydal Army\nhad been dragging me around.\n\n{C:81958296392C00000000}When I arrived here, the Posaydal Army\nwithdrew, leaving me stranded\nand at my wits' end.\n\n{C:8190A202}{C:819582963A2C00000000}I see. I'm sorry.\nNow that we've met up here,\nyou should come aboard the Astante II.\n\n{C:8190A402}{C:819582963B2C00000000}Certainly, Master Roger.\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "6f4f2080dacfc3f49ea95841bae82dd653d5eea5fc4a8b23de4f42b0a669aed5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81909200}{C:81958296162B00000000}Jerid!\nWait, Jerid!\nI need to talk to you.\n\n{C:81908F00}{C:81958296172B00000000}What is it, Mouar?\n\n{C:81909200}{C:81958296182B00000000}How long do you intend\nto keep chasing the Astante?\n\n{C:81908F00}{C:819582961A2B00000000}Until I settle things once and for all!\nI won't be satisfied otherwise!\n\n\n{x00}",
+   "source_sha256": "5dc0b40cb220bb857aedd54254aad3ec6d6bc2438e06bceb7966fc19be991b9f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81939200}{C:819582961B2B00000000}Listen, Jerid.\nAre you really all right with that?\nYou understand the situation we're in, don't you?\n\n{C:81938F00}{C:819582961D2B00000000}I do!\nThat's why I'm...\n\n{C:81939200}{C:819582961E2B00000000}Even if it only benefits Scirocco... no,\nthe person behind him,\nand no one else?\n\n{C:81938F00}{C:819582961F2B00000000}What are you trying to say, Mouar?\n\n{C:81939200}{C:81958296212B00000000}As things stand, you're just being used.\nShouldn't you think about the future\nand take a different course?\n\n{C:81938F00}{C:81958296222B00000000}Think about the future... huh.\n\n\n\n\n{x00}",
+   "source_sha256": "1e7891819603ffe5e4de81875df45181deae2d4908a59636a34d8f805e82b94c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:8190DC00}{C:81958296242B00000000}You were the one\nwith Chirico, weren't you?\nDo you remember me?\n\n{C:81930100}{C:81958296252B00000000}Um, Gregore, was it?\nBut Chirico said you were dead...\n\n{C:8190DC00}{C:81958296272B00000000}Hey, don't go killing me off!\nI'm alive and kicking, as you can see.\nAnyway, I've got a proposal.\n\n{C:81930100}{C:81958296282B00000000}A proposal?\nDo you mean you want to join us?\n\n{C:8190DC00}{C:819582962A2B00000000}You're quick on the uptake!\nI'm not as good as Chirico,\nbut I think I could be useful.\n\n{C:81930100}{C:819582962B2B00000000}Are you sure?\nRisking your hard-won life...\n\n{C:8190DC00}{C:819582962E2B00000000}Until now, I was as good as dead.\nFrom now on, I'll fight to live.\nIt's a good idea, right?\n\n{C:81930100}{C:81958296302B00000000}That's a positive way of looking at it.\nAll right,\nI'll speak to Rie about it.\n\n{C:8190DC00}{C:81958296332B00000000}Yeah, I'm counting on you.\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "8d2d3328303555d5239a9bf52fa587f88e1d38998053ebee70b86f3576dee5ec",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930100}{C:81958296342B00000000}A lot of people around here wear\npilot suits like yours, Chirico.\n\n{C:8190C800}{C:81958296372B00000000}They're practically an AT pilot's uniform.\nIt's nothing unusual.\n\n{C:8190C900}{C:81958296392B00000000}Someone's watching us.\nDo you know them?\n\n{C:8190C800}{C:819582963A2B00000000}That's... Carson!\nIt's you, Carson!\n\n{C:8190DF00}{C:819582963C2B00000000}Chirico!\nNow, none of that tactless\n'So you're alive?' business from either of us!\n\n{C:8190C800}{C:819582963E2B00000000}No... I'm glad you're alive.\nSo, what are you doing now?\n\n{C:8190DF00}{C:819582963F2B00000000}I'm listed as killed in action,\nso I've been quietly watching the war engulf the world\nfrom a distance.\n\n{C:81958296402B00000000}It's a dull life.\nYou've got it good, Chirico,\nwith a beauty by your side.\n\n\n{C:8190C800}{C:81958296432B00000000}Stop teasing...\nMore importantly, if you're bored,\nwhy not fight with us?\n\n{C:8190DF00}{C:81958296442B00000000}Fight with you?\nYou can't mean...!\n\n{C:8190C800}{C:81958296472B00000000}That's exactly what I mean.\nWhat do you say, Carson?\n\n{C:8190DF00}{C:81958296482B00000000}That sounds interesting.\nYes, very interesting.\nBut is it all right?\n\n{C:8190C800}{C:819582964A2B00000000}It's all right, isn't it?\n\n{C:81930100}{C:819582964B2B00000000}Of course!\nEspecially since you're someone\nChirico invited.\n\n{C:8190DF00}{C:819582964C2B00000000}I'm {C:819782830400}Virgil Carson{C:819782830000}.\nGood to meet you.\n\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "7fee712f32e2d355df4ecc0e7920cdfd4a00e97e6da63aa2cc0ac161238cf334",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:8190DD00}{C:819582964D2B00000000}You there, woman!\nLet me see Chirico Cuvie!\n\n{C:81905700}{C:819582964E2B00000000}Who are you?\nOnly authorized personnel are allowed in here.\n\n{C:8190DD00}{C:819582964F2B00000000}Go get Chirico, now!\nOr I'll let myself in.\n\n{C:81905700}{C:81958296502B00000000}Absolutely not!\n\n\n{C:81902201}{C:81958296512B00000000}What's wrong, Leccee?\n\n{C:81905700}{C:81958296522B00000000}Oh, Eiji.\nThis person says to get Chirico.\n\n{C:81902201}{C:81958296542B00000000}Oh, in that case,\nI'll go fetch him.\n\n{C:81905700}{C:81958296552B00000000}That's not the point!\nOh, he's gone...\n\n{C:8190DD00}{C:81958296562B00000000}Pfft... Ah ha ha ha ha!\nWhat an amusing fellow.\nI haven't laughed like that in ages.\n\n{C:81905700}{C:81958296572B00000000}I agree.\nEiji's a good boy.\n\n{C:8190DD00}{C:81958296582B00000000}...\nI'm sorry for threatening you.\n\n{C:8190C800}{C:81958296592B00000000}I heard someone was asking for me...\n...Murza? You managed to survive.\n\n{C:8190DD00}{C:819582965C2B00000000}I don't know why I survived.\nBut as long as I'm alive,\nfighting is all I have left.\n\n{C:8190C800}{C:819582965E2B00000000}Do you want to come with us?\n\n{C:8190DD00}{C:819582965F2B00000000}Of course!\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "acc5bf07b918d16a3a6f90b098f2dd4e505ac3a48d9c01df416f917d6018e785",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81930100}{C:81958296602B00000000}A bar... It's no place\nfor a minor like me...\n\n{C:8190DE00}{C:81958296612B00000000}I've been waiting for you, kid.\n\n{C:81930100}{C:81958296622B00000000}Byman!\n\n{C:8190DE00}{C:81958296642B00000000}Hey, don't look at me\nas if you've seen a dead man!\nI'm alive, as you can see.\n\n{C:81958296662B00000000}Though I don't know why.\nWell, I suppose it's a whim of the gods.\n\n{C:81958296672B00000000}Chirico told me\nyou're doing something interesting.\nI'm joining in too.\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "9bce902316b68330d59cbef00c5b51686c7d8ec0acbe04cc3a10fe802229e622",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81931E02}{C:819582968C3300000000}We of the {C:819782830400}24th Unit{C:819782830000}\nhave been waiting for you.\n\n{C:81930100}{C:819582968D3300000000}For us?\nWhy?\n\n{C:81931E02}{C:819582968E3300000000}To put an end to this pointless war\nthat's dragged in continent after continent.\nWill you accept us?\n\n{C:81930100}{C:819582968F3300000000}Of course.\nYou're welcome to join us.\n\n\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "bdeab5c3276757e9ac402847c7f1fb34caf0d27f1376494f5a65d7453a2a2262",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:8190E501}{C:81958296862900000000}What are you doing here?\nIf you've got time for detours,\nsurely you have other things to do.\n\n{C:81930100}{C:81958296872900000000}...I'm sorry.\n\n{C:8190E501}{C:81958296882900000000}Still, fighting\ncomes with all kinds of expenses.\nTake this with you.\n\n\n{x00}",
+   "source_sha256": "bfd9bee2e3d546327203013ce766ff27e42b2b4299373653ae87ec320becfcd6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n\n{C:8190E501}{C:81958296892900000000}Now, hurry back to the fight.\n\n\n\n\n{x00}",
+   "source_sha256": "fce17cfd0b66bf9b026e926ad3d3b6d6381b391126b7e16f20731c4942ed203c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All25unique482verdicts,fourshared,eightactualauthorgroupsandassessments,threefullJP-current-proposedsevenfieldupdatesread. Repairs5/18/20;other22whole467exact. Separateall25complete488English editorialsourceorderread,nochanges. Author63/independent62prepsseparate; no inheritedextra04922:2coverage. Actual1185glossary; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

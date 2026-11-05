@@ -1,0 +1,902 @@
+{
+ "table": "04910_10388",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:81933200}{C:819582961D0000000000}...Your words\nare rather hard to believe.\nYou are telling the truth, I trust?\n\n\n{C:81930C00}{C:81958296812100000000}Yes. You have my word.\nOnce you rule this continent,\nI'll give you the technology to cross the Cloud Sea.\n\n{C:81933200}{C:819582961E0000000000}I'll take you at your word.\nFor the time being.\n\n\n{C:81930200}{C:81958296822100000000}The Cloud System\nwas invented by Claudia\nfor peaceful purposes!\n\n{C:81958296852100000000}Using it for war is wrong!\n\n{C:81933200}{C:819582961F0000000000}You're insolent, woman.\n\n{C:81930200}{C:81958296862100000000}What...?\n\n{C:81933200}{C:81958296200000000000}I said you're insolent.\nYour companion seems to lack manners.\n\n{C:81930C00}{C:81958296882100000000}My apologies for her rudeness.\n\n{C:81958296892100000000}Then we shall take our leave today\nbefore we cause any further offense.\n\n\n{x00}",
+   "source_sha256": "7a6b8f4d3c90d1a2c5aeeb4243f24ead5e939902915f1caafe2de05aef15aff0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81900200}{C:819582968A2100000000}What you're trying to do\nis wrong.\nDon't drag the other continents into it!\n\n{C:81900C00}{C:819582968B2100000000}Don't get the wrong idea, woman!\nI'm only keeping you alive\nbecause you seem to have an interesting power.\n\n{C:819582968C2100000000}That doesn't mean\nyou should expect me\nto remain generous forever.\n\n{C:81900200}{C:819582968D2100000000}But...\n\n\n\n\n\n{x00}",
+   "source_sha256": "8311a6c425c41eda589044124c0eacf1582cf346d50d33fba7bbdf9f8d19b280",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8190B801}{C:81958296210000000000}Hey, hey, ladies!\nI haven't seen your faces on this continent before.\nAre you like me, by any chance?\n\n\n{C:81930100}{C:819582968E2100000000}Like you...?\nDid you come from another continent too?\n\n{C:81900300}{C:819582968F2100000000}Big brother!!\nYou can't just blurt out\nsomething like that!\n\n{C:8190B801}{C:81958296220000000000}Ahahaha...\nYou've got it rough, bro.\n\n{C:81930100}{C:81958296902100000000}I sure do... Hey,\nwhose fault is that?!\n\n{C:8190B801}{C:81958296230000000000}Sorry, sorry.\nI stopped you folks\nbecause I wanted to ask a favor.\n\n{C:81900300}{C:81958296912100000000}A favor from us?\n\n{C:8190B801}{C:81958296240000000000}That's right. I was wondering\nif you'd let me aboard\nyour battleship.\n\n{C:81900400}{C:81958296932100000000}Why should we let you\naboard our ship?\n\n{C:8190B801}{C:81958296250000000000}Whoa!\nYou're a feisty big sister, aren't you?\n\n{C:81900400}{C:81958296942100000000}Who's your big sister?\nI wouldn't want an obnoxious little brother\nlike you!\n\n{C:81958296952100000000}Besides, no matter how you look at it,\nyou're older than I am!\n\n{C:8190B801}{C:81958296260000000000}Then you'd better\nlisten to your elders, hadn't you?\n\n{C:81958296270000000000}So, what do you say?\nWill you let me aboard?\n\n{C:81930100}{C:81958296962100000000}What do we do, Rie?\n\n{C:8190B801}{C:81958296280000000000}A battleship shaped just like yours\nowes me one.\n\n{C:81958296290000000000}Would you let me aboard\nso I can get even?\nI'll do anything!\n\n{C:81900300}{C:81958296972100000000}In that case, I authorize you to come aboard.\nI'm the captain, Rie Akatsuki.\nIt's nice to meet you.\n\n{C:81930100}{C:81958296982100000000}Hey, is that really all right?\nYou decided awfully quickly.\nDon't you think so, Nelfea?\n\n{C:81900400}{C:81958296992100000000}The captain's given permission,\nso what's the problem?\n\n{C:819582969A2100000000}I'm Nelfea Northrock,\na pilot.\n\n{C:8190B801}{C:819582962A0000000000}Hehehehe!\nI'm Sai Saici,\na Gundam Fighter.\n\n{C:819582962B0000000000}Though I guess\nthat won't mean anything to you.\nAnyway, nice to meet you!\n\n{C:819582962C0000000000}You too, bro!\n\n{C:81930100}{C:819582969B2100000000}Uh, yeah.\nNice to meet you.\n\n\n\n\n\n{x00}",
+   "source_sha256": "0c8f2a58027ca9831dcb0ec4a9c181bfc55c02663afab5e4fe6a390b9b15e9ca",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81900300}{C:819582969C2100000000}Wow...\nEverything here is new to me!\n\n{C:81900400}{C:819582969D2100000000}If you keep looking around like that,\nyou'll bump into someone, Rie.\n\n\n{C:81900300}{C:819582969E2100000000}Mmm...\n\n\n{x00}",
+   "source_sha256": "1851f44645bc1b86852ed469786313073e03ea28f1efcb309a3c925c97dbcb84",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81939F02}{C:819582969F2100000000}Ah!\n\n{C:81900300}{C:81958296A02100000000}Oh, I'm sorry!\nAre you all right?\n\n{C:81909F02}{C:81958296A12100000000}It's okay. I wasn't looking where I was going either.\n\n\n{C:81900400}{C:81958296A22100000000}Look at the way she's dressed.\nDon't you think it's more like our clothes\nthan the clothes on this continent?\n\n{C:81930100}{C:81958296A32100000000}Now that you mention it, you're right.\nAll right! I'll go ask her.\n\n{C:81900400}{C:81958296A42100000000}Hey, don't!\nIf you do that...\n\n\n{C:81930100}{C:81958296A52100000000}Excuse me.\nThis might sound strange, but\nyou're not from this continent, are you?\n\n{C:81909F02}{C:81958296A62100000000}Huh? Um, well, I...\n\n\n{x00}",
+   "source_sha256": "193483396e2afe4e7a40186d208c483540c27ca831bf372bda189ac6d280187d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930100}{C:81958296A72100000000}Oh, wait!\n...Aw, she's gone.\n\n{C:81900300}{C:81958296A82100000000}Of course she is!\nYou hadn't even asked her name!\n\n{C:81958296A92100000000}And then you suddenly asked,\n\"You're not from this continent, are you?\"\n\n{C:81958296AA2100000000}If someone asked you that,\nyou'd be completely put off!\n\n\n{C:81930100}{C:81958296AB2100000000}Would you?\nIt wouldn't bother me.\n\n{C:81900300}{C:81958296AC2100000000}Not everyone's\nlike you, big brother!\nUgh, I'm getting a headache.\n\n{C:81900400}{C:81958296AD2100000000}Shall we move on for now?\nIt looks like we're drawing attention.\n\n\n\n\n\n{x00}",
+   "source_sha256": "b821866c77033ce97c0625c7d710b5a5bd2263fb8759146d38d0cb283ea088e7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81900400}{C:81958296B62100000000}We can't find any information\nabout the Norstan at all.\n\n{C:81900300}{C:81958296B72100000000}We don't even know if it came to this continent.\nAre we really in the right place?\n\n{C:81930100}{C:81958296B82100000000}The Cloud Sea's too thick for us to move anyway.\nThere's no use getting worked up.\nLet's try somewhere else.\n\n\n{x00}",
+   "source_sha256": "a2162d0d74cecfe0d9043bbae67d296bebff8eb15aad0b83a86e8287353dfc33",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81931C00}{C:81958296B92100000000}Those kids...\n\n{C:81901C00}{C:81958296BC2100000000}Could they be from that ship?\nI'd better report this to Nie, just in case.\n\n\n\n{x00}",
+   "source_sha256": "76c173043f0d8de114a3af2471475ef7fa8f022af60f22873c048c1a7b5aaaa8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81930100}{C:81958296BD2100000000}Huh? I've ended up somewhere strange.\nI've lost Rie and the others too.\nWhat am I doing?\n\n{C:81901E00}{C:81958296BF2100000000}Hey, you!\nWhat are you doing there?\n\n{C:81930100}{C:81958296C02100000000}I'm sorry.\nI seem to have lost my way.\n\n{C:81901E00}{C:81958296C32100000000}You look like you're from another country.\nI suppose you couldn't help getting lost.\n\n{C:81958296C62100000000}There's a lot of fighting these days,\nso plenty of people are on edge.\nYou'd better be careful.\n\n{C:81930100}{C:81958296C72100000000}I understand.\nThank you for the warning.\n\n{C:81901E00}{C:81958296C82100000000}Don't mention it.\n\n\n\n{x00}",
+   "source_sha256": "1e2c53ce7bc603680ecc7a22281aed43d8bbc72b25dcb00bc408633d6ebea626",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81930400}{C:81958296C92100000000}It looks like a ship from this continent is approaching.\nOh! It's getting ready for battle!!\n\n{C:81930300}{C:81958296CA2100000000}I'd rather avoid a fight if we can,\nbut at least get us ready to defend ourselves.\n\n{C:81930100}{C:81958296CB2100000000}You got it!\n\n\n{x00}",
+   "source_sha256": "4b7f982d88c8ebf57e3da0a46baf4924dfd4cecbfea01f7a49eb1cfc4d18d5a1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81932800}{C:81958296CC2100000000}So that's the other\nCloud Ship...\n\n{C:81958296CD2100000000}We were only supposed to observe it,\nbut perhaps I'll bring it down for our lord.\nHoly Warriors, prepare to sortie!\n\n{C:81932700}{C:81958296CE2100000000}I'm ready whenever you are.\nHow about you, Jap?\n\n\n{C:81932300}{C:819582962F0000000000}Could you stop\ncalling me Jap, Yankee?\n\n{C:81932700}{C:81958296CF2100000000}Tch.\n\n{C:81932800}{C:81958296D02100000000}Let's have no infighting\nat a time like this, Holy Warriors.\n\n{C:81932700}{C:81958296D12100000000}I know.\nI'm heading out, {C:819782830400}Bern{C:819782830000}, old pal.\n\n{C:81932800}{C:81958296D22100000000}{C:819782830400}Sho Zama{C:819782830000},\nyou will sortie too, won't you?\n\n{C:81932300}{C:81958296300000000000}I'll do enough\nto repay you for keeping me alive.\nDunbine, Sho Zama, launching!\n\n\n{x00}",
+   "source_sha256": "5b7dd6e50336224590d8c278b938b4955fdc07f96f4b9cf87b902bccba9c78c5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81931E00}{C:81958296D42100000000}There are a lot of enemies. Can you handle them, {C:819782830400}Marvel{C:819782830000}?\n\n{C:81931C00}{C:81958296D52100000000}We don't have a choice, do we?\nI'm going out.\n\n{C:81931E00}{C:81958296D62100000000}Sorry. I'm counting on you.\n\n\n{x00}",
+   "source_sha256": "41ac5def6e936db8965096a4c84702e4d0c22a229e743e0f78dfaaea6e13b312",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81931C00}{C:81958296D72100000000}You're a stupid man, helping \n{C:819782830400}Drake{C:819782830000} without knowing right from wrong.\n\n{C:81958296D82100000000}Do you understand this continent and the {C:819782830300}Kingdom of A{C:819782830000}\nwhen you offer Drake your help?\n\n{C:81958296D92100000000}Don't you understand\nthat this man Drake\nis obsessed with power?!\n\n\n{x00}",
+   "source_sha256": "e9659560b873a45bdf83a24b9d6630485dda538214db8bcdf0185a9d9f8334b3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81932300}{C:81958296310000000000}I wouldn't know!\nI only just got here!!\n\n{x00}",
+   "source_sha256": "816186cf55ebb5d805ebffd5e52278ec349b411754f5748adbd4e26d5d5b528d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81931C00}{C:81958296DA2100000000}All that effort... all that effort...\nThen I'll kill you!!\n\n{x00}",
+   "source_sha256": "49ebcaa0e621551d221bcf17131de140ddbcdbb93d91bace7f695dd0f5ba89fa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81932300}{C:81958296320000000000}As if you could!!\n\n\n{x00}",
+   "source_sha256": "f41107231d7ba1f61dddf1782fced8076bc344de1aa5e5030fa18ff76660ff71",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81932800}{C:81958296DC2100000000}Holy Warriors, return.\nOur lord commands it.\nReturn to the ship.\n\n\n{x00}",
+   "source_sha256": "997bd01ba57e5323f77c6fe921154f209254c3c770d0107a5cea561fc08c62f8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81930100}{C:81958296DD2100000000}For now,\nit looks like we avoided a fight.\n\n{C:81958296DE2100000000}But that ship that came out afterward...\nWhy did it help us?\n\n{C:81900400}{C:81958296DF2100000000}We're getting a transmission from that ship.\nWhat do we do, Rie?\n\n{C:81900300}{C:81958296E02100000000}I'll talk to them.\nCould you open a channel?\n\n{C:81900400}{C:81958296E12100000000}I'm opening the channel.\n\n{x00}",
+   "source_sha256": "0ec72cacd2c316b5a00e4b4f5a65ebe4d9556966b5f33d85348ba024d5642ccb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81931E00}{C:81958296E22100000000}I'm with the {C:819782830400}Zelerna{C:819782830000}. My name is {C:819782830400}Nie Given.{C:819782830000}\n\n{x00}",
+   "source_sha256": "60b1abfa4d8ef453361f5aaa7d0f5cbebe4820b34e96f0563b2f0e7448aa21b2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930300}{C:81958296E52100000000}I'm Rie Akatsuki,\ncaptain of the Astante.\n\n{x00}",
+   "source_sha256": "d417fa9428203f7ab9cea97c7adf15ef300d6ed045b9cce90f8f8915c53f2a33",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81931E00}{C:81958296E62100000000}We have no\nhostile intentions toward you.\n\n{C:81958296E82100000000}We'd like to talk to you,\nthe people who crossed the Cloud Sea.\n\n{C:81958296EB2100000000}If possible, would you trust us and come to the {C:819782830300}Kingdom of Lau{C:819782830000} for a\nmeeting?\n\n{x00}",
+   "source_sha256": "ee28321ea1d281c2ba9c40e0d05e0608b76ff59abad0402b667fe8a6caa50814",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81900300}{C:81958296EC2100000000}What should we do?\nI'd like to hear what they have to say.\nIs that all right?\n\n{C:81900400}{C:81958296ED2100000000}As you wish, Captain.\n\n{C:81930100}{C:81958296EE2100000000}They practically saved us.\nI think it's all right.\n\n{C:81958296EF2100000000}Besides, let's try trusting them first\ninstead of being suspicious.\n\n{C:81900300}{C:81958296F02100000000}Okay!\nThen I'll give them our answer.\n\n{C:81930300}{C:81958296F12100000000}Understood.\nWe'll head for the Kingdom of Lau.\n\n{x00}",
+   "source_sha256": "2558fa0bb415ccfc603337c4286fbeec6acb242ba12378a4ddcf2241574698ea",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81931E00}{C:81958296F22100000000}Thank you.\nWe'll send out some kind of signal\nso you can locate the Kingdom of Lau.\n\n{C:81958296F32100000000}Then we'll see you in the Kingdom of Lau later.\n\n\n\n{x00}",
+   "source_sha256": "fb632f1eb8ef4a93ec6539d66f81307cb2f69dcc9b5b45fc7c298b1063baa545",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81901E00}{C:81958296F42100000000}Thank you for trusting us.\nLet me introduce myself again: Nie Given.\nIt's good to meet you.\n\n{C:81900300}{C:81958296F52100000000}I'm Rie Akatsuki,\ncaptain of the Astante.\n\n{C:81958296F72100000000}Thank you very much\nfor helping us earlier.\n\n{C:81901C00}{C:81958296F82100000000}I'm Marvel Frozen.\n\n{C:81900400}{C:81958296F92100000000}I'm the pilot,\nNelfea Northrock.\n\n{C:81930100}{C:81958296FA2100000000}Nice to meet you.\n\n{C:81901B00}{C:81958296FB2100000000}I'm {C:819782830400}Chum Huau{C:819782830000}!\n\n\n{C:81930100}{C:81958296FC2100000000}Whoa! What is this?!\n\n{C:81901B00}{C:81958296FD2100000000}What do you mean, this?!\n\n{C:81900400}{C:81958296FE2100000000}Oh, you're so cute!\n\n{C:81901B00}{C:81958296FF2100000000}See? That's the proper reaction!\n\n{C:81901E00}{C:81958296002200000000}Now, now, don't get so angry, Chum.\nThere probably aren't any Mi Ferario\non their continent.\n\n{C:81930100}{C:81958296012200000000}I'm sorry.\nYou appeared so suddenly that I was surprised.\nWill you forgive me?\n\n{C:81901B00}{C:81958296022200000000}Oh, is that all?\nThen I forgive you.\n\n{C:81900300}{C:81958296032200000000}Um... Nie,\nabout what you wanted to discuss...\n\n{C:81901E00}{C:81958296042200000000}I'll get straight to the point.\nOn this continent,\nyou're wanted fugitives.\n\n{C:81901C00}{C:81958296062200000000}Someone else\nwill explain the details to you.\n\n{C:81958296082200000000}You've come from another continent.\nWill you trust us\nand come with us?\n\n{C:81930100}{C:81958296092200000000}I'll go as our representative.\nRie, please wait on the Astante.\n\n{C:81900400}{C:819582960A2200000000}That's right.\nI'll go with him,\nso you stay behind, Rie.\n\n{C:81900300}{C:819582960B2200000000}Oh, Nelfea! That's not fair!\n\n{C:81930100}{C:819582960C2200000000}I'd like you to stay behind too, Nelfea.\n\n{C:81900400}{C:819582960D2200000000}Why?!\n\n{C:81930100}{C:819582960E2200000000}We can't leave the Astante unattended.\nIf those people from earlier came back,\nthere'd be nobody to defend it.\n\n{C:819582960F2200000000}So I'm counting on you.\n\n{C:81900400}{C:81958296102200000000}All right.\nLeave the Astante and Rie\nto me.\n\n{C:81930100}{C:81958296112200000000}Then shall we go,\nMr. Given and Ms. Frozen?\n\n\n\n{x00}",
+   "source_sha256": "60ae19a14c85e4040d88fadb1b61b960f3e609f5718912fb964903aca1123aa7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81902800}{C:81958296192200000000}Lady Riml, you mustn't come\nto a place like this alone!\n\n{C:81902300}{C:81958296360000000000}A place like this? That's harsh,\nBern Bunnings.\n\n{C:81933300}{C:819582961A2200000000}I was asking the Holy Warrior\nto tell everyone all sorts of stories.\n\n{C:81902800}{C:819582961B2200000000}You should give some thought to etiquette too, Holy Warrior.\nWe must respect how noble people live here.\nCome along, Lady {C:819782830400}Riml{C:819782830000}.\n\n{C:81933300}{C:819582961C2200000000}Sho Zama... I'm counting on you.\n\n{C:81902300}{C:81958296370000000000}I'll think about it,\nLady Riml.\n\n\n\n{x00}",
+   "source_sha256": "ee27eaafc845554ac29d665bef23bd76a73a247960d612a3427c9b96f5bce8e3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81901E00}{C:81958296312200000000}Say...\n\n{C:81930100}{C:81958296322200000000}Oh, you can drop the formalities,\nMr. Given.\n\n{C:81901E00}{C:81958296332200000000}I see. Then just call me Nie too.\n\n{C:81958296342200000000}I have a suggestion.\nYour ship stands out too much.\n{C:819782830400}Zelerna{C:819782830000}--why not transfer aboard her?\n\n{C:81930100}{C:81958296352200000000}The Astante certainly\ndoes stand out.\n\n{C:81958296362200000000}I understand.\nI'll tell everyone as soon as I get back.\nBut what about the Astante in the meantime?\n\n{C:81901E00}{C:81958296372200000000}I expected this might happen,\nso I've already asked someone...\n\n\n{C:81902600}{C:81958296382200000000}I know about the matter.\nLeave it to me.\n\n{C:81901E00}{C:81958296392200000000}{C:819782830400}King Foizon{C:819782830000}!\nWhat brings you to a place like this?!\n\n{C:81902600}{C:819582963A2200000000}{C:819782830400}Pradon{C:819782830000} told me about it.\nI couldn't sit still,\nso here I am!\n\n{C:81901E00}{C:819582963B2200000000}With respect, for the king himself\nto come all the way to a place like this...\n\n{C:81902600}{C:819582963C2200000000}Hahahahaha! Don't be like that!\nI wanted to see people from another continent\nwith my own eyes, too.\n\n{C:819582963D2200000000}Is that the one?\n\n{C:81901E00}{C:819582963E2200000000}Yes.\n\n{C:81902600}{C:819582963F2200000000}I see.\nI'm Foizon Gow,\nKing of the Kingdom of Lau.\n\n{C:81958296402200000000}Rest assured, you can leave\nyour ship in my care.\nI'll look after it well.\n\n{C:81930100}{C:81958296422200000000}Understood, King Foizon!\nThank you. We're counting on you.\n\n\n\n{x00}",
+   "source_sha256": "8b2f1edbbe405659a937cd7b1f5733252dd19793469e62b671062da338416226",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81930100}{C:81958296432200000000}...And that's what happened.\nSo I think we should transfer to the Zelerna,\neven if it's only temporary.\n\n{C:81900400}{C:81958296442200000000}I agree!\nThat sounds perfectly reasonable.\n\n{C:81900300}{C:81958296462200000000}Yes.\nThere's no reason to object.\n\n{C:81958296472200000000}Then we'll be counting on you,\nNie.\n\n{C:81901E00}{C:81958296482200000000}Likewise.\nUse the Zelerna\nas you see fit.\n\n{C:819582964A2200000000}And that includes us.\n\n{C:81930100}{C:819582964B2200000000}All right! Now that's decided,\nlet's get straight to the Zelerna...\n\n{C:81900300}{C:819582964C2200000000}What are you talking about?\nYou're moving the supplies, big brother.\nDo your best!\n\n{C:81930100}{C:819582964D2200000000}Aw, come on!\n\n\n\n\n{x00}",
+   "source_sha256": "942366f58daadd962e4b2f4eb4f258ba9dfa9ff23f8d7b0a2af0b648af688811",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81931E00}{C:819582965C2200000000}One of our friends has gone to the {C:819782830300}Kingdom of Na{C:819782830000}.\nI'd like to pick her up. Is that all right?\n\n{C:81930300}{C:819582965D2200000000}The Kingdom of Na, right?\nUnderstood.\n\n\n{x00}",
+   "source_sha256": "5d7418be33d098ede5d754eccccbf6fb1563a81a5472c690d7464410983e8b2e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81901B00}{C:819582965E2200000000}{C:819782830400}Keen{C:819782830000}!\n\n{C:81901D00}{C:819582965F2200000000}Chum!\nHave you been well?!\n\n{C:81901B00}{C:81958296602200000000}I have, I have!\nBut listen!\nI met people from another continent!\n\n{C:81901E00}{C:81958296612200000000}Keen, sorry to keep you waiting.\nHow did things go on your end?\n\n{C:81901D00}{C:81958296622200000000}Unfortunately, I couldn't meet Lady \n{C:819782830400}Ciela{C:819782830000}.\nHow about you, Nie?\n\n{C:81901E00}{C:81958296632200000000}Let me introduce him.\nHe's a crew member from that ship.\n\n{C:81930100}{C:81958296652200000000}Hello.\n\n{C:81901D00}{C:81958296662200000000}Hello.\nI'm Keen Kiss.\nNice to meet you!\n\n\n\n{x00}",
+   "source_sha256": "6e872368db3f60aebee1c96ea11b870219738043f400a9754287d17bba5e63ff",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81901E00}{C:819582964E2200000000}There's something I'd like you to keep secret.\nWill you hear me out?\n\n{C:81930100}{C:819582964F2200000000}If it's all right for us to hear it,\nI'm sure Rie and Nelfea here\ncan keep a secret.\n\n{C:81901E00}{C:81958296502200000000}It's about Lady Elle...\nShe's a princess of the Kingdom of Lau.\n\n{C:81900400}{C:81958296512200000000}She's too young to be King Foizon's daughter...\nIs she his granddaughter?\n\n{C:81901E00}{C:81958296522200000000}Yes. For certain reasons,\nKing Foizon\ndoesn't acknowledge her.\n\n{C:81958296532200000000}I thought you\nought to know.\n\n{C:81900300}{C:81958296542200000000}But why are you\ntelling us this?\n\n{C:81901E00}{C:81958296552200000000}Because we're friends.\nI wanted you to know.\n\n{C:81930100}{C:81958296562200000000}Thank you, Nie,\nfor trusting us.\n\n{C:81901E00}{C:81958296572200000000}What are you talking about?\nYou put your trust\nin me and Marvel, didn't you?\n\n{C:81958296582200000000}It's precisely because we're in a conflict like this\nthat I want to value my friends.\n\n\n{x00}",
+   "source_sha256": "987f717f028a83563525a6162ab9f19f9ecfea6a2cc501c53bad8a98520fca89",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81930100}{C:81958296592200000000}Lun... Where are you now?\nDamn it!\nI hate how powerless I am.\n\n\n{C:81930300}{C:819582965A2200000000}Big brother, what are you doing?\nIt's nearly time to leave.\n\n\n{x00}",
+   "source_sha256": "92bbd6fd1da853ba756db3be99505501a8f57bf8a9b3ffbe835f575014d6b0e6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81930100}{C:819582965B2200000000}Yeah, I understand.\nI'll be right there.\n\n\n\n\n\n{x00}",
+   "source_sha256": "764bf330ffc8011c9c96a664187a9e355391fa51fca8d869c0fdd70e4da9ea78",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81901C00}{C:81958296672200000000}Nie, about {C:819782830300}Laas Wau{C:819782830000}:\nan Aura Ship has just taken off from there.\nNow's our chance!\n\n{C:81901E00}{C:81958296682200000000}I see!\n\n{C:81958296692200000000}You heard her.\nI'd like to reduce the enemy's strength, even a little.\nWill you help us?\n\n{C:81930100}{C:819582966A2200000000}You don't even have to ask.\nWe're already friends, aren't we?\nLet's go to Laas Wau!!\n\n{C:81901E00}{C:819582966B2200000000}All right!\nThe Zelerna is heading for the {C:819782830300}Kingdom of A{C:819782830000}!\n\n\n\n{x00}",
+   "source_sha256": "19d739ecea3a62134b2b450ffbd7d2ce70c5df96e56e5813deb62bff07e92cc4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81932300}{C:81958296380000000000}You're always the ones\nwho attack first!\n\n{x00}",
+   "source_sha256": "629d8c3236b382b8662a9fbf029ef6bd4c4c2bd22b67b492d318308f85bd4dbe",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81931C00}{C:819582966C2200000000}With so few forces,\nwe have no choice but to do this.\nPlease try to understand our situation!\n\n{x00}",
+   "source_sha256": "1aa1a3ee001f21bae00a978f16438fd103c84c01cfbe3e7e6b0c128c211e93da",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81932700}{C:819582966D2200000000}What the hell are you babbling about?!\nSho!\n\n\n{x00}",
+   "source_sha256": "5bbef4600e65ac24896db7ed0fa677f4f88d1669f6a89aaa980dda20fa2f0f2c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81931C00}{C:819582966E2200000000}That man, Sho Zama...\nI feel like he might be willing\nto help us, but...\n\n\n\n{x00}",
+   "source_sha256": "7b82939f64e4d95fd7efe66e2c0c99772ef1e5b84fc31b9852568b8350cbf761",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81900400}{C:81958296702200000000}Huh?\nIsn't that the girl\nwe saw earlier?\n\n{C:81900300}{C:81958296712200000000}It is.\nI wonder what's wrong.\nShe's running in such a panic.\n\n\n{x00}",
+   "source_sha256": "c08b3246451aa779c0874cc5aadd615c6a96e078dcd9fecabcbf53fed0035a2c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81901E00}{C:81958296722200000000}It's Bern!\n\n{C:81930100}{C:81958296732200000000}Who's Bern?\n\n{C:81901E00}{C:81958296742200000000}Drake's attack commander!\nIf he's chasing a woman,\nthere must be a reason.\n\n{C:81930100}{C:81958296752200000000}Let's go, Nie!!\n\n\n{x00}",
+   "source_sha256": "afd40e8eb6717a9ca9f09a574924e598df63fecb4f0477aa88fd15166e6a1082",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81902800}{C:81958296762200000000}Girl, come with me quietly.\nDo that, and I won't mistreat you.\n\n{C:81909F02}{C:81958296772200000000}Liar!\nYou plan to use me to exploit {C:819782830400}Van{C:819782830000} and {C:819782830400}Escaflowne{C:819782830000},\ndon't you?!\n\n{C:81902800}{C:81958296782200000000}Oh, you understand perfectly.\nThen that makes things simple.\nCome, girl!!\n\n\n{C:81939E02}{C:81958296792200000000}{C:819782830400}Hitomi{C:819782830000}!!\n\n{C:81909F02}{C:819582967A2200000000}Van!!\n\n\n{x00}",
+   "source_sha256": "3122ea67378cfcd346ae69a2827dbaa79877df343171f971e840f559a2a393e6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81909E02}{C:819582967B2200000000}Stay away from Hitomi!!\n\n{C:81902800}{C:819582967C2200000000}Well, well, our knight has arrived.\n\n{C:81909E02}{C:819582967D2200000000}I won't let you do as you please\nwith me or Escaflowne!\n\n{C:81902800}{C:819582967E2200000000}You're drawing your sword?\nThen I won't show any mercy either!!\n\n\n{x00}",
+   "source_sha256": "1111a4ce3e4a255a2268812865aa82da5c480dc37ac3c5db6ac878d026b7742e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81930100}{C:819582967F2200000000}This is bad!\n\n{C:8193B801}{C:81958296390000000000}Bro, it's dangerous to go in barehanded!\nLeave it to me!!\n\n\n{C:81902300}{C:819582963A0000000000}Bern!\nWhat are you doing?!\n\n{C:81902800}{C:81958296802200000000}Ah, Holy Warrior.\nI'm only doing\nwhat I must for our lord.\n\n{C:81958296812200000000}I would ask you, Holy Warrior,\nnot to interfere.\n\n{C:8193B801}{C:819582963B0000000000}Now we're talking!\nBro, let's go!!\n\n{C:81930100}{C:81958296822200000000}Yeah!\n\n\n{C:81902800}{C:81958296832200000000}Who the hell are you?!\n\n{C:8190B801}{C:819582963C0000000000}Hehehehe!\nWe're lending a hand too!\nRight, bro?\n\n{C:81930100}{C:81958296842200000000}Yeah. I can't just stand by\nwhen someone talks about taking a girl hostage.\n\n{C:81902300}{C:819582963D0000000000}Then... I can't do as you ask.\nA man who calls himself a knight\nis trying to take a woman hostage!\n\n{C:819582963E0000000000}As a Holy Warrior... no, as a man,\nI can't overlook that.\n\n\n{C:81902800}{C:81958296852200000000}Sho Zama!!\n\n{C:81901E00}{C:81958296862200000000}You're outnumbered,\nBern Bunnings!!\n\n{C:81902800}{C:81958296872200000000}Nie Given too... Ghh!\n\n{C:81958296882200000000}Very well!\nI'll withdraw for now.\nBut I won't forget this humiliation!!\n\n\n{x00}",
+   "source_sha256": "4ba1480e72d2cac0839b10ca03e67f7e5fcd8696b09c7d52dbe258e327f65d0f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81930100}{C:819582968A2200000000}Um, Sho,\nwe're...\n\n{C:81902300}{C:819582963F0000000000}I'm still on Drake's side.\nYou'd better not say anything careless.\nSee you.\n\n\n{C:81930100}{C:819582968B2200000000}Well then... Huh?\nWhere did those two go?\n\n{C:81901E00}{C:819582968C2200000000}Sorry.\nI was so focused on Sho Zama\nthat I wasn't watching them.\n\n{C:8190B801}{C:81958296400000000000}Oh, come on!\nWe saved them for nothing!\n\n{C:81930100}{C:819582968D2200000000}At least we kept that girl Hitomi\nout of Bern's hands.\nLet's be satisfied with that.\n\n{C:8190B801}{C:81958296410000000000}Tch, bro,\nyou're such a softie!\n\n{C:81900300}{C:819582968E2200000000}That's all right.\nThat's one of the good things\nabout my big brother.\n\n{C:81901B00}{C:819582968F2200000000}Ooh, how cool!\n\n\n\n{x00}",
+   "source_sha256": "d8446350b5d75f219c8a822d8b4397a15760d775f5759cf4932a61577e41fb1f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81909F02}{C:81958296902200000000}Um...\n\n{C:81900300}{C:81958296912200000000}Oh, you're the girl from earlier.\n\n{C:81909F02}{C:81958296922200000000}I'm sorry I ran off earlier\nwithout even thanking you.\nAnd thank you for saving us.\n\n{C:81958296932200000000}Come on, Van.\nYou should thank them too.\n\n{C:81909E02}{C:81958296942200000000}...You saved us. You have my thanks.\n\n{C:81930100}{C:81958296952200000000}No, um...\nHow should I put it? We only did\nwhat anyone should do.\n\n{C:81909F02}{C:81958296962200000000}Come on, Van, tell them.\n\n{C:81909E02}{C:81958296972200000000}You said you were going to tell them...\n\n{C:81900300}{C:81958296982200000000}If there's something you want to discuss,\nwe're happy to listen.\n\n{C:81909F02}{C:81958296992200000000}Um, well...\nI-it's a selfish request, but\ncould you let us aboard your ship too?\n\n{C:81900300}{C:819582969A2200000000}Of course.\n\n{C:81909E02}{C:819582969B2200000000}What?\n\n{C:81900300}{C:819582969C2200000000}Oh, right, we aren't\non the Astante now.\nIs it all right, Nie?\n\n{C:81901E00}{C:819582969D2200000000}Of course.\nYou're very welcome.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "0624a65b411eedc7553e591fec43fbcefcf4f66052681d09a8fdc42f24ec53e3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n\n{C:81902700}{C:819582969E2200000000}Flying a machine I'm not used to is tiring.\nI'm going to get some rest right away.\n\n\n{x00}",
+   "source_sha256": "e0a06cb2ef0c0f103f23aec43253d3fabea8d97d4930e7edfef05d4fda4a14fa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81902300}{C:81958296420000000000}(What's that black machine that just landed?\nIt's not an Aura Battler.)\n\n{C:81902700}{C:819582969F2200000000}Hey, Sho!\n\n{C:81902300}{C:81958296430000000000}Sorry. Go on ahead.\n\n\n\n{x00}",
+   "source_sha256": "c0201656b3ddcf5d9c6653e100dc37d502342480314ad7df6265d570d270d194",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81902300}{C:81958296440000000000}I'm sure they came this way.\nAre they going to see Drake directly?\n\n\n\n{x00}",
+   "source_sha256": "352fcbf34687a625762719b34228e3c6cd26824fa527e6c2f58543e07bfee1fe",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81903200}{C:81958296450000000000}It's you. What do you want?\n\n{C:81900C00}{C:81958296A02200000000}It appears the enemy\nhas finally begun to move.\nI merely came to warn you.\n\n{C:81903200}{C:81958296470000000000}People from your continent?\nThere's no need to worry.\nNo country will deal with wanted fugitives.\n\n{C:81900C00}{C:81958296A12200000000}I certainly hope so.\n\n{C:81958296A32200000000}Otherwise, there's no point in my helping you control this continent\nand pursue your ambitions\non the others as well.\n\n{C:81903200}{C:81958296480000000000}You... What are you plotting?\nYou come all this way to see me and say such things.\nWhat is behind it...?\n\n{C:81900C00}{C:81958296A42200000000}Heh...\n\n\n{x00}",
+   "source_sha256": "c5c18233c0ba0a6d478ae1275ab47bc13b78d1d7ccfcb711c38d45e6537aca30",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:81932300}{C:81958296490000000000}Tch!!\n\n{C:81900C00}{C:81958296A52200000000}It appears someone was here.\n\n\n\n{x00}",
+   "source_sha256": "9e961b44da2f623e8cf7e6d8a83fe92eb4c4a6ca1da3f679723a1c338649729e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:81902300}{C:819582964A0000000000}Maybe I'll go to the Astante!\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "25697a89f86fbcd36a7d64da8ecd118383b8e194e01226c69c6b096092c4737d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:81932700}{C:81958296A62200000000}There you are, Zelerna!\nBring Sho out, damn you!\n\n{x00}",
+   "source_sha256": "65afc891ce197a8ef34fad3dd141a68f551733819bf9480d08d427db1abf2254",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:81931E00}{C:81958296A72200000000}Sho?!\nI don't know anyone by that name.\n\n{x00}",
+   "source_sha256": "ea82404492f968a3965c0e9079a37f204ea4af50f7e93e42f063931fdd95f422",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:81932700}{C:81958296A82200000000}You bastards\nare hiding him, aren't you?!\n\n\n\n{x00}",
+   "source_sha256": "f480ec0d57eb691f745cda0f38c9c958feaf25d62ce359eb8176c4ba01cf677a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 55,
+   "en": "\n{C:81931C00}{C:81958296A92200000000}Hey, why don't we\nlook for Sho Zama?\n\n{C:81931E00}{C:81958296AA2200000000}What for, Marvel?\n\n{C:81931C00}{C:81958296AB2200000000}I'm sure he'd join us.\nThat's what I think.\n\n{C:81930300}{C:81958296AC2200000000}The more forces we have, the better.\n\n{C:81930100}{C:81958296AD2200000000}Would that be a problem, Nie?\n\n{C:81931E00}{C:81958296AE2200000000}If you're all right with it, I won't object.\n\n\n{x00}",
+   "source_sha256": "78af1209d582d522231146a73bbcf3fffef72a4deb8e7448e6d165c5986fe08d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 56,
+   "en": "\n{C:81930300}{C:81958296AF2200000000}Nie,\nsomething's approaching at high speed.\n\n{C:81931C00}{C:81958296B02200000000}Isn't that Dunbine?\n\n{C:81931E00}{C:81958296B12200000000}It looks like he intends to land aboard.\nLet's go to the hangar!\n\n{C:8193B801}{C:819582964B0000000000}I'll go too.\nIt's dangerous, ladies,\nso stay here!\n\n\n{x00}",
+   "source_sha256": "05494755d8a4987d7f24da4f1d612d38cbe14af309c15d337e4d8ed18dbdb550",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 57,
+   "en": "\n{C:81902300}{C:819582964C0000000000}That's what I told you!\nThere's someone from another continent\nworking with Drake!\n\n{C:81901E00}{C:81958296B22200000000}You might be trying to gain our gratitude and get close to us\nso you can spy on us.\n\n{C:81902300}{C:819582964D0000000000}Are you so twisted\nyou can't even accept someone's goodwill?\n\n{C:81901C00}{C:81958296B32200000000}I think we can trust Sho.\nWhat do you think?\n\n{C:81901E00}{C:81958296B42200000000}Yes, what do you think?\n\n{C:81930100}{C:81958296B52200000000}He mentioned the ship we're pursuing too.\nI think he's telling the truth.\n\n{C:8190B801}{C:819582964E0000000000}I trust\nyour judgment, bro.\n\n{C:81901E00}{C:81958296B62200000000}If you all say so,\nI'll trust him... But\nhe'll have to prove himself in battle.\n\n{C:81930300}{C:81958296B72200000000}What do we do now?\nWhere should we go next?\n\n{C:81930100}{C:81958296B82200000000}{C:819782830400}Norstan{C:819782830000}--let's look for information about it.\nIt's our only option, isn't it?\n\n{C:81930300}{C:81958296B92200000000}That's right.\n\n\n\n\n{x00}",
+   "source_sha256": "dfbb92d7d4826176384f03a7aca5fc594a2af2c9eb9dfd3d3d3d8ae8b3f2e4bc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 58,
+   "en": "\n{C:81901E00}{C:81958296BA2200000000}...What do you think, Lady Elle?\n\n{C:81901A00}{C:819582964F0000000000}You still suspected me?\nYou just won't let it go!\n\n{C:81930100}{C:81958296BB2200000000}Nie,\nis that why we came here?\n\n{C:81902400}{C:81958296BC2200000000}Hehehe... You came all this way\nfor that?\n\n{C:81958296BD2200000000}It's all right, Nie Given.\nThere's no need to worry.\nYou can trust Sho Zama.\n\n{C:81901E00}{C:81958296BE2200000000}If you say so, Lady Elle...\n\n{C:81902400}{C:81958296BF2200000000}We're counting on you, Holy Warrior.\n\n{C:81901A00}{C:81958296500000000000}I don't think I'm so remarkable\nthat I deserve to be called a Holy Warrior.\nBut... I'll give it a try.\n\n{C:81902400}{C:81958296C12200000000}May good aura power\nguide you.\n\n\n{x00}",
+   "source_sha256": "c5b3f3feb334fb78b11e0aeb7fd89f5cd744dc77aed48487d7e1804f4de12d75",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 59,
+   "en": "\n{C:81902600}{C:81958296C22200000000}Ah, young people!\nYou've come at just the right time.\n{C:819782830300}The Kingdom of A{C:819782830000}'s king is under attack!\n\n{C:81958296C32200000000}It concerns another country,\nso we cannot intervene.\nCan we count on you, young people?!\n\n{C:81901E00}{C:81958296C42200000000}{C:819782830400}King Furaon{C:819782830000}?!\nThis is bad!!\n\n{C:81930100}{C:81958296C52200000000}What's so bad about it?\n\n{C:81901D00}{C:81958296C62200000000}If King Furaon loses to Drake,\nthe Kingdom of A will belong to Drake.\nWe can't let that happen, no matter what!!\n\n{C:81901A00}{C:81958296510000000000}Every moment counts.\nLet's hurry!!\n\n{C:81930100}{C:81958296C72200000000}Rie, Nelfea,\nlet's take out the Astante!\nThat'll give us more fighting strength.\n\n{C:81900300}{C:81958296C82200000000}Yes, I understand!\n\n{C:81901E00}{C:81958296C92200000000}Keen and I will go in the Zelerna.\nMarvel, come with us!\n\n{C:81901C00}{C:81958296CA2200000000}Understood.\n\n{C:81901E00}{C:81958296CB2200000000}We're heading out first!\n\n\n\n{x00}",
+   "source_sha256": "a1ed03104574c706e3aaf93700592b5c7cba8e1c0f98e5a5733b244affcad3d6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 60,
+   "en": "\n{C:81932600}{C:81958296CC2200000000}I'm sorry I can't do anything, young people.\nI wish you victory in battle.\n\n\n\n{x00}",
+   "source_sha256": "3e0fca3a66483922d9f15cd1f595a3b5490c8a7b086146ebd1577ca0d479d286",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 61,
+   "en": "\n{C:81932800}{C:81958296CD2200000000}You've come!\nI'll put an end\nto our association here and now!!\n\n\n{x00}",
+   "source_sha256": "4827af367c6cf8e248fecfbe80dcef8ec2ffdc74f205264f39d850375383c1b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 62,
+   "en": "\n{C:81931E00}{C:81958296CE2200000000}{C:819782830300}Elf Castle{C:819782830000} has fallen!\n\n{C:81930100}{C:81958296CF2200000000}What did you say?!\n\n{C:81931E00}{C:81958296D02200000000}King Furaon has died in battle.\nWe've lost this fight!\nWe're retreating!!\n\n{C:81958296D12200000000}{C:819782830300}Kingdom of Lau{C:819782830000}--we'll regroup on its \n{C:819782830300}outskirts{C:819782830000}!!\n\n\n\n{x00}",
+   "source_sha256": "632dafc5241b87cc74186f57a55035ea136ff14f59b713976c3c80958a50d8f8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 63,
+   "en": "\n{C:81930400}{C:81958296D22200000000}Nie and the others are waiting.\nLet's go to the Kingdom of Lau.\n\n\n{x00}",
+   "source_sha256": "0641cd5b3616c989a90e44effb8ffbc1b939b1aae5ec0f9282e474e041a262fe",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 64,
+   "en": "\n{C:81930100}{C:81958296D32200000000}I'm sorry, Nie.\nI wasn't any help.\n\n{C:81901B00}{C:81958296D42200000000}That was a shame.\n\n{C:81901E00}{C:81958296D52200000000}We weren't strong enough.\nIf only we'd had more strength...\n\n{C:81902400}{C:81958296D62200000000}You mustn't lose heart,\nNie Given.\nThe fighting will continue.\n\n{C:81901C00}{C:81958296D72200000000}Lady Elle!\n\n{C:81902400}{C:81958296D82200000000}The dark shadow has gone to another continent.\nPursuing that dark shadow\nis your mission.\n\n{C:81930100}{C:81958296D92200000000}I understand.\nBut...\n\n{C:81902400}{C:81958296DA2200000000}I don't think there will be\nany major moves for a while.\nEverything requires preparation.\n\n{C:81958296DB2200000000}Besides, that dark shadow is the root of the trouble.\nUnless you defeat it,\nthe fighting will never end.\n\n{C:81901E00}{C:81958296DC2200000000}You've heard what Lady Elle has said.\nLeave Byston Well\nto us, and go.\n\n{C:81958296DD2200000000}Marvel... Sho, too.\nGo with them.\n\n{C:81901A00}{C:81958296520000000000}N-Nie Given,\nare you all right with that?\n\n{C:81901E00}{C:81958296DE2200000000}Please, Sho Zama.\n\n{C:81901A00}{C:81958296530000000000}I don't know whether I can be of use,\nbut I'd like to help you.\n\n{C:81901C00}{C:81958296DF2200000000}I can't match Sho's aura power,\nbut I'll do my best\nnot to hold you back.\n\n{C:81930100}{C:81958296E02200000000}Thank you.\n\n{C:81902400}{C:81958296E22200000000}Then go.\nEverything depends\non you.\n\n\n\n{x00}",
+   "source_sha256": "0dc8266e9c66516e56391f205fc72a718b030515718d88a1d21c16d0919a77b0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 65,
+   "en": "\n{C:81930100}{C:81958296E32200000000}Then, sorry to trouble you,\nbut could you take care of the hangar?\n\n{C:81901A00}{C:81958296540000000000}Yes. Leave it to me.\n\n\n{x00}",
+   "source_sha256": "0943fd923abbf33c0feb7543244b9063143b69795ab570c62943285c403c5abc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 66,
+   "en": "\n{C:81901A00}{C:81958296550000000000}Now then, where should I start?\n\n{C:8193D001}{C:81958296560000000000}Hey, you there.\n\n{C:81901A00}{C:81958296570000000000}Who the hell are you?!\n\n{C:81930100}{C:81958296E42200000000}(Huh? What's all the noise?\nSho's fighting someone?!\nOh, what an amazing thrust!\n\n{C:81958296E52200000000}Whoa, he just barely dodged it... Did he jump?\nHow many times is he spinning?\nOh... No, I need to stop them.)\n\n{C:81900400}{C:81958296E62200000000}What are you doing?\nAren't you going to stop them?\n\n\n{x00}",
+   "source_sha256": "8918a0b3d0a42dc51f5ab2fb4140d513a094a7ea184c827bd47b55ec5cadefbc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 67,
+   "en": "\n{C:81931A00}{C:81958296580000000000}For that matter, what's with that half-clown mask\nthat looks like you're making fun of people?\n\n{C:8193D001}{C:81958296590000000000}If you don't like it,\nI don't mind taking it off.\n\n{C:81931A00}{C:819582965A0000000000}That's not the point!\nI'm asking who you are!!\n\n{C:8193D001}{C:819582965B0000000000}It doesn't matter who I am.\nWhat matters is who the enemy is.\n\n{C:819582965C0000000000}The people you're fighting\nare my enemies too.\n\n\n{x00}",
+   "source_sha256": "c1418e26794220d82f951525f576b39eac5f4c5e11177b27f5abd81c3725877b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 68,
+   "en": "\n{C:81930100}{C:81958296E72200000000}Are you pursuing\nthe Norstan too?\n\n{C:81901A00}{C:819582965D0000000000}You've come at just the right time.\nActually, this guy...\n\n{C:81930100}{C:81958296E82200000000}I'm sorry. I was watching.\nThe exchange of attacks and defenses was so amazing\nthat I missed my chance to step in.\n\n\n{C:81901A00}{C:819582965F0000000000}Honestly, you...\n\n{C:81930100}{C:81958296E92200000000}I said I'm sorry!\n\n{C:8190D001}{C:81958296600000000000}So, may I come aboard?\n\n{C:81930100}{C:81958296EA2200000000}Well...\nLet's leave that to the captain.\nWe should get Rie...\n\n{C:81900400}{C:81958296EB2200000000}I already went and got her\nwhile you were dawdling!\n\n{C:81900300}{C:81958296EC2200000000}I'm the captain, Rie Akatsuki.\nAre you the one\nwho wants to come aboard our ship?\n\n{C:8190D001}{C:81958296620000000000}Yes.\nI learned of the disturbances in the world...\nand came from another continent.\n\n{C:81958296630000000000}If things continue like this,\nthe person I must protect\nwill be harmed too.\n\n{C:81900300}{C:81958296ED2200000000}You have someone to protect?\n\n{C:8190D001}{C:81958296640000000000}Yes.\n\n{C:81900300}{C:81958296EE2200000000}In that case, I authorize you to come aboard.\n\n{C:8190D001}{C:81958296650000000000}I see. Thank you.\nI'm {C:819782830400}Trowa Barton.{C:819782830000}\nI look forward to working with you.\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "68f443b9a065470319a830279e3093d7b640204df7274384009ed3801aa8414a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 69,
+   "en": "\n{C:81932800}{C:81958296EF2200000000}You're insolent!\nYou've lost!!\n\n\n\n\n{x00}",
+   "source_sha256": "80a1486e141b93be249cdaf01faf3ece84fde059c2e607a3ba7d29342e9e649c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 70,
+   "en": "\n{C:81932700}{C:81958296F02200000000}You're persistent.\nPeople don't like that, you know.\n\n\n{x00}",
+   "source_sha256": "901b9ddd45e8f920a0517f56547c576f26fb8ab0eaab5d3422fa2d62148f51bf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent actually read all71unique405verdicts/omissions/uncertainties,4shared uncertainties/9authorqualificationassessments/all9actual404groups andbothfullheldJP24/26+all4completealternatives. Initialverbosecontexttruncatednativepayload; compact9groups/scope rereadbeforeadoption. All71full404records retained420;69defined2nullsemantic holds. Then separately read all69complete English frames0–35/36–70, no further edits. Preserve565selectedcalls368voices andallcontrols/LFs/rawheaders; sourceall71has599/395/395/0 and443literalspans. Shared179namesafterallmeaning/editorialedits then separateactual CURRENTMAINproof; alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy_review_sha256": "fe865e096dd28c3b91736f7e748fcdab325c9b95d57e61b69e6050039d53bce8",
+ "source_member_sha256": "0ec38fa32a4a1575010a03a2d7384d5f63b9d9ca50fe15f13bc138dc12620f11",
+ "rows": [
+  {
+   "cell": 0,
+   "en": "S",
+   "full": "Short Range",
+   "decision": "Range tuple \u8fd1\u9060\u8cab plus tutorial9\u2019s full range names support this expansion; S denotes Short, not Support."
+  },
+  {
+   "cell": 1,
+   "en": "L",
+   "full": "Long Range",
+   "decision": "Same positive range context; L denotes Long, not Left."
+  },
+  {
+   "cell": 2,
+   "en": "P",
+   "full": "Piercing",
+   "decision": "Fixed Piercing range label; tutorial9 describes short- and long-range attacks together. No armor/defense bypass is added."
+  },
+  {
+   "cell": 4,
+   "en": "FL",
+   "full": "Flying",
+   "decision": "Matching \u98db\u5bfe\u5730 position tuple and tutorial6/8 support Flying. FL is a compact legend abbreviation, not a new movement ability."
+  },
+  {
+   "cell": 5,
+   "en": "AA",
+   "full": "Anti-Air",
+   "decision": "\u5bfe alone is broader, but the exact \u98db\u5bfe\u5730 tuple and tutorial6\u20138\u2019s explicit \u5bfe\u7a7a/\u98db\u884c/\u5730\u4e0a terminology support this clipped Anti-Air reading. Not inferred from a lone \u5bfe glyph."
+  },
+  {
+   "cell": 6,
+   "en": "G",
+   "full": "Ground",
+   "decision": "Same tuple and full source ground-position attribute support Ground; no terrain restriction added."
+  },
+  {
+   "cell": 8,
+   "en": "AT",
+   "full": "Attack",
+   "decision": "Ordinary clipped Attack; same-game full \u653b\u6483 AT and \u653b/\u9632 templates support AT. Not a spoken imperative."
+  },
+  {
+   "cell": 9,
+   "en": "DF",
+   "full": "Defense",
+   "decision": "Ordinary clipped Defense; same-game full \u9632\u5fa1 DF and paired templates support DF. No defense quantity/effect added."
+  }
+ ],
+ "editorial": "Read all eight complete meanings and compact codes separately; retain reviewed codes in their nominal colour-coded16px icon context. Full meanings supplied in the accompanying legend.",
+ "glossary": {
+  "registered_variants": 24,
+  "fields_examined": 16,
+  "hits": [],
+  "global_aliases_added": false
+ },
+ "proofreading": "Saved meanings and codes separately read in cell order; short/long are range, Anti-Air is source-context expansion, AT/DF match native abbreviations. Unchanged punctuation/directions remain exact."
+}

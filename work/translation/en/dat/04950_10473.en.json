@@ -1,0 +1,96 @@
+{
+ "table": "04950_10473",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:81930400}{C:81958296C73400000000}Quick question.\n\n{C:81930100}{C:81958296C83400000000}Hm?\n\n{C:81930400}{C:81958296C93400000000}Before we start,\nhave you ever used\nthe items carried aboard the ship?\n\n{C:81930100}{C:81958296CA3400000000}No, I haven't.\nWhy do you ask?\n\n{C:81930400}{C:81958296CB3400000000}Then I'll teach you now, so remember this.\n\n{C:81930100}{C:81958296CC3400000000}Yeah, please do.\n\n{C:81930400}{C:81958296CD3400000000}First, to use an item,\nyou need to select this part of the menu.\n\n\n{x00}",
+   "source_sha256": "25be13716aed455f013550ed836804dd2a79da7bd1a77a374ae03dd328cefd1d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930400}{C:81958296CE3400000000}Like deploying units,\nusing the items displayed here\nconsumes the ship's EN.\n\n{C:81958296CF3400000000}And once an item has been used,\nonce per turn,\n\n{C:81958296D03400000000}at the time when units would be repaired,\nthe item may be readied again\ninstead of the units being repaired.\n\n{C:81930100}{C:81958296D13400000000}Instead of the units?\n\n{C:81930400}{C:81958296D23400000000}Yes.\nSo, if an item\nis readied again,\n\n{C:81958296D33400000000}you need to remember that\nthe units won't be repaired.\n\n\n{C:81958296D43400000000}Also, if you use up an item\nthat has a limited number of uses,\nyou can't use it again during that battle.\n\n{C:81930100}{C:81958296D53400000000}So I have to be careful\nnot to waste them... This is tricky.\n\n{C:81930400}{C:81958296D63400000000}Next,\nI'll explain the types of items.\n\n{C:81958296D73400000000}They have all sorts of effects,\nso it's quicker to read their descriptions\nor actually try using them.\n\n{C:81958296D83400000000}But their targets fall\ninto just three broad categories,\nso those should be easy to remember.\n\n{C:81958296D93400000000}First, \n{C:819782830600}items the ship equips and uses{C:819782830000}\n\n{C:81958296DA3400000000}Once used, this type of item\ncontinually boosts the ship's capabilities.\n...For example, this one.\n\n\n{x00}",
+   "source_sha256": "18f4e9e26bcdb0a7afc7b52fb054cdf49db4bfe3123700e83b106b820bc573ac",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930400}{C:81958296DB3400000000}With this, your maximum EN\nstays increased throughout this battle.\n\n{C:81930100}{C:81958296DC3400000000}Hey, what do we gain\nfrom increasing the maximum?\n\n{C:81930400}{C:81958296DD3400000000}Oh, honestly...\n\n{C:81958296DE3400000000}A higher maximum means\nyou can carry more EN over, right?\nDon't you get it?\n\n{C:81930100}{C:81958296DF3400000000}Oh! So less goes to waste,\nand we can attack all at once next time!\n\n{C:81930400}{C:81958296E03400000000}That's right.\nNow, on to the next type.\n\n{C:81958296E13400000000}{C:819782830600}Items that restore or build up\npoints for ships or units{C:819782830000}\n\n{C:81958296E23400000000}These two are examples.\nFirst, the one\nused on a unit.\n\n\n{x00}",
+   "source_sha256": "ef2265c08ce1e39a99e253e0453ac6250b688d8cacbe0f59b2f57466ac97c852",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81930400}{C:81958296E33400000000}An item used on the ship.\n\n\n{x00}",
+   "source_sha256": "f9c9e3e6a8a5a72bd97b242838994f8de6dc912489480ee1c79c6b9af67d306d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81930400}{C:81958296E43400000000}Both do just what you saw,\nso there's no need to explain further.\n\n{C:81958296E53400000000}Last, I'll explain \n{C:819782830600}items for which you specify\na location on the battlefield{C:819782830000}\n\n{C:81958296E73400000000}The items we've covered so far\ntake effect the moment you use them,\nbut these are different.\n\n{C:81958296E83400000000}You send these items onto the field\nat a specified time during battle\nto provide support.\n\n{C:81958296E93400000000}So you need to specify their Speed\nand where to send them.\n\n{C:81930100}{C:81958296EA3400000000}...Speed and location?\n\n{C:81930400}{C:81958296EB3400000000}Yes.\nAnyway, I think you'll understand\nonce you see for yourself.\n\n\n{x00}",
+   "source_sha256": "2b6946a92f98481a3420248e7422f5972006a831782b4625a66023bed5468ee0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930400}{C:81958296EC3400000000}For Speed,\neach item has a base Speed.\n\n{C:81958296ED3400000000}By spending additional EN,\nyou can change it within the range\nfixed for that item.\n\n{C:81958296EE3400000000}And even at the same Speed,\nan item's effect occurs before a unit acts.\n\n{C:81958296EF3400000000}As for location,\neach item has its own\nspecified range.\n\n{C:81958296F03400000000}Anyway,\neach item's capabilities...\n\n{C:81958296F13400000000}You can find them\nin the descriptions displayed,\nso it's best to check before using an item.\n\n{C:81958296F23400000000}All right, I'm going on the attack!\n\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "e2d6c30ec08711ef8d30ff1322afa61746f7b5ff2986aac23a449c87d61d6e4e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930400}{C:81958296F33400000000}I'll leave the rest to you, then.\nLet's finish this battle quickly\nand set off in pursuit of the Norstan.\n\n{x00}",
+   "source_sha256": "3a8c8b8666da45faf695ceb9633969771a6d42dcf4396064122f54eed799bf72",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all52unique520meaning/omissionverdicts,5sharedqualifications,16actual508groups+4groupedassessments and sevenfullJP/current/proposed7fieldrepairsread. Applied7scopedrepairs531;other45whole508recordsretained. Separateall7complete531English editorialread in sceneorder,nochanges. Author88/independent89originalsseparate. Current1213preservesprior1210/1212entries. Shared184names/finalCURRENTMAINproof follow;alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

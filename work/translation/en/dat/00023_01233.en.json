@@ -1,0 +1,291 @@
+{
+ "table": "00023_01233",
+ "rows": [
+  {
+   "id": 1,
+   "en": "\nResume sailing.\n\n\n\n{x00}",
+   "source_sha256": "26a9c2a5bf4797b4b39e1aed1b031598c0bbd1a4cd9240c7499b82683ec135b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 2,
+   "en": "\nSave your progress.\n\n{x00}",
+   "source_sha256": "e5a5a98c76cb0bd1ebcc0d12b42284cb27b1d1f87d8f83ec526162e4d4d32d74",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 3,
+   "en": "\nLoad your saved progress.\n\n{x00}",
+   "source_sha256": "327142cf9645b1740e857bdc34c76e2d36ef973f8e62d0b14278e77cfa3b6d97",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 4,
+   "en": "\nChange game settings.\n\n{x00}",
+   "source_sha256": "7d724b793b00f201b541088609290cd40692b31aa96b248ff3c43416a3a9fd2f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 5,
+   "en": "\nEnd the game and return to the title screen.\n\n\n{x00}",
+   "source_sha256": "83938d32d5555fd1b0ee8a9ed11b57fff9dfe4d52b60802dddbc34911bbb8069",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 6,
+   "en": "\nYou cannot save right now.\n\n{x00}",
+   "source_sha256": "ebd9f6edd6c3514574c9bd1f92b450b147375c906ca501d55380abc6b817352f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 7,
+   "en": "\nYou cannot load right now.\n\n{x00}",
+   "source_sha256": "78852f61f4c01cf2ffe80d8ed527126f72936172d28fe2c7d5d50f5fd0536931",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 8,
+   "en": "\nChange game settings.\n\n{x00}",
+   "source_sha256": "7d724b793b00f201b541088609290cd40692b31aa96b248ff3c43416a3a9fd2f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 9,
+   "en": "\nYou cannot quit right now.\n\n{x00}",
+   "source_sha256": "20bc437a68b9da62ce30f73efe690b8fc3d7a44340ff5034035a028e34ffe9ac",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 17,
+   "en": "\nNo information is available about this person.\n\n{x00}",
+   "source_sha256": "c3400056499df0deb5d1e17f81c295a1b10c566f9b27aa4ac004835905f35e84",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 18,
+   "en": "\nNo information is available about this machine.\n\n\n{x00}",
+   "source_sha256": "9e8a298f4fc6feb291cefc1603ce01425cd436c9c447a1dd71ee9720fd9d4b09",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 19,
+   "en": "\nBuy items.\n\n{x00}",
+   "source_sha256": "d9ae61ca6d67dfb38ce05dbaeb3b8af3c09a0b8a94723c6aef6175fa8d9aabec",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 20,
+   "en": "\n\nSell items you own.\nItems with a minimum required stock cannot be sold below that quantity.\n\n\n{x00}",
+   "source_sha256": "f57cfcbadc2afd1aa44c2d41383549944c6c1134696f3badd06d748d22775423",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "id": 0,
+   "en": "\n{C:819782960100}:\nHead into the city.\n\nOrganize units for use in battle.\n\nBuy and sell equipment and items.\nOnce allies in the city tell you about a shop,\nyou can visit it until you leave port.\n\nUpgrade units.\n\nLevel up pilots.\n\nRepair the battleship and restore its HP.\n\nView information on allies and machines.\n\nSave or load your game,\nor change system settings.\n\nChoose a city or continent\nto display a guide on the radar.\n\n{C:819782960100}: Leave port.\n\n{x00}",
+   "source_sha256": "b297b7bc120845c7f9f1aefdc4d16964c1b8e65f3aec79a8c2d7ff26ef20391d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\nSet the message display speed.\n\nSet the BGM volume.\n\nSet the sound effect volume.\n\nSet the voice volume.\n\nSet the B.E.S volume.\n\nSet the song volume.\n\nSet the movie volume.\n\n{x00}",
+   "source_sha256": "b0abb5cbe8ab91aed078f2db578918162f12f23fe9f34bf0da70763693273775",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930300}{C:81958296633500000000}We've reached our destination.\n\n{C:81930300}{C:81958296673500000000}We're setting sail.\n\n\n{x00}",
+   "source_sha256": "cd5f73c91d45039e7e1d410770ee2da3815bd0e478814aade12fe2cecc5814ea",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000}\nhas joined your group.\n\n{x00}",
+   "source_sha256": "5ad11123dc518607d54253029c0f42847ba559fb0becddd11b179a0dbf12a20b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000}\nhas left your group.\n\n\n\n{x00}",
+   "source_sha256": "c2f7a6a8b97c84a2ddc4ece9c5883479e4c0992863cb0c6c1f8c557cd3e304d9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000}\nwas acquired.\n\n{x00}",
+   "source_sha256": "f98baeea488c82497713dc67573ce5cb2bb4c374db5990ee4890e95b5df74d5a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000} has been removed and\ncan no longer be used in unit formation.\n\n\n{x00}",
+   "source_sha256": "e6303c08a69f9c7fcf5ecb55d746459ed7cbcd882e8bf7bab22446412f1f6604",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81930000}\n{C:819582860200010002000000}\nSave your current progress?\nYes\nNo\n\n\n{x00}",
+   "source_sha256": "b0d41282d988252f7903e4454831a1aa8ad6cb74182ef8949c11b01c07fe8327",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\nHeroic Tales Mode has been unlocked. Select\n{C:819782830100}Continue{C:819782830000} then\n{C:819782830100}Heroic Tales: Run 1{C:819782830000}.\n\n\n{x00}",
+   "source_sha256": "4eb960c3e103683714557e167030388b3eb68f91247b26f80c4350bc0c4984d4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81930000}A large quantity of supplies was brought in.\n{x00}",
+   "source_sha256": "f28a7f3cc4664dbded19a09ea474a7ba27c4c84c84ab4b8a744791c13d512f4b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All10unique464verdicts/sixshared/threeactual462groups read; all10whole462retained. Then separateall10complete470English UIeditorial,nochanges. Dynamicplaceholders/selectedmenuorder/sourcefunction2 remainliteral; runtimesizesandoperationuntested. Existing13wholeMAINrecords preserved. Shared181names/currentMAINprooffollow; testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

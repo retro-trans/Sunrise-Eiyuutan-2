@@ -1,0 +1,9243 @@
+{
+ "version": "0.2.28",
+ "baseline_elf_sha256": "1d067807afb8056636eab1419a0dc395045af87a645f742044c9601c84c8b6e0",
+ "scope": "Display-only normalization of U+FF01..U+FF5E into their exact ASCII counterparts in the three player-facing item-name fields. Preserve case, spelling, spaces, levels, other symbols and all descriptions. No NFKC normalization, source-language change, name edit or editable-name cell change.",
+ "review": {
+  "accuracy": "Identical Latin letters/digits/punctuation only; existing approved English retained.",
+  "editorial": "No wording or spacing changes; consistent English glyphs requested by user.",
+  "proofreading": "Exact per-character substitution and unchanged unmapped characters checked for every object."
+ },
+ "tables": [
+  {
+   "name": "it_devi_info",
+   "va": 1979600,
+   "size": 3960,
+   "stride": 60,
+   "count": 66,
+   "prefix": "itdv",
+   "sha256": "38d6f58cc3eec48944dd73d254015f18bf49a92cdfe273f3cb8a8f39591d2003"
+  },
+  {
+   "name": "it_expend_info",
+   "va": 1983560,
+   "size": 600,
+   "stride": 40,
+   "count": 15,
+   "prefix": "itex",
+   "sha256": "2a52b446004eef9df307b6a1b03a7ee80073d64a16382ad6ce45b7726e186f36"
+  },
+  {
+   "name": "it_mchdev_info",
+   "va": 1984160,
+   "size": 10304,
+   "stride": 64,
+   "count": 161,
+   "prefix": "itmd",
+   "sha256": "56dbcd3601cd7eb6622ec48a75b8a8b4363b505adada95f4dc6359ccd5963efb"
+  },
+  {
+   "name": "it_parts_info",
+   "va": 2063408,
+   "size": 2272,
+   "stride": 32,
+   "count": 71,
+   "prefix": "itpa",
+   "sha256": "a227f3028478f2ddc35534bfdf5411548bf6a48bb2447edb438eb2aa275f875f"
+  },
+  {
+   "name": "it_junk_info",
+   "va": 2065680,
+   "size": 672,
+   "stride": 32,
+   "count": 21,
+   "prefix": "itju",
+   "sha256": "a64a712989de539dc38d8a250f72673397f10aef5f55533be5332083f5527708"
+  },
+  {
+   "name": "it_event_info",
+   "va": 2066352,
+   "size": 16,
+   "stride": 16,
+   "count": 1,
+   "prefix": "itev",
+   "sha256": "f3ba77f175b8244e7c322e6bdc7f06165676a8e99cd08ab158098eed5110f299"
+  }
+ ],
+ "records": 335,
+ "fields": 1005,
+ "changed_strings": 126,
+ "changed_fields": 378,
+ "rows": [
+  {
+   "pointer": 10209598,
+   "before": "None",
+   "en": "None",
+   "size": 5,
+   "sha256": "a51ad9ee4c1a460069eb1e05d3a1ed269248ccad439b710ccc2095ab03bd169f",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 0,
+     "field": 0,
+     "site": 1979600
+    },
+    {
+     "table": "it_devi_info",
+     "row": 0,
+     "field": 4,
+     "site": 1979604
+    },
+    {
+     "table": "it_devi_info",
+     "row": 0,
+     "field": 8,
+     "site": 1979608
+    },
+    {
+     "table": "it_expend_info",
+     "row": 0,
+     "field": 0,
+     "site": 1983560
+    },
+    {
+     "table": "it_expend_info",
+     "row": 0,
+     "field": 4,
+     "site": 1983564
+    },
+    {
+     "table": "it_expend_info",
+     "row": 0,
+     "field": 8,
+     "site": 1983568
+    }
+   ]
+  },
+  {
+   "pointer": 10216450,
+   "before": "Emergency Adjustment Order",
+   "en": "Emergency Adjustment Order",
+   "size": 27,
+   "sha256": "e1a47d03d6aa92e3ab07268c5660c047fb9ff3b676ea341682b71cf55c0cca0a",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 1,
+     "field": 0,
+     "site": 1979660
+    },
+    {
+     "table": "it_devi_info",
+     "row": 1,
+     "field": 4,
+     "site": 1979664
+    }
+   ]
+  },
+  {
+   "pointer": 10216477,
+   "before": "Emergency Adjustment",
+   "en": "Emergency Adjustment",
+   "size": 21,
+   "sha256": "df1d1e7033c05a0eaa4fbee3181619a76f11f5729bf7354deb6d1a728fae02db",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 1,
+     "field": 8,
+     "site": 1979668
+    }
+   ]
+  },
+  {
+   "pointer": 10216498,
+   "before": "Priority Adjustment Order Lv1",
+   "en": "Priority Adjustment Order Lv1",
+   "size": 30,
+   "sha256": "7f2a456eb26505e953ccff56054980f3bf0d362e12a90d197293d82fa5d261e4",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 2,
+     "field": 0,
+     "site": 1979720
+    },
+    {
+     "table": "it_devi_info",
+     "row": 2,
+     "field": 4,
+     "site": 1979724
+    }
+   ]
+  },
+  {
+   "pointer": 10216528,
+   "before": "Priority Adjustment Lv1",
+   "en": "Priority Adjustment Lv1",
+   "size": 24,
+   "sha256": "e45f40e58b57535a2532bddf90609b4b30ea84e7bc5db1901aa360960f1dd7b5",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 2,
+     "field": 8,
+     "site": 1979728
+    }
+   ]
+  },
+  {
+   "pointer": 10216552,
+   "before": "Priority Adjustment Order Lv2",
+   "en": "Priority Adjustment Order Lv2",
+   "size": 30,
+   "sha256": "26af37ab306d7eebc116d4085f1e977792bf43b6535f8ddeb59348b1ce062957",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 3,
+     "field": 0,
+     "site": 1979780
+    },
+    {
+     "table": "it_devi_info",
+     "row": 3,
+     "field": 4,
+     "site": 1979784
+    }
+   ]
+  },
+  {
+   "pointer": 10216582,
+   "before": "Priority Adjustment Lv2",
+   "en": "Priority Adjustment Lv2",
+   "size": 24,
+   "sha256": "68f136af7003655364857c4a54f149931bf4816a1e1b7c7a0ee912df4d1e868d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 3,
+     "field": 8,
+     "site": 1979788
+    }
+   ]
+  },
+  {
+   "pointer": 10216606,
+   "before": "Priority Adjustment Order Lv3",
+   "en": "Priority Adjustment Order Lv3",
+   "size": 30,
+   "sha256": "9ca9797431548b81fde6957823bfaf132d6c73675e585758d6c27f0ddfcdc5d4",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 4,
+     "field": 0,
+     "site": 1979840
+    },
+    {
+     "table": "it_devi_info",
+     "row": 4,
+     "field": 4,
+     "site": 1979844
+    }
+   ]
+  },
+  {
+   "pointer": 10216636,
+   "before": "Priority Adjustment Lv3",
+   "en": "Priority Adjustment Lv3",
+   "size": 24,
+   "sha256": "327219686f4cd6511df76e41e7440cb33052dbe5363a006f622389712a0a64e0",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 4,
+     "field": 8,
+     "site": 1979848
+    }
+   ]
+  },
+  {
+   "pointer": 10216660,
+   "before": "Energy Tank Lv1",
+   "en": "Energy Tank Lv1",
+   "size": 16,
+   "sha256": "b42feb22e7d8482db95d71ed41e8b6b8e6a373cd0712545782b97aa846b114f0",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 5,
+     "field": 0,
+     "site": 1979900
+    },
+    {
+     "table": "it_devi_info",
+     "row": 5,
+     "field": 4,
+     "site": 1979904
+    }
+   ]
+  },
+  {
+   "pointer": 10216676,
+   "before": "S-EN Tank Lv1",
+   "en": "S-EN Tank Lv1",
+   "size": 14,
+   "sha256": "f0340564ca9a937e56591286ef2c690d2791696e15d1de064e65de0a97b7a510",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 5,
+     "field": 8,
+     "site": 1979908
+    }
+   ]
+  },
+  {
+   "pointer": 10216690,
+   "before": "Energy Tank Lv2",
+   "en": "Energy Tank Lv2",
+   "size": 16,
+   "sha256": "9b9a58336ea4ecda5220d2303eb33a7388f03342855618e75d2fb2afe3172df3",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 6,
+     "field": 0,
+     "site": 1979960
+    },
+    {
+     "table": "it_devi_info",
+     "row": 6,
+     "field": 4,
+     "site": 1979964
+    }
+   ]
+  },
+  {
+   "pointer": 10216706,
+   "before": "S-EN Tank Lv2",
+   "en": "S-EN Tank Lv2",
+   "size": 14,
+   "sha256": "91e7636b36251ba03198a1b7f78a4fa3bd59537889557ab75b16ff843d65c2e6",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 6,
+     "field": 8,
+     "site": 1979968
+    }
+   ]
+  },
+  {
+   "pointer": 10216720,
+   "before": "Energy Tank Lv3",
+   "en": "Energy Tank Lv3",
+   "size": 16,
+   "sha256": "259008c26b40f0f9b49c7e1acd4e992ffa7ff06ea40f8f71ea489281d487adc5",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 7,
+     "field": 0,
+     "site": 1980020
+    },
+    {
+     "table": "it_devi_info",
+     "row": 7,
+     "field": 4,
+     "site": 1980024
+    }
+   ]
+  },
+  {
+   "pointer": 10216736,
+   "before": "S-EN Tank Lv3",
+   "en": "S-EN Tank Lv3",
+   "size": 14,
+   "sha256": "57c699c62ec4ce75a53b9a1bfdcd2614b3a826ec9b1a1a457eb51a633f783e76",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 7,
+     "field": 8,
+     "site": 1980028
+    }
+   ]
+  },
+  {
+   "pointer": 10216750,
+   "before": "Energy Generator Lv1",
+   "en": "Energy Generator Lv1",
+   "size": 21,
+   "sha256": "3ee4010d7b228634ca7a87f31f63e41b899d9c57b1bb96ff6fe9d9479475f687",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 8,
+     "field": 0,
+     "site": 1980080
+    },
+    {
+     "table": "it_devi_info",
+     "row": 8,
+     "field": 4,
+     "site": 1980084
+    }
+   ]
+  },
+  {
+   "pointer": 10216771,
+   "before": "S-EN Generator Lv1",
+   "en": "S-EN Generator Lv1",
+   "size": 19,
+   "sha256": "aea6245bfe2559d1e61033e4ade073b3b6b9a860237c722ad255590dea21ca98",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 8,
+     "field": 8,
+     "site": 1980088
+    }
+   ]
+  },
+  {
+   "pointer": 10216790,
+   "before": "Energy Generator Lv2",
+   "en": "Energy Generator Lv2",
+   "size": 21,
+   "sha256": "dd8dc18b1633ba49c4632840af3f61fd09aa1b3af30fe53f7af3217c9d77c54d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 9,
+     "field": 0,
+     "site": 1980140
+    },
+    {
+     "table": "it_devi_info",
+     "row": 9,
+     "field": 4,
+     "site": 1980144
+    }
+   ]
+  },
+  {
+   "pointer": 10216811,
+   "before": "S-EN Generator Lv2",
+   "en": "S-EN Generator Lv2",
+   "size": 19,
+   "sha256": "5991f3327c18a194a952f1eb9cb6a6f6736b52558de6792f0dcd47b1b8c49455",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 9,
+     "field": 8,
+     "site": 1980148
+    }
+   ]
+  },
+  {
+   "pointer": 10216830,
+   "before": "Energy Generator Lv3",
+   "en": "Energy Generator Lv3",
+   "size": 21,
+   "sha256": "dc297436f201669ef704e8b2d61d061145e802516381214136eb61ac5c7a3e93",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 10,
+     "field": 0,
+     "site": 1980200
+    },
+    {
+     "table": "it_devi_info",
+     "row": 10,
+     "field": 4,
+     "site": 1980204
+    }
+   ]
+  },
+  {
+   "pointer": 10216851,
+   "before": "S-EN Generator Lv3",
+   "en": "S-EN Generator Lv3",
+   "size": 19,
+   "sha256": "fcecc414babcbd6b9035645b00efe60c154bd7dfc651b4ca10373dc60d82b568",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 10,
+     "field": 8,
+     "site": 1980208
+    }
+   ]
+  },
+  {
+   "pointer": 10216870,
+   "before": "Instant Energy Amplifier Lv1",
+   "en": "Instant Energy Amplifier Lv1",
+   "size": 29,
+   "sha256": "c5ce2851746a85814ac7607ece06c40f7f1bfcbf5c8abdabb69c17ced9b4294a",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 11,
+     "field": 0,
+     "site": 1980260
+    },
+    {
+     "table": "it_devi_info",
+     "row": 11,
+     "field": 4,
+     "site": 1980264
+    }
+   ]
+  },
+  {
+   "pointer": 10216899,
+   "before": "S-EN Booster Lv1",
+   "en": "S-EN Booster Lv1",
+   "size": 17,
+   "sha256": "6aa4e96500ef1e4eacc10cf70c50c60260e89c2cfebbaf5945a54cba1edfe69d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 11,
+     "field": 8,
+     "site": 1980268
+    }
+   ]
+  },
+  {
+   "pointer": 10216916,
+   "before": "Instant Energy Amplifier Lv2",
+   "en": "Instant Energy Amplifier Lv2",
+   "size": 29,
+   "sha256": "428b79faef487fee50ac1d4d114fc5848282bb46921a0a7d928f53e12352df62",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 12,
+     "field": 0,
+     "site": 1980320
+    },
+    {
+     "table": "it_devi_info",
+     "row": 12,
+     "field": 4,
+     "site": 1980324
+    }
+   ]
+  },
+  {
+   "pointer": 10216945,
+   "before": "S-EN Booster Lv2",
+   "en": "S-EN Booster Lv2",
+   "size": 17,
+   "sha256": "93f99ff7e4cd6678f7589598e7816633ff48acdcb9da0373d0bb473fdef2101b",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 12,
+     "field": 8,
+     "site": 1980328
+    }
+   ]
+  },
+  {
+   "pointer": 10216962,
+   "before": "Instant Energy Amplifier Lv3",
+   "en": "Instant Energy Amplifier Lv3",
+   "size": 29,
+   "sha256": "3bdd4519fc8f456d67ee485cc4f12f6138a72527267b2e8eb19eaeeb091e0248",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 13,
+     "field": 0,
+     "site": 1980380
+    },
+    {
+     "table": "it_devi_info",
+     "row": 13,
+     "field": 4,
+     "site": 1980384
+    }
+   ]
+  },
+  {
+   "pointer": 10216991,
+   "before": "S-EN Booster Lv3",
+   "en": "S-EN Booster Lv3",
+   "size": 17,
+   "sha256": "a318932d83e90d93668e0f7fc6fb2bc5eba4f045f9880e738a2a2ba285f9d9d2",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 13,
+     "field": 8,
+     "site": 1980388
+    }
+   ]
+  },
+  {
+   "pointer": 10217008,
+   "before": "Durability Recovery Pack Lv1",
+   "en": "Durability Recovery Pack Lv1",
+   "size": 29,
+   "sha256": "3443699056806715e2468d7d60b9fcac455050bfb5fcdfbae0e502e1e78b74dd",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 14,
+     "field": 0,
+     "site": 1980440
+    },
+    {
+     "table": "it_devi_info",
+     "row": 14,
+     "field": 4,
+     "site": 1980444
+    }
+   ]
+  },
+  {
+   "pointer": 10217037,
+   "before": "HP Pack Lv1",
+   "en": "HP Pack Lv1",
+   "size": 12,
+   "sha256": "b00764db87e4870805daced53e6fa78fe74b72b3a1f4f25c517c623c383415ad",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 14,
+     "field": 8,
+     "site": 1980448
+    }
+   ]
+  },
+  {
+   "pointer": 10217049,
+   "before": "Durability Recovery Pack Lv2",
+   "en": "Durability Recovery Pack Lv2",
+   "size": 29,
+   "sha256": "e81836874da488eacb32044726ab2058a69ce935d1bb53b475e45c743c3bc355",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 15,
+     "field": 0,
+     "site": 1980500
+    },
+    {
+     "table": "it_devi_info",
+     "row": 15,
+     "field": 4,
+     "site": 1980504
+    }
+   ]
+  },
+  {
+   "pointer": 10217078,
+   "before": "HP Pack Lv2",
+   "en": "HP Pack Lv2",
+   "size": 12,
+   "sha256": "657526d5667fb1bceedcb4097c38d472fffbec285d2be08cbb08f37ef2a5e687",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 15,
+     "field": 8,
+     "site": 1980508
+    }
+   ]
+  },
+  {
+   "pointer": 10217090,
+   "before": "Durability Recovery Pack Lv3",
+   "en": "Durability Recovery Pack Lv3",
+   "size": 29,
+   "sha256": "58054759cfc086eea1b4ec52fe24fa40ff2ba55914975b3f70c6356e92872ad3",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 16,
+     "field": 0,
+     "site": 1980560
+    },
+    {
+     "table": "it_devi_info",
+     "row": 16,
+     "field": 4,
+     "site": 1980564
+    }
+   ]
+  },
+  {
+   "pointer": 10217119,
+   "before": "HP Pack Lv3",
+   "en": "HP Pack Lv3",
+   "size": 12,
+   "sha256": "be729ecf7b5b6d9c1366765a6d379d98f4893331f0282349ddead21805db7e6a",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 16,
+     "field": 8,
+     "site": 1980568
+    }
+   ]
+  },
+  {
+   "pointer": 10217131,
+   "before": "Energy Recovery Pack Lv1",
+   "en": "Energy Recovery Pack Lv1",
+   "size": 25,
+   "sha256": "8dc781e2d542c2c0b54084179b2800cf09c3b1a16159db825da931fcd66267bd",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 17,
+     "field": 0,
+     "site": 1980620
+    },
+    {
+     "table": "it_devi_info",
+     "row": 17,
+     "field": 4,
+     "site": 1980624
+    }
+   ]
+  },
+  {
+   "pointer": 10217156,
+   "before": "EN Pack Lv1",
+   "en": "EN Pack Lv1",
+   "size": 12,
+   "sha256": "7f1b8b3b073c37bb8f61874aed008a83f92511be0ed0aa0cdafcfe89361d26b3",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 17,
+     "field": 8,
+     "site": 1980628
+    }
+   ]
+  },
+  {
+   "pointer": 10217168,
+   "before": "Energy Recovery Pack Lv2",
+   "en": "Energy Recovery Pack Lv2",
+   "size": 25,
+   "sha256": "7b66aea20807441635dc80d7f3882dbe8e34a981138844ab3f130c3c45413a8a",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 18,
+     "field": 0,
+     "site": 1980680
+    },
+    {
+     "table": "it_devi_info",
+     "row": 18,
+     "field": 4,
+     "site": 1980684
+    }
+   ]
+  },
+  {
+   "pointer": 10217193,
+   "before": "EN Pack Lv2",
+   "en": "EN Pack Lv2",
+   "size": 12,
+   "sha256": "16b033c14df0b6ce12faaf8dbafe5f7d74aee21dd218dd6db47e8686c649aeef",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 18,
+     "field": 8,
+     "site": 1980688
+    }
+   ]
+  },
+  {
+   "pointer": 10217205,
+   "before": "Energy Recovery Pack Lv3",
+   "en": "Energy Recovery Pack Lv3",
+   "size": 25,
+   "sha256": "9e37eb27a307099b8a0b24686df64d87f4e48b52f13bed74de17abc113c7664d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 19,
+     "field": 0,
+     "site": 1980740
+    },
+    {
+     "table": "it_devi_info",
+     "row": 19,
+     "field": 4,
+     "site": 1980744
+    }
+   ]
+  },
+  {
+   "pointer": 10217230,
+   "before": "EN Pack Lv3",
+   "en": "EN Pack Lv3",
+   "size": 12,
+   "sha256": "bb0d54dc9b2b0e7c3b645d588cea1dd1f80d729ad777e72de3598929bab9cac6",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 19,
+     "field": 8,
+     "site": 1980748
+    }
+   ]
+  },
+  {
+   "pointer": 10217242,
+   "before": "Stabilizer AT",
+   "en": "Stabilizer AT",
+   "size": 14,
+   "sha256": "53ffca6335564890377396de848e86f3e3ac4403788cb9c9a07c92a1605cc19a",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 20,
+     "field": 0,
+     "site": 1980800
+    },
+    {
+     "table": "it_devi_info",
+     "row": 20,
+     "field": 4,
+     "site": 1980804
+    },
+    {
+     "table": "it_devi_info",
+     "row": 20,
+     "field": 8,
+     "site": 1980808
+    }
+   ]
+  },
+  {
+   "pointer": 10217256,
+   "before": "Stabilizer DF",
+   "en": "Stabilizer DF",
+   "size": 14,
+   "sha256": "ef63bc961f88c4811e5b832b449343aab1367aa532c5417f8b8bae3950a4a727",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 21,
+     "field": 0,
+     "site": 1980860
+    },
+    {
+     "table": "it_devi_info",
+     "row": 21,
+     "field": 4,
+     "site": 1980864
+    },
+    {
+     "table": "it_devi_info",
+     "row": 21,
+     "field": 8,
+     "site": 1980868
+    }
+   ]
+  },
+  {
+   "pointer": 10217270,
+   "before": "Attack Support System Lv1",
+   "en": "Attack Support System Lv1",
+   "size": 26,
+   "sha256": "5a92f2a1f02e6875b6a2bec54500d17157f182287ccd65de449cd3b96af6dd95",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 22,
+     "field": 0,
+     "site": 1980920
+    },
+    {
+     "table": "it_devi_info",
+     "row": 22,
+     "field": 4,
+     "site": 1980924
+    }
+   ]
+  },
+  {
+   "pointer": 10217296,
+   "before": "ATSS Lv1",
+   "en": "ATSS Lv1",
+   "size": 9,
+   "sha256": "beeaa1e03d0a38629618b2230d0859108ae31de65df285fb993f3fe1aab35358",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 22,
+     "field": 8,
+     "site": 1980928
+    }
+   ]
+  },
+  {
+   "pointer": 10217305,
+   "before": "Attack Support System Lv2",
+   "en": "Attack Support System Lv2",
+   "size": 26,
+   "sha256": "d1462c17e2108a2d616e3633c309241658e9c71f4883fbafbe70a2ea4b10ba47",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 23,
+     "field": 0,
+     "site": 1980980
+    },
+    {
+     "table": "it_devi_info",
+     "row": 23,
+     "field": 4,
+     "site": 1980984
+    }
+   ]
+  },
+  {
+   "pointer": 10217331,
+   "before": "ATSS Lv2",
+   "en": "ATSS Lv2",
+   "size": 9,
+   "sha256": "2b16d5cb0381c44677b0a9a173fdbc80bce895a8f521efab82981036b98ae1fc",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 23,
+     "field": 8,
+     "site": 1980988
+    }
+   ]
+  },
+  {
+   "pointer": 10217340,
+   "before": "Attack Support System Lv3",
+   "en": "Attack Support System Lv3",
+   "size": 26,
+   "sha256": "54595ddff298d28d0c5e4d7b2e657b6fb812f46850bfc69dad5d79d6bfa18000",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 24,
+     "field": 0,
+     "site": 1981040
+    },
+    {
+     "table": "it_devi_info",
+     "row": 24,
+     "field": 4,
+     "site": 1981044
+    }
+   ]
+  },
+  {
+   "pointer": 10217366,
+   "before": "ATSS Lv3",
+   "en": "ATSS Lv3",
+   "size": 9,
+   "sha256": "96badd1d77868625d5a6e25d2d9adf3bb4b612a8f5160b1cdc086c31b3dc5a9e",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 24,
+     "field": 8,
+     "site": 1981048
+    }
+   ]
+  },
+  {
+   "pointer": 10217375,
+   "before": "Wide-Area Attack Support System Lv1",
+   "en": "Wide-Area Attack Support System Lv1",
+   "size": 36,
+   "sha256": "bec51f32db946e1952e473142c61fbe3eb305fb4a454f136bc8ee236fad3f59d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 25,
+     "field": 0,
+     "site": 1981100
+    },
+    {
+     "table": "it_devi_info",
+     "row": 25,
+     "field": 4,
+     "site": 1981104
+    }
+   ]
+  },
+  {
+   "pointer": 10217411,
+   "before": "Wide-Area ATSS Lv1",
+   "en": "Wide-Area ATSS Lv1",
+   "size": 19,
+   "sha256": "b9493b6d78f922121d05e89f8f0a2a87c4fd48d598fdc3b4ac85e62935619981",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 25,
+     "field": 8,
+     "site": 1981108
+    }
+   ]
+  },
+  {
+   "pointer": 10217430,
+   "before": "Wide-Area Attack Support System Lv2",
+   "en": "Wide-Area Attack Support System Lv2",
+   "size": 36,
+   "sha256": "f76d3ae174de5a18abaf8f4f715e06659148052783cf91b17f56991969a0ac1d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 26,
+     "field": 0,
+     "site": 1981160
+    },
+    {
+     "table": "it_devi_info",
+     "row": 26,
+     "field": 4,
+     "site": 1981164
+    }
+   ]
+  },
+  {
+   "pointer": 10217466,
+   "before": "Wide-Area ATSS Lv2",
+   "en": "Wide-Area ATSS Lv2",
+   "size": 19,
+   "sha256": "c89c8501e479009148200c1f33833423cefbe9fbd5f965cf7b2c7a65416e664e",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 26,
+     "field": 8,
+     "site": 1981168
+    }
+   ]
+  },
+  {
+   "pointer": 10217485,
+   "before": "Defense Support System Lv1",
+   "en": "Defense Support System Lv1",
+   "size": 27,
+   "sha256": "b2e03cba444525a6ac7524bab7e228e8ca8a24a9ebe445608cf362de0a7b1cf0",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 27,
+     "field": 0,
+     "site": 1981220
+    },
+    {
+     "table": "it_devi_info",
+     "row": 27,
+     "field": 4,
+     "site": 1981224
+    }
+   ]
+  },
+  {
+   "pointer": 10217512,
+   "before": "DFSS Lv1",
+   "en": "DFSS Lv1",
+   "size": 9,
+   "sha256": "d589812212f66c3d2f96791de5d1bea880270ef15e8fe45b81ba7ac17ccbd512",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 27,
+     "field": 8,
+     "site": 1981228
+    }
+   ]
+  },
+  {
+   "pointer": 10217521,
+   "before": "Defense Support System Lv2",
+   "en": "Defense Support System Lv2",
+   "size": 27,
+   "sha256": "c16d32de4381a09ead811223596c2072c04d50823de295079da8593f4cd0e697",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 28,
+     "field": 0,
+     "site": 1981280
+    },
+    {
+     "table": "it_devi_info",
+     "row": 28,
+     "field": 4,
+     "site": 1981284
+    }
+   ]
+  },
+  {
+   "pointer": 10217548,
+   "before": "DFSS Lv2",
+   "en": "DFSS Lv2",
+   "size": 9,
+   "sha256": "06d7a163f70d362d76b9c4c0b14630fe9a3313f702f26da422e66c46f780098f",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 28,
+     "field": 8,
+     "site": 1981288
+    }
+   ]
+  },
+  {
+   "pointer": 10217557,
+   "before": "Defense Support System Lv3",
+   "en": "Defense Support System Lv3",
+   "size": 27,
+   "sha256": "8fed8276767d0287fe6c8a458f4e5de3215febd93bd89223f253de965c985ba4",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 29,
+     "field": 0,
+     "site": 1981340
+    },
+    {
+     "table": "it_devi_info",
+     "row": 29,
+     "field": 4,
+     "site": 1981344
+    }
+   ]
+  },
+  {
+   "pointer": 10217584,
+   "before": "DFSS Lv3",
+   "en": "DFSS Lv3",
+   "size": 9,
+   "sha256": "b66b48bef6def889d2daa930ac7e251a8fe2cb788dd1a3b5aa297c8ef49154df",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 29,
+     "field": 8,
+     "site": 1981348
+    }
+   ]
+  },
+  {
+   "pointer": 10217593,
+   "before": "Wide-Area Defense Support System Lv1",
+   "en": "Wide-Area Defense Support System Lv1",
+   "size": 37,
+   "sha256": "507ffb7e8725aea178b691bbe4b5a12c56117071f286a249fb5e4090aff20b77",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 30,
+     "field": 0,
+     "site": 1981400
+    },
+    {
+     "table": "it_devi_info",
+     "row": 30,
+     "field": 4,
+     "site": 1981404
+    }
+   ]
+  },
+  {
+   "pointer": 10217630,
+   "before": "Wide-Area DFSS Lv1",
+   "en": "Wide-Area DFSS Lv1",
+   "size": 19,
+   "sha256": "e874e9e1a71d774cbf568d026875bcdb356d713604469f773e1ba82ef158b95b",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 30,
+     "field": 8,
+     "site": 1981408
+    }
+   ]
+  },
+  {
+   "pointer": 10217649,
+   "before": "Wide-Area Defense Support System Lv2",
+   "en": "Wide-Area Defense Support System Lv2",
+   "size": 37,
+   "sha256": "7449aab92964496c6e76fd80253e1d3db61b8790af07aa94f967e14d45c283b2",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 31,
+     "field": 0,
+     "site": 1981460
+    },
+    {
+     "table": "it_devi_info",
+     "row": 31,
+     "field": 4,
+     "site": 1981464
+    }
+   ]
+  },
+  {
+   "pointer": 10217686,
+   "before": "Wide-Area DFSS Lv2",
+   "en": "Wide-Area DFSS Lv2",
+   "size": 19,
+   "sha256": "5c86c0cfa6c623a19a116840c95f9ef0d9f188a9b313bc8d12617f6b2dcdf7e4",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 31,
+     "field": 8,
+     "site": 1981468
+    }
+   ]
+  },
+  {
+   "pointer": 10217705,
+   "before": "Air-to-Air Missile Cannon",
+   "en": "Air-to-Air Missile Cannon",
+   "size": 26,
+   "sha256": "1f9c9f777199b62a984399414c703ce65141e613d82bc9b4b1f9d9d7fc0cf19d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 32,
+     "field": 0,
+     "site": 1981520
+    },
+    {
+     "table": "it_devi_info",
+     "row": 32,
+     "field": 4,
+     "site": 1981524
+    },
+    {
+     "table": "it_devi_info",
+     "row": 32,
+     "field": 8,
+     "site": 1981528
+    }
+   ]
+  },
+  {
+   "pointer": 10217731,
+   "before": "Air-to-Anti-Air Missile Cannon",
+   "en": "Air-to-Anti-Air Missile Cannon",
+   "size": 31,
+   "sha256": "514a34db8b8c34365c3fe00ebd6e5d281a72822b2eb538a303aaa62ddf740ce2",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 33,
+     "field": 0,
+     "site": 1981580
+    },
+    {
+     "table": "it_devi_info",
+     "row": 33,
+     "field": 4,
+     "site": 1981584
+    },
+    {
+     "table": "it_devi_info",
+     "row": 33,
+     "field": 8,
+     "site": 1981588
+    }
+   ]
+  },
+  {
+   "pointer": 10217762,
+   "before": "Air-to-Ground Missile Cannon",
+   "en": "Air-to-Ground Missile Cannon",
+   "size": 29,
+   "sha256": "a8dbfd4f5fda8cbb9306063771a8eda868b80d7261079237c52578cc57e16cc5",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 34,
+     "field": 0,
+     "site": 1981640
+    },
+    {
+     "table": "it_devi_info",
+     "row": 34,
+     "field": 4,
+     "site": 1981644
+    },
+    {
+     "table": "it_devi_info",
+     "row": 34,
+     "field": 8,
+     "site": 1981648
+    }
+   ]
+  },
+  {
+   "pointer": 10217791,
+   "before": "Air-to-Air Laser Cannon",
+   "en": "Air-to-Air Laser Cannon",
+   "size": 24,
+   "sha256": "4356c8cfb17ad6687123a975f6493fe1eab3a0dc13c8b7fd1ac9ec4babe0c499",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 35,
+     "field": 0,
+     "site": 1981700
+    },
+    {
+     "table": "it_devi_info",
+     "row": 35,
+     "field": 4,
+     "site": 1981704
+    },
+    {
+     "table": "it_devi_info",
+     "row": 35,
+     "field": 8,
+     "site": 1981708
+    }
+   ]
+  },
+  {
+   "pointer": 10217815,
+   "before": "Air-to-Anti-Air Laser Cannon",
+   "en": "Air-to-Anti-Air Laser Cannon",
+   "size": 29,
+   "sha256": "621d835a169a60d7930d8e8ec6be5712dea280093f5a32b5ababe379488bcd2a",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 36,
+     "field": 0,
+     "site": 1981760
+    },
+    {
+     "table": "it_devi_info",
+     "row": 36,
+     "field": 4,
+     "site": 1981764
+    },
+    {
+     "table": "it_devi_info",
+     "row": 36,
+     "field": 8,
+     "site": 1981768
+    }
+   ]
+  },
+  {
+   "pointer": 10217844,
+   "before": "Air-to-Ground Laser Cannon",
+   "en": "Air-to-Ground Laser Cannon",
+   "size": 27,
+   "sha256": "846ad15fe391fd3b1f40fc0237178bfa486edb10ac0f1dadb7f82dcdf8f9b5e1",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 37,
+     "field": 0,
+     "site": 1981820
+    },
+    {
+     "table": "it_devi_info",
+     "row": 37,
+     "field": 4,
+     "site": 1981824
+    },
+    {
+     "table": "it_devi_info",
+     "row": 37,
+     "field": 8,
+     "site": 1981828
+    }
+   ]
+  },
+  {
+   "pointer": 10217871,
+   "before": "Anti-Air Bombardment",
+   "en": "Anti-Air Bombardment",
+   "size": 21,
+   "sha256": "74b8afd9441cf1e11e82e646b7467f72fa4bb234f9c7b3c8fcbdb854a7d68bd8",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 38,
+     "field": 0,
+     "site": 1981880
+    },
+    {
+     "table": "it_devi_info",
+     "row": 38,
+     "field": 4,
+     "site": 1981884
+    },
+    {
+     "table": "it_devi_info",
+     "row": 38,
+     "field": 8,
+     "site": 1981888
+    }
+   ]
+  },
+  {
+   "pointer": 10217892,
+   "before": "Radio-Intercept Bombing",
+   "en": "Radio-Intercept Bombing",
+   "size": 24,
+   "sha256": "0b97c4bfd0342d5bf37d94a1c9fadf3b8119d9485edeb38bd1c8e660fd7d3a74",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 39,
+     "field": 0,
+     "site": 1981940
+    },
+    {
+     "table": "it_devi_info",
+     "row": 39,
+     "field": 4,
+     "site": 1981944
+    },
+    {
+     "table": "it_devi_info",
+     "row": 39,
+     "field": 8,
+     "site": 1981948
+    }
+   ]
+  },
+  {
+   "pointer": 10217916,
+   "before": "Bombing",
+   "en": "Bombing",
+   "size": 8,
+   "sha256": "146bcb6de7ac205da2225ca60dfed2141f3e43c6a27783cb879f0b39190394df",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 40,
+     "field": 0,
+     "site": 1982000
+    },
+    {
+     "table": "it_devi_info",
+     "row": 40,
+     "field": 4,
+     "site": 1982004
+    },
+    {
+     "table": "it_devi_info",
+     "row": 40,
+     "field": 8,
+     "site": 1982008
+    }
+   ]
+  },
+  {
+   "pointer": 10217924,
+   "before": "Cloud Spark",
+   "en": "Cloud Spark",
+   "size": 12,
+   "sha256": "ed473c668f6ca3f1d4ad827cff7d15ee0916c9aff517fb2746caff57f58d9504",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 41,
+     "field": 0,
+     "site": 1982060
+    },
+    {
+     "table": "it_devi_info",
+     "row": 41,
+     "field": 4,
+     "site": 1982064
+    },
+    {
+     "table": "it_devi_info",
+     "row": 41,
+     "field": 8,
+     "site": 1982068
+    }
+   ]
+  },
+  {
+   "pointer": 10217936,
+   "before": "Spread Wave",
+   "en": "Spread Wave",
+   "size": 12,
+   "sha256": "cafe94f57f011221079f8d006f15f10e3f96b69bbe17fa2b32a53c0e7cc770e1",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 42,
+     "field": 0,
+     "site": 1982120
+    },
+    {
+     "table": "it_devi_info",
+     "row": 42,
+     "field": 4,
+     "site": 1982124
+    },
+    {
+     "table": "it_devi_info",
+     "row": 42,
+     "field": 8,
+     "site": 1982128
+    }
+   ]
+  },
+  {
+   "pointer": 10217948,
+   "before": "Heavy Bomb",
+   "en": "Heavy Bomb",
+   "size": 11,
+   "sha256": "ced7bbeb6e31491e622aa90a50269ed8da65a927526b4a38b6b4489e05ad6426",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 43,
+     "field": 0,
+     "site": 1982180
+    },
+    {
+     "table": "it_devi_info",
+     "row": 43,
+     "field": 4,
+     "site": 1982184
+    },
+    {
+     "table": "it_devi_info",
+     "row": 43,
+     "field": 8,
+     "site": 1982188
+    }
+   ]
+  },
+  {
+   "pointer": 10217959,
+   "before": "Cloudburst",
+   "en": "Cloudburst",
+   "size": 11,
+   "sha256": "bf5726b35361274bf72170043007973441d4aa432ca3ae607d2353d86d990402",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 44,
+     "field": 0,
+     "site": 1982240
+    },
+    {
+     "table": "it_devi_info",
+     "row": 44,
+     "field": 4,
+     "site": 1982244
+    },
+    {
+     "table": "it_devi_info",
+     "row": 44,
+     "field": 8,
+     "site": 1982248
+    }
+   ]
+  },
+  {
+   "pointer": 10217970,
+   "before": "Spread Breaker",
+   "en": "Spread Breaker",
+   "size": 15,
+   "sha256": "bef717a27aaa59b5a44366e868b39438d158e76785cd9ee576414e589b367786",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 45,
+     "field": 0,
+     "site": 1982300
+    },
+    {
+     "table": "it_devi_info",
+     "row": 45,
+     "field": 4,
+     "site": 1982304
+    },
+    {
+     "table": "it_devi_info",
+     "row": 45,
+     "field": 8,
+     "site": 1982308
+    }
+   ]
+  },
+  {
+   "pointer": 10217985,
+   "before": "Overload",
+   "en": "Overload",
+   "size": 9,
+   "sha256": "f2993ad014a23ab5f79c27606a2583685503371ec82c7fbce039202066f70fb7",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 46,
+     "field": 0,
+     "site": 1982360
+    },
+    {
+     "table": "it_devi_info",
+     "row": 46,
+     "field": 4,
+     "site": 1982364
+    },
+    {
+     "table": "it_devi_info",
+     "row": 46,
+     "field": 8,
+     "site": 1982368
+    }
+   ]
+  },
+  {
+   "pointer": 10217994,
+   "before": "Launch Catapult",
+   "en": "Launch Catapult",
+   "size": 16,
+   "sha256": "cb16abedf833a4f3c6c893b66fb45024004daedf4ec38430016c31dd8a6591a5",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 47,
+     "field": 0,
+     "site": 1982420
+    },
+    {
+     "table": "it_devi_info",
+     "row": 47,
+     "field": 4,
+     "site": 1982424
+    },
+    {
+     "table": "it_devi_info",
+     "row": 47,
+     "field": 8,
+     "site": 1982428
+    }
+   ]
+  },
+  {
+   "pointer": 10218010,
+   "before": "High-Output Sensor",
+   "en": "High-Output Sensor",
+   "size": 19,
+   "sha256": "e45a72de58ae85fe8ab91909fbe4636e54ec6b8502dab56422ddd4872440cb48",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 48,
+     "field": 0,
+     "site": 1982480
+    },
+    {
+     "table": "it_devi_info",
+     "row": 48,
+     "field": 4,
+     "site": 1982484
+    },
+    {
+     "table": "it_devi_info",
+     "row": 48,
+     "field": 8,
+     "site": 1982488
+    }
+   ]
+  },
+  {
+   "pointer": 10218029,
+   "before": "Ground Loader",
+   "en": "Ground Loader",
+   "size": 14,
+   "sha256": "b87499eaa1c78c5f61c415cb77c7c5226e81132fbd18b7df8b16df9d25da9eea",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 49,
+     "field": 0,
+     "site": 1982540
+    },
+    {
+     "table": "it_devi_info",
+     "row": 49,
+     "field": 4,
+     "site": 1982544
+    },
+    {
+     "table": "it_devi_info",
+     "row": 49,
+     "field": 8,
+     "site": 1982548
+    }
+   ]
+  },
+  {
+   "pointer": 10218043,
+   "before": "Light-Heat Round",
+   "en": "Light-Heat Round",
+   "size": 17,
+   "sha256": "fea1d4b898863b0262662d7dd92882a1337dd52b01c7302d802006b8a5f120ac",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 50,
+     "field": 0,
+     "site": 1982600
+    },
+    {
+     "table": "it_devi_info",
+     "row": 50,
+     "field": 4,
+     "site": 1982604
+    },
+    {
+     "table": "it_devi_info",
+     "row": 50,
+     "field": 8,
+     "site": 1982608
+    }
+   ]
+  },
+  {
+   "pointer": 10218060,
+   "before": "Illusion Wave",
+   "en": "Illusion Wave",
+   "size": 14,
+   "sha256": "0fe05817c262989765f98bbc91b03b491642f5763f8ba235c8e6907d710150d6",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 51,
+     "field": 0,
+     "site": 1982660
+    },
+    {
+     "table": "it_devi_info",
+     "row": 51,
+     "field": 4,
+     "site": 1982664
+    },
+    {
+     "table": "it_devi_info",
+     "row": 51,
+     "field": 8,
+     "site": 1982668
+    }
+   ]
+  },
+  {
+   "pointer": 10218074,
+   "before": "Minovsky Particle Dispersal Device",
+   "en": "Minovsky Particle Dispersal Device",
+   "size": 35,
+   "sha256": "0e74d5d88d1ed33563a129b88eeca34d359198de944e9657116e3f82f3c7ba43",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 52,
+     "field": 0,
+     "site": 1982720
+    },
+    {
+     "table": "it_devi_info",
+     "row": 52,
+     "field": 4,
+     "site": 1982724
+    },
+    {
+     "table": "it_devi_info",
+     "row": 52,
+     "field": 8,
+     "site": 1982728
+    }
+   ]
+  },
+  {
+   "pointer": 10218109,
+   "before": "CLSS",
+   "en": "CLSS",
+   "size": 5,
+   "sha256": "60a7b2b088e04e18d6cb71efda275951c27f175b9905fb70979ce941a890b302",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 53,
+     "field": 0,
+     "site": 1982780
+    },
+    {
+     "table": "it_devi_info",
+     "row": 53,
+     "field": 4,
+     "site": 1982784
+    },
+    {
+     "table": "it_devi_info",
+     "row": 53,
+     "field": 8,
+     "site": 1982788
+    }
+   ]
+  },
+  {
+   "pointer": 10218114,
+   "before": "I-Field",
+   "en": "I-Field",
+   "size": 8,
+   "sha256": "aca56e5d029e1c55015a96b9d6b008a3ad6d05525f6235cd67252ca75c08b770",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 54,
+     "field": 0,
+     "site": 1982840
+    },
+    {
+     "table": "it_devi_info",
+     "row": 54,
+     "field": 4,
+     "site": 1982844
+    },
+    {
+     "table": "it_devi_info",
+     "row": 54,
+     "field": 8,
+     "site": 1982848
+    }
+   ]
+  },
+  {
+   "pointer": 10218122,
+   "before": "Decoy",
+   "en": "Decoy",
+   "size": 6,
+   "sha256": "f504242a373282173dbddeaeac1397d189f4d959aec6e50197353dda38cc2730",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 55,
+     "field": 0,
+     "site": 1982900
+    },
+    {
+     "table": "it_devi_info",
+     "row": 55,
+     "field": 4,
+     "site": 1982904
+    },
+    {
+     "table": "it_devi_info",
+     "row": 55,
+     "field": 8,
+     "site": 1982908
+    }
+   ]
+  },
+  {
+   "pointer": 10218128,
+   "before": "Snipe Unit",
+   "en": "Snipe Unit",
+   "size": 11,
+   "sha256": "e4a205587dea0a64c4f4ccbe31880cf7c11da0fa0122d904e9c5af41c3644d80",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 56,
+     "field": 0,
+     "site": 1982960
+    },
+    {
+     "table": "it_devi_info",
+     "row": 56,
+     "field": 4,
+     "site": 1982964
+    },
+    {
+     "table": "it_devi_info",
+     "row": 56,
+     "field": 8,
+     "site": 1982968
+    }
+   ]
+  },
+  {
+   "pointer": 10218139,
+   "before": "Grapple Unit",
+   "en": "Grapple Unit",
+   "size": 13,
+   "sha256": "85299a63709ba8ae73627ba988e659535a381d93f351c12d9a9de81660467d6b",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 57,
+     "field": 0,
+     "site": 1983020
+    },
+    {
+     "table": "it_devi_info",
+     "row": 57,
+     "field": 4,
+     "site": 1983024
+    },
+    {
+     "table": "it_devi_info",
+     "row": 57,
+     "field": 8,
+     "site": 1983028
+    }
+   ]
+  },
+  {
+   "pointer": 10218152,
+   "before": "Pierce Unit",
+   "en": "Pierce Unit",
+   "size": 12,
+   "sha256": "9f44b283a206c8067ab67e98fb2e8eaa93423dcceff422a40fedee3238e2e943",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 58,
+     "field": 0,
+     "site": 1983080
+    },
+    {
+     "table": "it_devi_info",
+     "row": 58,
+     "field": 4,
+     "site": 1983084
+    },
+    {
+     "table": "it_devi_info",
+     "row": 58,
+     "field": 8,
+     "site": 1983088
+    }
+   ]
+  },
+  {
+   "pointer": 10218164,
+   "before": "Floating Mines",
+   "en": "Floating Mines",
+   "size": 15,
+   "sha256": "d1e9636961d8ef5789b88e95d024dae17849663f564849709719844923649430",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 59,
+     "field": 0,
+     "site": 1983140
+    },
+    {
+     "table": "it_devi_info",
+     "row": 59,
+     "field": 4,
+     "site": 1983144
+    },
+    {
+     "table": "it_devi_info",
+     "row": 59,
+     "field": 8,
+     "site": 1983148
+    }
+   ]
+  },
+  {
+   "pointer": 10218179,
+   "before": "ECM",
+   "en": "ECM",
+   "size": 4,
+   "sha256": "164168b30018e13248e447e08da3400ba75c127cb3d0123abe0e1eda15ee2877",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 60,
+     "field": 0,
+     "site": 1983200
+    },
+    {
+     "table": "it_devi_info",
+     "row": 60,
+     "field": 4,
+     "site": 1983204
+    },
+    {
+     "table": "it_devi_info",
+     "row": 60,
+     "field": 8,
+     "site": 1983208
+    }
+   ]
+  },
+  {
+   "pointer": 10218183,
+   "before": "Flasher",
+   "en": "Flasher",
+   "size": 8,
+   "sha256": "df3821469a91be02880cffd996551bdba467a377881a95f1dad66e21595e766c",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 61,
+     "field": 0,
+     "site": 1983260
+    },
+    {
+     "table": "it_devi_info",
+     "row": 61,
+     "field": 4,
+     "site": 1983264
+    },
+    {
+     "table": "it_devi_info",
+     "row": 61,
+     "field": 8,
+     "site": 1983268
+    }
+   ]
+  },
+  {
+   "pointer": 10218191,
+   "before": "Holograph",
+   "en": "Holograph",
+   "size": 10,
+   "sha256": "be5dab45efbe34bb34d836da3e52f0e7d3d00877e7008ba6c600ea9af55c581d",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 62,
+     "field": 0,
+     "site": 1983320
+    },
+    {
+     "table": "it_devi_info",
+     "row": 62,
+     "field": 4,
+     "site": 1983324
+    },
+    {
+     "table": "it_devi_info",
+     "row": 62,
+     "field": 8,
+     "site": 1983328
+    }
+   ]
+  },
+  {
+   "pointer": 10218201,
+   "before": "Jamming Head",
+   "en": "Jamming Head",
+   "size": 13,
+   "sha256": "b97eef1fe73a8564700445e85208bd74f8c80afe10b5183d947129228a7ad7f4",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 63,
+     "field": 0,
+     "site": 1983380
+    },
+    {
+     "table": "it_devi_info",
+     "row": 63,
+     "field": 4,
+     "site": 1983384
+    },
+    {
+     "table": "it_devi_info",
+     "row": 63,
+     "field": 8,
+     "site": 1983388
+    }
+   ]
+  },
+  {
+   "pointer": 10218214,
+   "before": "Smoke Shell",
+   "en": "Smoke Shell",
+   "size": 12,
+   "sha256": "4a334c2a8ab1f96d077675c0d7d3ca6e9b3224ff81cda5f2ebc69018ecd6fc33",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 64,
+     "field": 0,
+     "site": 1983440
+    },
+    {
+     "table": "it_devi_info",
+     "row": 64,
+     "field": 4,
+     "site": 1983444
+    },
+    {
+     "table": "it_devi_info",
+     "row": 64,
+     "field": 8,
+     "site": 1983448
+    }
+   ]
+  },
+  {
+   "pointer": 10218226,
+   "before": "Jewel of Life",
+   "en": "Jewel of Life",
+   "size": 14,
+   "sha256": "684c1ed490f4ba08e88849619ce7f0d19f8b74f21fcdbf16c14728f5e29fda59",
+   "refs": [
+    {
+     "table": "it_devi_info",
+     "row": 65,
+     "field": 0,
+     "site": 1983500
+    },
+    {
+     "table": "it_devi_info",
+     "row": 65,
+     "field": 4,
+     "site": 1983504
+    },
+    {
+     "table": "it_devi_info",
+     "row": 65,
+     "field": 8,
+     "site": 1983508
+    }
+   ]
+  },
+  {
+   "pointer": 10218240,
+   "before": "Repair Materials Lv1",
+   "en": "Repair Materials Lv1",
+   "size": 21,
+   "sha256": "c785b0a709e92ad78f7fe0808360bcb7a38b6e970338e8778352f69b691a005a",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 1,
+     "field": 0,
+     "site": 1983600
+    },
+    {
+     "table": "it_expend_info",
+     "row": 1,
+     "field": 4,
+     "site": 1983604
+    },
+    {
+     "table": "it_expend_info",
+     "row": 1,
+     "field": 8,
+     "site": 1983608
+    }
+   ]
+  },
+  {
+   "pointer": 10218261,
+   "before": "Repair Materials Lv2",
+   "en": "Repair Materials Lv2",
+   "size": 21,
+   "sha256": "e39a4c0cf2be4609079d436b4210c46b28f1becbe3d4ac12b07c0f6ca296f13d",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 2,
+     "field": 0,
+     "site": 1983640
+    },
+    {
+     "table": "it_expend_info",
+     "row": 2,
+     "field": 4,
+     "site": 1983644
+    },
+    {
+     "table": "it_expend_info",
+     "row": 2,
+     "field": 8,
+     "site": 1983648
+    }
+   ]
+  },
+  {
+   "pointer": 10218282,
+   "before": "Repair Materials Lv3",
+   "en": "Repair Materials Lv3",
+   "size": 21,
+   "sha256": "a001734cca4effc34d75b4aaeaa6d6e13e13f032774d957c33bbccac25896fb4",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 3,
+     "field": 0,
+     "site": 1983680
+    },
+    {
+     "table": "it_expend_info",
+     "row": 3,
+     "field": 4,
+     "site": 1983684
+    },
+    {
+     "table": "it_expend_info",
+     "row": 3,
+     "field": 8,
+     "site": 1983688
+    }
+   ]
+  },
+  {
+   "pointer": 10218303,
+   "before": "Battleship EN Charger",
+   "en": "Battleship EN Charger",
+   "size": 22,
+   "sha256": "5eca07c65e2440a59e923c78b6529e13526c84e03b6719cc37078bb14be74d04",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 4,
+     "field": 0,
+     "site": 1983720
+    },
+    {
+     "table": "it_expend_info",
+     "row": 4,
+     "field": 4,
+     "site": 1983724
+    }
+   ]
+  },
+  {
+   "pointer": 10218325,
+   "before": "S-EN Charger",
+   "en": "S-EN Charger",
+   "size": 13,
+   "sha256": "ad3f8cd7492fe61064bef3bca1f6d1818ed1a59633c031631ae2f130c20276cf",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 4,
+     "field": 8,
+     "site": 1983728
+    }
+   ]
+  },
+  {
+   "pointer": 10218338,
+   "before": "Unit HP Charger",
+   "en": "Unit HP Charger",
+   "size": 16,
+   "sha256": "ad451ac9a7fffbfc38f2377ab44ee1c9f6edb1e47cda54c941b27b0596760c44",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 5,
+     "field": 0,
+     "site": 1983760
+    },
+    {
+     "table": "it_expend_info",
+     "row": 5,
+     "field": 4,
+     "site": 1983764
+    }
+   ]
+  },
+  {
+   "pointer": 10218354,
+   "before": "HP Charger",
+   "en": "HP Charger",
+   "size": 11,
+   "sha256": "6ab9671ff65a8d3ed3c7be71de433f1fc1de13983669ae65393e29e99c7709c0",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 5,
+     "field": 8,
+     "site": 1983768
+    }
+   ]
+  },
+  {
+   "pointer": 10218365,
+   "before": "Unit EN Charger",
+   "en": "Unit EN Charger",
+   "size": 16,
+   "sha256": "9086e3f53104a49320f118373ff45185fec5d65ece1a7d42efc58d0a78e51a68",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 6,
+     "field": 0,
+     "site": 1983800
+    },
+    {
+     "table": "it_expend_info",
+     "row": 6,
+     "field": 4,
+     "site": 1983804
+    }
+   ]
+  },
+  {
+   "pointer": 10218381,
+   "before": "EN Charger",
+   "en": "EN Charger",
+   "size": 11,
+   "sha256": "f8823728d153f96f3a9f376b82271dc410d7247aabc4680f8e63ee0aeae26930",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 6,
+     "field": 8,
+     "site": 1983808
+    }
+   ]
+  },
+  {
+   "pointer": 10218392,
+   "before": "System Connector",
+   "en": "System Connector",
+   "size": 17,
+   "sha256": "80afe8ebf0160755d5aa5f352b0e52e3c82ef37cc1deddd42f136db02be2d691",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 7,
+     "field": 0,
+     "site": 1983840
+    },
+    {
+     "table": "it_expend_info",
+     "row": 7,
+     "field": 4,
+     "site": 1983844
+    },
+    {
+     "table": "it_expend_info",
+     "row": 7,
+     "field": 8,
+     "site": 1983848
+    }
+   ]
+  },
+  {
+   "pointer": 10218409,
+   "before": "Missile Pack",
+   "en": "Missile Pack",
+   "size": 13,
+   "sha256": "4455b56bdc392624c2be3b4c9c48f02948b2a7225ce9025076a4bb6a00e2e89a",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 8,
+     "field": 0,
+     "site": 1983880
+    },
+    {
+     "table": "it_expend_info",
+     "row": 8,
+     "field": 4,
+     "site": 1983884
+    },
+    {
+     "table": "it_expend_info",
+     "row": 8,
+     "field": 8,
+     "site": 1983888
+    }
+   ]
+  },
+  {
+   "pointer": 10218422,
+   "before": "Laser Pack",
+   "en": "Laser Pack",
+   "size": 11,
+   "sha256": "00629809ba0919df4497e8762b34ab90274218e1dda57f60e212c802ac7fbdc6",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 9,
+     "field": 0,
+     "site": 1983920
+    },
+    {
+     "table": "it_expend_info",
+     "row": 9,
+     "field": 4,
+     "site": 1983924
+    },
+    {
+     "table": "it_expend_info",
+     "row": 9,
+     "field": 8,
+     "site": 1983928
+    }
+   ]
+  },
+  {
+   "pointer": 10218433,
+   "before": "Wide-Area Shell",
+   "en": "Wide-Area Shell",
+   "size": 16,
+   "sha256": "9297fe5dfe20d1fc954ff9fcefb8ce28b5c888ac215e26ebc4753eb09ca8f377",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 10,
+     "field": 0,
+     "site": 1983960
+    },
+    {
+     "table": "it_expend_info",
+     "row": 10,
+     "field": 4,
+     "site": 1983964
+    },
+    {
+     "table": "it_expend_info",
+     "row": 10,
+     "field": 8,
+     "site": 1983968
+    }
+   ]
+  },
+  {
+   "pointer": 10218449,
+   "before": "Compressed CL Round",
+   "en": "Compressed CL Round",
+   "size": 20,
+   "sha256": "1cc6068c6afe87201b0db7149b5586c97bbcdc290f20d5e962d4b29dc83de2d8",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 11,
+     "field": 0,
+     "site": 1984000
+    },
+    {
+     "table": "it_expend_info",
+     "row": 11,
+     "field": 4,
+     "site": 1984004
+    },
+    {
+     "table": "it_expend_info",
+     "row": 11,
+     "field": 8,
+     "site": 1984008
+    }
+   ]
+  },
+  {
+   "pointer": 10218469,
+   "before": "Dispersal Impact Round",
+   "en": "Dispersal Impact Round",
+   "size": 23,
+   "sha256": "72af7beb336e9939465b8f5399dd0d7dcd751e6b57ea6dfe883c672a9afff128",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 12,
+     "field": 0,
+     "site": 1984040
+    },
+    {
+     "table": "it_expend_info",
+     "row": 12,
+     "field": 4,
+     "site": 1984044
+    },
+    {
+     "table": "it_expend_info",
+     "row": 12,
+     "field": 8,
+     "site": 1984048
+    }
+   ]
+  },
+  {
+   "pointer": 10218492,
+   "before": "Bombing Round",
+   "en": "Bombing Round",
+   "size": 14,
+   "sha256": "3587057532d39721548f09b47d4faad86f1fcfe3708eea1acf501f2c3455188d",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 13,
+     "field": 0,
+     "site": 1984080
+    },
+    {
+     "table": "it_expend_info",
+     "row": 13,
+     "field": 4,
+     "site": 1984084
+    },
+    {
+     "table": "it_expend_info",
+     "row": 13,
+     "field": 8,
+     "site": 1984088
+    }
+   ]
+  },
+  {
+   "pointer": 10218506,
+   "before": "Setup Carrier",
+   "en": "Setup Carrier",
+   "size": 14,
+   "sha256": "92999af8f74d7916afc7aafa2981e430f8267d748c39bf5765fc563c38d59ca9",
+   "refs": [
+    {
+     "table": "it_expend_info",
+     "row": 14,
+     "field": 0,
+     "site": 1984120
+    },
+    {
+     "table": "it_expend_info",
+     "row": 14,
+     "field": 4,
+     "site": 1984124
+    },
+    {
+     "table": "it_expend_info",
+     "row": 14,
+     "field": 8,
+     "site": 1984128
+    }
+   ]
+  },
+  {
+   "pointer": 10188775,
+   "before": "None",
+   "en": "None",
+   "size": 5,
+   "sha256": "a51ad9ee4c1a460069eb1e05d3a1ed269248ccad439b710ccc2095ab03bd169f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 0,
+     "field": 0,
+     "site": 1984160
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 0,
+     "field": 4,
+     "site": 1984164
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 0,
+     "field": 8,
+     "site": 1984168
+    },
+    {
+     "table": "it_junk_info",
+     "row": 0,
+     "field": 0,
+     "site": 2065680
+    },
+    {
+     "table": "it_junk_info",
+     "row": 0,
+     "field": 4,
+     "site": 2065684
+    },
+    {
+     "table": "it_junk_info",
+     "row": 0,
+     "field": 8,
+     "site": 2065688
+    },
+    {
+     "table": "it_event_info",
+     "row": 0,
+     "field": 0,
+     "site": 2066352
+    },
+    {
+     "table": "it_event_info",
+     "row": 0,
+     "field": 4,
+     "site": 2066356
+    },
+    {
+     "table": "it_event_info",
+     "row": 0,
+     "field": 8,
+     "site": 2066360
+    }
+   ]
+  },
+  {
+   "pointer": 10123057,
+   "before": "\uff23\uff2c Rifle",
+   "en": "CL Rifle",
+   "size": 11,
+   "sha256": "7f5e885030c90bbe9e2a1597fde48bf3164ab28256e3114e2a6eaf1694e8ff4f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 1,
+     "field": 0,
+     "site": 1984224
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 1,
+     "field": 4,
+     "site": 1984228
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 1,
+     "field": 8,
+     "site": 1984232
+    }
+   ]
+  },
+  {
+   "pointer": 10123046,
+   "before": "\uff23\uff2c Armor",
+   "en": "CL Armor",
+   "size": 11,
+   "sha256": "cc5be83719f1e591a6f9d307965d38e2e0f98f06c454cec41aebcdd19df93b2a",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 2,
+     "field": 0,
+     "site": 1984288
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 2,
+     "field": 4,
+     "site": 1984292
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 2,
+     "field": 8,
+     "site": 1984296
+    }
+   ]
+  },
+  {
+   "pointer": 10123027,
+   "before": "Custom \uff23\uff2c System",
+   "en": "Custom CL System",
+   "size": 19,
+   "sha256": "a0138d0539eaf4b6f709545abd805235ba5942975b65eaad63780834e9542c2a",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 3,
+     "field": 0,
+     "site": 1984352
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 3,
+     "field": 4,
+     "site": 1984356
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 3,
+     "field": 8,
+     "site": 1984360
+    }
+   ]
+  },
+  {
+   "pointer": 10188750,
+   "before": "Enhanced Rounds",
+   "en": "Enhanced Rounds",
+   "size": 16,
+   "sha256": "9675f6709c1a89d7048b0b0ddada8c8ce3525c92cdc734d794b49b72c0493d56",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 4,
+     "field": 0,
+     "site": 1984416
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 4,
+     "field": 4,
+     "site": 1984420
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 4,
+     "field": 8,
+     "site": 1984424
+    }
+   ]
+  },
+  {
+   "pointer": 10122934,
+   "before": "Enhanced Armor",
+   "en": "Enhanced Armor",
+   "size": 15,
+   "sha256": "0d08814debb4350452b29597a5957a3ceebb0eb0e5a5644504de4ac4c8d95a89",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 5,
+     "field": 0,
+     "site": 1984480
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 5,
+     "field": 4,
+     "site": 1984484
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 5,
+     "field": 8,
+     "site": 1984488
+    }
+   ]
+  },
+  {
+   "pointer": 10122915,
+   "before": "Enhanced Generator",
+   "en": "Enhanced Generator",
+   "size": 19,
+   "sha256": "ad7b189d471df8e52985f2da3a98bdd5f611476514794cb18819ff8ce2329e7d",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 6,
+     "field": 0,
+     "site": 1984544
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 6,
+     "field": 4,
+     "site": 1984548
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 6,
+     "field": 8,
+     "site": 1984552
+    }
+   ]
+  },
+  {
+   "pointer": 10122881,
+   "before": "Hyper Aura Marus",
+   "en": "Hyper Aura Marus",
+   "size": 17,
+   "sha256": "0ae8748737f8ebc2f51b3b79ecc2574ed3c2f0a284a25f78e46d8d96f1b4ddff",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 7,
+     "field": 0,
+     "site": 1984608
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 7,
+     "field": 4,
+     "site": 1984612
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 7,
+     "field": 8,
+     "site": 1984616
+    }
+   ]
+  },
+  {
+   "pointer": 10122866,
+   "before": "Hyper Carapace",
+   "en": "Hyper Carapace",
+   "size": 15,
+   "sha256": "c2c687d081ab3305b6124a1973d2503a7c4843f915c87f2727b72a613c725b78",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 8,
+     "field": 0,
+     "site": 1984672
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 8,
+     "field": 4,
+     "site": 1984676
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 8,
+     "field": 8,
+     "site": 1984680
+    }
+   ]
+  },
+  {
+   "pointer": 10122829,
+   "before": "Hyper Aura Amplifier",
+   "en": "Hyper Aura Amplifier",
+   "size": 21,
+   "sha256": "c2b2b25478e2eb19ffde4487d2c74fcccf15f1ed84fb6ba132c91a312b2b2030",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 9,
+     "field": 0,
+     "site": 1984736
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 9,
+     "field": 4,
+     "site": 1984740
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 9,
+     "field": 8,
+     "site": 1984744
+    }
+   ]
+  },
+  {
+   "pointer": 10122745,
+   "before": "Saber",
+   "en": "Saber",
+   "size": 6,
+   "sha256": "87b3355f59bb8159dbcc92e081b80808a5be5c373cbc138d65e85b1f84e48868",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 10,
+     "field": 0,
+     "site": 1984800
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 10,
+     "field": 4,
+     "site": 1984804
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 10,
+     "field": 8,
+     "site": 1984808
+    }
+   ]
+  },
+  {
+   "pointer": 10122738,
+   "before": "Binder",
+   "en": "Binder",
+   "size": 7,
+   "sha256": "dfe44b4f0f98ffc295ddcc5de9a8f4e075e2a828a3902f6a2c181766ff224571",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 11,
+     "field": 0,
+     "site": 1984864
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 11,
+     "field": 4,
+     "site": 1984868
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 11,
+     "field": 8,
+     "site": 1984872
+    }
+   ]
+  },
+  {
+   "pointer": 10122715,
+   "before": "High-Conversion \uff34\uff2d\uff23",
+   "en": "High-Conversion TMC",
+   "size": 23,
+   "sha256": "8d04dc19dfaaf7538d56a269d2c4811ef229c1a39b24f922b7afe7e9247e9426",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 12,
+     "field": 0,
+     "site": 1984928
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 12,
+     "field": 4,
+     "site": 1984932
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 12,
+     "field": 8,
+     "site": 1984936
+    }
+   ]
+  },
+  {
+   "pointer": 10122622,
+   "before": "High-Capacity Energy \uff23\uff21\uff30",
+   "en": "High-Capacity Energy CAP",
+   "size": 28,
+   "sha256": "54af30933d5b2dba27efa12d9f1d45cd7a14bd9c4965edfba78ca47c393e85ff",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 13,
+     "field": 0,
+     "site": 1984992
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 13,
+     "field": 4,
+     "site": 1984996
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 13,
+     "field": 8,
+     "site": 1985000
+    }
+   ]
+  },
+  {
+   "pointer": 10122592,
+   "before": "Hybrid Armor",
+   "en": "Hybrid Armor",
+   "size": 13,
+   "sha256": "06c489caf5013a99f5b4c5b5d5879d25b8d5b5b6318557b908ea12c8ca63526c",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 14,
+     "field": 0,
+     "site": 1985056
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 14,
+     "field": 4,
+     "site": 1985060
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 14,
+     "field": 8,
+     "site": 1985064
+    }
+   ]
+  },
+  {
+   "pointer": 10122571,
+   "before": "Enhanced Field Motor",
+   "en": "Enhanced Field Motor",
+   "size": 21,
+   "sha256": "6561939358f21ec3f8ea35a4bcb71e1c1fbafa3fe47e58edc55c7aefb225fb82",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 15,
+     "field": 0,
+     "site": 1985120
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 15,
+     "field": 4,
+     "site": 1985124
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 15,
+     "field": 8,
+     "site": 1985128
+    }
+   ]
+  },
+  {
+   "pointer": 10122535,
+   "before": "Mission Disk",
+   "en": "Mission Disk",
+   "size": 13,
+   "sha256": "ab7d0d4190a1cc967bb176034655dea437c9e7bc69ae2abe1f9a70723d21e565",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 16,
+     "field": 0,
+     "site": 1985184
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 16,
+     "field": 4,
+     "site": 1985188
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 16,
+     "field": 8,
+     "site": 1985192
+    }
+   ]
+  },
+  {
+   "pointer": 10122516,
+   "before": "Caterpillar Tracks",
+   "en": "Caterpillar Tracks",
+   "size": 19,
+   "sha256": "2370cd878cd6ebca270f648e9985a3b7b8a09c4532361ad186a0ed9f91591460",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 17,
+     "field": 0,
+     "site": 1985248
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 17,
+     "field": 4,
+     "site": 1985252
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 17,
+     "field": 8,
+     "site": 1985256
+    }
+   ]
+  },
+  {
+   "pointer": 10122489,
+   "before": "Anti-Laser Layered Coating",
+   "en": "Anti-Laser Layered Coating",
+   "size": 27,
+   "sha256": "3627493c263e4a543749d12bc636f890ec4e1140189379970244fec80f218227",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 18,
+     "field": 0,
+     "site": 1985312
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 18,
+     "field": 4,
+     "site": 1985316
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 18,
+     "field": 8,
+     "site": 1985320
+    }
+   ]
+  },
+  {
+   "pointer": 10122412,
+   "before": "Enhanced Backpack Unit",
+   "en": "Enhanced Backpack Unit",
+   "size": 23,
+   "sha256": "2fbaf860e47cad1179f806dbc74d4cf72126324c54c955a858a9a2263aa0a3f3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 19,
+     "field": 0,
+     "site": 1985376
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 19,
+     "field": 4,
+     "site": 1985380
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 19,
+     "field": 8,
+     "site": 1985384
+    }
+   ]
+  },
+  {
+   "pointer": 10122373,
+   "before": "Enhanced Power Generator",
+   "en": "Enhanced Power Generator",
+   "size": 25,
+   "sha256": "cf23151a4f45b3a6a9a230a520bb98372e714f54d480ec80129ef94843f1f5c8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 20,
+     "field": 0,
+     "site": 1985440
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 20,
+     "field": 4,
+     "site": 1985444
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 20,
+     "field": 8,
+     "site": 1985448
+    }
+   ]
+  },
+  {
+   "pointer": 10122332,
+   "before": "Top Gear",
+   "en": "Top Gear",
+   "size": 9,
+   "sha256": "c189bd1a9f0559d6dc0e1356d7294d465c98343e65d7e0b51c646fd8c2e5f82a",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 21,
+     "field": 0,
+     "site": 1985504
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 21,
+     "field": 4,
+     "site": 1985508
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 21,
+     "field": 8,
+     "site": 1985512
+    }
+   ]
+  },
+  {
+   "pointer": 10122293,
+   "before": "High-Octane Fuel",
+   "en": "High-Octane Fuel",
+   "size": 17,
+   "sha256": "faf0e101b194d1af63cc093b22e2d7ba417f088149fdb61fec44271a0fb3c31c",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 22,
+     "field": 0,
+     "site": 1985568
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 22,
+     "field": 4,
+     "site": 1985572
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 22,
+     "field": 8,
+     "site": 1985576
+    }
+   ]
+  },
+  {
+   "pointer": 10122273,
+   "before": "Engine Oil Additive",
+   "en": "Engine Oil Additive",
+   "size": 20,
+   "sha256": "a52fce42d4929cd224226bce4e8d84e9c3421e09e6e67d22d185444843c755fc",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 23,
+     "field": 0,
+     "site": 1985632
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 23,
+     "field": 4,
+     "site": 1985636
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 23,
+     "field": 8,
+     "site": 1985640
+    }
+   ]
+  },
+  {
+   "pointer": 10122225,
+   "before": "Enhanced Main Generator",
+   "en": "Enhanced Main Generator",
+   "size": 24,
+   "sha256": "051428b255e439bf634e7426be05e3b3aaa469be23039b96443a405556096cf8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 24,
+     "field": 0,
+     "site": 1985696
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 24,
+     "field": 4,
+     "site": 1985700
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 24,
+     "field": 8,
+     "site": 1985704
+    }
+   ]
+  },
+  {
+   "pointer": 10122182,
+   "before": "Enhanced Beam Gun",
+   "en": "Enhanced Beam Gun",
+   "size": 18,
+   "sha256": "0cc3669fefafc24884f9aa58c1cbfa5460c58b030611b2db168bae92c6ce511a",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 25,
+     "field": 0,
+     "site": 1985760
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 25,
+     "field": 4,
+     "site": 1985764
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 25,
+     "field": 8,
+     "site": 1985768
+    }
+   ]
+  },
+  {
+   "pointer": 10122175,
+   "before": "Shield",
+   "en": "Shield",
+   "size": 7,
+   "sha256": "7402d3c478a4edaeb8abfc892c7f4790fada187ce49f68ec2541f43512d1f9f5",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 26,
+     "field": 0,
+     "site": 1985824
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 26,
+     "field": 4,
+     "site": 1985828
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 26,
+     "field": 8,
+     "site": 1985832
+    }
+   ]
+  },
+  {
+   "pointer": 10122155,
+   "before": "Auxiliary Fuel Tank",
+   "en": "Auxiliary Fuel Tank",
+   "size": 20,
+   "sha256": "360f9a613d19e46c98c4c91da2e9e226cd9f181c763275f09e3969b92a7c30cc",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 27,
+     "field": 0,
+     "site": 1985888
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 27,
+     "field": 4,
+     "site": 1985892
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 27,
+     "field": 8,
+     "site": 1985896
+    }
+   ]
+  },
+  {
+   "pointer": 10122107,
+   "before": "Multi-Tube Missile Pod",
+   "en": "Multi-Tube Missile Pod",
+   "size": 23,
+   "sha256": "091c548a4518320c9594f5e693a62982ab5d9dfcfb64505e32101bef2fcf3342",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 28,
+     "field": 0,
+     "site": 1985952
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 28,
+     "field": 4,
+     "site": 1985956
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 28,
+     "field": 8,
+     "site": 1985960
+    }
+   ]
+  },
+  {
+   "pointer": 10122085,
+   "before": "Improved Image Sensor",
+   "en": "Improved Image Sensor",
+   "size": 22,
+   "sha256": "a4bfd1fb8f0fb9ba9bd39f9cf72353a78fa1ae748cf0a0833444946233819fb8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 29,
+     "field": 0,
+     "site": 1986016
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 29,
+     "field": 4,
+     "site": 1986020
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 29,
+     "field": 8,
+     "site": 1986024
+    }
+   ]
+  },
+  {
+   "pointer": 10122040,
+   "before": "Improved Ultra-Compact Nuclear Fusion Engine",
+   "en": "Improved Ultra-Compact Nuclear Fusion Engine",
+   "size": 45,
+   "sha256": "3c602af9cb48e3a25197ca650d5c1645d8c9aa649305c9f865c5984c53b69405",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 30,
+     "field": 0,
+     "site": 1986080
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 30,
+     "field": 4,
+     "site": 1986084
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 30,
+     "field": 8,
+     "site": 1986088
+    }
+   ]
+  },
+  {
+   "pointer": 10122006,
+   "before": "Unit Weapon",
+   "en": "Unit Weapon",
+   "size": 12,
+   "sha256": "76a153bf63c9a99ed4f2fbda419fe89fc3382b890bcc9e33d222c62bfdc4b2c3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 31,
+     "field": 0,
+     "site": 1986144
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 31,
+     "field": 4,
+     "site": 1986148
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 31,
+     "field": 8,
+     "site": 1986152
+    }
+   ]
+  },
+  {
+   "pointer": 10121975,
+   "before": "Unit Armor",
+   "en": "Unit Armor",
+   "size": 11,
+   "sha256": "88e9fcd90aeb5dac851b34f871ea33b422896d042821e312e39eab2e28d306b8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 32,
+     "field": 0,
+     "site": 1986208
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 32,
+     "field": 4,
+     "site": 1986212
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 32,
+     "field": 8,
+     "site": 1986216
+    }
+   ]
+  },
+  {
+   "pointer": 10121954,
+   "before": "Unit Propellant Tank",
+   "en": "Unit Propellant Tank",
+   "size": 21,
+   "sha256": "e0cded240d6137561905ad7ae3458e9c9e22a29fd7eb164ec1cc7eb912dfd1e3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 33,
+     "field": 0,
+     "site": 1986272
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 33,
+     "field": 4,
+     "site": 1986276
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 33,
+     "field": 8,
+     "site": 1986280
+    }
+   ]
+  },
+  {
+   "pointer": 10121908,
+   "before": "Laser Cannon \uff33",
+   "en": "Laser Cannon S",
+   "size": 16,
+   "sha256": "7def9710c9d3cb780f4e39709c057065ebd4da15bc168fb3efdaa7264a5a42cf",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 34,
+     "field": 0,
+     "site": 1986336
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 34,
+     "field": 4,
+     "site": 1986340
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 34,
+     "field": 8,
+     "site": 1986344
+    }
+   ]
+  },
+  {
+   "pointer": 10188697,
+   "before": "Hard Blade",
+   "en": "Hard Blade",
+   "size": 11,
+   "sha256": "551a916c166ab6d63dcbcce879471de2fb005eb62da2103659159415e0a3ae1d",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 35,
+     "field": 0,
+     "site": 1986400
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 35,
+     "field": 4,
+     "site": 1986404
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 35,
+     "field": 8,
+     "site": 1986408
+    }
+   ]
+  },
+  {
+   "pointer": 10188684,
+   "before": "Heavy Shield",
+   "en": "Heavy Shield",
+   "size": 13,
+   "sha256": "bb0d19fa14d55fa0ef38152a4cbf094ae63495526d1ac781f59fdc42f2b20084",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 36,
+     "field": 0,
+     "site": 1986464
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 36,
+     "field": 4,
+     "site": 1986468
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 36,
+     "field": 8,
+     "site": 1986472
+    }
+   ]
+  },
+  {
+   "pointer": 10188664,
+   "before": "Swift-Leg Mechanism",
+   "en": "Swift-Leg Mechanism",
+   "size": 20,
+   "sha256": "43e168fcdc216a16cb36a71a950343c6c6d36c83c68b6bedfa05c10e287a12f0",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 37,
+     "field": 0,
+     "site": 1986528
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 37,
+     "field": 4,
+     "site": 1986532
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 37,
+     "field": 8,
+     "site": 1986536
+    }
+   ]
+  },
+  {
+   "pointer": 10121826,
+   "before": "\u3010Unused\u3011",
+   "en": "\u3010Unused\u3011",
+   "size": 11,
+   "sha256": "747c56652c99a847dc2878abc814ebfe58961b8c0ab2833a61153f8e52e84ec3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 38,
+     "field": 0,
+     "site": 1986592
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 38,
+     "field": 4,
+     "site": 1986596
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 38,
+     "field": 8,
+     "site": 1986600
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 123,
+     "field": 0,
+     "site": 1992032
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 123,
+     "field": 4,
+     "site": 1992036
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 123,
+     "field": 8,
+     "site": 1992040
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 124,
+     "field": 0,
+     "site": 1992096
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 124,
+     "field": 4,
+     "site": 1992100
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 124,
+     "field": 8,
+     "site": 1992104
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 125,
+     "field": 0,
+     "site": 1992160
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 125,
+     "field": 4,
+     "site": 1992164
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 125,
+     "field": 8,
+     "site": 1992168
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 126,
+     "field": 0,
+     "site": 1992224
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 126,
+     "field": 4,
+     "site": 1992228
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 126,
+     "field": 8,
+     "site": 1992232
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 127,
+     "field": 0,
+     "site": 1992288
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 127,
+     "field": 4,
+     "site": 1992292
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 127,
+     "field": 8,
+     "site": 1992296
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 128,
+     "field": 0,
+     "site": 1992352
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 128,
+     "field": 4,
+     "site": 1992356
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 128,
+     "field": 8,
+     "site": 1992360
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 154,
+     "field": 0,
+     "site": 1994016
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 154,
+     "field": 4,
+     "site": 1994020
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 154,
+     "field": 8,
+     "site": 1994024
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 155,
+     "field": 0,
+     "site": 1994080
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 155,
+     "field": 4,
+     "site": 1994084
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 155,
+     "field": 8,
+     "site": 1994088
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 156,
+     "field": 0,
+     "site": 1994144
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 156,
+     "field": 4,
+     "site": 1994148
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 156,
+     "field": 8,
+     "site": 1994152
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 157,
+     "field": 0,
+     "site": 1994208
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 157,
+     "field": 4,
+     "site": 1994212
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 157,
+     "field": 8,
+     "site": 1994216
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 158,
+     "field": 0,
+     "site": 1994272
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 158,
+     "field": 4,
+     "site": 1994276
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 158,
+     "field": 8,
+     "site": 1994280
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 159,
+     "field": 0,
+     "site": 1994336
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 159,
+     "field": 4,
+     "site": 1994340
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 159,
+     "field": 8,
+     "site": 1994344
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 160,
+     "field": 0,
+     "site": 1994400
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 160,
+     "field": 4,
+     "site": 1994404
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 160,
+     "field": 8,
+     "site": 1994408
+    }
+   ]
+  },
+  {
+   "pointer": 10121814,
+   "before": "\uff30\uff2d\uff24\uff0dSho",
+   "en": "PMD-Sho",
+   "size": 12,
+   "sha256": "5023a33dbd5c5e78c355a0c25b92d66fec9e76cf8e3f6c722cfcc8c1ddb144f1",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 39,
+     "field": 0,
+     "site": 1986656
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 39,
+     "field": 4,
+     "site": 1986660
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 39,
+     "field": 8,
+     "site": 1986664
+    }
+   ]
+  },
+  {
+   "pointer": 10121799,
+   "before": "\uff30\uff2d\uff24\uff0dMarvel",
+   "en": "PMD-Marvel",
+   "size": 15,
+   "sha256": "dc13067de7acf258e8f04e3d352773223c765dbf2ec7c545c95ca468341ea3dd",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 40,
+     "field": 0,
+     "site": 1986720
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 40,
+     "field": 4,
+     "site": 1986724
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 40,
+     "field": 8,
+     "site": 1986728
+    }
+   ]
+  },
+  {
+   "pointer": 10121786,
+   "before": "\uff30\uff2d\uff24\uff0dTodd",
+   "en": "PMD-Todd",
+   "size": 13,
+   "sha256": "2be1c0fbadc8abacecb101eede1817beb93512fd9ce802d69da624c2187f7cb3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 41,
+     "field": 0,
+     "site": 1986784
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 41,
+     "field": 4,
+     "site": 1986788
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 41,
+     "field": 8,
+     "site": 1986792
+    }
+   ]
+  },
+  {
+   "pointer": 10121773,
+   "before": "\uff30\uff2d\uff24\uff0dBern",
+   "en": "PMD-Bern",
+   "size": 13,
+   "sha256": "df339c73c902263cb8f651ba5b08fef097b3a06802850140e7f2da7c9a094ee8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 42,
+     "field": 0,
+     "site": 1986848
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 42,
+     "field": 4,
+     "site": 1986852
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 42,
+     "field": 8,
+     "site": 1986856
+    }
+   ]
+  },
+  {
+   "pointer": 10121752,
+   "before": "\uff30\uff2d\uff24\uff0dBlack Knight",
+   "en": "PMD-Black Knight",
+   "size": 21,
+   "sha256": "46f5da004f317145a6f75ae3ddf1619af1a604a92f07e6657f9d9fb60012cc3f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 43,
+     "field": 0,
+     "site": 1986912
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 43,
+     "field": 4,
+     "site": 1986916
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 43,
+     "field": 8,
+     "site": 1986920
+    }
+   ]
+  },
+  {
+   "pointer": 10121736,
+   "before": "\uff30\uff2d\uff24\uff0dGaralia",
+   "en": "PMD-Garalia",
+   "size": 16,
+   "sha256": "00b266106f3dc9b60d0d495045a05e1355634b54d86dee271999922db5c20340",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 44,
+     "field": 0,
+     "site": 1986976
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 44,
+     "field": 4,
+     "site": 1986980
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 44,
+     "field": 8,
+     "site": 1986984
+    }
+   ]
+  },
+  {
+   "pointer": 10121723,
+   "before": "\uff30\uff2d\uff24\uff0dDaba",
+   "en": "PMD-Daba",
+   "size": 13,
+   "sha256": "9d6a1d1caa48807d0715ccc3ddc35795aaceeffb845f15192bb3789828f104fe",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 45,
+     "field": 0,
+     "site": 1987040
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 45,
+     "field": 4,
+     "site": 1987044
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 45,
+     "field": 8,
+     "site": 1987048
+    }
+   ]
+  },
+  {
+   "pointer": 10121708,
+   "before": "\uff30\uff2d\uff24\uff0dGablae",
+   "en": "PMD-Gablae",
+   "size": 15,
+   "sha256": "5645e49b8aebee82090dc5ba20ab50895c4e0eb2f141dc21bf28a14122d28ca6",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 46,
+     "field": 0,
+     "site": 1987104
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 46,
+     "field": 4,
+     "site": 1987108
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 46,
+     "field": 8,
+     "site": 1987112
+    }
+   ]
+  },
+  {
+   "pointer": 10121692,
+   "before": "\uff30\uff2d\uff24\uff0dHekeler",
+   "en": "PMD-Hekeler",
+   "size": 16,
+   "sha256": "35525843e5cdc80218c1f074507f1192ca5d3c8db4d3e39c9e79a8409208e037",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 47,
+     "field": 0,
+     "site": 1987168
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 47,
+     "field": 4,
+     "site": 1987172
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 47,
+     "field": 8,
+     "site": 1987176
+    }
+   ]
+  },
+  {
+   "pointer": 10121677,
+   "before": "\uff30\uff2d\uff24\uff0dAntoon",
+   "en": "PMD-Antoon",
+   "size": 15,
+   "sha256": "7ccedb5a86c7c23b6ac2a03adab1b96d1cf392c49da15b84730b33582bfc193a",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 48,
+     "field": 0,
+     "site": 1987232
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 48,
+     "field": 4,
+     "site": 1987236
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 48,
+     "field": 8,
+     "site": 1987240
+    }
+   ]
+  },
+  {
+   "pointer": 10121665,
+   "before": "\uff30\uff2d\uff24\uff0dNei",
+   "en": "PMD-Nei",
+   "size": 12,
+   "sha256": "9c9885dc65673a9ae18cc3c9265aff9fd97098f012545681eb37369751e06326",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 49,
+     "field": 0,
+     "site": 1987296
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 49,
+     "field": 4,
+     "site": 1987300
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 49,
+     "field": 8,
+     "site": 1987304
+    }
+   ]
+  },
+  {
+   "pointer": 10121651,
+   "before": "\uff30\uff2d\uff24\uff0dGania",
+   "en": "PMD-Gania",
+   "size": 14,
+   "sha256": "fd46820741dfe5588dcdcb341e466c49ec73f9950149d7532f6ceedd133fb4fe",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 50,
+     "field": 0,
+     "site": 1987360
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 50,
+     "field": 4,
+     "site": 1987364
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 50,
+     "field": 8,
+     "site": 1987368
+    }
+   ]
+  },
+  {
+   "pointer": 10121635,
+   "before": "\uff30\uff2d\uff24\uff0dMcTomin",
+   "en": "PMD-McTomin",
+   "size": 16,
+   "sha256": "bba74912f87296fb5a6028f59b4705f67994175505784903df3cd41e68487675",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 51,
+     "field": 0,
+     "site": 1987424
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 51,
+     "field": 4,
+     "site": 1987428
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 51,
+     "field": 8,
+     "site": 1987432
+    }
+   ]
+  },
+  {
+   "pointer": 10121619,
+   "before": "\uff30\uff2d\uff24\uff0dAmandra",
+   "en": "PMD-Amandra",
+   "size": 16,
+   "sha256": "7b2227634142a487569b41ee6e34507a564fb5357ecc3fcbad3757c9f787d134",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 52,
+     "field": 0,
+     "site": 1987488
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 52,
+     "field": 4,
+     "site": 1987492
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 52,
+     "field": 8,
+     "site": 1987496
+    }
+   ]
+  },
+  {
+   "pointer": 10121603,
+   "before": "\uff30\uff2d\uff24\uff0dKamille",
+   "en": "PMD-Kamille",
+   "size": 16,
+   "sha256": "3e8e68f0d23287a067ca7a168cae767948548cc78df67a7e6bb2aed8bf27c590",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 53,
+     "field": 0,
+     "site": 1987552
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 53,
+     "field": 4,
+     "site": 1987556
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 53,
+     "field": 8,
+     "site": 1987560
+    }
+   ]
+  },
+  {
+   "pointer": 10121587,
+   "before": "\uff30\uff2d\uff24\uff0dQuattro",
+   "en": "PMD-Quattro",
+   "size": 16,
+   "sha256": "965376fa35dcf8fb9d314b96456d77a2b0f6e7388416148dc533392d029c81a6",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 54,
+     "field": 0,
+     "site": 1987616
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 54,
+     "field": 4,
+     "site": 1987620
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 54,
+     "field": 8,
+     "site": 1987624
+    }
+   ]
+  },
+  {
+   "pointer": 10121574,
+   "before": "\uff30\uff2d\uff24\uff0dChar",
+   "en": "PMD-Char",
+   "size": 13,
+   "sha256": "7c307a5923bce451ab8a4347a594a63ff43665a1e0d95cbbfc4450aaba8db560",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 55,
+     "field": 0,
+     "site": 1987680
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 55,
+     "field": 4,
+     "site": 1987684
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 55,
+     "field": 8,
+     "site": 1987688
+    }
+   ]
+  },
+  {
+   "pointer": 10121560,
+   "before": "\uff30\uff2d\uff24\uff0dAmuro",
+   "en": "PMD-Amuro",
+   "size": 14,
+   "sha256": "67bf4832079c8c0826d2929866c6df64ec55c7532eacc90a0086608641a521dd",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 56,
+     "field": 0,
+     "site": 1987744
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 56,
+     "field": 4,
+     "site": 1987748
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 56,
+     "field": 8,
+     "site": 1987752
+    }
+   ]
+  },
+  {
+   "pointer": 10121546,
+   "before": "\uff30\uff2d\uff24\uff0dJerid",
+   "en": "PMD-Jerid",
+   "size": 14,
+   "sha256": "6ded2d2763fe83083632be99a77396ba959fc67276eeef6620db6b5ccebd7fe4",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 57,
+     "field": 0,
+     "site": 1987808
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 57,
+     "field": 4,
+     "site": 1987812
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 57,
+     "field": 8,
+     "site": 1987816
+    }
+   ]
+  },
+  {
+   "pointer": 10121532,
+   "before": "\uff30\uff2d\uff24\uff0dYazan",
+   "en": "PMD-Yazan",
+   "size": 14,
+   "sha256": "39584653186156759153eb10c0dcee967250c64180b95c5df39a2147b8de3a05",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 58,
+     "field": 0,
+     "site": 1987872
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 58,
+     "field": 4,
+     "site": 1987876
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 58,
+     "field": 8,
+     "site": 1987880
+    }
+   ]
+  },
+  {
+   "pointer": 10121519,
+   "before": "\uff30\uff2d\uff24\uff0dFour",
+   "en": "PMD-Four",
+   "size": 13,
+   "sha256": "3eff9430284a2d45fb786783dd8be0e01fb2ae47f12ff5a2b26c20f088ac2e71",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 59,
+     "field": 0,
+     "site": 1987936
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 59,
+     "field": 4,
+     "site": 1987940
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 59,
+     "field": 8,
+     "site": 1987944
+    }
+   ]
+  },
+  {
+   "pointer": 10121503,
+   "before": "\uff30\uff2d\uff24\uff0dRosamia",
+   "en": "PMD-Rosamia",
+   "size": 16,
+   "sha256": "2b941adbb3f8b4a57d548c3fb54388896dfa0f4b07f65299f0ada3222724e55d",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 60,
+     "field": 0,
+     "site": 1988000
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 60,
+     "field": 4,
+     "site": 1988004
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 60,
+     "field": 8,
+     "site": 1988008
+    }
+   ]
+  },
+  {
+   "pointer": 10121486,
+   "before": "\uff30\uff2d\uff24\uff0dScirocco",
+   "en": "PMD-Scirocco",
+   "size": 17,
+   "sha256": "19f5b7b97568de388a9eca822f2bbb5ba36521539581ea0a4c798f2a7b09cc4f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 61,
+     "field": 0,
+     "site": 1988064
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 61,
+     "field": 4,
+     "site": 1988068
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 61,
+     "field": 8,
+     "site": 1988072
+    }
+   ]
+  },
+  {
+   "pointer": 10121472,
+   "before": "\uff30\uff2d\uff24\uff0dHaman",
+   "en": "PMD-Haman",
+   "size": 14,
+   "sha256": "f238a5ed2ba43dfc048f73ace72380d627f3a36dff52c91df0e54b7ade67734f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 62,
+     "field": 0,
+     "site": 1988128
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 62,
+     "field": 4,
+     "site": 1988132
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 62,
+     "field": 8,
+     "site": 1988136
+    }
+   ]
+  },
+  {
+   "pointer": 10121456,
+   "before": "\uff30\uff2d\uff24\uff0dChirico",
+   "en": "PMD-Chirico",
+   "size": 16,
+   "sha256": "ed73d9afe29b6e7a83171f13901211e6ed32da68d637b5c793baf03cb0438c68",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 63,
+     "field": 0,
+     "site": 1988192
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 63,
+     "field": 4,
+     "site": 1988196
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 63,
+     "field": 8,
+     "site": 1988200
+    }
+   ]
+  },
+  {
+   "pointer": 10121442,
+   "before": "\uff30\uff2d\uff24\uff0dFyana",
+   "en": "PMD-Fyana",
+   "size": 14,
+   "sha256": "819f079a0e0843a92238e0057d0b342de2d449f25e88675701c73ee755db38d1",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 64,
+     "field": 0,
+     "site": 1988256
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 64,
+     "field": 4,
+     "site": 1988260
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 64,
+     "field": 8,
+     "site": 1988264
+    }
+   ]
+  },
+  {
+   "pointer": 10121428,
+   "before": "\uff30\uff2d\uff24\uff0dShako",
+   "en": "PMD-Shako",
+   "size": 14,
+   "sha256": "323c211deefb8d70e4e203f560757a1251a61cea299e3f552bb1d1963cd4773f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 65,
+     "field": 0,
+     "site": 1988320
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 65,
+     "field": 4,
+     "site": 1988324
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 65,
+     "field": 8,
+     "site": 1988328
+    }
+   ]
+  },
+  {
+   "pointer": 10121412,
+   "before": "\uff30\uff2d\uff24\uff0dEpsilon",
+   "en": "PMD-Epsilon",
+   "size": 16,
+   "sha256": "195cd3f91f13ffee49f5c7d3554fcbd1988f0495193e6acd5052813d14d46570",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 66,
+     "field": 0,
+     "site": 1988384
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 66,
+     "field": 4,
+     "site": 1988388
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 66,
+     "field": 8,
+     "site": 1988392
+    }
+   ]
+  },
+  {
+   "pointer": 10121399,
+   "before": "\uff30\uff2d\uff24\uff0dNiva",
+   "en": "PMD-Niva",
+   "size": 13,
+   "sha256": "9015847de00b12b2f51838f58f0af15e92f5e458530d6cd20d006db64e5de1ea",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 67,
+     "field": 0,
+     "site": 1988448
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 67,
+     "field": 4,
+     "site": 1988452
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 67,
+     "field": 8,
+     "site": 1988456
+    }
+   ]
+  },
+  {
+   "pointer": 10121383,
+   "before": "\uff30\uff2d\uff24\uff0dGregore",
+   "en": "PMD-Gregore",
+   "size": 16,
+   "sha256": "29e7b245af59a07d6f8ff3da94fa33ba34c5636bfa05eae4ec2f6cc3aad31924",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 68,
+     "field": 0,
+     "site": 1988512
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 68,
+     "field": 4,
+     "site": 1988516
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 68,
+     "field": 8,
+     "site": 1988520
+    }
+   ]
+  },
+  {
+   "pointer": 10121369,
+   "before": "\uff30\uff2d\uff24\uff0dMurza",
+   "en": "PMD-Murza",
+   "size": 14,
+   "sha256": "a4e1c85118fe9c3b458aeb56202d41326f7af9773f62f170fb981cc3d0668f20",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 69,
+     "field": 0,
+     "site": 1988576
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 69,
+     "field": 4,
+     "site": 1988580
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 69,
+     "field": 8,
+     "site": 1988584
+    }
+   ]
+  },
+  {
+   "pointer": 10121355,
+   "before": "\uff30\uff2d\uff24\uff0dByman",
+   "en": "PMD-Byman",
+   "size": 14,
+   "sha256": "5412473f8882c55d8a5af6ca1d2792714f6d944146796319ea942fa8d65cd687",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 70,
+     "field": 0,
+     "site": 1988640
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 70,
+     "field": 4,
+     "site": 1988644
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 70,
+     "field": 8,
+     "site": 1988648
+    }
+   ]
+  },
+  {
+   "pointer": 10121340,
+   "before": "\uff30\uff2d\uff24\uff0dCarson",
+   "en": "PMD-Carson",
+   "size": 15,
+   "sha256": "70991438c2d4213ecf888cc61c3bdaa9c7d2dd7b30c5775a427d2aa1444bca09",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 71,
+     "field": 0,
+     "site": 1988704
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 71,
+     "field": 4,
+     "site": 1988708
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 71,
+     "field": 8,
+     "site": 1988712
+    }
+   ]
+  },
+  {
+   "pointer": 10121324,
+   "before": "\uff30\uff2d\uff24\uff0dRiemann",
+   "en": "PMD-Riemann",
+   "size": 16,
+   "sha256": "2bfcc8c30d88ece0adb4218073c34d7367c9972fa31e9b3b5f167813ee87203f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 72,
+     "field": 0,
+     "site": 1988768
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 72,
+     "field": 4,
+     "site": 1988772
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 72,
+     "field": 8,
+     "site": 1988776
+    }
+   ]
+  },
+  {
+   "pointer": 10121311,
+   "before": "\uff30\uff2d\uff24\uff0dJojo",
+   "en": "PMD-Jojo",
+   "size": 13,
+   "sha256": "99ddaf58c2500829e2d2c6e9e442dc1eeaeecb479702bdd6f5e90608f6a46009",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 73,
+     "field": 0,
+     "site": 1988832
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 73,
+     "field": 4,
+     "site": 1988836
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 73,
+     "field": 8,
+     "site": 1988840
+    }
+   ]
+  },
+  {
+   "pointer": 10121295,
+   "before": "\uff30\uff2d\uff24\uff0dMardoul",
+   "en": "PMD-Mardoul",
+   "size": 16,
+   "sha256": "67298cbe68a1de2d522f65053ae73f2286834ae2b972f4893aa9905d12fc8025",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 74,
+     "field": 0,
+     "site": 1988896
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 74,
+     "field": 4,
+     "site": 1988900
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 74,
+     "field": 8,
+     "site": 1988904
+    }
+   ]
+  },
+  {
+   "pointer": 10121271,
+   "before": "\uff30\uff2d\uff24\uff0dHigh Schultatte",
+   "en": "PMD-High Schultatte",
+   "size": 24,
+   "sha256": "e5aaecdd5e50fafd68917bc7d8cc192a8d173fbd130bb86b9a13e760a0d93bfb",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 75,
+     "field": 0,
+     "site": 1988960
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 75,
+     "field": 4,
+     "site": 1988964
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 75,
+     "field": 8,
+     "site": 1988968
+    }
+   ]
+  },
+  {
+   "pointer": 10121256,
+   "before": "\uff30\uff2d\uff24\uff0dRanvel",
+   "en": "PMD-Ranvel",
+   "size": 15,
+   "sha256": "033511270e84513a6148044a3202b44f0e1d7959fe1f1ac1cfeaaf28275b5b62",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 76,
+     "field": 0,
+     "site": 1989024
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 76,
+     "field": 4,
+     "site": 1989028
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 76,
+     "field": 8,
+     "site": 1989032
+    }
+   ]
+  },
+  {
+   "pointer": 10121241,
+   "before": "\uff30\uff2d\uff24\uff0dLordan",
+   "en": "PMD-Lordan",
+   "size": 15,
+   "sha256": "9626f3ab0c0fe3a7ad506ac78b3bba0cd1d8e4a491167d73e821ac59a318628f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 77,
+     "field": 0,
+     "site": 1989088
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 77,
+     "field": 4,
+     "site": 1989092
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 77,
+     "field": 8,
+     "site": 1989096
+    }
+   ]
+  },
+  {
+   "pointer": 10121228,
+   "before": "\uff30\uff2d\uff24\uff0dEiji",
+   "en": "PMD-Eiji",
+   "size": 13,
+   "sha256": "8977623c4f68d5cd4b731e2cd7088fe74f813568502d1d9af52e898da16b0f15",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 78,
+     "field": 0,
+     "site": 1989152
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 78,
+     "field": 4,
+     "site": 1989156
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 78,
+     "field": 8,
+     "site": 1989160
+    }
+   ]
+  },
+  {
+   "pointer": 10121211,
+   "before": "\uff30\uff2d\uff24\uff0dLe Caine",
+   "en": "PMD-Le Caine",
+   "size": 17,
+   "sha256": "c43d8c65e6b551f15f9dd517beaafe34b84c45be1f629a880118e5031f3e1499",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 79,
+     "field": 0,
+     "site": 1989216
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 79,
+     "field": 4,
+     "site": 1989220
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 79,
+     "field": 8,
+     "site": 1989224
+    }
+   ]
+  },
+  {
+   "pointer": 10121194,
+   "before": "\uff30\uff2d\uff24\uff0dGosterro",
+   "en": "PMD-Gosterro",
+   "size": 17,
+   "sha256": "978b83ffdf5e36c9e18faf736d19f1b43b9175768ace4645ed53b89976c983b8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 80,
+     "field": 0,
+     "site": 1989280
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 80,
+     "field": 4,
+     "site": 1989284
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 80,
+     "field": 8,
+     "site": 1989288
+    }
+   ]
+  },
+  {
+   "pointer": 10121180,
+   "before": "\uff30\uff2d\uff24\uff0dGetey",
+   "en": "PMD-Getey",
+   "size": 14,
+   "sha256": "875d52e61f067ddbe1a68f8d169851a12ae272e201651ea8e075adaaf781dae9",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 81,
+     "field": 0,
+     "site": 1989344
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 81,
+     "field": 4,
+     "site": 1989348
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 81,
+     "field": 8,
+     "site": 1989352
+    }
+   ]
+  },
+  {
+   "pointer": 10121167,
+   "before": "\uff30\uff2d\uff24\uff0dBohn",
+   "en": "PMD-Bohn",
+   "size": 13,
+   "sha256": "46bb5639f7d58f0bb19c01204a587e4d91a8cea620f65e5e3be120d088a05402",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 82,
+     "field": 0,
+     "site": 1989408
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 82,
+     "field": 4,
+     "site": 1989412
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 82,
+     "field": 8,
+     "site": 1989416
+    }
+   ]
+  },
+  {
+   "pointer": 10121151,
+   "before": "\uff30\uff2d\uff24\uff0dManjero",
+   "en": "PMD-Manjero",
+   "size": 16,
+   "sha256": "b365cd103480f967e67670267480f8bc99dc23b27bc35bdae8308021f7741c9f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 83,
+     "field": 0,
+     "site": 1989472
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 83,
+     "field": 4,
+     "site": 1989476
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 83,
+     "field": 8,
+     "site": 1989480
+    }
+   ]
+  },
+  {
+   "pointer": 10121139,
+   "before": "\uff30\uff2d\uff24\uff0dGuy",
+   "en": "PMD-Guy",
+   "size": 12,
+   "sha256": "bf3778a2b0e6efd753214ca9adfee18255620ef7f9dce29d77afac9194195dff",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 84,
+     "field": 0,
+     "site": 1989536
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 84,
+     "field": 4,
+     "site": 1989540
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 84,
+     "field": 8,
+     "site": 1989544
+    }
+   ]
+  },
+  {
+   "pointer": 10121124,
+   "before": "\uff30\uff2d\uff24\uff0dMamoru",
+   "en": "PMD-Mamoru",
+   "size": 15,
+   "sha256": "8f50a15086d20edac34e5dd6f520e88ccc1c257eb9df822f8c4d73f61865d015",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 85,
+     "field": 0,
+     "site": 1989600
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 85,
+     "field": 4,
+     "site": 1989604
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 85,
+     "field": 8,
+     "site": 1989608
+    }
+   ]
+  },
+  {
+   "pointer": 10121113,
+   "before": "\uff30\uff2d\uff24\uff0d\uff2a",
+   "en": "PMD-J",
+   "size": 11,
+   "sha256": "75652e294e7fc770b54528634b0d6de26058906846368b53876746eff31be3e0",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 86,
+     "field": 0,
+     "site": 1989664
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 86,
+     "field": 4,
+     "site": 1989668
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 86,
+     "field": 8,
+     "site": 1989672
+    }
+   ]
+  },
+  {
+   "pointer": 10121099,
+   "before": "\uff30\uff2d\uff24\uff0dDomon",
+   "en": "PMD-Domon",
+   "size": 14,
+   "sha256": "48cc9a8d1a8eb71ebd9e1a6b58af1c269d5e93a98b8dce2b3ce7af4e1b9d7a8a",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 87,
+     "field": 0,
+     "site": 1989728
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 87,
+     "field": 4,
+     "site": 1989732
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 87,
+     "field": 8,
+     "site": 1989736
+    }
+   ]
+  },
+  {
+   "pointer": 10121086,
+   "before": "\uff30\uff2d\uff24\uff0dRain",
+   "en": "PMD-Rain",
+   "size": 13,
+   "sha256": "fb341537e10d96216cb65dc4dec9fa564a1d9e3fcf982387561643e98e17dc6f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 88,
+     "field": 0,
+     "site": 1989792
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 88,
+     "field": 4,
+     "site": 1989796
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 88,
+     "field": 8,
+     "site": 1989800
+    }
+   ]
+  },
+  {
+   "pointer": 10121069,
+   "before": "\uff30\uff2d\uff24\uff0dChibodee",
+   "en": "PMD-Chibodee",
+   "size": 17,
+   "sha256": "ffc32f533b790825023de117d2d658f2151f15641f1b9e237742a6ea2f932f21",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 89,
+     "field": 0,
+     "site": 1989856
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 89,
+     "field": 4,
+     "site": 1989860
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 89,
+     "field": 8,
+     "site": 1989864
+    }
+   ]
+  },
+  {
+   "pointer": 10121051,
+   "before": "\uff30\uff2d\uff24\uff0dSai Saici",
+   "en": "PMD-Sai Saici",
+   "size": 18,
+   "sha256": "32e2c76a74b35717e04e1095b42d0d2217301d8b7365f5860efda2bac020e563",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 90,
+     "field": 0,
+     "site": 1989920
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 90,
+     "field": 4,
+     "site": 1989924
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 90,
+     "field": 8,
+     "site": 1989928
+    }
+   ]
+  },
+  {
+   "pointer": 10121036,
+   "before": "\uff30\uff2d\uff24\uff0dGeorge",
+   "en": "PMD-George",
+   "size": 15,
+   "sha256": "f2badcbb8a9edb5ac71af82494ae7ab5fa9148d311bb2f2f408379215d8c7035",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 91,
+     "field": 0,
+     "site": 1989984
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 91,
+     "field": 4,
+     "site": 1989988
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 91,
+     "field": 8,
+     "site": 1989992
+    }
+   ]
+  },
+  {
+   "pointer": 10121023,
+   "before": "\uff30\uff2d\uff24\uff0dArgo",
+   "en": "PMD-Argo",
+   "size": 13,
+   "sha256": "91ed09c3b1e73796316547d5361be8a1f2cfd054364a26c6fd20dfc9d8322f84",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 92,
+     "field": 0,
+     "site": 1990048
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 92,
+     "field": 4,
+     "site": 1990052
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 92,
+     "field": 8,
+     "site": 1990056
+    }
+   ]
+  },
+  {
+   "pointer": 10121003,
+   "before": "\uff30\uff2d\uff24\uff0dMaster Asia",
+   "en": "PMD-Master Asia",
+   "size": 20,
+   "sha256": "17c5b2dabb0322a9e7831d4cb216fba24a27be0032a9e286874382fe16c727ac",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 93,
+     "field": 0,
+     "site": 1990112
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 93,
+     "field": 4,
+     "site": 1990116
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 93,
+     "field": 8,
+     "site": 1990120
+    }
+   ]
+  },
+  {
+   "pointer": 10120989,
+   "before": "\uff30\uff2d\uff24\uff0dHeero",
+   "en": "PMD-Heero",
+   "size": 14,
+   "sha256": "a10e0a953f2afbd5114c190f05699fe466b41cda5f1f2253e3194d728fe5d854",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 94,
+     "field": 0,
+     "site": 1990176
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 94,
+     "field": 4,
+     "site": 1990180
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 94,
+     "field": 8,
+     "site": 1990184
+    }
+   ]
+  },
+  {
+   "pointer": 10120977,
+   "before": "\uff30\uff2d\uff24\uff0dDuo",
+   "en": "PMD-Duo",
+   "size": 12,
+   "sha256": "152058c6eab05002ab4618b3bac011a5f7cae2dcf93195a7ff981a49c4a4158f",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 95,
+     "field": 0,
+     "site": 1990240
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 95,
+     "field": 4,
+     "site": 1990244
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 95,
+     "field": 8,
+     "site": 1990248
+    }
+   ]
+  },
+  {
+   "pointer": 10120963,
+   "before": "\uff30\uff2d\uff24\uff0dTrowa",
+   "en": "PMD-Trowa",
+   "size": 14,
+   "sha256": "0b053767b88e78d3d9794bafb330ddb2cde9129c289578c66a57493d9f4cd6ac",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 96,
+     "field": 0,
+     "site": 1990304
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 96,
+     "field": 4,
+     "site": 1990308
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 96,
+     "field": 8,
+     "site": 1990312
+    }
+   ]
+  },
+  {
+   "pointer": 10120948,
+   "before": "\uff30\uff2d\uff24\uff0dQuatre",
+   "en": "PMD-Quatre",
+   "size": 15,
+   "sha256": "9a63c6992bf196c94f03d84ae2f068fd6f306f8c54a8592ee4881516638a89d2",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 97,
+     "field": 0,
+     "site": 1990368
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 97,
+     "field": 4,
+     "site": 1990372
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 97,
+     "field": 8,
+     "site": 1990376
+    }
+   ]
+  },
+  {
+   "pointer": 10120934,
+   "before": "\uff30\uff2d\uff24\uff0dWufei",
+   "en": "PMD-Wufei",
+   "size": 14,
+   "sha256": "f3abd28711280676c453472d4297c089751b67befb9cefb6870ba11122fba2ac",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 98,
+     "field": 0,
+     "site": 1990432
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 98,
+     "field": 4,
+     "site": 1990436
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 98,
+     "field": 8,
+     "site": 1990440
+    }
+   ]
+  },
+  {
+   "pointer": 10120920,
+   "before": "\uff30\uff2d\uff24\uff0dZechs",
+   "en": "PMD-Zechs",
+   "size": 14,
+   "sha256": "dbbf4341cae0c9ed239756b37451c69976bd4fdaf951540f7f3637f2d4aafeb3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 99,
+     "field": 0,
+     "site": 1990496
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 99,
+     "field": 4,
+     "site": 1990500
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 99,
+     "field": 8,
+     "site": 1990504
+    }
+   ]
+  },
+  {
+   "pointer": 10120907,
+   "before": "\uff30\uff2d\uff24\uff0dNoin",
+   "en": "PMD-Noin",
+   "size": 13,
+   "sha256": "8e2f5b5ccc522a2aa6e181f7b859b949085ad2e6c60706f1b299028b33ff76c4",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 100,
+     "field": 0,
+     "site": 1990560
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 100,
+     "field": 4,
+     "site": 1990564
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 100,
+     "field": 8,
+     "site": 1990568
+    }
+   ]
+  },
+  {
+   "pointer": 10120892,
+   "before": "\uff30\uff2d\uff24\uff0dTreize",
+   "en": "PMD-Treize",
+   "size": 15,
+   "sha256": "01ed87a552faaa7e9a85cebb54afb2d70c1ead4b7605063aa9d637373d26746b",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 101,
+     "field": 0,
+     "site": 1990624
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 101,
+     "field": 4,
+     "site": 1990628
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 101,
+     "field": 8,
+     "site": 1990632
+    }
+   ]
+  },
+  {
+   "pointer": 10120875,
+   "before": "\uff30\uff2d\uff24\uff0dLady Une",
+   "en": "PMD-Lady Une",
+   "size": 17,
+   "sha256": "92ca607f6a091e9dee21f6539e5fed4a8ed9330412d27a6358b052a21ba96489",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 102,
+     "field": 0,
+     "site": 1990688
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 102,
+     "field": 4,
+     "site": 1990692
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 102,
+     "field": 8,
+     "site": 1990696
+    }
+   ]
+  },
+  {
+   "pointer": 10120861,
+   "before": "\uff30\uff2d\uff24\uff0dJiron",
+   "en": "PMD-Jiron",
+   "size": 14,
+   "sha256": "be93eb7d115eca97d4ac8a6fe49fc6a7c9721f50aea3d77547cf2aff2c0d5325",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 103,
+     "field": 0,
+     "site": 1990752
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 103,
+     "field": 4,
+     "site": 1990756
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 103,
+     "field": 8,
+     "site": 1990760
+    }
+   ]
+  },
+  {
+   "pointer": 10120847,
+   "before": "\uff30\uff2d\uff24\uff0dElchi",
+   "en": "PMD-Elchi",
+   "size": 14,
+   "sha256": "4edef71ca5c1c67445fab70ce501b1859345e15542341c31411f3e69c0784fb1",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 104,
+     "field": 0,
+     "site": 1990816
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 104,
+     "field": 4,
+     "site": 1990820
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 104,
+     "field": 8,
+     "site": 1990824
+    }
+   ]
+  },
+  {
+   "pointer": 10120835,
+   "before": "\uff30\uff2d\uff24\uff0dRag",
+   "en": "PMD-Rag",
+   "size": 12,
+   "sha256": "8f8a4c0c628c800494f9d5fc8049244a050f97fb2a9d4101a113bef1837e5a96",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 105,
+     "field": 0,
+     "site": 1990880
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 105,
+     "field": 4,
+     "site": 1990884
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 105,
+     "field": 8,
+     "site": 1990888
+    }
+   ]
+  },
+  {
+   "pointer": 10120822,
+   "before": "\uff30\uff2d\uff24\uff0dTimp",
+   "en": "PMD-Timp",
+   "size": 13,
+   "sha256": "b27f457b9418593f0abcf2b4cdfb1c266fc4e5edc0bb54b6804c2c2657138326",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 106,
+     "field": 0,
+     "site": 1990944
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 106,
+     "field": 4,
+     "site": 1990948
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 106,
+     "field": 8,
+     "site": 1990952
+    }
+   ]
+  },
+  {
+   "pointer": 10120808,
+   "before": "\uff30\uff2d\uff24\uff0dCrinn",
+   "en": "PMD-Crinn",
+   "size": 14,
+   "sha256": "311ce1ccc17f5804381bc47cfde0f0d7a82974240bec0fc9f199eb5cc49d4927",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 107,
+     "field": 0,
+     "site": 1991008
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 107,
+     "field": 4,
+     "site": 1991012
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 107,
+     "field": 8,
+     "site": 1991016
+    }
+   ]
+  },
+  {
+   "pointer": 10120794,
+   "before": "\uff30\uff2d\uff24\uff0dBrink",
+   "en": "PMD-Brink",
+   "size": 14,
+   "sha256": "3febae0ea722ee959b59c9d94840a201cad31e8b0583d4fa8befea231886c106",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 108,
+     "field": 0,
+     "site": 1991072
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 108,
+     "field": 4,
+     "site": 1991076
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 108,
+     "field": 8,
+     "site": 1991080
+    }
+   ]
+  },
+  {
+   "pointer": 10120778,
+   "before": "\uff30\uff2d\uff24\uff0dTenisun",
+   "en": "PMD-Tenisun",
+   "size": 16,
+   "sha256": "f4ae8051991486c23564567ff1c4b029d78a34646b104bc9a299b1377bdafa63",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 109,
+     "field": 0,
+     "site": 1991136
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 109,
+     "field": 4,
+     "site": 1991140
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 109,
+     "field": 8,
+     "site": 1991144
+    }
+   ]
+  },
+  {
+   "pointer": 10120763,
+   "before": "\uff30\uff2d\uff24\uff0dBarrel",
+   "en": "PMD-Barrel",
+   "size": 15,
+   "sha256": "ac857429f8bc54bc4e0903487c65daa9bddd252d45e70053f63b938bb70a7e04",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 110,
+     "field": 0,
+     "site": 1991200
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 110,
+     "field": 4,
+     "site": 1991204
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 110,
+     "field": 8,
+     "site": 1991208
+    }
+   ]
+  },
+  {
+   "pointer": 10120750,
+   "before": "\uff30\uff2d\uff24\uff0dRadd",
+   "en": "PMD-Radd",
+   "size": 13,
+   "sha256": "f649de4de4d96788302c8dff59d1faaf7c53a366412441e3e7cd13a7e4635072",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 111,
+     "field": 0,
+     "site": 1991264
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 111,
+     "field": 4,
+     "site": 1991268
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 111,
+     "field": 8,
+     "site": 1991272
+    }
+   ]
+  },
+  {
+   "pointer": 10120736,
+   "before": "\uff30\uff2d\uff24\uff0dRoddy",
+   "en": "PMD-Roddy",
+   "size": 14,
+   "sha256": "dbbe6d0c3e6e42952be6a47288e7205bdace8d8a934403a2c4e6fdc580664718",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 112,
+     "field": 0,
+     "site": 1991328
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 112,
+     "field": 4,
+     "site": 1991332
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 112,
+     "field": 8,
+     "site": 1991336
+    }
+   ]
+  },
+  {
+   "pointer": 10120722,
+   "before": "\uff30\uff2d\uff24\uff0dBarts",
+   "en": "PMD-Barts",
+   "size": 14,
+   "sha256": "5d1fddccce9596ae3f7070d888651a20f4b686b1d15a69aed83cbe808933e56e",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 113,
+     "field": 0,
+     "site": 1991392
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 113,
+     "field": 4,
+     "site": 1991396
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 113,
+     "field": 8,
+     "site": 1991400
+    }
+   ]
+  },
+  {
+   "pointer": 10120708,
+   "before": "\uff30\uff2d\uff24\uff0dKaine",
+   "en": "PMD-Kaine",
+   "size": 14,
+   "sha256": "c1000e19366268b37294f31b53092af9b80cf4345aa8966f3a5627bbef5a93b7",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 114,
+     "field": 0,
+     "site": 1991456
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 114,
+     "field": 4,
+     "site": 1991460
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 114,
+     "field": 8,
+     "site": 1991464
+    }
+   ]
+  },
+  {
+   "pointer": 10120696,
+   "before": "\uff30\uff2d\uff24\uff0dTap",
+   "en": "PMD-Tap",
+   "size": 12,
+   "sha256": "f5854189b24a06dbb607d75a56ca59a5fccbb76e91fe71969cbfe21eb26a5b5b",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 115,
+     "field": 0,
+     "site": 1991520
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 115,
+     "field": 4,
+     "site": 1991524
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 115,
+     "field": 8,
+     "site": 1991528
+    }
+   ]
+  },
+  {
+   "pointer": 10120682,
+   "before": "\uff30\uff2d\uff24\uff0dLight",
+   "en": "PMD-Light",
+   "size": 14,
+   "sha256": "364a297710fb067e377b0b4bae90f188a88efe0572da3362643b4ad35c73cd03",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 116,
+     "field": 0,
+     "site": 1991584
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 116,
+     "field": 4,
+     "site": 1991588
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 116,
+     "field": 8,
+     "site": 1991592
+    }
+   ]
+  },
+  {
+   "pointer": 10120669,
+   "before": "\uff30\uff2d\uff24\uff0dMeio",
+   "en": "PMD-Meio",
+   "size": 13,
+   "sha256": "a6bc0f3a9593ef7770c9f9adb45d5beb7d0f635f3c59c5ec5a26ceda659d08e2",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 117,
+     "field": 0,
+     "site": 1991648
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 117,
+     "field": 4,
+     "site": 1991652
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 117,
+     "field": 8,
+     "site": 1991656
+    }
+   ]
+  },
+  {
+   "pointer": 10120653,
+   "before": "\uff30\uff2d\uff24\uff0dGon Jem",
+   "en": "PMD-Gon Jem",
+   "size": 16,
+   "sha256": "58fa050fc940f4274571a1124bc9e0eb8652a48c8e0f5c3b81086811e62c4fae",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 118,
+     "field": 0,
+     "site": 1991712
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 118,
+     "field": 4,
+     "site": 1991716
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 118,
+     "field": 8,
+     "site": 1991720
+    }
+   ]
+  },
+  {
+   "pointer": 10120641,
+   "before": "\uff30\uff2d\uff24\uff0dMin",
+   "en": "PMD-Min",
+   "size": 12,
+   "sha256": "2ef5257c8cd25ffbfc21a4266b08b2fddcc4a8dfe00a154d5e02e934ec8daff8",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 119,
+     "field": 0,
+     "site": 1991776
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 119,
+     "field": 4,
+     "site": 1991780
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 119,
+     "field": 8,
+     "site": 1991784
+    }
+   ]
+  },
+  {
+   "pointer": 10120629,
+   "before": "\uff30\uff2d\uff24\uff0dGol",
+   "en": "PMD-Gol",
+   "size": 12,
+   "sha256": "280902dafdb464d7ce0f3db02dfc86facac2b5dfb09ea0a278526a648028a2c1",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 120,
+     "field": 0,
+     "site": 1991840
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 120,
+     "field": 4,
+     "site": 1991844
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 120,
+     "field": 8,
+     "site": 1991848
+    }
+   ]
+  },
+  {
+   "pointer": 10120615,
+   "before": "\uff30\uff2d\uff24\uff0dGanan",
+   "en": "PMD-Ganan",
+   "size": 14,
+   "sha256": "66f2906ed1b5ce11e7e35f40c59ed88ebc1ba29f34e682c101b75464b019ad62",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 121,
+     "field": 0,
+     "site": 1991904
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 121,
+     "field": 4,
+     "site": 1991908
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 121,
+     "field": 8,
+     "site": 1991912
+    }
+   ]
+  },
+  {
+   "pointer": 10120603,
+   "before": "\uff30\uff2d\uff24\uff0dZin",
+   "en": "PMD-Zin",
+   "size": 12,
+   "sha256": "1ac89576e52616708ac143414d93a809070ab54f00c2e3dfaf524640e5f84d1e",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 122,
+     "field": 0,
+     "site": 1991968
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 122,
+     "field": 4,
+     "site": 1991972
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 122,
+     "field": 8,
+     "site": 1991976
+    }
+   ]
+  },
+  {
+   "pointer": 10120584,
+   "before": "Dark Matter \uff2c\uff36\uff11",
+   "en": "Dark Matter LV1",
+   "size": 19,
+   "sha256": "5bf25e9740fc9320af20eb03b414a9128ee0a8a9d1df2943a0a1236c1a753d52",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 129,
+     "field": 0,
+     "site": 1992416
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 129,
+     "field": 4,
+     "site": 1992420
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 129,
+     "field": 8,
+     "site": 1992424
+    }
+   ]
+  },
+  {
+   "pointer": 10120565,
+   "before": "Dark Matter \uff2c\uff36\uff12",
+   "en": "Dark Matter LV2",
+   "size": 19,
+   "sha256": "7fabf58344ccc855de9fac1973b96838647a0faf03bef0991c7f4820d38cce48",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 130,
+     "field": 0,
+     "site": 1992480
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 130,
+     "field": 4,
+     "site": 1992484
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 130,
+     "field": 8,
+     "site": 1992488
+    }
+   ]
+  },
+  {
+   "pointer": 10120546,
+   "before": "Dark Matter \uff2c\uff36\uff13",
+   "en": "Dark Matter LV3",
+   "size": 19,
+   "sha256": "c1179f40e0c3cbcb901132a68740cd304926343ddc9032633edee1ec23f7ecab",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 131,
+     "field": 0,
+     "site": 1992544
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 131,
+     "field": 4,
+     "site": 1992548
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 131,
+     "field": 8,
+     "site": 1992552
+    }
+   ]
+  },
+  {
+   "pointer": 10120527,
+   "before": "Dark Matter \uff2c\uff36\uff14",
+   "en": "Dark Matter LV4",
+   "size": 19,
+   "sha256": "ae6287a382ad7c9aab4bab90aea88eb942b8b7abff3696238dbd46e352e97900",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 132,
+     "field": 0,
+     "site": 1992608
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 132,
+     "field": 4,
+     "site": 1992612
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 132,
+     "field": 8,
+     "site": 1992616
+    }
+   ]
+  },
+  {
+   "pointer": 10120499,
+   "before": "Self-Destruct Device: Heero",
+   "en": "Self-Destruct Device: Heero",
+   "size": 28,
+   "sha256": "1c5c7398e2812c0f44bde039dd7eec509ca41a2deb9685db43c6afa46ce70bd2",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 133,
+     "field": 0,
+     "site": 1992672
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 133,
+     "field": 4,
+     "site": 1992676
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 133,
+     "field": 8,
+     "site": 1992680
+    }
+   ]
+  },
+  {
+   "pointer": 10120426,
+   "before": "Self-Destruct Device: Duo",
+   "en": "Self-Destruct Device: Duo",
+   "size": 26,
+   "sha256": "cfe225621e6b7aa1152f141111cd8d212487a7620309253d262b295028bf41df",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 134,
+     "field": 0,
+     "site": 1992736
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 134,
+     "field": 4,
+     "site": 1992740
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 134,
+     "field": 8,
+     "site": 1992744
+    }
+   ]
+  },
+  {
+   "pointer": 10120344,
+   "before": "Self-Destruct Device: Trowa",
+   "en": "Self-Destruct Device: Trowa",
+   "size": 28,
+   "sha256": "c4e00706b1b51fdf61f2ed865a1578dd9d6a661f3fdcf80d07fffdd8ac777f06",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 135,
+     "field": 0,
+     "site": 1992800
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 135,
+     "field": 4,
+     "site": 1992804
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 135,
+     "field": 8,
+     "site": 1992808
+    }
+   ]
+  },
+  {
+   "pointer": 10120268,
+   "before": "Self-Destruct Device: Quatre",
+   "en": "Self-Destruct Device: Quatre",
+   "size": 29,
+   "sha256": "e4075caf15daf7712e7e4427a10c504ed12bf5b611f85d8f7e8b33ace815f046",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 136,
+     "field": 0,
+     "site": 1992864
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 136,
+     "field": 4,
+     "site": 1992868
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 136,
+     "field": 8,
+     "site": 1992872
+    }
+   ]
+  },
+  {
+   "pointer": 10120194,
+   "before": "Self-Destruct Device: Wufei",
+   "en": "Self-Destruct Device: Wufei",
+   "size": 28,
+   "sha256": "f01e87480a22c5e1905aef9ec9c43e33f069e60455bf58758cb45188cf4fbd21",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 137,
+     "field": 0,
+     "site": 1992928
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 137,
+     "field": 4,
+     "site": 1992932
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 137,
+     "field": 8,
+     "site": 1992936
+    }
+   ]
+  },
+  {
+   "pointer": 10188654,
+   "before": "Rekka Ken",
+   "en": "Rekka Ken",
+   "size": 10,
+   "sha256": "88395178b7219a1ffcaec9e8a5a702749d3ad2ab3e91551fc513d3872ee4a952",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 138,
+     "field": 0,
+     "site": 1992992
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 138,
+     "field": 4,
+     "site": 1992996
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 138,
+     "field": 8,
+     "site": 1993000
+    }
+   ]
+  },
+  {
+   "pointer": 10188644,
+   "before": "Korin Ken",
+   "en": "Korin Ken",
+   "size": 10,
+   "sha256": "5504bc7229d36a0978f8f49c496d83960d0a3908fea0340dc7e8742d2ffad071",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 139,
+     "field": 0,
+     "site": 1993056
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 139,
+     "field": 4,
+     "site": 1993060
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 139,
+     "field": 8,
+     "site": 1993064
+    }
+   ]
+  },
+  {
+   "pointer": 10188636,
+   "before": "Nijo So",
+   "en": "Nijo So",
+   "size": 8,
+   "sha256": "5e50208fb519903d149148b93c0e45a8fbe5383c133292f2cbe6059f87e0a513",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 140,
+     "field": 0,
+     "site": 1993120
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 140,
+     "field": 4,
+     "site": 1993124
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 140,
+     "field": 8,
+     "site": 1993128
+    }
+   ]
+  },
+  {
+   "pointer": 10188627,
+   "before": "Kongo Jo",
+   "en": "Kongo Jo",
+   "size": 9,
+   "sha256": "a9cd2647a73e80efae334f398733475a616cef8a66a6a3480c93812a419eb863",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 141,
+     "field": 0,
+     "site": 1993184
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 141,
+     "field": 4,
+     "site": 1993188
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 141,
+     "field": 8,
+     "site": 1993192
+    }
+   ]
+  },
+  {
+   "pointer": 10188617,
+   "before": "Shoha Kyu",
+   "en": "Shoha Kyu",
+   "size": 10,
+   "sha256": "b2cbbb4cc7690ad6f8a72ad34cc79454f26de36d0b063a6b8696571148200e7e",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 142,
+     "field": 0,
+     "site": 1993248
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 142,
+     "field": 4,
+     "site": 1993252
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 142,
+     "field": 8,
+     "site": 1993256
+    }
+   ]
+  },
+  {
+   "pointer": 10188607,
+   "before": "Jaki Gama",
+   "en": "Jaki Gama",
+   "size": 10,
+   "sha256": "02bea2b01786f30b3d3920d77702aab8d9aa7046b63d1e958c3a416476897974",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 143,
+     "field": 0,
+     "site": 1993312
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 143,
+     "field": 4,
+     "site": 1993316
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 143,
+     "field": 8,
+     "site": 1993320
+    }
+   ]
+  },
+  {
+   "pointer": 10188596,
+   "before": "Kokuro Ken",
+   "en": "Kokuro Ken",
+   "size": 11,
+   "sha256": "cd0ab880bcafc5fd591bacef52e5480b1b35e5001d4d4ebb1902b064f9c63f01",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 144,
+     "field": 0,
+     "site": 1993376
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 144,
+     "field": 4,
+     "site": 1993380
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 144,
+     "field": 8,
+     "site": 1993384
+    }
+   ]
+  },
+  {
+   "pointer": 10188587,
+   "before": "Jaga Ken",
+   "en": "Jaga Ken",
+   "size": 9,
+   "sha256": "f121c26da58ffc86696bf35df1ca9febc274776c764d9e49e0e033de0c9dc7f3",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 145,
+     "field": 0,
+     "site": 1993440
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 145,
+     "field": 4,
+     "site": 1993444
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 145,
+     "field": 8,
+     "site": 1993448
+    }
+   ]
+  },
+  {
+   "pointer": 10120134,
+   "before": "Musoku Naginata",
+   "en": "Musoku Naginata",
+   "size": 16,
+   "sha256": "87821d66abd2d547513aa9f3273d516ff3d6169f6d7149e8bd3344e4d7bd7fe0",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 146,
+     "field": 0,
+     "site": 1993504
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 146,
+     "field": 4,
+     "site": 1993508
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 146,
+     "field": 8,
+     "site": 1993512
+    }
+   ]
+  },
+  {
+   "pointer": 10120117,
+   "before": "Loyalty to Arago",
+   "en": "Loyalty to Arago",
+   "size": 17,
+   "sha256": "ab73f4fb7801d843b68748d9e2a9c4c4035785c8e507bc7c865c6e094b00506d",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 147,
+     "field": 0,
+     "site": 1993568
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 147,
+     "field": 4,
+     "site": 1993572
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 147,
+     "field": 8,
+     "site": 1993576
+    }
+   ]
+  },
+  {
+   "pointer": 10188573,
+   "before": "Gou Retsu Ken",
+   "en": "Gou Retsu Ken",
+   "size": 14,
+   "sha256": "d6d5ce23c5e052b2791a0c4d682fbaeb3d6b0aaf579e602d8700be4ec860ccb6",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 148,
+     "field": 0,
+     "site": 1993632
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 148,
+     "field": 4,
+     "site": 1993636
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 148,
+     "field": 8,
+     "site": 1993640
+    }
+   ]
+  },
+  {
+   "pointer": 10120069,
+   "before": "Jewel of Life",
+   "en": "Jewel of Life",
+   "size": 14,
+   "sha256": "684c1ed490f4ba08e88849619ce7f0d19f8b74f21fcdbf16c14728f5e29fda59",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 149,
+     "field": 0,
+     "site": 1993696
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 149,
+     "field": 4,
+     "site": 1993700
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 149,
+     "field": 8,
+     "site": 1993704
+    }
+   ]
+  },
+  {
+   "pointer": 10120010,
+   "before": "Speed Down",
+   "en": "Speed Down",
+   "size": 11,
+   "sha256": "d4c4e08ff591957b0e1a61c0d92070db7e7e71aed665ab7b14d81fc7fa62ce02",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 150,
+     "field": 0,
+     "site": 1993760
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 150,
+     "field": 4,
+     "site": 1993764
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 150,
+     "field": 8,
+     "site": 1993768
+    }
+   ]
+  },
+  {
+   "pointer": 10119991,
+   "before": "Worse Speed & Cost",
+   "en": "Worse Speed & Cost",
+   "size": 19,
+   "sha256": "661c4fca9a9943a02e270d14b403b84d2d0f53947ca685fe1f14e4133039e288",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 151,
+     "field": 0,
+     "site": 1993824
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 151,
+     "field": 4,
+     "site": 1993828
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 151,
+     "field": 8,
+     "site": 1993832
+    }
+   ]
+  },
+  {
+   "pointer": 10119960,
+   "before": "Slower SP, Lower EN, Higher AT",
+   "en": "Slower SP, Lower EN, Higher AT",
+   "size": 31,
+   "sha256": "d6df672658d4bd1d0567dc779575f55b5d92c2967464eb7088a426e21a1b4a39",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 152,
+     "field": 0,
+     "site": 1993888
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 152,
+     "field": 4,
+     "site": 1993892
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 152,
+     "field": 8,
+     "site": 1993896
+    }
+   ]
+  },
+  {
+   "pointer": 10119936,
+   "before": "Short Range & Weakening",
+   "en": "Short Range & Weakening",
+   "size": 24,
+   "sha256": "c02183a41c1e55bb018425357e3d3350bab4efe574b607008215132a3570f8bb",
+   "refs": [
+    {
+     "table": "it_mchdev_info",
+     "row": 153,
+     "field": 0,
+     "site": 1993952
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 153,
+     "field": 4,
+     "site": 1993956
+    },
+    {
+     "table": "it_mchdev_info",
+     "row": 153,
+     "field": 8,
+     "site": 1993960
+    }
+   ]
+  },
+  {
+   "pointer": 10114172,
+   "before": "None",
+   "en": "None",
+   "size": 5,
+   "sha256": "a51ad9ee4c1a460069eb1e05d3a1ed269248ccad439b710ccc2095ab03bd169f",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 0,
+     "field": 0,
+     "site": 2063408
+    },
+    {
+     "table": "it_parts_info",
+     "row": 0,
+     "field": 4,
+     "site": 2063412
+    },
+    {
+     "table": "it_parts_info",
+     "row": 0,
+     "field": 8,
+     "site": 2063416
+    }
+   ]
+  },
+  {
+   "pointer": 10114178,
+   "before": "GT-B Parts",
+   "en": "GT-B Parts",
+   "size": 11,
+   "sha256": "3eb7d42068ca225282f25474debbd5b1facd5d34586ff22ee7524821bfcd3a84",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 1,
+     "field": 0,
+     "site": 2063440
+    },
+    {
+     "table": "it_parts_info",
+     "row": 1,
+     "field": 4,
+     "site": 2063444
+    },
+    {
+     "table": "it_parts_info",
+     "row": 1,
+     "field": 8,
+     "site": 2063448
+    }
+   ]
+  },
+  {
+   "pointer": 10114211,
+   "before": "GT-C Parts",
+   "en": "GT-C Parts",
+   "size": 11,
+   "sha256": "961bf179aa49ee827347bfbcce19875918f22b6ddae06cb17620685f989351ae",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 2,
+     "field": 0,
+     "site": 2063472
+    },
+    {
+     "table": "it_parts_info",
+     "row": 2,
+     "field": 4,
+     "site": 2063476
+    },
+    {
+     "table": "it_parts_info",
+     "row": 2,
+     "field": 8,
+     "site": 2063480
+    }
+   ]
+  },
+  {
+   "pointer": 10114244,
+   "before": "GT-D Parts",
+   "en": "GT-D Parts",
+   "size": 11,
+   "sha256": "4293baceae33f9f958c260031d546a6d83152f9f320e7878600f2fe6e53895a6",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 3,
+     "field": 0,
+     "site": 2063504
+    },
+    {
+     "table": "it_parts_info",
+     "row": 3,
+     "field": 4,
+     "site": 2063508
+    },
+    {
+     "table": "it_parts_info",
+     "row": 3,
+     "field": 8,
+     "site": 2063512
+    }
+   ]
+  },
+  {
+   "pointer": 10114277,
+   "before": "GT-E Parts",
+   "en": "GT-E Parts",
+   "size": 11,
+   "sha256": "6b986a5a676cc4d185092cc55fedc03ad77f4ddbefcb6b525dd1ff5cd4ba34f3",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 4,
+     "field": 0,
+     "site": 2063536
+    },
+    {
+     "table": "it_parts_info",
+     "row": 4,
+     "field": 4,
+     "site": 2063540
+    },
+    {
+     "table": "it_parts_info",
+     "row": 4,
+     "field": 8,
+     "site": 2063544
+    }
+   ]
+  },
+  {
+   "pointer": 10114310,
+   "before": "\u3010GT-A Parts\u3011",
+   "en": "\u3010GT-A Parts\u3011",
+   "size": 15,
+   "sha256": "71432d32c854044b6fe20e6ae3c87d85d964b1e7fc1d1237c6fc1274d0bf0453",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 5,
+     "field": 0,
+     "site": 2063568
+    },
+    {
+     "table": "it_parts_info",
+     "row": 5,
+     "field": 4,
+     "site": 2063572
+    },
+    {
+     "table": "it_parts_info",
+     "row": 5,
+     "field": 8,
+     "site": 2063576
+    },
+    {
+     "table": "it_parts_info",
+     "row": 24,
+     "field": 0,
+     "site": 2064176
+    },
+    {
+     "table": "it_parts_info",
+     "row": 24,
+     "field": 4,
+     "site": 2064180
+    },
+    {
+     "table": "it_parts_info",
+     "row": 24,
+     "field": 8,
+     "site": 2064184
+    },
+    {
+     "table": "it_parts_info",
+     "row": 25,
+     "field": 0,
+     "site": 2064208
+    },
+    {
+     "table": "it_parts_info",
+     "row": 25,
+     "field": 4,
+     "site": 2064212
+    },
+    {
+     "table": "it_parts_info",
+     "row": 25,
+     "field": 8,
+     "site": 2064216
+    }
+   ]
+  },
+  {
+   "pointer": 10114348,
+   "before": "GT-G Parts",
+   "en": "GT-G Parts",
+   "size": 11,
+   "sha256": "0c169fd98d02d47ad0b89b6bd7fca9a62d58a5f79d2bc8787eca2d7b9cf56ac3",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 6,
+     "field": 0,
+     "site": 2063600
+    },
+    {
+     "table": "it_parts_info",
+     "row": 6,
+     "field": 4,
+     "site": 2063604
+    },
+    {
+     "table": "it_parts_info",
+     "row": 6,
+     "field": 8,
+     "site": 2063608
+    }
+   ]
+  },
+  {
+   "pointer": 10114381,
+   "before": "GT-H Parts",
+   "en": "GT-H Parts",
+   "size": 11,
+   "sha256": "93a5574b522e25b48b6ff4d7391c9a5563702fd7f282a738c46b9b01b9fc7529",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 7,
+     "field": 0,
+     "site": 2063632
+    },
+    {
+     "table": "it_parts_info",
+     "row": 7,
+     "field": 4,
+     "site": 2063636
+    },
+    {
+     "table": "it_parts_info",
+     "row": 7,
+     "field": 8,
+     "site": 2063640
+    }
+   ]
+  },
+  {
+   "pointer": 10114414,
+   "before": "GT-I Parts",
+   "en": "GT-I Parts",
+   "size": 11,
+   "sha256": "fc28cdc4a9acb1242de1424817545935bf82b73f830b06022ddc44b4190b884c",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 8,
+     "field": 0,
+     "site": 2063664
+    },
+    {
+     "table": "it_parts_info",
+     "row": 8,
+     "field": 4,
+     "site": 2063668
+    },
+    {
+     "table": "it_parts_info",
+     "row": 8,
+     "field": 8,
+     "site": 2063672
+    }
+   ]
+  },
+  {
+   "pointer": 10114447,
+   "before": "GT-J Parts",
+   "en": "GT-J Parts",
+   "size": 11,
+   "sha256": "d96fd2d4feeb557b360ee14ad5cffdab9a75219899d3ab64507db160bb59b65c",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 9,
+     "field": 0,
+     "site": 2063696
+    },
+    {
+     "table": "it_parts_info",
+     "row": 9,
+     "field": 4,
+     "site": 2063700
+    },
+    {
+     "table": "it_parts_info",
+     "row": 9,
+     "field": 8,
+     "site": 2063704
+    }
+   ]
+  },
+  {
+   "pointer": 10114480,
+   "before": "GT-K Parts",
+   "en": "GT-K Parts",
+   "size": 11,
+   "sha256": "38290b297d63db6445e235ec119a3f2b9691b8e5ee8b19cced7d2c4a151757ef",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 10,
+     "field": 0,
+     "site": 2063728
+    },
+    {
+     "table": "it_parts_info",
+     "row": 10,
+     "field": 4,
+     "site": 2063732
+    },
+    {
+     "table": "it_parts_info",
+     "row": 10,
+     "field": 8,
+     "site": 2063736
+    }
+   ]
+  },
+  {
+   "pointer": 10114513,
+   "before": "GT-L Parts",
+   "en": "GT-L Parts",
+   "size": 11,
+   "sha256": "835ac626c5d1c5517ece68b8332e2aa1d4db4fc4690f47e2182ee9d704771fcd",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 11,
+     "field": 0,
+     "site": 2063760
+    },
+    {
+     "table": "it_parts_info",
+     "row": 11,
+     "field": 4,
+     "site": 2063764
+    },
+    {
+     "table": "it_parts_info",
+     "row": 11,
+     "field": 8,
+     "site": 2063768
+    }
+   ]
+  },
+  {
+   "pointer": 10114546,
+   "before": "GT-M Parts",
+   "en": "GT-M Parts",
+   "size": 11,
+   "sha256": "9e2d40c7b2ac5029002584d94a0fc9602a7dd6dbaaba4038e314b88382ba6a2e",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 12,
+     "field": 0,
+     "site": 2063792
+    },
+    {
+     "table": "it_parts_info",
+     "row": 12,
+     "field": 4,
+     "site": 2063796
+    },
+    {
+     "table": "it_parts_info",
+     "row": 12,
+     "field": 8,
+     "site": 2063800
+    }
+   ]
+  },
+  {
+   "pointer": 10114579,
+   "before": "GT-N Parts",
+   "en": "GT-N Parts",
+   "size": 11,
+   "sha256": "15abeb10bb8a00bd6208a30ae265f5f42b15e2f24348c4792326b661cd1c5de6",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 13,
+     "field": 0,
+     "site": 2063824
+    },
+    {
+     "table": "it_parts_info",
+     "row": 13,
+     "field": 4,
+     "site": 2063828
+    },
+    {
+     "table": "it_parts_info",
+     "row": 13,
+     "field": 8,
+     "site": 2063832
+    }
+   ]
+  },
+  {
+   "pointer": 10114612,
+   "before": "GT-O Parts",
+   "en": "GT-O Parts",
+   "size": 11,
+   "sha256": "e9f624140aa27b584ab6fced73e5e41ccf8e631750130974f3fcb0a6ad74d4ae",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 14,
+     "field": 0,
+     "site": 2063856
+    },
+    {
+     "table": "it_parts_info",
+     "row": 14,
+     "field": 4,
+     "site": 2063860
+    },
+    {
+     "table": "it_parts_info",
+     "row": 14,
+     "field": 8,
+     "site": 2063864
+    }
+   ]
+  },
+  {
+   "pointer": 10114645,
+   "before": "GT-P Parts",
+   "en": "GT-P Parts",
+   "size": 11,
+   "sha256": "93cd8a3a0ca35f941ff6dbf9132e5ca477380fb675283fc7bef80259ece6aafd",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 15,
+     "field": 0,
+     "site": 2063888
+    },
+    {
+     "table": "it_parts_info",
+     "row": 15,
+     "field": 4,
+     "site": 2063892
+    },
+    {
+     "table": "it_parts_info",
+     "row": 15,
+     "field": 8,
+     "site": 2063896
+    }
+   ]
+  },
+  {
+   "pointer": 10114678,
+   "before": "GT-Q Parts",
+   "en": "GT-Q Parts",
+   "size": 11,
+   "sha256": "4f18278613fe82e1980735ec2137c95686b6bf143c50a580684f082db38e1cf7",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 16,
+     "field": 0,
+     "site": 2063920
+    },
+    {
+     "table": "it_parts_info",
+     "row": 16,
+     "field": 4,
+     "site": 2063924
+    },
+    {
+     "table": "it_parts_info",
+     "row": 16,
+     "field": 8,
+     "site": 2063928
+    }
+   ]
+  },
+  {
+   "pointer": 10114711,
+   "before": "GT-R Parts",
+   "en": "GT-R Parts",
+   "size": 11,
+   "sha256": "c9de751faf29e805ee4e415862a09187d30ce44a1e4bdc8f4a4e15a6c0160e11",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 17,
+     "field": 0,
+     "site": 2063952
+    },
+    {
+     "table": "it_parts_info",
+     "row": 17,
+     "field": 4,
+     "site": 2063956
+    },
+    {
+     "table": "it_parts_info",
+     "row": 17,
+     "field": 8,
+     "site": 2063960
+    }
+   ]
+  },
+  {
+   "pointer": 10114744,
+   "before": "GT-S Parts",
+   "en": "GT-S Parts",
+   "size": 11,
+   "sha256": "ad8fa0fbda42877f4a80f8b18be9d0ff316116be6fbd97a9f9eb4f91a7ad273d",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 18,
+     "field": 0,
+     "site": 2063984
+    },
+    {
+     "table": "it_parts_info",
+     "row": 18,
+     "field": 4,
+     "site": 2063988
+    },
+    {
+     "table": "it_parts_info",
+     "row": 18,
+     "field": 8,
+     "site": 2063992
+    }
+   ]
+  },
+  {
+   "pointer": 10114777,
+   "before": "GT-T Parts",
+   "en": "GT-T Parts",
+   "size": 11,
+   "sha256": "48250b2af109e2811b683dd42103f9308cd3b9c872c830dacebe6b6e78330b40",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 19,
+     "field": 0,
+     "site": 2064016
+    },
+    {
+     "table": "it_parts_info",
+     "row": 19,
+     "field": 4,
+     "site": 2064020
+    },
+    {
+     "table": "it_parts_info",
+     "row": 19,
+     "field": 8,
+     "site": 2064024
+    }
+   ]
+  },
+  {
+   "pointer": 10114810,
+   "before": "GT-U Parts",
+   "en": "GT-U Parts",
+   "size": 11,
+   "sha256": "c608b61a3df1376f99fbabafd1897bdf21cf5b78e5b87c62c7b83a2dd35b4eb5",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 20,
+     "field": 0,
+     "site": 2064048
+    },
+    {
+     "table": "it_parts_info",
+     "row": 20,
+     "field": 4,
+     "site": 2064052
+    },
+    {
+     "table": "it_parts_info",
+     "row": 20,
+     "field": 8,
+     "site": 2064056
+    }
+   ]
+  },
+  {
+   "pointer": 10114843,
+   "before": "GT-V Parts",
+   "en": "GT-V Parts",
+   "size": 11,
+   "sha256": "2c517cb9aa3305b8612fec3bb3a00a6f01568d2db1546437a774cb006349bffd",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 21,
+     "field": 0,
+     "site": 2064080
+    },
+    {
+     "table": "it_parts_info",
+     "row": 21,
+     "field": 4,
+     "site": 2064084
+    },
+    {
+     "table": "it_parts_info",
+     "row": 21,
+     "field": 8,
+     "site": 2064088
+    }
+   ]
+  },
+  {
+   "pointer": 10114876,
+   "before": "GT-W Parts",
+   "en": "GT-W Parts",
+   "size": 11,
+   "sha256": "92cebb40be1b05e7f9295db7c436970c912b07042e5bc91c444a8b57714a80e7",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 22,
+     "field": 0,
+     "site": 2064112
+    },
+    {
+     "table": "it_parts_info",
+     "row": 22,
+     "field": 4,
+     "site": 2064116
+    },
+    {
+     "table": "it_parts_info",
+     "row": 22,
+     "field": 8,
+     "site": 2064120
+    }
+   ]
+  },
+  {
+   "pointer": 10114909,
+   "before": "GT-X Parts",
+   "en": "GT-X Parts",
+   "size": 11,
+   "sha256": "cacc3be17cdbdbda5d3d9045901bca3b3d1b2de78218b498808bc7c61d042843",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 23,
+     "field": 0,
+     "site": 2064144
+    },
+    {
+     "table": "it_parts_info",
+     "row": 23,
+     "field": 4,
+     "site": 2064148
+    },
+    {
+     "table": "it_parts_info",
+     "row": 23,
+     "field": 8,
+     "site": 2064152
+    }
+   ]
+  },
+  {
+   "pointer": 10114942,
+   "before": "Dunbine Sho Custom",
+   "en": "Dunbine Sho Custom",
+   "size": 19,
+   "sha256": "2227cdde45a8ac79bee792e3eeea337f444edd0a0d82a1404f7b19dc2f145905",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 26,
+     "field": 0,
+     "site": 2064240
+    },
+    {
+     "table": "it_parts_info",
+     "row": 26,
+     "field": 4,
+     "site": 2064244
+    },
+    {
+     "table": "it_parts_info",
+     "row": 26,
+     "field": 8,
+     "site": 2064248
+    }
+   ]
+  },
+  {
+   "pointer": 10114993,
+   "before": "Dunbine Todd Custom",
+   "en": "Dunbine Todd Custom",
+   "size": 20,
+   "sha256": "9b0ca08bb0d6397c660689a83f41a3716af033ec6a1489cf7800bcc74899a675",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 27,
+     "field": 0,
+     "site": 2064272
+    },
+    {
+     "table": "it_parts_info",
+     "row": 27,
+     "field": 4,
+     "site": 2064276
+    },
+    {
+     "table": "it_parts_info",
+     "row": 27,
+     "field": 8,
+     "site": 2064280
+    }
+   ]
+  },
+  {
+   "pointer": 10115046,
+   "before": "Billbine Standard Colors",
+   "en": "Billbine Standard Colors",
+   "size": 25,
+   "sha256": "db204c724ae083d0e33ba3c560eff24fe2363b3e09483a75419e0ad47fc49802",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 28,
+     "field": 0,
+     "site": 2064304
+    },
+    {
+     "table": "it_parts_info",
+     "row": 28,
+     "field": 4,
+     "site": 2064308
+    },
+    {
+     "table": "it_parts_info",
+     "row": 28,
+     "field": 8,
+     "site": 2064312
+    }
+   ]
+  },
+  {
+   "pointer": 10115097,
+   "before": "Billbine Camouflage Colors",
+   "en": "Billbine Camouflage Colors",
+   "size": 27,
+   "sha256": "a06a425b979a315486032fa30907c240fd40fded98d2e3b959f1309fb2a27dc5",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 29,
+     "field": 0,
+     "site": 2064336
+    },
+    {
+     "table": "it_parts_info",
+     "row": 29,
+     "field": 4,
+     "site": 2064340
+    },
+    {
+     "table": "it_parts_info",
+     "row": 29,
+     "field": 8,
+     "site": 2064344
+    }
+   ]
+  },
+  {
+   "pointer": 10115124,
+   "before": "Drumlo Upgrade Parts",
+   "en": "Drumlo Upgrade Parts",
+   "size": 21,
+   "sha256": "b9790668bdb54eb22d082f5713f039ca0dad1bb3290d06831b1ccc2466c11e2b",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 30,
+     "field": 0,
+     "site": 2064368
+    },
+    {
+     "table": "it_parts_info",
+     "row": 30,
+     "field": 4,
+     "site": 2064372
+    },
+    {
+     "table": "it_parts_info",
+     "row": 30,
+     "field": 8,
+     "site": 2064376
+    }
+   ]
+  },
+  {
+   "pointer": 10115190,
+   "before": "\u3010Drumlo Todd Parts\u3011",
+   "en": "\u3010Drumlo Todd Parts\u3011",
+   "size": 22,
+   "sha256": "f4ca90ccf7bdaa5d73ec35dadeaed5871a224ac42b39982983187fee0fb4c613",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 31,
+     "field": 0,
+     "site": 2064400
+    },
+    {
+     "table": "it_parts_info",
+     "row": 31,
+     "field": 4,
+     "site": 2064404
+    },
+    {
+     "table": "it_parts_info",
+     "row": 31,
+     "field": 8,
+     "site": 2064408
+    }
+   ]
+  },
+  {
+   "pointer": 10115262,
+   "before": "Zwarth Black Knight Parts",
+   "en": "Zwarth Black Knight Parts",
+   "size": 26,
+   "sha256": "b1789081ab2722e34ef280713ba73b5b854d56507ac93d2c7c7af6b5fb6d73a5",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 32,
+     "field": 0,
+     "site": 2064432
+    },
+    {
+     "table": "it_parts_info",
+     "row": 32,
+     "field": 4,
+     "site": 2064436
+    },
+    {
+     "table": "it_parts_info",
+     "row": 32,
+     "field": 8,
+     "site": 2064440
+    }
+   ]
+  },
+  {
+   "pointer": 10115325,
+   "before": "Botune Zelerna Parts",
+   "en": "Botune Zelerna Parts",
+   "size": 21,
+   "sha256": "dda0be48a6219daccc0846826a2dfca1f007a0340ad86dc93848cd0f2b3a2996",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 33,
+     "field": 0,
+     "site": 2064464
+    },
+    {
+     "table": "it_parts_info",
+     "row": 33,
+     "field": 4,
+     "site": 2064468
+    },
+    {
+     "table": "it_parts_info",
+     "row": 33,
+     "field": 8,
+     "site": 2064472
+    }
+   ]
+  },
+  {
+   "pointer": 10115388,
+   "before": "Botune Foizon Parts",
+   "en": "Botune Foizon Parts",
+   "size": 20,
+   "sha256": "26e4ec137eebf35317d7384bd49e09219efcecf2b8a2d644b1a34eecc4a686f7",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 34,
+     "field": 0,
+     "site": 2064496
+    },
+    {
+     "table": "it_parts_info",
+     "row": 34,
+     "field": 4,
+     "site": 2064500
+    },
+    {
+     "table": "it_parts_info",
+     "row": 34,
+     "field": 8,
+     "site": 2064504
+    }
+   ]
+  },
+  {
+   "pointer": 10115449,
+   "before": "Botune Royal Guard Parts",
+   "en": "Botune Royal Guard Parts",
+   "size": 25,
+   "sha256": "527f1c44b10d93708b3896807a613e5a73c6a3969d92d94eeadef1808d9d2d7b",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 35,
+     "field": 0,
+     "site": 2064528
+    },
+    {
+     "table": "it_parts_info",
+     "row": 35,
+     "field": 4,
+     "site": 2064532
+    },
+    {
+     "table": "it_parts_info",
+     "row": 35,
+     "field": 8,
+     "site": 2064536
+    }
+   ]
+  },
+  {
+   "pointer": 10115534,
+   "before": "Allone Mizun-Spec Parts",
+   "en": "Allone Mizun-Spec Parts",
+   "size": 24,
+   "sha256": "a7ac57208eee1ab2d7e255e7fc0662dd494565bcf220cf46a6630fb080eae329",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 36,
+     "field": 0,
+     "site": 2064560
+    },
+    {
+     "table": "it_parts_info",
+     "row": 36,
+     "field": 4,
+     "site": 2064564
+    },
+    {
+     "table": "it_parts_info",
+     "row": 36,
+     "field": 8,
+     "site": 2064568
+    }
+   ]
+  },
+  {
+   "pointer": 10115590,
+   "before": "Allone Military Parts",
+   "en": "Allone Military Parts",
+   "size": 22,
+   "sha256": "7585598655a5e070a740081bde2ebcc04ccd92c74be4c371ebdab65cdf0a290c",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 37,
+     "field": 0,
+     "site": 2064592
+    },
+    {
+     "table": "it_parts_info",
+     "row": 37,
+     "field": 4,
+     "site": 2064596
+    },
+    {
+     "table": "it_parts_info",
+     "row": 37,
+     "field": 8,
+     "site": 2064600
+    }
+   ]
+  },
+  {
+   "pointer": 10115649,
+   "before": "Allone Custom Parts",
+   "en": "Allone Custom Parts",
+   "size": 20,
+   "sha256": "84dda35300edee747d1d53ec7352075acae674285df4324e197f49e54c868d19",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 38,
+     "field": 0,
+     "site": 2064624
+    },
+    {
+     "table": "it_parts_info",
+     "row": 38,
+     "field": 4,
+     "site": 2064628
+    },
+    {
+     "table": "it_parts_info",
+     "row": 38,
+     "field": 8,
+     "site": 2064632
+    }
+   ]
+  },
+  {
+   "pointer": 10115708,
+   "before": "Gorongo Parts",
+   "en": "Gorongo Parts",
+   "size": 14,
+   "sha256": "34a765b5c334752acd76008fa8fa2426f18714dd049e64486b524a45db516fec",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 39,
+     "field": 0,
+     "site": 2064656
+    },
+    {
+     "table": "it_parts_info",
+     "row": 39,
+     "field": 4,
+     "site": 2064660
+    },
+    {
+     "table": "it_parts_info",
+     "row": 39,
+     "field": 8,
+     "site": 2064664
+    }
+   ]
+  },
+  {
+   "pointer": 10115749,
+   "before": "S-Gorongo Parts",
+   "en": "S-Gorongo Parts",
+   "size": 16,
+   "sha256": "99a345c5f66c5852c95d787d9a3e4bdca6736b720800464dbef6527749b28521",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 40,
+     "field": 0,
+     "site": 2064688
+    },
+    {
+     "table": "it_parts_info",
+     "row": 40,
+     "field": 4,
+     "site": 2064692
+    },
+    {
+     "table": "it_parts_info",
+     "row": 40,
+     "field": 8,
+     "site": 2064696
+    }
+   ]
+  },
+  {
+   "pointer": 10115819,
+   "before": "Greia Custom Parts",
+   "en": "Greia Custom Parts",
+   "size": 19,
+   "sha256": "e06489a6f8e99d766797291c8e83d05426a29dfa6ed0a342ef3fa7af0555f1af",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 41,
+     "field": 0,
+     "site": 2064720
+    },
+    {
+     "table": "it_parts_info",
+     "row": 41,
+     "field": 4,
+     "site": 2064724
+    },
+    {
+     "table": "it_parts_info",
+     "row": 41,
+     "field": 8,
+     "site": 2064728
+    }
+   ]
+  },
+  {
+   "pointer": 10115876,
+   "before": "Bal-Bud Royal Guard Division Parts",
+   "en": "Bal-Bud Royal Guard Division Parts",
+   "size": 35,
+   "sha256": "34f8ade2dd57b58fc4312fda6fb0fb51f8003e79185c610447c999e6dd637fe4",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 42,
+     "field": 0,
+     "site": 2064752
+    },
+    {
+     "table": "it_parts_info",
+     "row": 42,
+     "field": 4,
+     "site": 2064756
+    },
+    {
+     "table": "it_parts_info",
+     "row": 42,
+     "field": 8,
+     "site": 2064760
+    }
+   ]
+  },
+  {
+   "pointer": 10115957,
+   "before": "Titans Colors \uff10\uff11",
+   "en": "Titans Colors 01",
+   "size": 19,
+   "sha256": "9667d19dd4b7e7500cad10d318c032b3bf652acd899ac24cb567d23fd30aaffb",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 43,
+     "field": 0,
+     "site": 2064784
+    },
+    {
+     "table": "it_parts_info",
+     "row": 43,
+     "field": 4,
+     "site": 2064788
+    },
+    {
+     "table": "it_parts_info",
+     "row": 43,
+     "field": 8,
+     "site": 2064792
+    }
+   ]
+  },
+  {
+   "pointer": 10116014,
+   "before": "Titans Colors \uff10\uff12",
+   "en": "Titans Colors 02",
+   "size": 19,
+   "sha256": "8328650656d851ffdc7da722d85fed8c60d885a76eedbd4333fcc100aa4a1334",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 44,
+     "field": 0,
+     "site": 2064816
+    },
+    {
+     "table": "it_parts_info",
+     "row": 44,
+     "field": 4,
+     "site": 2064820
+    },
+    {
+     "table": "it_parts_info",
+     "row": 44,
+     "field": 8,
+     "site": 2064824
+    }
+   ]
+  },
+  {
+   "pointer": 10116071,
+   "before": "Titans Colors \uff10\uff13",
+   "en": "Titans Colors 03",
+   "size": 19,
+   "sha256": "b63e928e386badabeedfa65889629c9b5059f4515b793a379884cf6bdbea3820",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 45,
+     "field": 0,
+     "site": 2064848
+    },
+    {
+     "table": "it_parts_info",
+     "row": 45,
+     "field": 4,
+     "site": 2064852
+    },
+    {
+     "table": "it_parts_info",
+     "row": 45,
+     "field": 8,
+     "site": 2064856
+    }
+   ]
+  },
+  {
+   "pointer": 10116128,
+   "before": "\uff10\uff11 AEUG Colors",
+   "en": "01 AEUG Colors",
+   "size": 17,
+   "sha256": "eda6198eac104f6477730df9c1bb5023f6b7071af4c6077d5a79fadb44451c44",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 46,
+     "field": 0,
+     "site": 2064880
+    },
+    {
+     "table": "it_parts_info",
+     "row": 46,
+     "field": 4,
+     "site": 2064884
+    },
+    {
+     "table": "it_parts_info",
+     "row": 46,
+     "field": 8,
+     "site": 2064888
+    }
+   ]
+  },
+  {
+   "pointer": 10116183,
+   "before": "\uff10\uff12 AEUG Colors",
+   "en": "02 AEUG Colors",
+   "size": 17,
+   "sha256": "fb41bd5116055e73dff462d3c2ed6ba16c26c8fa6b8d0c7d8b3662d3d5216193",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 47,
+     "field": 0,
+     "site": 2064912
+    },
+    {
+     "table": "it_parts_info",
+     "row": 47,
+     "field": 4,
+     "site": 2064916
+    },
+    {
+     "table": "it_parts_info",
+     "row": 47,
+     "field": 8,
+     "site": 2064920
+    }
+   ]
+  },
+  {
+   "pointer": 10116238,
+   "before": "\uff10\uff13 AEUG Colors",
+   "en": "03 AEUG Colors",
+   "size": 17,
+   "sha256": "c059a7ab553ce69aef8a9fb9acccc4cb6e7553f14e923e8f2c4131af0c823cd1",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 48,
+     "field": 0,
+     "site": 2064944
+    },
+    {
+     "table": "it_parts_info",
+     "row": 48,
+     "field": 4,
+     "site": 2064948
+    },
+    {
+     "table": "it_parts_info",
+     "row": 48,
+     "field": 8,
+     "site": 2064952
+    }
+   ]
+  },
+  {
+   "pointer": 10116293,
+   "before": "Rick Dias (Late Version)",
+   "en": "Rick Dias (Late Version)",
+   "size": 25,
+   "sha256": "d15d036a48de20dc7f8356dfeab9890e189441ccab00f8ab02031fb7e32b9b2d",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 49,
+     "field": 0,
+     "site": 2064976
+    },
+    {
+     "table": "it_parts_info",
+     "row": 49,
+     "field": 4,
+     "site": 2064980
+    },
+    {
+     "table": "it_parts_info",
+     "row": 49,
+     "field": 8,
+     "site": 2064984
+    }
+   ]
+  },
+  {
+   "pointer": 10116356,
+   "before": "ATM\uff10\uff19-LC Parts",
+   "en": "ATM09-LC Parts",
+   "size": 17,
+   "sha256": "a53abd483a74cf8b8a0ef95eb96dc9168318c77fdeda7ff9feb753c9c5def702",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 50,
+     "field": 0,
+     "site": 2065008
+    },
+    {
+     "table": "it_parts_info",
+     "row": 50,
+     "field": 4,
+     "site": 2065012
+    },
+    {
+     "table": "it_parts_info",
+     "row": 50,
+     "field": 8,
+     "site": 2065016
+    }
+   ]
+  },
+  {
+   "pointer": 10116414,
+   "before": "ATM\uff10\uff19-RSC Parts",
+   "en": "ATM09-RSC Parts",
+   "size": 18,
+   "sha256": "b8e5558223d44424dcca084d669c05cce9665b05f215951bec96cfc3c45b6aea",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 51,
+     "field": 0,
+     "site": 2065040
+    },
+    {
+     "table": "it_parts_info",
+     "row": 51,
+     "field": 4,
+     "site": 2065044
+    },
+    {
+     "table": "it_parts_info",
+     "row": 51,
+     "field": 8,
+     "site": 2065048
+    }
+   ]
+  },
+  {
+   "pointer": 10116466,
+   "before": "Odon Survey Team Spec Parts",
+   "en": "Odon Survey Team Spec Parts",
+   "size": 28,
+   "sha256": "f3693d8abe8431204bb96d7f43ffdef845656ec2d700a6e0cfab82429edd6b9d",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 52,
+     "field": 0,
+     "site": 2065072
+    },
+    {
+     "table": "it_parts_info",
+     "row": 52,
+     "field": 4,
+     "site": 2065076
+    },
+    {
+     "table": "it_parts_info",
+     "row": 52,
+     "field": 8,
+     "site": 2065080
+    }
+   ]
+  },
+  {
+   "pointer": 10116547,
+   "before": "AT\uff10\uff19-DD Parts",
+   "en": "AT09-DD Parts",
+   "size": 16,
+   "sha256": "ebb1a1a1eef5c656d5d5ff407d0d2f30913c1717ce11d7f31b2588fa32747b57",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 53,
+     "field": 0,
+     "site": 2065104
+    },
+    {
+     "table": "it_parts_info",
+     "row": 53,
+     "field": 4,
+     "site": 2065108
+    },
+    {
+     "table": "it_parts_info",
+     "row": 53,
+     "field": 8,
+     "site": 2065112
+    }
+   ]
+  },
+  {
+   "pointer": 10116597,
+   "before": "X\u30fbATH-P-RSC Parts",
+   "en": "X\u30fbATH-P-RSC Parts",
+   "size": 19,
+   "sha256": "9f0fb6f0b33314cb61f211ca8ea0dd0a45c08e4687ee5827541a0838f21001b0",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 54,
+     "field": 0,
+     "site": 2065136
+    },
+    {
+     "table": "it_parts_info",
+     "row": 54,
+     "field": 4,
+     "site": 2065140
+    },
+    {
+     "table": "it_parts_info",
+     "row": 54,
+     "field": 8,
+     "site": 2065144
+    }
+   ]
+  },
+  {
+   "pointer": 10116654,
+   "before": "X\u30fbATH-\uff10\uff12-DT Parts",
+   "en": "X\u30fbATH-02-DT Parts",
+   "size": 21,
+   "sha256": "02361594b0a53987939311b86ec38e0bf978591c4448d10b7006e9f3e1bd6018",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 55,
+     "field": 0,
+     "site": 2065168
+    },
+    {
+     "table": "it_parts_info",
+     "row": 55,
+     "field": 4,
+     "site": 2065172
+    },
+    {
+     "table": "it_parts_info",
+     "row": 55,
+     "field": 8,
+     "site": 2065176
+    }
+   ]
+  },
+  {
+   "pointer": 10116712,
+   "before": "BATM-\uff10\uff13/GR Parts",
+   "en": "BATM-03/GR Parts",
+   "size": 19,
+   "sha256": "5e9bf54f3a750d12ab92871884b8aa58b11d0080a7f416530be7c5eee71102de",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 56,
+     "field": 0,
+     "site": 2065200
+    },
+    {
+     "table": "it_parts_info",
+     "row": 56,
+     "field": 4,
+     "site": 2065204
+    },
+    {
+     "table": "it_parts_info",
+     "row": 56,
+     "field": 8,
+     "site": 2065208
+    }
+   ]
+  },
+  {
+   "pointer": 10116761,
+   "before": "BATM-\uff10\uff13/GR Upgrade Parts",
+   "en": "BATM-03/GR Upgrade Parts",
+   "size": 27,
+   "sha256": "8df0651cd6b2ad653011f7f2635137ac5d0a4f3ae5da30bbfdf1ab8c41c422f9",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 57,
+     "field": 0,
+     "site": 2065232
+    },
+    {
+     "table": "it_parts_info",
+     "row": 57,
+     "field": 4,
+     "site": 2065236
+    },
+    {
+     "table": "it_parts_info",
+     "row": 57,
+     "field": 8,
+     "site": 2065240
+    }
+   ]
+  },
+  {
+   "pointer": 10116839,
+   "before": "Galient Heavy Armor Kai Parts",
+   "en": "Galient Heavy Armor Kai Parts",
+   "size": 30,
+   "sha256": "6e6fe08259aeeeb414a81f35b9d191143e9dc43702c99a3fbf93686484450f4c",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 58,
+     "field": 0,
+     "site": 2065264
+    },
+    {
+     "table": "it_parts_info",
+     "row": 58,
+     "field": 4,
+     "site": 2065268
+    },
+    {
+     "table": "it_parts_info",
+     "row": 58,
+     "field": 8,
+     "site": 2065272
+    }
+   ]
+  },
+  {
+   "pointer": 10116913,
+   "before": "Promaxis Zee Parts",
+   "en": "Promaxis Zee Parts",
+   "size": 19,
+   "sha256": "af2e1cf68049ab25f736837004a4b00a9ea3ff345d9eaa6a04172ca3a4235fe8",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 59,
+     "field": 0,
+     "site": 2065296
+    },
+    {
+     "table": "it_parts_info",
+     "row": 59,
+     "field": 4,
+     "site": 2065300
+    },
+    {
+     "table": "it_parts_info",
+     "row": 59,
+     "field": 8,
+     "site": 2065304
+    }
+   ]
+  },
+  {
+   "pointer": 10116966,
+   "before": "Promaxis Wee Parts",
+   "en": "Promaxis Wee Parts",
+   "size": 19,
+   "sha256": "73db5eb0f64e35e105dd49fe4bf29666f020794b078e5c6fb4758493d1ed7219",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 60,
+     "field": 0,
+     "site": 2065328
+    },
+    {
+     "table": "it_parts_info",
+     "row": 60,
+     "field": 4,
+     "site": 2065332
+    },
+    {
+     "table": "it_parts_info",
+     "row": 60,
+     "field": 8,
+     "site": 2065336
+    }
+   ]
+  },
+  {
+   "pointer": 10117019,
+   "before": "Wingal Zee Parts",
+   "en": "Wingal Zee Parts",
+   "size": 17,
+   "sha256": "5f3752ec8004c488a3ba7a86ebd653e50669366480083e1ec04b3d3eae89298b",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 61,
+     "field": 0,
+     "site": 2065360
+    },
+    {
+     "table": "it_parts_info",
+     "row": 61,
+     "field": 4,
+     "site": 2065364
+    },
+    {
+     "table": "it_parts_info",
+     "row": 61,
+     "field": 8,
+     "site": 2065368
+    }
+   ]
+  },
+  {
+   "pointer": 10117066,
+   "before": "OZ Custom Parts",
+   "en": "OZ Custom Parts",
+   "size": 16,
+   "sha256": "4bd85ac40c311215488a4468d6a549c5af4e4901a1f71bd9e5d9d57a5a53c955",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 62,
+     "field": 0,
+     "site": 2065392
+    },
+    {
+     "table": "it_parts_info",
+     "row": 62,
+     "field": 4,
+     "site": 2065396
+    },
+    {
+     "table": "it_parts_info",
+     "row": 62,
+     "field": 8,
+     "site": 2065400
+    }
+   ]
+  },
+  {
+   "pointer": 10117118,
+   "before": "Commander Unit Parts",
+   "en": "Commander Unit Parts",
+   "size": 21,
+   "sha256": "4a60cf9c3076664b0c77887befea45b3c3d9d235d9793d0379c0419394e13a83",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 63,
+     "field": 0,
+     "site": 2065424
+    },
+    {
+     "table": "it_parts_info",
+     "row": 63,
+     "field": 4,
+     "site": 2065428
+    },
+    {
+     "table": "it_parts_info",
+     "row": 63,
+     "field": 8,
+     "site": 2065432
+    }
+   ]
+  },
+  {
+   "pointer": 10117182,
+   "before": "\u3010Xabungle \uff11\u3011",
+   "en": "\u3010Xabungle 1\u3011",
+   "size": 16,
+   "sha256": "1e56df66cb66c3a751df322b61d1800ac9823a947f1a5d07a198427804d10090",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 64,
+     "field": 0,
+     "site": 2065456
+    },
+    {
+     "table": "it_parts_info",
+     "row": 64,
+     "field": 4,
+     "site": 2065460
+    },
+    {
+     "table": "it_parts_info",
+     "row": 64,
+     "field": 8,
+     "site": 2065464
+    }
+   ]
+  },
+  {
+   "pointer": 10117228,
+   "before": "\u3010Xabungle \uff12\u3011",
+   "en": "\u3010Xabungle 2\u3011",
+   "size": 16,
+   "sha256": "f597cfdf92232caca1c7ed4eca501113cfe6e840a67bc2d52b7549d07fe0a1e9",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 65,
+     "field": 0,
+     "site": 2065488
+    },
+    {
+     "table": "it_parts_info",
+     "row": 65,
+     "field": 4,
+     "site": 2065492
+    },
+    {
+     "table": "it_parts_info",
+     "row": 65,
+     "field": 8,
+     "site": 2065496
+    }
+   ]
+  },
+  {
+   "pointer": 10117244,
+   "before": "Turbozack",
+   "en": "Turbozack",
+   "size": 10,
+   "sha256": "c952df563c6006ac846d5fb1b04902040d835e07e117663ff4cecf7e1e2f1f40",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 66,
+     "field": 0,
+     "site": 2065520
+    },
+    {
+     "table": "it_parts_info",
+     "row": 66,
+     "field": 4,
+     "site": 2065524
+    },
+    {
+     "table": "it_parts_info",
+     "row": 66,
+     "field": 8,
+     "site": 2065528
+    }
+   ]
+  },
+  {
+   "pointer": 10117286,
+   "before": "6-Tube Missile Pod",
+   "en": "6-Tube Missile Pod",
+   "size": 19,
+   "sha256": "7b548ce9e1b52d80ff8d5d089ede31401e6d859dcd0825ba5569b58c1a8d8ccf",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 67,
+     "field": 0,
+     "site": 2065552
+    },
+    {
+     "table": "it_parts_info",
+     "row": 67,
+     "field": 4,
+     "site": 2065556
+    },
+    {
+     "table": "it_parts_info",
+     "row": 67,
+     "field": 8,
+     "site": 2065560
+    }
+   ]
+  },
+  {
+   "pointer": 10117364,
+   "before": "Cavalier-0",
+   "en": "Cavalier-0",
+   "size": 11,
+   "sha256": "1fd2a486bbc74e996e5fb7a9fa1a0fac6559f81f1248b5a7695125aba1dded42",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 68,
+     "field": 0,
+     "site": 2065584
+    },
+    {
+     "table": "it_parts_info",
+     "row": 68,
+     "field": 4,
+     "site": 2065588
+    },
+    {
+     "table": "it_parts_info",
+     "row": 68,
+     "field": 8,
+     "site": 2065592
+    }
+   ]
+  },
+  {
+   "pointer": 10117421,
+   "before": "Cavalier-0 Removal Mechanism",
+   "en": "Cavalier-0 Removal Mechanism",
+   "size": 29,
+   "sha256": "dc1ddcedf2649edc48e8d859aed9fdc283f959ba10da81e4d0cd2881be556d30",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 69,
+     "field": 0,
+     "site": 2065616
+    },
+    {
+     "table": "it_parts_info",
+     "row": 69,
+     "field": 4,
+     "site": 2065620
+    },
+    {
+     "table": "it_parts_info",
+     "row": 69,
+     "field": 8,
+     "site": 2065624
+    }
+   ]
+  },
+  {
+   "pointer": 10117496,
+   "before": "\u3010Layzner\u3011",
+   "en": "\u3010Layzner\u3011",
+   "size": 12,
+   "sha256": "5452e971e34b15d5942cb43d1089fc788d57813f800e48b3644187074c17a83a",
+   "refs": [
+    {
+     "table": "it_parts_info",
+     "row": 70,
+     "field": 0,
+     "site": 2065648
+    },
+    {
+     "table": "it_parts_info",
+     "row": 70,
+     "field": 4,
+     "site": 2065652
+    },
+    {
+     "table": "it_parts_info",
+     "row": 70,
+     "field": 8,
+     "site": 2065656
+    }
+   ]
+  },
+  {
+   "pointer": 10188535,
+   "before": "General-Purpose Materials \uff2c\uff56\uff11",
+   "en": "General-Purpose Materials Lv1",
+   "size": 33,
+   "sha256": "d4fc5a76beac4c6c3cc65c36019731d48a74183626ff77c194cb8a6843698fdb",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 1,
+     "field": 0,
+     "site": 2065712
+    },
+    {
+     "table": "it_junk_info",
+     "row": 1,
+     "field": 4,
+     "site": 2065716
+    },
+    {
+     "table": "it_junk_info",
+     "row": 1,
+     "field": 8,
+     "site": 2065720
+    }
+   ]
+  },
+  {
+   "pointer": 10188454,
+   "before": "General-Purpose Materials \uff2c\uff56\uff12",
+   "en": "General-Purpose Materials Lv2",
+   "size": 33,
+   "sha256": "0da6c85d6aebe41d34a05ef65f0eeea6f0443ab1033e91c6fca7288c16a62c59",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 2,
+     "field": 0,
+     "site": 2065744
+    },
+    {
+     "table": "it_junk_info",
+     "row": 2,
+     "field": 4,
+     "site": 2065748
+    },
+    {
+     "table": "it_junk_info",
+     "row": 2,
+     "field": 8,
+     "site": 2065752
+    }
+   ]
+  },
+  {
+   "pointer": 10188366,
+   "before": "General-Purpose Materials \uff2c\uff56\uff13",
+   "en": "General-Purpose Materials Lv3",
+   "size": 33,
+   "sha256": "a2316462826c83d0f6c45622ff61bf963a4e01b445c9938feccb3913280df23c",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 3,
+     "field": 0,
+     "site": 2065776
+    },
+    {
+     "table": "it_junk_info",
+     "row": 3,
+     "field": 4,
+     "site": 2065780
+    },
+    {
+     "table": "it_junk_info",
+     "row": 3,
+     "field": 8,
+     "site": 2065784
+    }
+   ]
+  },
+  {
+   "pointer": 10188284,
+   "before": "General-Purpose Materials \uff2c\uff56\uff14",
+   "en": "General-Purpose Materials Lv4",
+   "size": 33,
+   "sha256": "6520a8edef9709c90c63eb1c0f8a81ab30ba02d11dc9dc56ae2817d782f68223",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 4,
+     "field": 0,
+     "site": 2065808
+    },
+    {
+     "table": "it_junk_info",
+     "row": 4,
+     "field": 4,
+     "site": 2065812
+    },
+    {
+     "table": "it_junk_info",
+     "row": 4,
+     "field": 8,
+     "site": 2065816
+    }
+   ]
+  },
+  {
+   "pointer": 10188221,
+   "before": "Scrap",
+   "en": "Scrap",
+   "size": 6,
+   "sha256": "3b7061063e395456e88cea619ad2497e24af3eca3ce87a435b3c28331eaa09b2",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 5,
+     "field": 0,
+     "site": 2065840
+    },
+    {
+     "table": "it_junk_info",
+     "row": 5,
+     "field": 4,
+     "site": 2065844
+    },
+    {
+     "table": "it_junk_info",
+     "row": 5,
+     "field": 8,
+     "site": 2065848
+    }
+   ]
+  },
+  {
+   "pointer": 10188189,
+   "before": "\uff2d\uff34 Parts \uff2c\uff56\uff22",
+   "en": "MT Parts LvB",
+   "size": 18,
+   "sha256": "ff1e31821efd82dab8ebc91e23f501fbc0380174e2e88e60f738762d13be2872",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 6,
+     "field": 0,
+     "site": 2065872
+    },
+    {
+     "table": "it_junk_info",
+     "row": 6,
+     "field": 4,
+     "site": 2065876
+    },
+    {
+     "table": "it_junk_info",
+     "row": 6,
+     "field": 8,
+     "site": 2065880
+    }
+   ]
+  },
+  {
+   "pointer": 10188157,
+   "before": "\uff2d\uff33 Parts \uff2c\uff56\uff22",
+   "en": "MS Parts LvB",
+   "size": 18,
+   "sha256": "1fcbfe566bc044574434e20f967d323a47c2e64cf056eebb7f33152cf89ab7a6",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 7,
+     "field": 0,
+     "site": 2065904
+    },
+    {
+     "table": "it_junk_info",
+     "row": 7,
+     "field": 4,
+     "site": 2065908
+    },
+    {
+     "table": "it_junk_info",
+     "row": 7,
+     "field": 8,
+     "site": 2065912
+    }
+   ]
+  },
+  {
+   "pointer": 10188118,
+   "before": "\uff21\uff34 Parts \uff2c\uff56\uff22",
+   "en": "AT Parts LvB",
+   "size": 18,
+   "sha256": "4d8e45ca4c85a77a26495edca3668a39fdaa8f20e40539dd6377f4e2da63c0b2",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 8,
+     "field": 0,
+     "site": 2065936
+    },
+    {
+     "table": "it_junk_info",
+     "row": 8,
+     "field": 4,
+     "site": 2065940
+    },
+    {
+     "table": "it_junk_info",
+     "row": 8,
+     "field": 8,
+     "site": 2065944
+    }
+   ]
+  },
+  {
+   "pointer": 10188075,
+   "before": "\uff21\uff22 Parts \uff2c\uff56\uff22",
+   "en": "AB Parts LvB",
+   "size": 18,
+   "sha256": "7127e9e6d943af14bb067a731476c54a185abf96c147bb11594f09962c52f590",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 9,
+     "field": 0,
+     "site": 2065968
+    },
+    {
+     "table": "it_junk_info",
+     "row": 9,
+     "field": 4,
+     "site": 2065972
+    },
+    {
+     "table": "it_junk_info",
+     "row": 9,
+     "field": 8,
+     "site": 2065976
+    }
+   ]
+  },
+  {
+   "pointer": 10188024,
+   "before": "Armored Soldier Parts \uff2c\uff56\uff22",
+   "en": "Armored Soldier Parts LvB",
+   "size": 29,
+   "sha256": "816e723a258a5df527ce9aa6309f3bb3323dade3e86b45f8eb492c8368f44234",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 10,
+     "field": 0,
+     "site": 2066000
+    },
+    {
+     "table": "it_junk_info",
+     "row": 10,
+     "field": 4,
+     "site": 2066004
+    },
+    {
+     "table": "it_junk_info",
+     "row": 10,
+     "field": 8,
+     "site": 2066008
+    }
+   ]
+  },
+  {
+   "pointer": 10187981,
+   "before": "\uff28\uff2d Parts \uff2c\uff56\uff22",
+   "en": "HM Parts LvB",
+   "size": 18,
+   "sha256": "47c3c6c6201d5150556116c9ef537a64e0ce608b6ea21b9f65fec714958e22bc",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 11,
+     "field": 0,
+     "site": 2066032
+    },
+    {
+     "table": "it_junk_info",
+     "row": 11,
+     "field": 4,
+     "site": 2066036
+    },
+    {
+     "table": "it_junk_info",
+     "row": 11,
+     "field": 8,
+     "site": 2066040
+    }
+   ]
+  },
+  {
+   "pointer": 10187947,
+   "before": "\uff2d\uff26 Parts",
+   "en": "MF Parts",
+   "size": 11,
+   "sha256": "8368db22dce6a56ab0ab212b26be0e5b2f346b8d9a672f50baddcc46696d3294",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 12,
+     "field": 0,
+     "site": 2066064
+    },
+    {
+     "table": "it_junk_info",
+     "row": 12,
+     "field": 4,
+     "site": 2066068
+    },
+    {
+     "table": "it_junk_info",
+     "row": 12,
+     "field": 8,
+     "site": 2066072
+    }
+   ]
+  },
+  {
+   "pointer": 10188780,
+   "before": "Parts",
+   "en": "Parts",
+   "size": 6,
+   "sha256": "82ffe4c8604d9f23d9f4e51e6b1b9a6d157db296815d46e55807f9f791f6938a",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 13,
+     "field": 0,
+     "site": 2066096
+    },
+    {
+     "table": "it_junk_info",
+     "row": 13,
+     "field": 4,
+     "site": 2066100
+    },
+    {
+     "table": "it_junk_info",
+     "row": 13,
+     "field": 8,
+     "site": 2066104
+    }
+   ]
+  },
+  {
+   "pointer": 10187899,
+   "before": "\uff2d\uff34 Parts \uff2c\uff56\uff21",
+   "en": "MT Parts LvA",
+   "size": 18,
+   "sha256": "ab8bea9c426a7ec84734aa6e4fc7ff16d94b491a296f42a5cbba29a528de59a8",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 14,
+     "field": 0,
+     "site": 2066128
+    },
+    {
+     "table": "it_junk_info",
+     "row": 14,
+     "field": 4,
+     "site": 2066132
+    },
+    {
+     "table": "it_junk_info",
+     "row": 14,
+     "field": 8,
+     "site": 2066136
+    }
+   ]
+  },
+  {
+   "pointer": 10187852,
+   "before": "\uff2d\uff33 Parts \uff2c\uff56\uff21",
+   "en": "MS Parts LvA",
+   "size": 18,
+   "sha256": "d4fdc27abe0c64c425d5ba1c0de2d796023bb81f1f41f4e462a2f25c186f9e87",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 15,
+     "field": 0,
+     "site": 2066160
+    },
+    {
+     "table": "it_junk_info",
+     "row": 15,
+     "field": 4,
+     "site": 2066164
+    },
+    {
+     "table": "it_junk_info",
+     "row": 15,
+     "field": 8,
+     "site": 2066168
+    }
+   ]
+  },
+  {
+   "pointer": 10187816,
+   "before": "\uff21\uff34 Parts \uff2c\uff56\uff21",
+   "en": "AT Parts LvA",
+   "size": 18,
+   "sha256": "bfa3c237b5da0c6225bc09e3afe2ae9f12fc719d2e59237663800c888d92c055",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 16,
+     "field": 0,
+     "site": 2066192
+    },
+    {
+     "table": "it_junk_info",
+     "row": 16,
+     "field": 4,
+     "site": 2066196
+    },
+    {
+     "table": "it_junk_info",
+     "row": 16,
+     "field": 8,
+     "site": 2066200
+    }
+   ]
+  },
+  {
+   "pointer": 10123214,
+   "before": "\uff21\uff22 Parts \uff2c\uff56\uff21",
+   "en": "AB Parts LvA",
+   "size": 18,
+   "sha256": "079d95845dcb84761ff16f06787951f6bd33897737f92118cb488550cdf845a5",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 17,
+     "field": 0,
+     "site": 2066224
+    },
+    {
+     "table": "it_junk_info",
+     "row": 17,
+     "field": 4,
+     "site": 2066228
+    },
+    {
+     "table": "it_junk_info",
+     "row": 17,
+     "field": 8,
+     "site": 2066232
+    }
+   ]
+  },
+  {
+   "pointer": 10123166,
+   "before": "Armored Soldier Parts \uff2c\uff56\uff21",
+   "en": "Armored Soldier Parts LvA",
+   "size": 29,
+   "sha256": "84dcf6a8cb13142fcb2c6274566bbd5ed3d73f33b4d9b3bcba68379440b6aae7",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 18,
+     "field": 0,
+     "site": 2066256
+    },
+    {
+     "table": "it_junk_info",
+     "row": 18,
+     "field": 4,
+     "site": 2066260
+    },
+    {
+     "table": "it_junk_info",
+     "row": 18,
+     "field": 8,
+     "site": 2066264
+    }
+   ]
+  },
+  {
+   "pointer": 10123114,
+   "before": "\uff28\uff2d Parts \uff2c\uff56\uff21",
+   "en": "HM Parts LvA",
+   "size": 18,
+   "sha256": "598382ce985f581805839a5d5415aa406c7eca00bef87b4e978855e63db811d3",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 19,
+     "field": 0,
+     "site": 2066288
+    },
+    {
+     "table": "it_junk_info",
+     "row": 19,
+     "field": 4,
+     "site": 2066292
+    },
+    {
+     "table": "it_junk_info",
+     "row": 19,
+     "field": 8,
+     "site": 2066296
+    }
+   ]
+  },
+  {
+   "pointer": 10123081,
+   "before": "\uff33\uff30\uff34 Parts",
+   "en": "SPT Parts",
+   "size": 13,
+   "sha256": "296355a03db9a67e50efc7c05c65025c1babb4a265f6038478b48a21b2a44df3",
+   "refs": [
+    {
+     "table": "it_junk_info",
+     "row": 20,
+     "field": 0,
+     "site": 2066320
+    },
+    {
+     "table": "it_junk_info",
+     "row": 20,
+     "field": 4,
+     "site": 2066324
+    },
+    {
+     "table": "it_junk_info",
+     "row": 20,
+     "field": 8,
+     "site": 2066328
+    }
+   ]
+  }
+ ]
+}

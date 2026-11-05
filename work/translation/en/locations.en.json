@@ -1,0 +1,4964 @@
+{
+ "tables": [
+  {
+   "table": "_townname",
+   "index": 0,
+   "site": 1839352,
+   "va": 2233992,
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "en": "Cloud City",
+   "expected": 10203344
+  },
+  {
+   "table": "_townname",
+   "index": 1,
+   "site": 1839356,
+   "va": 2233976,
+   "source_size": 13,
+   "source_sha256": "82c72400eb7c8c80a119fc2cd4195e3e7de012babdc9888dbc61a972eb5cf0e2",
+   "en": "Deon Town",
+   "expected": 10206232
+  },
+  {
+   "table": "_townname",
+   "index": 2,
+   "site": 1839360,
+   "va": 2233952,
+   "source_size": 17,
+   "source_sha256": "5c39b14d88733996f0d0a806c4bfab14525db6b1ec71aa0bb6d2abfee85f3260",
+   "en": "Astante Fortress Ruins",
+   "expected": 10206248
+  },
+  {
+   "table": "_townname",
+   "index": 3,
+   "site": 1839364,
+   "va": 2233936,
+   "source_size": 13,
+   "source_sha256": "b527522fe3d206edbfaa049a8ed10e965cdb12a7a66fa6297dd4dbc019cd863b",
+   "en": "Green Noa",
+   "expected": 2233936
+  },
+  {
+   "table": "_townname",
+   "index": 4,
+   "site": 1839368,
+   "va": 2233920,
+   "source_size": 15,
+   "source_sha256": "29cbf44638eca5d26b09b1e26bebab8932f7b85cb921b46e4f942984b12fd30a",
+   "en": "Hong Kong City",
+   "expected": 2233920
+  },
+  {
+   "table": "_townname",
+   "index": 5,
+   "site": 1839372,
+   "va": 2233904,
+   "source_size": 15,
+   "source_sha256": "75d6b89f68e2573f4011966ce102e0cb88445f266df41102694e0ed3ddf45ef6",
+   "en": "Kilimanjaro",
+   "expected": 2233904
+  },
+  {
+   "table": "_townname",
+   "index": 6,
+   "site": 1839376,
+   "va": 2233888,
+   "source_size": 15,
+   "source_sha256": "43a31e99c8df4d0e5974bd9532565fd7d843c4e8c84cf6a8c87e8abe51e1a017",
+   "en": "Von Braun",
+   "expected": 2233888
+  },
+  {
+   "table": "_townname",
+   "index": 7,
+   "site": 1839380,
+   "va": 2233872,
+   "source_size": 11,
+   "source_sha256": "63fc288b32cf640adb29c32038d7e9e20000f6b1926f02a6ca6a37153b60dc0e",
+   "en": "Jaburo",
+   "expected": 2233872
+  },
+  {
+   "table": "_townname",
+   "index": 8,
+   "site": 1839384,
+   "va": 2233856,
+   "source_size": 11,
+   "source_sha256": "3ffa481549eabbaab8d2f67a39f3349d00062ee0b1db1da414efb1b824c01d92",
+   "en": "Gilgamesh",
+   "expected": 2233856
+  },
+  {
+   "table": "_townname",
+   "index": 9,
+   "site": 1839388,
+   "va": 2325104,
+   "source_size": 5,
+   "source_sha256": "64e1d42f1b847ef7f2cb576290fc4641b0b7285fc818a5f30ca979c16ca98ae1",
+   "en": "Uoodo",
+   "expected": 2325104
+  },
+  {
+   "table": "_townname",
+   "index": 10,
+   "site": 1839392,
+   "va": 2325096,
+   "source_size": 7,
+   "source_sha256": "6c643af9a79ffa74e82374214649747f7108cf05baac70eb355f7ee2e5125c19",
+   "en": "Kummen",
+   "expected": 2325096
+  },
+  {
+   "table": "_townname",
+   "index": 11,
+   "site": 1839396,
+   "va": 2325088,
+   "source_size": 3,
+   "source_sha256": "827c7aecbdcc33fb27b45347f5013274fcd317b5087d74a4ca8e17854c33cbb7",
+   "en": "A",
+   "expected": 2325088
+  },
+  {
+   "table": "_townname",
+   "index": 12,
+   "site": 1839400,
+   "va": 2325080,
+   "source_size": 3,
+   "source_sha256": "2264b0227984a149e8ff116680ebb5484b94365f282be5d378164f2ae583ab92",
+   "en": "Ku",
+   "expected": 2325080
+  },
+  {
+   "table": "_townname",
+   "index": 13,
+   "site": 1839404,
+   "va": 2325072,
+   "source_size": 5,
+   "source_sha256": "fb4a6ef1062bfafcf93cbfd5c69d7a6fbef7c1dbce5ffd6354a8dc5db9d4bc55",
+   "en": "Lau",
+   "expected": 2325072
+  },
+  {
+   "table": "_townname",
+   "index": 14,
+   "site": 1839408,
+   "va": 2325064,
+   "source_size": 3,
+   "source_sha256": "078d21e4b4372ac04c7b86c8c86b237866b13232fed5bfa586a40e9fa0a72be8",
+   "en": "Na",
+   "expected": 2325064
+  },
+  {
+   "table": "_townname",
+   "index": 15,
+   "site": 1839412,
+   "va": 2325056,
+   "source_size": 7,
+   "source_sha256": "b2a5037e8cc2a26d501db1bb361a619cbc365ad91822dedcf7ed7ddda6836ae7",
+   "en": "Iron City",
+   "expected": 2325056
+  },
+  {
+   "table": "_townname",
+   "index": 16,
+   "site": 1839416,
+   "va": 2325048,
+   "source_size": 7,
+   "source_sha256": "11a8bbe8d9cda3936645681aba53b6fc7053cf8ca7b28c5840357571f5dc97ff",
+   "en": "White Valley",
+   "expected": 2325048
+  },
+  {
+   "table": "_townname",
+   "index": 17,
+   "site": 1839420,
+   "va": 2325040,
+   "source_size": 7,
+   "source_sha256": "fcb7928dc22eaa9f414c8c403adef504a67287d9288428a60d1f42fd09376a62",
+   "en": "Omuga",
+   "expected": 2325040
+  },
+  {
+   "table": "_townname",
+   "index": 18,
+   "site": 1839424,
+   "va": 2325032,
+   "source_size": 7,
+   "source_sha256": "d12c3065dd13713919b3fcc8f39251712b03319442ffd2b400810a11c5e30f58",
+   "en": "Tokio",
+   "expected": 2325032
+  },
+  {
+   "table": "_townname",
+   "index": 19,
+   "site": 1839428,
+   "va": 2233840,
+   "source_size": 9,
+   "source_sha256": "d58f6e2ff94da0d7e94a605eaa8140ba6cd12b1043509cd83451018e7ed7399a",
+   "en": "Kyoto",
+   "expected": 2233840
+  },
+  {
+   "table": "_townname",
+   "index": 20,
+   "site": 1839432,
+   "va": 2233824,
+   "source_size": 11,
+   "source_sha256": "9247b769c687422beff07f3452ba3a21b32230eebb9da4e49798e920b5128ac8",
+   "en": "Gastogal",
+   "expected": 2233824
+  },
+  {
+   "table": "_townname",
+   "index": 21,
+   "site": 1839436,
+   "va": 2325024,
+   "source_size": 7,
+   "source_sha256": "e8621df6cc5059bf7c4fb295c9761982992d4a4c3696b61e11d3443fa0256920",
+   "en": "Mizun",
+   "expected": 2325024
+  },
+  {
+   "table": "_townname",
+   "index": 22,
+   "site": 1839440,
+   "va": 2233808,
+   "source_size": 15,
+   "source_sha256": "fe266d29ea75439a3e4460607c1c4b9a00d182fb66ff1039cb6969e16894890f",
+   "en": "Trydetol",
+   "expected": 2233808
+  },
+  {
+   "table": "_townname",
+   "index": 23,
+   "site": 1839444,
+   "va": 2233792,
+   "source_size": 9,
+   "source_sha256": "37fbdc28bedba69b55a6e82453b380535a17e5d059e5ad95795d2ade13f15074",
+   "en": "Grados",
+   "expected": 2233792
+  },
+  {
+   "table": "_townname",
+   "index": 24,
+   "site": 1839448,
+   "va": 2233776,
+   "source_size": 13,
+   "source_sha256": "d96748f4cb966e2f14105e81a0123d982bd86db98fab8ade7157f1a530592c49",
+   "en": "Liberation Front Base",
+   "expected": 2233776
+  },
+  {
+   "table": "_townname",
+   "index": 25,
+   "site": 1839452,
+   "va": 2233992,
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "en": "Cloud City",
+   "expected": 10203344
+  },
+  {
+   "table": "_contname",
+   "index": 0,
+   "site": 1837296,
+   "va": 2233728,
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "en": "Claudia",
+   "expected": 10203328
+  },
+  {
+   "table": "_contname",
+   "index": 1,
+   "site": 1837300,
+   "va": 2325008,
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "en": "Terra",
+   "expected": 2325008
+  },
+  {
+   "table": "_contname",
+   "index": 2,
+   "site": 1837304,
+   "va": 2233712,
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "en": "Astragius",
+   "expected": 2233712
+  },
+  {
+   "table": "_contname",
+   "index": 3,
+   "site": 1837308,
+   "va": 2233688,
+   "source_size": 17,
+   "source_sha256": "d6bcf7079f3882f57968fd8d23a7d97d7f0e8cb8ac1dad2ae8fc8cdce172756e",
+   "en": "Byston Well",
+   "expected": 2233688
+  },
+  {
+   "table": "_contname",
+   "index": 4,
+   "site": 1837312,
+   "va": 2233672,
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "en": "Crescent",
+   "expected": 2233672
+  },
+  {
+   "table": "_contname",
+   "index": 5,
+   "site": 1837316,
+   "va": 2233656,
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "en": "Brave",
+   "expected": 2233656
+  },
+  {
+   "table": "_contname",
+   "index": 6,
+   "site": 1837320,
+   "va": 2233640,
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "en": "Pentagona",
+   "expected": 2233640
+  },
+  {
+   "table": "_contname",
+   "index": 7,
+   "site": 1837324,
+   "va": 2233624,
+   "source_size": 9,
+   "source_sha256": "37fbdc28bedba69b55a6e82453b380535a17e5d059e5ad95795d2ade13f15074",
+   "en": "Grados",
+   "expected": 2233624
+  },
+  {
+   "table": "_contname",
+   "index": 8,
+   "site": 1837328,
+   "va": 2325000,
+   "source_size": 5,
+   "source_sha256": "576786b9f5e0356c11b04722e66c3845c62957f0f15a46301fb2849f3533a907",
+   "en": "Cloud Sea",
+   "expected": 2325000
+  }
+ ],
+ "overlays": [
+  {
+   "id": "EVEMAP/00029:000004D0",
+   "member": 29,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Cloud City",
+   "baseline_sha256": "ec5b50e7f294f71ffb3337223be783c9cdc924fbfe6560edebc7fab0a5a9e450",
+   "expected_words": {
+    "1128": 10204736,
+    "1140": 10204736,
+    "1152": 10204736
+   }
+  },
+  {
+   "id": "EVEMAP/00029:000004E0",
+   "member": 29,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "ef21e078b73287c7dff093e6cb32e11ca7771cddd57a6b2005929f729a3c471e",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Home",
+   "baseline_sha256": "ec5b50e7f294f71ffb3337223be783c9cdc924fbfe6560edebc7fab0a5a9e450",
+   "expected_words": {
+    "1212": 10204752
+   }
+  },
+  {
+   "id": "EVEMAP/00029:000004E8",
+   "member": 29,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Outskirts",
+   "baseline_sha256": "ec5b50e7f294f71ffb3337223be783c9cdc924fbfe6560edebc7fab0a5a9e450",
+   "expected_words": {
+    "1200": 10204760
+   }
+  },
+  {
+   "id": "EVEMAP/00029:000004F0",
+   "member": 29,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Main Street",
+   "baseline_sha256": "ec5b50e7f294f71ffb3337223be783c9cdc924fbfe6560edebc7fab0a5a9e450",
+   "expected_words": {
+    "1188": 10204776
+   }
+  },
+  {
+   "id": "EVEMAP/00029:00000508",
+   "member": 29,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Airport",
+   "baseline_sha256": "ec5b50e7f294f71ffb3337223be783c9cdc924fbfe6560edebc7fab0a5a9e450",
+   "expected_words": {
+    "1176": 10204792
+   }
+  },
+  {
+   "id": "EVEMAP/00029:00000510",
+   "member": 29,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "ec5b50e7f294f71ffb3337223be783c9cdc924fbfe6560edebc7fab0a5a9e450",
+   "expected_words": {
+    "1164": 10204800
+   }
+  },
+  {
+   "id": "EVEMAP/00035:000004D0",
+   "member": 35,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e",
+   "en": "Cloud City",
+   "baseline_sha256": "57d7f0e28108815b75bc8aaf5a6f043e8a50317214770093da4445d1ac5e77e0",
+   "expected_words": {
+    "1128": 10204824,
+    "1140": 10204824,
+    "1152": 10204824
+   }
+  },
+  {
+   "id": "EVEMAP/00035:000004E0",
+   "member": 35,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "ef21e078b73287c7dff093e6cb32e11ca7771cddd57a6b2005929f729a3c471e",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e",
+   "en": "Home",
+   "baseline_sha256": "57d7f0e28108815b75bc8aaf5a6f043e8a50317214770093da4445d1ac5e77e0",
+   "expected_words": {
+    "1212": 10204840
+   }
+  },
+  {
+   "id": "EVEMAP/00035:000004E8",
+   "member": 35,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e",
+   "en": "Outskirts",
+   "baseline_sha256": "57d7f0e28108815b75bc8aaf5a6f043e8a50317214770093da4445d1ac5e77e0",
+   "expected_words": {
+    "1200": 10204848
+   }
+  },
+  {
+   "id": "EVEMAP/00035:000004F0",
+   "member": 35,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e",
+   "en": "Main Street",
+   "baseline_sha256": "57d7f0e28108815b75bc8aaf5a6f043e8a50317214770093da4445d1ac5e77e0",
+   "expected_words": {
+    "1188": 10204864
+   }
+  },
+  {
+   "id": "EVEMAP/00035:00000508",
+   "member": 35,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e",
+   "en": "Airport",
+   "baseline_sha256": "57d7f0e28108815b75bc8aaf5a6f043e8a50317214770093da4445d1ac5e77e0",
+   "expected_words": {
+    "1176": 10204880
+   }
+  },
+  {
+   "id": "EVEMAP/00035:00000510",
+   "member": 35,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "57d7f0e28108815b75bc8aaf5a6f043e8a50317214770093da4445d1ac5e77e0",
+   "expected_words": {
+    "1164": 10204888
+   }
+  },
+  {
+   "id": "EVEMAP/00036:000004D0",
+   "member": 36,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "82c72400eb7c8c80a119fc2cd4195e3e7de012babdc9888dbc61a972eb5cf0e2",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "en": "Deon Town",
+   "baseline_sha256": "3dfd1eca9f3c722171a419d972bfb3709b976bbc113301eed5b4c4868a3dcf78",
+   "expected_words": {
+    "1128": 10206232,
+    "1140": 10206232,
+    "1152": 10206232
+   }
+  },
+  {
+   "id": "EVEMAP/00036:000004E0",
+   "member": 36,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "en": "Bar",
+   "baseline_sha256": "3dfd1eca9f3c722171a419d972bfb3709b976bbc113301eed5b4c4868a3dcf78",
+   "expected_words": {
+    "1212": 10206272
+   }
+  },
+  {
+   "id": "EVEMAP/00036:000004E8",
+   "member": 36,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "en": "Outskirts",
+   "baseline_sha256": "3dfd1eca9f3c722171a419d972bfb3709b976bbc113301eed5b4c4868a3dcf78",
+   "expected_words": {
+    "1200": 10206280
+   }
+  },
+  {
+   "id": "EVEMAP/00036:000004F0",
+   "member": 36,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "en": "Main Street",
+   "baseline_sha256": "3dfd1eca9f3c722171a419d972bfb3709b976bbc113301eed5b4c4868a3dcf78",
+   "expected_words": {
+    "1188": 10206296
+   }
+  },
+  {
+   "id": "EVEMAP/00036:00000508",
+   "member": 36,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "en": "Airport",
+   "baseline_sha256": "3dfd1eca9f3c722171a419d972bfb3709b976bbc113301eed5b4c4868a3dcf78",
+   "expected_words": {
+    "1176": 10206320
+   }
+  },
+  {
+   "id": "EVEMAP/00036:00000510",
+   "member": 36,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "8578ed0c28b785c230c36b7bd3a8049b591e581c71ba74a7c2a3f0817146b6e1",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "3dfd1eca9f3c722171a419d972bfb3709b976bbc113301eed5b4c4868a3dcf78",
+   "expected_words": {
+    "1164": 10206328
+   }
+  },
+  {
+   "id": "EVEMAP/00037:000004D0",
+   "member": 37,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "5c39b14d88733996f0d0a806c4bfab14525db6b1ec71aa0bb6d2abfee85f3260",
+   "original_binary_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "en": "Astante Fortress Ruins",
+   "baseline_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00037:000004E8",
+   "member": 37,
+   "offset": 1256,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 21,
+   "source_sha256": "c4fff3634e032f4ae87b611cf37dc196f8eef3abd408ef6d749021ff803d6a1f",
+   "original_binary_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "en": "Briefing Room",
+   "baseline_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "expected_words": {
+    "1212": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00037:00000500",
+   "member": 37,
+   "offset": 1280,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "en": "Outskirts",
+   "baseline_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "expected_words": {
+    "1200": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00037:00000508",
+   "member": 37,
+   "offset": 1288,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "acd784e030ef3764980e7fda3b620bd9f009a065bef44f47a74386ab3e49fe80",
+   "original_binary_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "en": "Underground Passage",
+   "baseline_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "expected_words": {
+    "1188": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00037:00000518",
+   "member": 37,
+   "offset": 1304,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "6e65d143d8a62f7ba76d77e6d754700c33e4f95f901a5a801482d0feeb37071b",
+   "original_binary_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "en": "Military Port",
+   "baseline_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "expected_words": {
+    "1176": 10355992
+   }
+  },
+  {
+   "id": "EVEMAP/00037:00000520",
+   "member": 37,
+   "offset": 1312,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "52caad0b29eeb250e5e2adbea594051d20ae30216c55df8f73696b4443ae45b8",
+   "expected_words": {
+    "1164": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00038:000004D0",
+   "member": 38,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "b527522fe3d206edbfaa049a8ed10e965cdb12a7a66fa6297dd4dbc019cd863b",
+   "original_binary_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "en": "Green Noa",
+   "baseline_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00038:000004E0",
+   "member": 38,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "en": "Bar",
+   "baseline_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00038:000004E8",
+   "member": 38,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "en": "Outskirts",
+   "baseline_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00038:000004F0",
+   "member": 38,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "en": "Main Street",
+   "baseline_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00038:00000508",
+   "member": 38,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "6e65d143d8a62f7ba76d77e6d754700c33e4f95f901a5a801482d0feeb37071b",
+   "original_binary_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "en": "Military Port",
+   "baseline_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "expected_words": {
+    "1176": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00038:00000510",
+   "member": 38,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "60c259ec7169188c157896235288d44e8106ca4ba613ff6eeb2013f7cbc0011c",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00039:000004D0",
+   "member": 39,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "29cbf44638eca5d26b09b1e26bebab8932f7b85cb921b46e4f942984b12fd30a",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d",
+   "en": "Hong Kong City",
+   "baseline_sha256": "c76794ae1970e9df3242db4a4bc756ac089fa09ade3ca4a424cc975f63db6e81",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00039:000004E0",
+   "member": 39,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "070e817db9b6e2896ff9888f115573168a03a948f8f687d9e181ebf766376813",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d",
+   "en": "Restaurant",
+   "baseline_sha256": "c76794ae1970e9df3242db4a4bc756ac089fa09ade3ca4a424cc975f63db6e81",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00039:000004F0",
+   "member": 39,
+   "offset": 1264,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "fad2c1480ea522538bf85bb7bb5b6777e9f5f1b792401f99db74e91abd902d72",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d",
+   "en": "Park",
+   "baseline_sha256": "c76794ae1970e9df3242db4a4bc756ac089fa09ade3ca4a424cc975f63db6e81",
+   "expected_words": {
+    "1200": 10205000
+   }
+  },
+  {
+   "id": "EVEMAP/00039:000004F8",
+   "member": 39,
+   "offset": 1272,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d",
+   "en": "Main Street",
+   "baseline_sha256": "c76794ae1970e9df3242db4a4bc756ac089fa09ade3ca4a424cc975f63db6e81",
+   "expected_words": {
+    "1188": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00039:00000510",
+   "member": 39,
+   "offset": 1296,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d",
+   "en": "Airport",
+   "baseline_sha256": "c76794ae1970e9df3242db4a4bc756ac089fa09ade3ca4a424cc975f63db6e81",
+   "expected_words": {
+    "1176": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00039:00000518",
+   "member": 39,
+   "offset": 1304,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "c76794ae1970e9df3242db4a4bc756ac089fa09ade3ca4a424cc975f63db6e81",
+   "expected_words": {
+    "1164": 10355992
+   }
+  },
+  {
+   "id": "EVEMAP/00040:000004D0",
+   "member": 40,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "75d6b89f68e2573f4011966ce102e0cb88445f266df41102694e0ed3ddf45ef6",
+   "original_binary_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "en": "Kilimanjaro",
+   "baseline_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00040:000004E0",
+   "member": 40,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "618782476f768a19c262e8098e9ab601d6a5d3ae87d6725441e3605250593fb0",
+   "original_binary_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "en": "Research Facility",
+   "baseline_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00040:000004F0",
+   "member": 40,
+   "offset": 1264,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "en": "Outskirts",
+   "baseline_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "expected_words": {
+    "1200": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00040:000004F8",
+   "member": 40,
+   "offset": 1272,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "e269f40b6d97fedf205ee45445cfda12f811343f4355d6798831d071f673c6e4",
+   "original_binary_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "en": "Titans Fortress",
+   "baseline_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "expected_words": {
+    "1188": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00040:00000510",
+   "member": 40,
+   "offset": 1296,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "6e65d143d8a62f7ba76d77e6d754700c33e4f95f901a5a801482d0feeb37071b",
+   "original_binary_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "en": "Military Port",
+   "baseline_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "expected_words": {
+    "1176": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00040:00000518",
+   "member": 40,
+   "offset": 1304,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "926127db139d7e2ec27df8c403baa9d516d23ba268c310d069cc79f80886de6d",
+   "expected_words": {
+    "1164": 10355992
+   }
+  },
+  {
+   "id": "EVEMAP/00041:000004D0",
+   "member": 41,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "43a31e99c8df4d0e5974bd9532565fd7d843c4e8c84cf6a8c87e8abe51e1a017",
+   "original_binary_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "en": "Von Braun",
+   "baseline_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00041:000004E0",
+   "member": 41,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "en": "Bar",
+   "baseline_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00041:000004E8",
+   "member": 41,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "en": "Outskirts",
+   "baseline_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00041:000004F0",
+   "member": 41,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "en": "Main Street",
+   "baseline_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00041:00000508",
+   "member": 41,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "en": "Airport",
+   "baseline_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "expected_words": {
+    "1176": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00041:00000510",
+   "member": 41,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "262d6782bf32b00062168aced977795f45c31e01bbbc63bd69a49be825a26ea5",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00042:000004D0",
+   "member": 42,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "63fc288b32cf640adb29c32038d7e9e20000f6b1926f02a6ca6a37153b60dc0e",
+   "original_binary_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "en": "Jaburo",
+   "baseline_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00042:000004E0",
+   "member": 42,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "en": "Bar",
+   "baseline_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00042:000004E8",
+   "member": 42,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "en": "Outskirts",
+   "baseline_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00042:000004F0",
+   "member": 42,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "en": "Main Street",
+   "baseline_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00042:00000508",
+   "member": 42,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "edd6b2993be7f598e250b225e2996434050493442a850fcfb67b28ce0399cef1",
+   "original_binary_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "en": "Dock",
+   "baseline_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "expected_words": {
+    "1176": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00042:00000510",
+   "member": 42,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "36c9b21627e5a86a312dd0208d2bfcb93e33ff663128b66d168e29f71f0436a9",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00043:000004D0",
+   "member": 43,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "3ffa481549eabbaab8d2f67a39f3349d00062ee0b1db1da414efb1b824c01d92",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d",
+   "en": "Gilgamesh",
+   "baseline_sha256": "06e3a99742ca6c7e76d479cb0a3d1ed42d9be83382f676bd6704f3985897232d",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00043:000004E0",
+   "member": 43,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "fad2c1480ea522538bf85bb7bb5b6777e9f5f1b792401f99db74e91abd902d72",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d",
+   "en": "Park",
+   "baseline_sha256": "06e3a99742ca6c7e76d479cb0a3d1ed42d9be83382f676bd6704f3985897232d",
+   "expected_words": {
+    "1212": 10205008
+   }
+  },
+  {
+   "id": "EVEMAP/00043:000004E8",
+   "member": 43,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d",
+   "en": "Outskirts",
+   "baseline_sha256": "06e3a99742ca6c7e76d479cb0a3d1ed42d9be83382f676bd6704f3985897232d",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00043:000004F0",
+   "member": 43,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d",
+   "en": "Main Street",
+   "baseline_sha256": "06e3a99742ca6c7e76d479cb0a3d1ed42d9be83382f676bd6704f3985897232d",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00043:00000508",
+   "member": 43,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d",
+   "en": "Airport",
+   "baseline_sha256": "06e3a99742ca6c7e76d479cb0a3d1ed42d9be83382f676bd6704f3985897232d",
+   "expected_words": {
+    "1176": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00043:00000510",
+   "member": 43,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "06e3a99742ca6c7e76d479cb0a3d1ed42d9be83382f676bd6704f3985897232d",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00044:000004D0",
+   "member": 44,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "64e1d42f1b847ef7f2cb576290fc4641b0b7285fc818a5f30ca979c16ca98ae1",
+   "original_binary_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "en": "Uoodo",
+   "baseline_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00044:000004D8",
+   "member": 44,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "en": "Bar",
+   "baseline_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00044:000004E0",
+   "member": 44,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "en": "Outskirts",
+   "baseline_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00044:000004E8",
+   "member": 44,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "en": "Main Street",
+   "baseline_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00044:00000500",
+   "member": 44,
+   "offset": 1280,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "en": "Airport",
+   "baseline_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "expected_words": {
+    "1176": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00044:00000508",
+   "member": 44,
+   "offset": 1288,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "72669f54743f789f7e2b28c7f52b6e9fdd83749afaa13ee23a37d411ab67b87d",
+   "expected_words": {
+    "1164": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00045:000004D0",
+   "member": 45,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "6c643af9a79ffa74e82374214649747f7108cf05baac70eb355f7ee2e5125c19",
+   "original_binary_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "en": "Kummen",
+   "baseline_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00045:000004D8",
+   "member": 45,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "f514f403017e56c11c75568f7f2ef6271b05244d746a8f2321f2ea5a21427cee",
+   "original_binary_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "en": "Ramo Temple",
+   "baseline_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00045:000004E8",
+   "member": 45,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "en": "Outskirts",
+   "baseline_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00045:000004F0",
+   "member": 45,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "en": "Main Street",
+   "baseline_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00045:00000508",
+   "member": 45,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 21,
+   "source_sha256": "f95b31de55842c6e69cceb3cee985f6fca68bcf59fcc2667e25f892f44465b91",
+   "original_binary_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "en": "Assemble EX10",
+   "baseline_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "expected_words": {
+    "1176": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00045:00000520",
+   "member": 45,
+   "offset": 1312,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "6ff205e5224beda1c4218d23c0b8c4445ffc325b61c00e6dd7cf2d02c560f8e2",
+   "expected_words": {
+    "1164": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00046:000004D0",
+   "member": 46,
+   "offset": 1232,
+   "sites": [
+    1128
+   ],
+   "code": [],
+   "source_size": 3,
+   "source_sha256": "827c7aecbdcc33fb27b45347f5013274fcd317b5087d74a4ca8e17854c33cbb7",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "A",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1128": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00046:000004D8",
+   "member": 46,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "c2a6f325476eb3e62c38b626f2cfca0dc8d98c181d8e22477ea0f7f8653ac049",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "Assembly Hall",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00046:000004E0",
+   "member": 46,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "Outskirts",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00046:000004E8",
+   "member": 46,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "2ce3bba7abe6f159fdfa16f2281e64a5ea025081b4d1d82de06c6d67021ee9fe",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "Main Road",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00046:000004F0",
+   "member": 46,
+   "offset": 1264,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "e8802d22d97e2d9d1e670933e9207c42a94bff25544568163841396f8fd5a65e",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "Aura Ship Terminal",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1176": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00046:00000508",
+   "member": 46,
+   "offset": 1288,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1164": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00046:00000520",
+   "member": 46,
+   "offset": 1312,
+   "sites": [
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "56ac3c65cb077c3393b167c1e010d40586eae05e00a724c45f4aeedc5eee5b54",
+   "original_binary_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "en": "Laas Wau",
+   "baseline_sha256": "d3243d5743637f6fea68bc009e903be3b1cc704e022e40bc0c954866b5881be6",
+   "expected_words": {
+    "1140": 10356000,
+    "1152": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00047:000004D0",
+   "member": 47,
+   "offset": 1232,
+   "sites": [
+    1128
+   ],
+   "code": [],
+   "source_size": 3,
+   "source_sha256": "2264b0227984a149e8ff116680ebb5484b94365f282be5d378164f2ae583ab92",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Ku",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1128": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00047:000004D8",
+   "member": 47,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Bar",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00047:000004E0",
+   "member": 47,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Outskirts",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00047:000004E8",
+   "member": 47,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "2ce3bba7abe6f159fdfa16f2281e64a5ea025081b4d1d82de06c6d67021ee9fe",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Main Road",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00047:000004F0",
+   "member": 47,
+   "offset": 1264,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "e8802d22d97e2d9d1e670933e9207c42a94bff25544568163841396f8fd5a65e",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Aura Ship Terminal",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1176": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00047:00000508",
+   "member": 47,
+   "offset": 1288,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1164": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00047:00000520",
+   "member": 47,
+   "offset": 1312,
+   "sites": [
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "d00d79efabdbc621a3ff1c389158ec1b2d779de5cab613987f25872f29d06209",
+   "original_binary_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "en": "Kemi",
+   "baseline_sha256": "96cf2a1f6886d5dd6aac52c328589e333afe83175cef61931a88c6af4aa72293",
+   "expected_words": {
+    "1140": 10356000,
+    "1152": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00048:000004D0",
+   "member": 48,
+   "offset": 1232,
+   "sites": [
+    1128
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "fb4a6ef1062bfafcf93cbfd5c69d7a6fbef7c1dbce5ffd6354a8dc5db9d4bc55",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Lau",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1128": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00048:000004D8",
+   "member": 48,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "c2a6f325476eb3e62c38b626f2cfca0dc8d98c181d8e22477ea0f7f8653ac049",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Assembly Hall",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00048:000004E0",
+   "member": 48,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Outskirts",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00048:000004E8",
+   "member": 48,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "2ce3bba7abe6f159fdfa16f2281e64a5ea025081b4d1d82de06c6d67021ee9fe",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Main Road",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00048:000004F0",
+   "member": 48,
+   "offset": 1264,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "e8802d22d97e2d9d1e670933e9207c42a94bff25544568163841396f8fd5a65e",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Aura Ship Terminal",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1176": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00048:00000508",
+   "member": 48,
+   "offset": 1288,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1164": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00048:00000520",
+   "member": 48,
+   "offset": 1312,
+   "sites": [
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "9cfa4e0ce936b8c7f5c3c6f3ee2fbd27680edc3625fe0f7e48acb4b63243eff2",
+   "original_binary_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "en": "Tatara",
+   "baseline_sha256": "2b74b28a1be88dd18c96b5ac3908f0067097201e1a2f6daee0ed1ce4c5a72eec",
+   "expected_words": {
+    "1140": 10356000,
+    "1152": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00049:000004D0",
+   "member": 49,
+   "offset": 1232,
+   "sites": [
+    1128
+   ],
+   "code": [],
+   "source_size": 3,
+   "source_sha256": "078d21e4b4372ac04c7b86c8c86b237866b13232fed5bfa586a40e9fa0a72be8",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Na",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1128": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00049:000004D8",
+   "member": 49,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "c2a6f325476eb3e62c38b626f2cfca0dc8d98c181d8e22477ea0f7f8653ac049",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Assembly Hall",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00049:000004E0",
+   "member": 49,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Outskirts",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00049:000004E8",
+   "member": 49,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "2ce3bba7abe6f159fdfa16f2281e64a5ea025081b4d1d82de06c6d67021ee9fe",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Main Road",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00049:000004F0",
+   "member": 49,
+   "offset": 1264,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "e8802d22d97e2d9d1e670933e9207c42a94bff25544568163841396f8fd5a65e",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Aura Ship Terminal",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1176": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00049:00000508",
+   "member": 49,
+   "offset": 1288,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1164": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00049:00000520",
+   "member": 49,
+   "offset": 1312,
+   "sites": [
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "c71fe8076cbbf64459ab5c33be64845b49db0b83ceea39b1fbb4b8231d4276d2",
+   "original_binary_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "en": "Uroporos",
+   "baseline_sha256": "3de773c7cd4ae0c2d9ac87dc9143eea8e699c751a804a7a498fb3cc4eb58adc2",
+   "expected_words": {
+    "1140": 10356000,
+    "1152": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00050:000004D0",
+   "member": 50,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "b2a5037e8cc2a26d501db1bb361a619cbc365ad91822dedcf7ed7ddda6836ae7",
+   "original_binary_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "en": "Iron City",
+   "baseline_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00050:000004D8",
+   "member": 50,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "b686a373b4b06fe5b21dd9f5f0da0bfbde97ddc27d798652cf50930fbd48865b",
+   "original_binary_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "en": "Mercenary Bar",
+   "baseline_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00050:000004E8",
+   "member": 50,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "a71cb899939f5527133ecf825b60a9c75c615c0de53fb6aea2f4ff5734f2d684",
+   "original_binary_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "en": "Excavation Site",
+   "baseline_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00050:000004F8",
+   "member": 50,
+   "offset": 1272,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "2ce3bba7abe6f159fdfa16f2281e64a5ea025081b4d1d82de06c6d67021ee9fe",
+   "original_binary_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "en": "Main Road",
+   "baseline_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "expected_words": {
+    "1188": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00050:00000500",
+   "member": 50,
+   "offset": 1280,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "2f2ddb02cd6f8858412f6d7f429dc29c80be7125096de4ee57f6d65b3fac01bc",
+   "original_binary_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "en": "Mountains",
+   "baseline_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "expected_words": {
+    "1176": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00050:00000508",
+   "member": 50,
+   "offset": 1288,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "c4b66bd6e0971ef21017bd8291df456708dc239b72e453980784ae048c1b6c60",
+   "expected_words": {
+    "1164": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00051:000004D0",
+   "member": 51,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "11a8bbe8d9cda3936645681aba53b6fc7053cf8ca7b28c5840357571f5dc97ff",
+   "original_binary_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "en": "White Valley",
+   "baseline_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00051:000004D8",
+   "member": 51,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "efa71e5640fca5076ad7b1c512259fbdb45fb9d5e469beabcb62ffc2cd7856bf",
+   "original_binary_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "en": "Defensive Wall",
+   "baseline_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00051:000004E0",
+   "member": 51,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "e845905fe9ffe6a18f16a76bfa75970ae1dcefbf940ea1f322816ea55465b21b",
+   "original_binary_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "en": "Residential Area",
+   "baseline_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00051:000004E8",
+   "member": 51,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "89d1ac41023601c3188033e1c3b1db57859937c74db587f6311d9c24a94e0724",
+   "original_binary_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "en": "Plaza",
+   "baseline_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00051:000004F0",
+   "member": 51,
+   "offset": 1264,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "5d3c42b109f57cdfbae226d7c3da22d230a7b0adadbc23f36ceba91df4a875f4",
+   "original_binary_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "en": "Rocky Area",
+   "baseline_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "expected_words": {
+    "1176": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00051:000004F8",
+   "member": 51,
+   "offset": 1272,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "f6e507568ec03ce2684df5ec691a202debd9a2ebe99cb648a4068b3006e81ef6",
+   "expected_words": {
+    "1164": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00052:000004D0",
+   "member": 52,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "fcb7928dc22eaa9f414c8c403adef504a67287d9288428a60d1f42fd09376a62",
+   "original_binary_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "en": "Omuga",
+   "baseline_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00052:000004D8",
+   "member": 52,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0d5d5fbd5cb93397372f2f398ffce6ee32e228314673db2a5f4b2d97fdaaf387",
+   "original_binary_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "en": "Bar",
+   "baseline_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00052:000004E0",
+   "member": 52,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "340df1208adbefcafb8a0bb20886606c7f810840b6787b1f58ac91e8b4608dd7",
+   "original_binary_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "en": "Oasis",
+   "baseline_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00052:000004F0",
+   "member": 52,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "2ce3bba7abe6f159fdfa16f2281e64a5ea025081b4d1d82de06c6d67021ee9fe",
+   "original_binary_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "en": "Main Road",
+   "baseline_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00052:000004F8",
+   "member": 52,
+   "offset": 1272,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "5d3c42b109f57cdfbae226d7c3da22d230a7b0adadbc23f36ceba91df4a875f4",
+   "original_binary_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "en": "Rocky Area",
+   "baseline_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "expected_words": {
+    "1176": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00052:00000500",
+   "member": 52,
+   "offset": 1280,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "9de255225c63fe8ae4a2d96665f4ab9236179f506abfb6c540d430dc8ab97564",
+   "expected_words": {
+    "1164": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00053:000004D0",
+   "member": 53,
+   "offset": 1232,
+   "sites": [
+    1128
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "d12c3065dd13713919b3fcc8f39251712b03319442ffd2b400810a11c5e30f58",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "Tokio",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1128": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00053:000004D8",
+   "member": 53,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "fad2c1480ea522538bf85bb7bb5b6777e9f5f1b792401f99db74e91abd902d72",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "Park",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1212": 10205016
+   }
+  },
+  {
+   "id": "EVEMAP/00053:000004E0",
+   "member": 53,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "b657d2bdb1d93e1e6da139f437e923fc575eef24252ab05f7e3b997a749c290f",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "Coast",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00053:000004E8",
+   "member": 53,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "Main Street",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00053:00000500",
+   "member": 53,
+   "offset": 1280,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "f579a94b691d09ed6469e0bc088c6a4fd5233625018ca196c78e236b56a5c5be",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "Airport",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1176": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00053:00000510",
+   "member": 53,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00053:00000528",
+   "member": 53,
+   "offset": 1320,
+   "sites": [
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "9e74f4209f51b0650702a084f71f48ff52e4660779a6c070cd75cceb3e73e248",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13",
+   "en": "G-Island City",
+   "baseline_sha256": "9f5d3c31e61dc3f8c1f3943a8af7bcda6a733b63deae488c3d0d1ab0e600b04b",
+   "expected_words": {
+    "1140": 10356008,
+    "1152": 10356008
+   }
+  },
+  {
+   "id": "EVEMAP/00054:000004D0",
+   "member": 54,
+   "offset": 1232,
+   "sites": [
+    1128
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "d58f6e2ff94da0d7e94a605eaa8140ba6cd12b1043509cd83451018e7ed7399a",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "Kyoto",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1128": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00054:000004E0",
+   "member": 54,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "191c9c6ccd00aa687a294c7f85bf0ba1ad158b068591beaa37442d3c3b9c2f52",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "Teahouse",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00054:000004E8",
+   "member": 54,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "Outskirts",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00054:000004F0",
+   "member": 54,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "8525442fddd0da9b569eb5e2bb951e14bcac66edaf207f201a3eb1788463ee71",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "GGG Branch",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00054:00000500",
+   "member": 54,
+   "offset": 1280,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "f579a94b691d09ed6469e0bc088c6a4fd5233625018ca196c78e236b56a5c5be",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "Airport",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1176": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00054:00000510",
+   "member": 54,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00054:00000528",
+   "member": 54,
+   "offset": 1320,
+   "sites": [
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "8db36a51586256879d67a4c551752e9c447793c52d538b95d3633fc135deae58",
+   "original_binary_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "en": "Kyoto",
+   "baseline_sha256": "3402cfbb315aeac1a1cc840c451b8fc242316b1302365ada8c36a2c2e08f8be3",
+   "expected_words": {
+    "1140": 10356008,
+    "1152": 10356008
+   }
+  },
+  {
+   "id": "EVEMAP/00055:000004D0",
+   "member": 55,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "9247b769c687422beff07f3452ba3a21b32230eebb9da4e49798e920b5128ac8",
+   "original_binary_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "en": "Gastogal",
+   "baseline_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00055:000004E0",
+   "member": 55,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "070e817db9b6e2896ff9888f115573168a03a948f8f687d9e181ebf766376813",
+   "original_binary_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "en": "Restaurant",
+   "baseline_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00055:000004F0",
+   "member": 55,
+   "offset": 1264,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "71c6a06c27a50aff52619af55d25c00cd839df80a89d45917de8f51d4a8a55a9",
+   "original_binary_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "en": "Plant",
+   "baseline_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "expected_words": {
+    "1200": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00055:00000500",
+   "member": 55,
+   "offset": 1280,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "en": "Main Street",
+   "baseline_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "expected_words": {
+    "1188": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00055:00000518",
+   "member": 55,
+   "offset": 1304,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "f579a94b691d09ed6469e0bc088c6a4fd5233625018ca196c78e236b56a5c5be",
+   "original_binary_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "en": "Airport",
+   "baseline_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "expected_words": {
+    "1176": 10355992
+   }
+  },
+  {
+   "id": "EVEMAP/00055:00000528",
+   "member": 55,
+   "offset": 1320,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "179fcbbd6ba20d28a1c9d4485a2bba405e4e6c95f91ea97bdbb94dae5739240a",
+   "expected_words": {
+    "1164": 10356008
+   }
+  },
+  {
+   "id": "EVEMAP/00056:000004D0",
+   "member": 56,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "e8621df6cc5059bf7c4fb295c9761982992d4a4c3696b61e11d3443fa0256920",
+   "original_binary_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "en": "Mizun",
+   "baseline_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00056:000004D8",
+   "member": 56,
+   "offset": 1240,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "c2a6f325476eb3e62c38b626f2cfca0dc8d98c181d8e22477ea0f7f8653ac049",
+   "original_binary_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "en": "Assembly Hall",
+   "baseline_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "expected_words": {
+    "1212": 10355928
+   }
+  },
+  {
+   "id": "EVEMAP/00056:000004E0",
+   "member": 56,
+   "offset": 1248,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "2c610b4357351485bccdba6b9408f8ccdcddfd03ced4341d85b5a114536e35d9",
+   "original_binary_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "en": "Ruins",
+   "baseline_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "expected_words": {
+    "1200": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00056:000004E8",
+   "member": 56,
+   "offset": 1256,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "en": "Main Street",
+   "baseline_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "expected_words": {
+    "1188": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00056:00000500",
+   "member": 56,
+   "offset": 1280,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "f579a94b691d09ed6469e0bc088c6a4fd5233625018ca196c78e236b56a5c5be",
+   "original_binary_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "en": "Airport",
+   "baseline_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "expected_words": {
+    "1176": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00056:00000510",
+   "member": 56,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "a35b3571c442d66de0c791c63e5c787744a6a310d4336eda0bd3e0ff1efbf85c",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00057:000004D0",
+   "member": 57,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "fe266d29ea75439a3e4460607c1c4b9a00d182fb66ff1039cb6969e16894890f",
+   "original_binary_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "en": "Trydetol",
+   "baseline_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00057:000004E0",
+   "member": 57,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "37c84e51ab22d89df0ff8cdeb2e3036d9b6964025a0ebd784b977cb30b0e32af",
+   "original_binary_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "en": "Assembly Hall",
+   "baseline_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00057:000004E8",
+   "member": 57,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "en": "Outskirts",
+   "baseline_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "expected_words": {
+    "1200": 10355944
+   }
+  },
+  {
+   "id": "EVEMAP/00057:000004F0",
+   "member": 57,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "a0e1b9dc2bce1318e4ca77cf7a73ca782aef5cfc84922563dff9faab8c1c80c1",
+   "original_binary_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "en": "Central Area",
+   "baseline_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "expected_words": {
+    "1188": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00057:000004F8",
+   "member": 57,
+   "offset": 1272,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "edd6b2993be7f598e250b225e2996434050493442a850fcfb67b28ce0399cef1",
+   "original_binary_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "en": "Dock",
+   "baseline_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "expected_words": {
+    "1176": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00057:00000500",
+   "member": 57,
+   "offset": 1280,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "a7f0e847c80cd2cda9dd86a30597b3a8f9b60f1329b051700e2223284b6db6b7",
+   "expected_words": {
+    "1164": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00058:000004D0",
+   "member": 58,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "37fbdc28bedba69b55a6e82453b380535a17e5d059e5ad95795d2ade13f15074",
+   "original_binary_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "en": "Grados",
+   "baseline_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00058:000004E0",
+   "member": 58,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "5badbc8c16b5a63659182318099f0bd37dc6293b6953e65261d8beb04053bf92",
+   "original_binary_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "en": "Rest Room",
+   "baseline_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00058:000004F0",
+   "member": 58,
+   "offset": 1264,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "en": "Outskirts",
+   "baseline_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "expected_words": {
+    "1200": 10355952
+   }
+  },
+  {
+   "id": "EVEMAP/00058:000004F8",
+   "member": 58,
+   "offset": 1272,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "en": "Main Street",
+   "baseline_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "expected_words": {
+    "1188": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00058:00000510",
+   "member": 58,
+   "offset": 1296,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "f579a94b691d09ed6469e0bc088c6a4fd5233625018ca196c78e236b56a5c5be",
+   "original_binary_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "en": "Airport",
+   "baseline_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "expected_words": {
+    "1176": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00058:00000520",
+   "member": 58,
+   "offset": 1312,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "63ae29d97f52e6099dab21b104ef13a49bc0aa7e27978cfcd024c04aca1613ba",
+   "expected_words": {
+    "1164": 10356000
+   }
+  },
+  {
+   "id": "EVEMAP/00059:000004D0",
+   "member": 59,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "d96748f4cb966e2f14105e81a0123d982bd86db98fab8ade7157f1a530592c49",
+   "original_binary_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "en": "Liberation Front Base",
+   "baseline_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "expected_words": {
+    "1128": 10355920,
+    "1140": 10355920,
+    "1152": 10355920
+   }
+  },
+  {
+   "id": "EVEMAP/00059:000004E0",
+   "member": 59,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 21,
+   "source_sha256": "c4fff3634e032f4ae87b611cf37dc196f8eef3abd408ef6d749021ff803d6a1f",
+   "original_binary_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "en": "Briefing Room",
+   "baseline_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "expected_words": {
+    "1212": 10355936
+   }
+  },
+  {
+   "id": "EVEMAP/00059:000004F8",
+   "member": 59,
+   "offset": 1272,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "en": "Outskirts",
+   "baseline_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "expected_words": {
+    "1200": 10355960
+   }
+  },
+  {
+   "id": "EVEMAP/00059:00000500",
+   "member": 59,
+   "offset": 1280,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "304e7a7786171e251822a50f73d37d569ceedbe9c594a6ebda36f1f625f19704",
+   "original_binary_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "en": "Urban Area",
+   "baseline_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "expected_words": {
+    "1188": 10355968
+   }
+  },
+  {
+   "id": "EVEMAP/00059:00000508",
+   "member": 59,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "en": "Airport",
+   "baseline_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "expected_words": {
+    "1176": 10355976
+   }
+  },
+  {
+   "id": "EVEMAP/00059:00000510",
+   "member": 59,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "5f5b73771e5171222668549ed755dbf7e2b31caa7cbc7d9e51f4e249f1c6d4ad",
+   "expected_words": {
+    "1164": 10355984
+   }
+  },
+  {
+   "id": "EVEMAP/00060:000004D0",
+   "member": 60,
+   "offset": 1232,
+   "sites": [
+    1128,
+    1140,
+    1152
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Cloud City",
+   "baseline_sha256": "3b6e6edcd9c453ff612385253197b7005ca7eb3e7e1dc997afe0ec210afdbeef",
+   "expected_words": {
+    "1128": 10204912,
+    "1140": 10204912,
+    "1152": 10204912
+   }
+  },
+  {
+   "id": "EVEMAP/00060:000004E0",
+   "member": 60,
+   "offset": 1248,
+   "sites": [
+    1212
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "ef21e078b73287c7dff093e6cb32e11ca7771cddd57a6b2005929f729a3c471e",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Home",
+   "baseline_sha256": "3b6e6edcd9c453ff612385253197b7005ca7eb3e7e1dc997afe0ec210afdbeef",
+   "expected_words": {
+    "1212": 10204928
+   }
+  },
+  {
+   "id": "EVEMAP/00060:000004E8",
+   "member": 60,
+   "offset": 1256,
+   "sites": [
+    1200
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Outskirts",
+   "baseline_sha256": "3b6e6edcd9c453ff612385253197b7005ca7eb3e7e1dc997afe0ec210afdbeef",
+   "expected_words": {
+    "1200": 10204936
+   }
+  },
+  {
+   "id": "EVEMAP/00060:000004F0",
+   "member": 60,
+   "offset": 1264,
+   "sites": [
+    1188
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Main Street",
+   "baseline_sha256": "3b6e6edcd9c453ff612385253197b7005ca7eb3e7e1dc997afe0ec210afdbeef",
+   "expected_words": {
+    "1188": 10204952
+   }
+  },
+  {
+   "id": "EVEMAP/00060:00000508",
+   "member": 60,
+   "offset": 1288,
+   "sites": [
+    1176
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Airport",
+   "baseline_sha256": "3b6e6edcd9c453ff612385253197b7005ca7eb3e7e1dc997afe0ec210afdbeef",
+   "expected_words": {
+    "1176": 10204968
+   }
+  },
+  {
+   "id": "EVEMAP/00060:00000510",
+   "member": 60,
+   "offset": 1296,
+   "sites": [
+    1164
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a",
+   "en": "Maintenance Deck",
+   "baseline_sha256": "3b6e6edcd9c453ff612385253197b7005ca7eb3e7e1dc997afe0ec210afdbeef",
+   "expected_words": {
+    "1164": 10204976
+   }
+  },
+  {
+   "id": "EVEMAP/00061:00000980",
+   "member": 61,
+   "offset": 2432,
+   "sites": [
+    2260
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "1d2e0e30ce2523a84c84a237217e75d0191d839ab9f0646c0a6247cee4df5876",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "en": "Claudia Exit",
+   "baseline_sha256": "0492ee41857b0003496175f721ff0de5f43d5e75a74aab4bfe36149a02caa5a1",
+   "expected_words": {
+    "2260": 10357120
+   }
+  },
+  {
+   "id": "EVEMAP/00061:00000998",
+   "member": 61,
+   "offset": 2456,
+   "sites": [
+    2216
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "5c39b14d88733996f0d0a806c4bfab14525db6b1ec71aa0bb6d2abfee85f3260",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "en": "Astante Fortress Ruins",
+   "baseline_sha256": "0492ee41857b0003496175f721ff0de5f43d5e75a74aab4bfe36149a02caa5a1",
+   "expected_words": {
+    "2216": 10206248
+   }
+  },
+  {
+   "id": "EVEMAP/00061:000009B0",
+   "member": 61,
+   "offset": 2480,
+   "sites": [
+    2172
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "82c72400eb7c8c80a119fc2cd4195e3e7de012babdc9888dbc61a972eb5cf0e2",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "en": "Deon Town",
+   "baseline_sha256": "0492ee41857b0003496175f721ff0de5f43d5e75a74aab4bfe36149a02caa5a1",
+   "expected_words": {
+    "2172": 10206232
+   }
+  },
+  {
+   "id": "EVEMAP/00061:000009C0",
+   "member": 61,
+   "offset": 2496,
+   "sites": [
+    2128
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "25f5968ea85390a8bebf52ad11ad17400d3dcdeed44f2815ef0b75371197c4e6",
+   "en": "Cloud City",
+   "baseline_sha256": "0492ee41857b0003496175f721ff0de5f43d5e75a74aab4bfe36149a02caa5a1",
+   "expected_words": {
+    "2128": 10203344
+   }
+  },
+  {
+   "id": "EVEMAP/00062:00000E80",
+   "member": 62,
+   "offset": 3712,
+   "sites": [
+    3188
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "a55b04d489ef205d90fbe557de2686aefb603fbf5229b085a9ad64d56013357a",
+   "original_binary_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "en": "Terra Exit",
+   "baseline_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "expected_words": {
+    "3188": 10358400
+   }
+  },
+  {
+   "id": "EVEMAP/00062:00000E90",
+   "member": 62,
+   "offset": 3728,
+   "sites": [
+    3144
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "63fc288b32cf640adb29c32038d7e9e20000f6b1926f02a6ca6a37153b60dc0e",
+   "original_binary_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "en": "Jaburo",
+   "baseline_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "expected_words": {
+    "3144": 10358416
+   }
+  },
+  {
+   "id": "EVEMAP/00062:00000EA0",
+   "member": 62,
+   "offset": 3744,
+   "sites": [
+    3100
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "43a31e99c8df4d0e5974bd9532565fd7d843c4e8c84cf6a8c87e8abe51e1a017",
+   "original_binary_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "en": "Von Braun",
+   "baseline_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "expected_words": {
+    "3100": 10358432
+   }
+  },
+  {
+   "id": "EVEMAP/00062:00000EB0",
+   "member": 62,
+   "offset": 3760,
+   "sites": [
+    3056
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "75d6b89f68e2573f4011966ce102e0cb88445f266df41102694e0ed3ddf45ef6",
+   "original_binary_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "en": "Kilimanjaro",
+   "baseline_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "expected_words": {
+    "3056": 10358448
+   }
+  },
+  {
+   "id": "EVEMAP/00062:00000EC0",
+   "member": 62,
+   "offset": 3776,
+   "sites": [
+    3012
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "29cbf44638eca5d26b09b1e26bebab8932f7b85cb921b46e4f942984b12fd30a",
+   "original_binary_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "en": "Hong Kong City",
+   "baseline_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "expected_words": {
+    "3012": 10358464
+   }
+  },
+  {
+   "id": "EVEMAP/00062:00000ED0",
+   "member": 62,
+   "offset": 3792,
+   "sites": [
+    2968
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "b527522fe3d206edbfaa049a8ed10e965cdb12a7a66fa6297dd4dbc019cd863b",
+   "original_binary_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "en": "Green Noa",
+   "baseline_sha256": "610557b4caa2dc0eb56fae39faa2e9da446bdeed40d54a5404f6eb96f0bdce9e",
+   "expected_words": {
+    "2968": 10358480
+   }
+  },
+  {
+   "id": "EVEMAP/00063:00000BD0",
+   "member": 63,
+   "offset": 3024,
+   "sites": [
+    2500
+   ],
+   "code": [],
+   "source_size": 19,
+   "source_sha256": "a08cc357a60602d6a0911de733dc85c0878b4220a3b75c491474477b4c8a75ed",
+   "original_binary_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "en": "Astragius Exit",
+   "baseline_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "expected_words": {
+    "2500": 10357712
+   }
+  },
+  {
+   "id": "EVEMAP/00063:00000BE8",
+   "member": 63,
+   "offset": 3048,
+   "sites": [
+    2456
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "6c643af9a79ffa74e82374214649747f7108cf05baac70eb355f7ee2e5125c19",
+   "original_binary_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "en": "Kummen",
+   "baseline_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "expected_words": {
+    "2456": 10357736
+   }
+  },
+  {
+   "id": "EVEMAP/00063:00000BF0",
+   "member": 63,
+   "offset": 3056,
+   "sites": [
+    2412
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "64e1d42f1b847ef7f2cb576290fc4641b0b7285fc818a5f30ca979c16ca98ae1",
+   "original_binary_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "en": "Uoodo",
+   "baseline_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "expected_words": {
+    "2412": 10357744
+   }
+  },
+  {
+   "id": "EVEMAP/00063:00000BF8",
+   "member": 63,
+   "offset": 3064,
+   "sites": [
+    2368
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "3ffa481549eabbaab8d2f67a39f3349d00062ee0b1db1da414efb1b824c01d92",
+   "original_binary_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "en": "Gilgamesh",
+   "baseline_sha256": "eb1c881f4733e0899c2eae2a3da74499a0dbffae845c36fdd2e8372ff73d1f57",
+   "expected_words": {
+    "2368": 10357752
+   }
+  },
+  {
+   "id": "EVEMAP/00064:00000DA0",
+   "member": 64,
+   "offset": 3488,
+   "sites": [
+    2968
+   ],
+   "code": [],
+   "source_size": 21,
+   "source_sha256": "cf16b819762f934f1aba7589ba2a3c177c39428ea09890e5bb16b496042d9fcc",
+   "original_binary_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "en": "Byston Well Exit",
+   "baseline_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "expected_words": {
+    "2968": 10358176
+   }
+  },
+  {
+   "id": "EVEMAP/00064:00000DB8",
+   "member": 64,
+   "offset": 3512,
+   "sites": [
+    2924
+   ],
+   "code": [],
+   "source_size": 3,
+   "source_sha256": "078d21e4b4372ac04c7b86c8c86b237866b13232fed5bfa586a40e9fa0a72be8",
+   "original_binary_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "en": "Na",
+   "baseline_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "expected_words": {
+    "2924": 10358200
+   }
+  },
+  {
+   "id": "EVEMAP/00064:00000DC0",
+   "member": 64,
+   "offset": 3520,
+   "sites": [
+    2880
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "fb4a6ef1062bfafcf93cbfd5c69d7a6fbef7c1dbce5ffd6354a8dc5db9d4bc55",
+   "original_binary_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "en": "Lau",
+   "baseline_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "expected_words": {
+    "2880": 10358208
+   }
+  },
+  {
+   "id": "EVEMAP/00064:00000DC8",
+   "member": 64,
+   "offset": 3528,
+   "sites": [
+    2836
+   ],
+   "code": [],
+   "source_size": 3,
+   "source_sha256": "2264b0227984a149e8ff116680ebb5484b94365f282be5d378164f2ae583ab92",
+   "original_binary_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "en": "Ku",
+   "baseline_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "expected_words": {
+    "2836": 10358216
+   }
+  },
+  {
+   "id": "EVEMAP/00064:00000DD0",
+   "member": 64,
+   "offset": 3536,
+   "sites": [
+    2792
+   ],
+   "code": [],
+   "source_size": 3,
+   "source_sha256": "827c7aecbdcc33fb27b45347f5013274fcd317b5087d74a4ca8e17854c33cbb7",
+   "original_binary_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "en": "A",
+   "baseline_sha256": "9498e53929adefbe0e08f2d2811c13e0282c6c99433cc13fca4222d7a0fbe935",
+   "expected_words": {
+    "2792": 10358224
+   }
+  },
+  {
+   "id": "EVEMAP/00065:00000BD0",
+   "member": 65,
+   "offset": 3024,
+   "sites": [
+    2500
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "d6609a13f2274438c1c15d636c3082058381c754786c43d817370f020fb9e256",
+   "original_binary_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "en": "Crescent Exit",
+   "baseline_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "expected_words": {
+    "2500": 10357712
+   }
+  },
+  {
+   "id": "EVEMAP/00065:00000BE0",
+   "member": 65,
+   "offset": 3040,
+   "sites": [
+    2456
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "fcb7928dc22eaa9f414c8c403adef504a67287d9288428a60d1f42fd09376a62",
+   "original_binary_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "en": "Omuga",
+   "baseline_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "expected_words": {
+    "2456": 10357728
+   }
+  },
+  {
+   "id": "EVEMAP/00065:00000BE8",
+   "member": 65,
+   "offset": 3048,
+   "sites": [
+    2412
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "11a8bbe8d9cda3936645681aba53b6fc7053cf8ca7b28c5840357571f5dc97ff",
+   "original_binary_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "en": "White Valley",
+   "baseline_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "expected_words": {
+    "2412": 10357736
+   }
+  },
+  {
+   "id": "EVEMAP/00065:00000BF0",
+   "member": 65,
+   "offset": 3056,
+   "sites": [
+    2368
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "b2a5037e8cc2a26d501db1bb361a619cbc365ad91822dedcf7ed7ddda6836ae7",
+   "original_binary_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "en": "Iron City",
+   "baseline_sha256": "8c407ffbd49b54f43533d90c35d1e693f9bcca83365b5de3abe2e1ff262b7e07",
+   "expected_words": {
+    "2368": 10357744
+   }
+  },
+  {
+   "id": "EVEMAP/00066:00000B30",
+   "member": 66,
+   "offset": 2864,
+   "sites": [
+    2336
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "1abd60d86464ae8f8012a3e2bb4b9d791f178bd8ba7d440022dbd37a91ff025e",
+   "original_binary_sha256": "959716cfaa61f449fffe3afabad68c2e23491fe59c211af44d12911ddc6dec38",
+   "en": "Brave Exit",
+   "baseline_sha256": "959716cfaa61f449fffe3afabad68c2e23491fe59c211af44d12911ddc6dec38",
+   "expected_words": {
+    "2336": 10357552
+   }
+  },
+  {
+   "id": "EVEMAP/00066:00000B40",
+   "member": 66,
+   "offset": 2880,
+   "sites": [
+    2292
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "d58f6e2ff94da0d7e94a605eaa8140ba6cd12b1043509cd83451018e7ed7399a",
+   "original_binary_sha256": "959716cfaa61f449fffe3afabad68c2e23491fe59c211af44d12911ddc6dec38",
+   "en": "Kyoto",
+   "baseline_sha256": "959716cfaa61f449fffe3afabad68c2e23491fe59c211af44d12911ddc6dec38",
+   "expected_words": {
+    "2292": 10357568
+   }
+  },
+  {
+   "id": "EVEMAP/00066:00000B50",
+   "member": 66,
+   "offset": 2896,
+   "sites": [
+    2248
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "d12c3065dd13713919b3fcc8f39251712b03319442ffd2b400810a11c5e30f58",
+   "original_binary_sha256": "959716cfaa61f449fffe3afabad68c2e23491fe59c211af44d12911ddc6dec38",
+   "en": "Tokio",
+   "baseline_sha256": "959716cfaa61f449fffe3afabad68c2e23491fe59c211af44d12911ddc6dec38",
+   "expected_words": {
+    "2248": 10357584
+   }
+  },
+  {
+   "id": "EVEMAP/00067:00000BD0",
+   "member": 67,
+   "offset": 3024,
+   "sites": [
+    2620
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "cf093fe30cbf02cfc97a48fde7edfd929eea6f28de5b6c26d6f8e53d4e923089",
+   "original_binary_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "en": "Pentagona Exit",
+   "baseline_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "expected_words": {
+    "2620": 10357712
+   }
+  },
+  {
+   "id": "EVEMAP/00067:00000BE0",
+   "member": 67,
+   "offset": 3040,
+   "sites": [
+    2576
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "fe266d29ea75439a3e4460607c1c4b9a00d182fb66ff1039cb6969e16894890f",
+   "original_binary_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "en": "Trydetol",
+   "baseline_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "expected_words": {
+    "2576": 10357728
+   }
+  },
+  {
+   "id": "EVEMAP/00067:00000BF0",
+   "member": 67,
+   "offset": 3056,
+   "sites": [
+    2532
+   ],
+   "code": [],
+   "source_size": 7,
+   "source_sha256": "e8621df6cc5059bf7c4fb295c9761982992d4a4c3696b61e11d3443fa0256920",
+   "original_binary_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "en": "Mizun",
+   "baseline_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "expected_words": {
+    "2532": 10357744
+   }
+  },
+  {
+   "id": "EVEMAP/00067:00000BF8",
+   "member": 67,
+   "offset": 3064,
+   "sites": [
+    2488
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "9247b769c687422beff07f3452ba3a21b32230eebb9da4e49798e920b5128ac8",
+   "original_binary_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "en": "Gastogal",
+   "baseline_sha256": "1094ef705af94a1b71a57cf20481e51f61844d4273edab38e1c8e5e347af69cd",
+   "expected_words": {
+    "2488": 10357752
+   }
+  },
+  {
+   "id": "EVEMAP/00068:000009C0",
+   "member": 68,
+   "offset": 2496,
+   "sites": [
+    2216
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "a9303f9aeced916d54326a0da45686f24762dd1393e6132f21f034042100297f",
+   "original_binary_sha256": "f9bc4518bdad78f4c8fc8b33cb74e23fa2650ad79b6f06df39b25589b674246f",
+   "en": "Grados Exit",
+   "baseline_sha256": "f9bc4518bdad78f4c8fc8b33cb74e23fa2650ad79b6f06df39b25589b674246f",
+   "expected_words": {
+    "2216": 10357184
+   }
+  },
+  {
+   "id": "EVEMAP/00068:000009D0",
+   "member": 68,
+   "offset": 2512,
+   "sites": [
+    2172
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "d96748f4cb966e2f14105e81a0123d982bd86db98fab8ade7157f1a530592c49",
+   "original_binary_sha256": "f9bc4518bdad78f4c8fc8b33cb74e23fa2650ad79b6f06df39b25589b674246f",
+   "en": "Liberation Front Base",
+   "baseline_sha256": "f9bc4518bdad78f4c8fc8b33cb74e23fa2650ad79b6f06df39b25589b674246f",
+   "expected_words": {
+    "2172": 10357200
+   }
+  },
+  {
+   "id": "EVEMAP/00068:000009E0",
+   "member": 68,
+   "offset": 2528,
+   "sites": [
+    2128
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "37fbdc28bedba69b55a6e82453b380535a17e5d059e5ad95795d2ade13f15074",
+   "original_binary_sha256": "f9bc4518bdad78f4c8fc8b33cb74e23fa2650ad79b6f06df39b25589b674246f",
+   "en": "Grados",
+   "baseline_sha256": "f9bc4518bdad78f4c8fc8b33cb74e23fa2650ad79b6f06df39b25589b674246f",
+   "expected_words": {
+    "2128": 10357216
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001AD0",
+   "member": 69,
+   "offset": 6864,
+   "sites": [
+    6824
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6824": 10361552
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001AE0",
+   "member": 69,
+   "offset": 6880,
+   "sites": [
+    6780
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Brave",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6780": 10361568
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001AF0",
+   "member": 69,
+   "offset": 6896,
+   "sites": [
+    6736
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Crescent",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6736": 10361584
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001B00",
+   "member": 69,
+   "offset": 6912,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "d6bcf7079f3882f57968fd8d23a7d97d7f0e8cb8ac1dad2ae8fc8cdce172756e",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Byston Well",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6692": 10361600
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001B18",
+   "member": 69,
+   "offset": 6936,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Astragius",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6648": 10361624
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001B28",
+   "member": 69,
+   "offset": 6952,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Terra",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6604": 10361640
+   }
+  },
+  {
+   "id": "EVEMAP/00069:00001B30",
+   "member": 69,
+   "offset": 6960,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "en": "Claudia",
+   "baseline_sha256": "d4398c551ace04381271401b46a4a03ecce50c1a4264c86aae2444008617618a",
+   "expected_words": {
+    "6560": 10361648
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B00",
+   "member": 70,
+   "offset": 6912,
+   "sites": [
+    6868
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6868": 10361600
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B10",
+   "member": 70,
+   "offset": 6928,
+   "sites": [
+    6824
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Pentagona",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6824": 10361616
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B20",
+   "member": 70,
+   "offset": 6944,
+   "sites": [
+    6780
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Brave",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6780": 10361632
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B30",
+   "member": 70,
+   "offset": 6960,
+   "sites": [
+    6736
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Crescent",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6736": 10361648
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B40",
+   "member": 70,
+   "offset": 6976,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "d6bcf7079f3882f57968fd8d23a7d97d7f0e8cb8ac1dad2ae8fc8cdce172756e",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Byston Well",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6692": 10361664
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B58",
+   "member": 70,
+   "offset": 7000,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Astragius",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6648": 10361688
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B68",
+   "member": 70,
+   "offset": 7016,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Terra",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6604": 10361704
+   }
+  },
+  {
+   "id": "EVEMAP/00070:00001B70",
+   "member": 70,
+   "offset": 7024,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "en": "Claudia",
+   "baseline_sha256": "bbcd324caa65134ea6a9ace1ff3c5c852075c91bb0af299d7d1d607f9e17697c",
+   "expected_words": {
+    "6560": 10361712
+   }
+  },
+  {
+   "id": "EVEMAP/00071:00001A20",
+   "member": 71,
+   "offset": 6688,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "49ed4e70809cf2573651c3d8b1fbaaa8bc4e01fd9bd89e5b6e1575885c83c880",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "49ed4e70809cf2573651c3d8b1fbaaa8bc4e01fd9bd89e5b6e1575885c83c880",
+   "expected_words": {
+    "6648": 10361376
+   }
+  },
+  {
+   "id": "EVEMAP/00071:00001A30",
+   "member": 71,
+   "offset": 6704,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "49ed4e70809cf2573651c3d8b1fbaaa8bc4e01fd9bd89e5b6e1575885c83c880",
+   "en": "Pentagona",
+   "baseline_sha256": "49ed4e70809cf2573651c3d8b1fbaaa8bc4e01fd9bd89e5b6e1575885c83c880",
+   "expected_words": {
+    "6604": 10361392
+   }
+  },
+  {
+   "id": "EVEMAP/00071:00001A40",
+   "member": 71,
+   "offset": 6720,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "49ed4e70809cf2573651c3d8b1fbaaa8bc4e01fd9bd89e5b6e1575885c83c880",
+   "en": "Terra",
+   "baseline_sha256": "49ed4e70809cf2573651c3d8b1fbaaa8bc4e01fd9bd89e5b6e1575885c83c880",
+   "expected_words": {
+    "6560": 10361408
+   }
+  },
+  {
+   "id": "EVEMAP/00072:00001A50",
+   "member": 72,
+   "offset": 6736,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "expected_words": {
+    "6692": 10361424
+   }
+  },
+  {
+   "id": "EVEMAP/00072:00001A60",
+   "member": 72,
+   "offset": 6752,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "en": "Pentagona",
+   "baseline_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "expected_words": {
+    "6648": 10361440
+   }
+  },
+  {
+   "id": "EVEMAP/00072:00001A70",
+   "member": 72,
+   "offset": 6768,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "en": "Astragius",
+   "baseline_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "expected_words": {
+    "6604": 10361456
+   }
+  },
+  {
+   "id": "EVEMAP/00072:00001A80",
+   "member": 72,
+   "offset": 6784,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "en": "Terra",
+   "baseline_sha256": "a1c7124bc4b9607bb8b5d80669203a239e297400ec23edc507a2cd26361baf9e",
+   "expected_words": {
+    "6560": 10361472
+   }
+  },
+  {
+   "id": "EVEMAP/00073:00001AA0",
+   "member": 73,
+   "offset": 6816,
+   "sites": [
+    6780
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "expected_words": {
+    "6780": 10361504
+   }
+  },
+  {
+   "id": "EVEMAP/00073:00001AB0",
+   "member": 73,
+   "offset": 6832,
+   "sites": [
+    6736
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "en": "Pentagona",
+   "baseline_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "expected_words": {
+    "6736": 10361520
+   }
+  },
+  {
+   "id": "EVEMAP/00073:00001AC0",
+   "member": 73,
+   "offset": 6848,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "en": "Crescent",
+   "baseline_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "expected_words": {
+    "6692": 10361536
+   }
+  },
+  {
+   "id": "EVEMAP/00073:00001AD0",
+   "member": 73,
+   "offset": 6864,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "en": "Astragius",
+   "baseline_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "expected_words": {
+    "6648": 10361552
+   }
+  },
+  {
+   "id": "EVEMAP/00073:00001AE0",
+   "member": 73,
+   "offset": 6880,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "en": "Terra",
+   "baseline_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "expected_words": {
+    "6604": 10361568
+   }
+  },
+  {
+   "id": "EVEMAP/00073:00001AE8",
+   "member": 73,
+   "offset": 6888,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "en": "Claudia",
+   "baseline_sha256": "bcd4fb312342ba7d916a09b85d75b2663ba7b829135c7f4574456bf61ecebd5a",
+   "expected_words": {
+    "6560": 10361576
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001AD0",
+   "member": 74,
+   "offset": 6864,
+   "sites": [
+    6824
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6824": 10361552
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001AE0",
+   "member": 74,
+   "offset": 6880,
+   "sites": [
+    6780
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Pentagona",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6780": 10361568
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001AF0",
+   "member": 74,
+   "offset": 6896,
+   "sites": [
+    6736
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Brave",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6736": 10361584
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001B00",
+   "member": 74,
+   "offset": 6912,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Crescent",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6692": 10361600
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001B10",
+   "member": 74,
+   "offset": 6928,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Astragius",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6648": 10361616
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001B20",
+   "member": 74,
+   "offset": 6944,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Terra",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6604": 10361632
+   }
+  },
+  {
+   "id": "EVEMAP/00074:00001B28",
+   "member": 74,
+   "offset": 6952,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "en": "Claudia",
+   "baseline_sha256": "d58130cf7d260423ded8c4bfb63f41eef929d02af75d13e2d6f94a0b83a42b1f",
+   "expected_words": {
+    "6560": 10361640
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B00",
+   "member": 75,
+   "offset": 6912,
+   "sites": [
+    6868
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6868": 10361600
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B10",
+   "member": 75,
+   "offset": 6928,
+   "sites": [
+    6824
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Pentagona",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6824": 10361616
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B20",
+   "member": 75,
+   "offset": 6944,
+   "sites": [
+    6780
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Brave",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6780": 10361632
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B30",
+   "member": 75,
+   "offset": 6960,
+   "sites": [
+    6736
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Crescent",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6736": 10361648
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B40",
+   "member": 75,
+   "offset": 6976,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "d6bcf7079f3882f57968fd8d23a7d97d7f0e8cb8ac1dad2ae8fc8cdce172756e",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Byston Well",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6692": 10361664
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B58",
+   "member": 75,
+   "offset": 7000,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Astragius",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6648": 10361688
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B68",
+   "member": 75,
+   "offset": 7016,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Terra",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6604": 10361704
+   }
+  },
+  {
+   "id": "EVEMAP/00075:00001B70",
+   "member": 75,
+   "offset": 7024,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "en": "Claudia",
+   "baseline_sha256": "f39adee0f74c9401bcc77d7d57493fa994a47ca2240cfc447872a518bffbbe79",
+   "expected_words": {
+    "6560": 10361712
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B20",
+   "member": 76,
+   "offset": 6944,
+   "sites": [
+    6912
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "07fa2a582b6f03b3093bbdb814dba2bdb780f4292e0559229ba58626e7c97517",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Cloud Sea Exit",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6912": 10361632
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B30",
+   "member": 76,
+   "offset": 6960,
+   "sites": [
+    6868
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "37fbdc28bedba69b55a6e82453b380535a17e5d059e5ad95795d2ade13f15074",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Grados",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6868": 10361648
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B40",
+   "member": 76,
+   "offset": 6976,
+   "sites": [
+    6824
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Pentagona",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6824": 10361664
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B50",
+   "member": 76,
+   "offset": 6992,
+   "sites": [
+    6780
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Brave",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6780": 10361680
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B60",
+   "member": 76,
+   "offset": 7008,
+   "sites": [
+    6736
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Crescent",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6736": 10361696
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B70",
+   "member": 76,
+   "offset": 7024,
+   "sites": [
+    6692
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "d6bcf7079f3882f57968fd8d23a7d97d7f0e8cb8ac1dad2ae8fc8cdce172756e",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Byston Well",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6692": 10361712
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B88",
+   "member": 76,
+   "offset": 7048,
+   "sites": [
+    6648
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Astragius",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6648": 10361736
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001B98",
+   "member": 76,
+   "offset": 7064,
+   "sites": [
+    6604
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Terra",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6604": 10361752
+   }
+  },
+  {
+   "id": "EVEMAP/00076:00001BA0",
+   "member": 76,
+   "offset": 7072,
+   "sites": [
+    6560
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "en": "Claudia",
+   "baseline_sha256": "200752d196ba8e2d66362d40c69574858fc39c5587cc56923cde531434beb4d0",
+   "expected_words": {
+    "6560": 10361760
+   }
+  },
+  {
+   "id": "EVEMAP/00079:00002090",
+   "member": 79,
+   "offset": 8336,
+   "sites": [
+    7708
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "37fbdc28bedba69b55a6e82453b380535a17e5d059e5ad95795d2ade13f15074",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Grados",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7708": 10363024
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000020A0",
+   "member": 79,
+   "offset": 8352,
+   "sites": [
+    7704
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "41c6e36e18f536af44fc457326103da221be1e8c62bccde04078c3e295c46b0a",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Pentagona",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7704": 10363040
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000020B0",
+   "member": 79,
+   "offset": 8368,
+   "sites": [
+    7700
+   ],
+   "code": [],
+   "source_size": 9,
+   "source_sha256": "2d7a542547ee99576235046459acde53b276d610bd7bf5d250e267f66f0e171f",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Brave",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7700": 10363056
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000020C0",
+   "member": 79,
+   "offset": 8384,
+   "sites": [
+    7696
+   ],
+   "code": [],
+   "source_size": 11,
+   "source_sha256": "59ede1e2815f297351a6d0a04d81e6c11ceab56ecbc1223363c2fad1947cef84",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Crescent",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7696": 10363072
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000020D0",
+   "member": 79,
+   "offset": 8400,
+   "sites": [
+    7692
+   ],
+   "code": [],
+   "source_size": 17,
+   "source_sha256": "d6bcf7079f3882f57968fd8d23a7d97d7f0e8cb8ac1dad2ae8fc8cdce172756e",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Byston Well",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7692": 10363088
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000020E8",
+   "member": 79,
+   "offset": 8424,
+   "sites": [
+    7688
+   ],
+   "code": [],
+   "source_size": 15,
+   "source_sha256": "e6c5a543b1e2bb1c3d4f88883928f46117def12e2e0325afbf7ca418093748af",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Astragius",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7688": 10363112
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000020F8",
+   "member": 79,
+   "offset": 8440,
+   "sites": [
+    7684
+   ],
+   "code": [],
+   "source_size": 5,
+   "source_sha256": "e624399ed1f8fc2cce95cbad6f61f1ffb9ef19b6b901da346ab5f08e931ddd6c",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Terra",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7684": 10363128
+   }
+  },
+  {
+   "id": "EVEMAP/00079:00002100",
+   "member": 79,
+   "offset": 8448,
+   "sites": [
+    7680
+   ],
+   "code": [],
+   "source_size": 13,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Claudia",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {
+    "7680": 10363136
+   }
+  },
+  {
+   "id": "EVEMAP/00079:000022D0",
+   "member": 79,
+   "offset": 8912,
+   "sites": [],
+   "code": [
+    {
+     "site": 4692,
+     "lui": 4684,
+     "target": 10363600,
+     "register": 5,
+     "base_register": 2,
+     "lui_word": 1006764190,
+     "word": 608510672,
+     "adjacent": false
+    }
+   ],
+   "source_size": 9,
+   "source_sha256": "2601aac045b20d2e2f0889b9610cd08aa6f65e77b0a79311d92624243d89a88c",
+   "original_binary_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "en": "Select Continent",
+   "baseline_sha256": "966b3e44e8251fa197ed8ace12ef9aa762427fb958e24dfb51a32010975ea32d",
+   "expected_words": {}
+  }
+ ],
+ "reuse": {
+  "Cloud City": 10203344,
+  "Deon Town": 10206232,
+  "Astante Fortress Ruins": 10206248,
+  "Claudia": 10203328,
+  "Home": 10204752,
+  "Outskirts": 10204760,
+  "Main Street": 10204776,
+  "Airport": 10204792,
+  "Maintenance Deck": 10204800,
+  "Bar": 10206272,
+  "Park": 10205000
+ },
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy": {
+  "report_sha256": "2e89444e0b84b7a5afe3b274a840144622252dbe98b2a79cf3b798dd3fc00afa",
+  "labels": 86,
+  "objects": 296
+ },
+ "editorial": "Separate English-only pass of all86 complete labels: clear noun captions and consistent title case; full approved place names retained. Area distinctions preserved (Main Road/Main Street, Urban Area/Central Area). No changes to accuracy wording.",
+ "glossary": {
+  "sha256": "d0504ff8698783f685646eb4a8bf3cae4b7d5ff56d890f2ee2d253c174cd70e2",
+  "entries": 1681,
+  "registered_variants": 24,
+  "hits": []
+ },
+ "proofreading": "All86 saved complete English labels read for spelling, punctuation and duplication; no controls or placeholders occur. Table order, location IDs and area distinctions preserved.",
+ "qualifications": {
+  "shortnames": "A/Ku/Lau/Na are exact whole location labels only. Never substring-replace these syllables in prose or other names. Do not add Kingdom of. Likewise no Continent/Galaxy/Base/Mount/1/2000 expansion where absent.",
+  "fixed_metadata": "Preserve exact fixed spellings, including provisional Kemi/Uroporos and source-short Tatara/Laas Wau. Notes/authority/access limits remain attached; no new official English claim or external-geography import.",
+  "ordinary_labels": "Translate complete noun labels without invented actors, actions or facility mechanics. Exit labels retain their place stem and Exit. Names and area captions may share English where source variants are synonymous.",
+  "source_anomalies": "Assemble EX10 intentionally preserves actual omitted hyphen rather than silently restoring registered full-form punctuation. Kyoto\u6f22\u5b57 is a bounded same-town script counterpart, not a new global alias.",
+  "room_uncertainty": "Rest Room retains written loan-caption extent with explicit unresolved lounge/toilet/function qualification; no recovery, bathroom or rest-effect claim.",
+  "scope": "Positive native labels within the supplied ELF tables and all available overlay catalogs. Does not translate or certify filenames, selectors without location meaning, songs, dialogue mentions, texture-only signs or unknown caller behavior."
+ },
+ "coverage": {
+  "overlay_objects": 262,
+  "overlay_members": 44,
+  "elf_table_entries": 35,
+  "elf_unique_objects": 34,
+  "distinct_source_labels": 86,
+  "available_catalogs": 76,
+  "all_original_binaries": 80,
+  "excluded_positive_nonlocation_records": 94,
+  "missing_catalog_binaries": "30\u201333 independently read: eight-byte return-zero stub followed exclusively by zero padding; no text."
+ }
+}

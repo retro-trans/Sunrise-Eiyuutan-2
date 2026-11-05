@@ -1,0 +1,71 @@
+{
+ "rows": [
+  {
+   "va": 2234128,
+   "en": "Select Destination",
+   "source_size": 9,
+   "source_sha256": "0f6d88d5aa4e050fb9a74a7ab6a3f343f05e7130e387e61157b910f75a272875"
+  },
+  {
+   "va": 2325176,
+   "en": "Sail",
+   "source_size": 5,
+   "source_sha256": "01ec12f7eaa2b02c90bc31682d8288d5a3f9663ae75bb6842fd628f7d495cb00"
+  },
+  {
+   "va": 2287592,
+   "en": "Astante",
+   "source_size": 11,
+   "source_sha256": "f867c63a00810088511c83f03e2a3c08edbcbab0a7cb9eeb16fabb59c997941d"
+  }
+ ],
+ "references": [
+  {
+   "kind": "code",
+   "site": 1243696,
+   "lui": 1243688,
+   "target": 2325176,
+   "register": 6,
+   "base_register": 6,
+   "lui_word": 1007026211,
+   "word": 616987320,
+   "adjacent": false
+  },
+  {
+   "kind": "pointer",
+   "site": 1994532,
+   "target": 2287592
+  },
+  {
+   "kind": "pointer",
+   "site": 1994536,
+   "target": 2287592
+  },
+  {
+   "kind": "pointer",
+   "site": 2234176,
+   "target": 2234128
+  }
+ ],
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy": {
+  "report_sha256": "ab73cc4289b5fb405788328c47e7aad06442b8810e9c8d55f47c4a14c4b0b1dd",
+  "report": "C:\\Users\\Binh\\Documents\\Codex\\2026-10-31\\referenced-chatgpt-conversation-this-is-an\\work\\deck_accuracy767.json",
+  "target_rows": 3,
+  "context_strings": 10
+ },
+ "editorial": "Separate English pass: Select Destination describes the travel radar selection, Sail is a concise travel command, Astante retains the fixed glossary spelling. No wording change needed. Existing English Deck and help retained.",
+ "glossary": {
+  "entries": 1681,
+  "registered_variants": 24,
+  "sha256": "d0504ff8698783f685646eb4a8bf3cae4b7d5ff56d890f2ee2d253c174cd70e2",
+  "hits": [],
+  "ship": "Astante"
+ },
+ "proofreading": "Saved three complete English labels checked in menu order, capitalization and spelling. No controls/placeholders in these literals. Ship metadata +4 and +8 both use the same source name and are repointed consistently; no numeric ship fields change."
+}

@@ -1,0 +1,8254 @@
+{
+ "rows": [
+  {
+   "id": "ELF/rodata:00001278",
+   "va": 2234232,
+   "en": "Recovery  Battleship HP %3d/%3d",
+   "source_size": 21,
+   "source_sha256": "5685ccc388d6e9f65d53386dc260417475c06b0421f70e65f2e3e3bc44ff1a20"
+  },
+  {
+   "id": "ELF/rodata:00001290",
+   "va": 2234256,
+   "en": "[　　　　　　Name　　　　　　]     [Owned]",
+   "source_size": 44,
+   "source_sha256": "9a0c7c7b9ff051de6f1d51bdb0976a5cf2554157894a843145564e617a0c41ba"
+  },
+  {
+   "id": "ELF/rodata:000012D8",
+   "va": 2234328,
+   "en": "There is no need to use it.",
+   "source_size": 25,
+   "source_sha256": "1aa5e0e249983e081dd7cb78d4963aaa994583d359b6755c44672b961f197cc0"
+  },
+  {
+   "id": "ELF/rodata:000012F8",
+   "va": 2234360,
+   "en": "%s\nDo you want to use this?",
+   "source_size": 20,
+   "source_sha256": "a407a19ba1ba4c3f77e938c784a82b5af8500cd440f93006a5bc13aa2d957788"
+  },
+  {
+   "id": "ELF/rodata:00001B98",
+   "va": 2236568,
+   "en": "Items",
+   "source_size": 9,
+   "source_sha256": "2de51f7f3bbc90e56c001ba72267117c50610216b0b561bbb841ab9754bd762f"
+  },
+  {
+   "id": "ELF/rodata:00001BA8",
+   "va": 2236584,
+   "en": "Information  %s",
+   "source_size": 9,
+   "source_sha256": "76767c0ea628d0e6783f7f377d8549c2a8b136786d535c5b3c798b24c28dc458"
+  },
+  {
+   "id": "ELF/rodata:00001BB8",
+   "va": 2236600,
+   "en": "There are no allies.",
+   "source_size": 15,
+   "source_sha256": "c2069ed62fcdee1dd24dd37003ca4b8a3fd728fb0b9e25ac63b7a900d73193b9"
+  },
+  {
+   "id": "ELF/rodata:00001BC8",
+   "va": 2236616,
+   "en": "There are no units.",
+   "source_size": 17,
+   "source_sha256": "244dc5abdaea973e4c83f1e08f1749994d8a17dc8a00930031ffa8373bf23b0c"
+  },
+  {
+   "id": "ELF/rodata:00001BE0",
+   "va": 2236640,
+   "en": "There are no battleships.",
+   "source_size": 17,
+   "source_sha256": "85f5d145799146397e78f61cf69cf59447730823117ed81650737fb43ab9ed34"
+  },
+  {
+   "id": "ELF/rodata:00001C10",
+   "va": 2236688,
+   "en": "[　　　　　　Name　　　　　　]     [Owned]",
+   "source_size": 44,
+   "source_sha256": "9a0c7c7b9ff051de6f1d51bdb0976a5cf2554157894a843145564e617a0c41ba"
+  },
+  {
+   "id": "ELF/rodata:00001C40",
+   "va": 2236736,
+   "en": "There are no items.",
+   "source_size": 21,
+   "source_sha256": "9651f4f5b8854d8fcf759bdd4d6b26f17da87e41ad9ca1154bb4866a7add47e9"
+  },
+  {
+   "id": "ELF/rodata:00010D30",
+   "va": 2298416,
+   "en": "Combine/Separate",
+   "source_size": 11,
+   "source_sha256": "f11fe7b15ab125aef4bfd41461c39f4f069cd4938fa41c751004d5f7fbc4aeda"
+  },
+  {
+   "id": "ELF/rodata:00010D40",
+   "va": 2298432,
+   "en": "Unit Modification",
+   "source_size": 11,
+   "source_sha256": "25e472d9494ede975f570cc004c2d1f7c064bc9bd2983bfcb5c17006f57101f8"
+  },
+  {
+   "id": "ELF/rodata:00010D50",
+   "va": 2298448,
+   "en": "Details After Modification",
+   "source_size": 11,
+   "source_sha256": "5dfd6f037cff349aba3c8732b3fd3d0933d9a843139abf42fd43cccee5a5a4f1"
+  },
+  {
+   "id": "ELF/rodata:00010D60",
+   "va": 2298464,
+   "en": "Details Before Modification",
+   "source_size": 11,
+   "source_sha256": "5a316382f22f930942765731c639e1d9067adc8e8507d14ed27b31f23896e78b"
+  },
+  {
+   "id": "ELF/rodata:00010D70",
+   "va": 2298480,
+   "en": "Apply Modification",
+   "source_size": 11,
+   "source_sha256": "5eee05b0dcb5acbcbf0baaed5da622bedb0790546b052972cc01b118eb9477b9"
+  },
+  {
+   "id": "ELF/rodata:00010D80",
+   "va": 2298496,
+   "en": "There are no units available to modify.",
+   "source_size": 27,
+   "source_sha256": "c36230fd2c8453c9a5a4fa607d46d462340de74b5b04df464534e4358f382e34"
+  },
+  {
+   "id": "ELF/rodata:00010DA0",
+   "va": 2298528,
+   "en": "Select modification parts.",
+   "source_size": 27,
+   "source_sha256": "83f321507a33b76e881e12fc44156e45587360147cbeab2bfa0142102debc05f"
+  },
+  {
+   "id": "ELF/rodata:00010DC0",
+   "va": 2298560,
+   "en": "Do you want to build this unit?",
+   "source_size": 25,
+   "source_sha256": "e4ec70c8ba9478fc4887eb54158bead9c35a7c9918061a798ca7b9f0744e932d"
+  },
+  {
+   "id": "ELF/rodata:00010DE0",
+   "va": 2298592,
+   "en": "has been acquired.",
+   "source_size": 15,
+   "source_sha256": "34342733dd2a0525e245e8e838ba2706185929e314653b5ee7e5a1608fdf4560"
+  },
+  {
+   "id": "ELF/rodata:00010E10",
+   "va": 2298640,
+   "en": "HPMax %-3d [%s・%s]",
+   "source_size": 20,
+   "source_sha256": "7d9e01a061cca738da38c9842b3a20f3f88b39456d6604c2d51eae13e5879d47"
+  },
+  {
+   "id": "ELF/rodata:00010E28",
+   "va": 2298664,
+   "en": "ENMax %-3d Launch EN%-3d",
+   "source_size": 21,
+   "source_sha256": "31d6bac74ea160f553bcda8754fccdfdb64546ac8adea09271e56fc46b781fab"
+  },
+  {
+   "id": "ELF/rodata:00010E40",
+   "va": 2298688,
+   "en": "Attack AT%-3d EN%-3d",
+   "source_size": 20,
+   "source_sha256": "855583aa0dede2d1dab632eee8a4d03e7aea4a5707434c3caaf71c1b10fb5674"
+  },
+  {
+   "id": "ELF/rodata:00010E58",
+   "va": 2298712,
+   "en": "Defend DF%-3d EN%-3d",
+   "source_size": 20,
+   "source_sha256": "057ae6621933272e1d88d04e7e6091e5bfcb4db2a2fac02ddaacf4dc2dd958f9"
+  },
+  {
+   "id": "ELF/rodata:00011728",
+   "va": 2300968,
+   "en": "Separate: Raijin-Oh",
+   "source_size": 17,
+   "source_sha256": "27ddd742b6c72fb9050a5afc6e11e3815bbffdc57f1498b4b37e76e7f00961fa"
+  },
+  {
+   "id": "ELF/rodata:00011740",
+   "va": 2300992,
+   "en": "Separate: GenRyuJin",
+   "source_size": 11,
+   "source_sha256": "312907789797d401cfa9fde912786491f7c736a28bb875183553b514d1c24b27"
+  },
+  {
+   "id": "ELF/rodata:00011750",
+   "va": 2301008,
+   "en": "Separate: GouRyuJin",
+   "source_size": 11,
+   "source_sha256": "fb414be8a55ebd99b48c00734b11523fa355368635b1d9c73a5601d1f06f66de"
+  },
+  {
+   "id": "ELF/rodata:00011760",
+   "va": 2301024,
+   "en": "Separate: GekiRyuJin",
+   "source_size": 11,
+   "source_sha256": "e253ff474d354301831bec642f2e8f3fa494cf64de2d26e74595e47791d351c0"
+  },
+  {
+   "id": "ELF/rodata:00011770",
+   "va": 2301040,
+   "en": "Separate: ChoRyuJin",
+   "source_size": 11,
+   "source_sha256": "98ecac074295ba5cdda9e5f7906e591db61b923ef6f9ca68b09febef8b7c1111"
+  },
+  {
+   "id": "ELF/rodata:00011780",
+   "va": 2301056,
+   "en": "Separate: Amuro's Super Gundam",
+   "source_size": 27,
+   "source_sha256": "f31a753513437a6fd3a39addf548f437e9fb90531e6ccf08f25c3b38220d1d03"
+  },
+  {
+   "id": "ELF/rodata:000117A0",
+   "va": 2301088,
+   "en": "Separate: Super Gundam (Titans) ３",
+   "source_size": 35,
+   "source_sha256": "df2e86ca7562a3f6f10dd43a733a148f5348429d5ca72ce2c45f6264ed9ec7e8"
+  },
+  {
+   "id": "ELF/rodata:000117C8",
+   "va": 2301128,
+   "en": "Separate: Super Gundam (Titans) ２",
+   "source_size": 35,
+   "source_sha256": "da4adc0c55bb6fb09fc60516520e28400f4dd246aa020853540550ce95e7858f"
+  },
+  {
+   "id": "ELF/rodata:000117F0",
+   "va": 2301168,
+   "en": "Separate: Super Gundam (Titans) １",
+   "source_size": 35,
+   "source_sha256": "626f874bf3103f90cb1a95a45eaa17ccb13f31bca146b85023a866c8bc50cb4d"
+  },
+  {
+   "id": "ELF/rodata:00011818",
+   "va": 2301208,
+   "en": "Separate: Super Gundam",
+   "source_size": 21,
+   "source_sha256": "62d5c3470bbebf3ce7aa33aa6ae9d3b3f2e704f3685510e07eda1b8b014c9197"
+  },
+  {
+   "id": "ELF/rodata:00011830",
+   "va": 2301232,
+   "en": "Combine: Raijin-Oh",
+   "source_size": 17,
+   "source_sha256": "5ffc7acdcb0868ee7340e1dc005e6a52439c0c3034f3628cf6aa7297d85940f9"
+  },
+  {
+   "id": "ELF/rodata:00011848",
+   "va": 2301256,
+   "en": "Combine: GenRyuJin",
+   "source_size": 11,
+   "source_sha256": "aa4f86df6410d51a7c806a071b5117b9072fd00386f6e698320fa0d21027242f"
+  },
+  {
+   "id": "ELF/rodata:00011858",
+   "va": 2301272,
+   "en": "Combine: GouRyuJin",
+   "source_size": 11,
+   "source_sha256": "f013a771c4562d1e7965755fda9c6f48fc1d16b492788eb90b0fbf31f8b9e59d"
+  },
+  {
+   "id": "ELF/rodata:00011868",
+   "va": 2301288,
+   "en": "Combine: GekiRyuJin",
+   "source_size": 11,
+   "source_sha256": "ad10a1bcde085011ad1156cf71f657c7cc1e3b7a80da7684baf1389cccfc8295"
+  },
+  {
+   "id": "ELF/rodata:00011878",
+   "va": 2301304,
+   "en": "Combine: ChoRyuJin",
+   "source_size": 11,
+   "source_sha256": "5aad552bd1d3ce01bfbd2d3a671ab218817bbb097b7fff8cd6b7d49744ce9d88"
+  },
+  {
+   "id": "ELF/rodata:00011888",
+   "va": 2301320,
+   "en": "Combine: Amuro's Super Gundam",
+   "source_size": 27,
+   "source_sha256": "31a3bae3237fd4cc363a7f162fd4ca1b2f946c50a8a4953f35fe0a44460b9341"
+  },
+  {
+   "id": "ELF/rodata:000118A8",
+   "va": 2301352,
+   "en": "Combine: Super Gundam (Titans) ３",
+   "source_size": 35,
+   "source_sha256": "ff3145f72aca9a51715cf4c9d00cc7b0df5127fcafdaa2fc3f130ebf9dac3592"
+  },
+  {
+   "id": "ELF/rodata:000118D0",
+   "va": 2301392,
+   "en": "Combine: Super Gundam (Titans) ２",
+   "source_size": 35,
+   "source_sha256": "46b1c23bd905aee4033a8c03d493bb334c5f576c8df303c6ed89d564dcde7b0c"
+  },
+  {
+   "id": "ELF/rodata:000118F8",
+   "va": 2301432,
+   "en": "Combine: Super Gundam (Titans) １",
+   "source_size": 35,
+   "source_sha256": "f9aef4e102c9b0ecef2f2848e22b018bdcb8844890513773f6b2ca5c14b5704d"
+  },
+  {
+   "id": "ELF/rodata:00011920",
+   "va": 2301472,
+   "en": "Combine: Super Gundam",
+   "source_size": 21,
+   "source_sha256": "c4e1752b031e71270a04be9f7e647166163355cbc534a0de0055d9d631b2f485"
+  },
+  {
+   "id": "ELF/rodata:00011938",
+   "va": 2301496,
+   "en": "Combine/Separate",
+   "source_size": 11,
+   "source_sha256": "f11fe7b15ab125aef4bfd41461c39f4f069cd4938fa41c751004d5f7fbc4aeda"
+  },
+  {
+   "id": "ELF/rodata:00011948",
+   "va": 2301512,
+   "en": "No units can combine or separate.",
+   "source_size": 33,
+   "source_sha256": "75670a84b003d2f505e1b8aa3145a7bb08af03f062e86a13af563a327457da31"
+  },
+  {
+   "id": "ELF/sdata:00000400",
+   "va": 2325504,
+   "en": "Battleships",
+   "source_size": 5,
+   "source_sha256": "3908d9d38c79a383c3cf6754f7f4a854a810b40c245ae34f1b8e5e79aab1a835"
+  },
+  {
+   "id": "ELF/sdata:00000408",
+   "va": 2325512,
+   "en": "Units",
+   "source_size": 5,
+   "source_sha256": "d49520deacf8a05b95795c4c5c46b6aea2a3c8386fde2636e4db86af8b0bab46"
+  },
+  {
+   "id": "ELF/sdata:00000410",
+   "va": 2325520,
+   "en": "Allies",
+   "source_size": 5,
+   "source_sha256": "19b83a6afec160ec69d5520e6210345ddb9ce442fcd525ed8a99e0420670bce7"
+  },
+  {
+   "id": "ELF/sdata:00000418",
+   "va": 2325528,
+   "en": "Information",
+   "source_size": 5,
+   "source_sha256": "d6235635f5b779e95d421c46c227b6e0603d1630598880e0b6cc3e7dd42b0cd9"
+  },
+  {
+   "id": "ELF/sdata:000015C0",
+   "va": 2330048,
+   "en": "Modification",
+   "source_size": 5,
+   "source_sha256": "3cad0f1b58362ed09661969571f6534fada3e7853f51e270a70ee8323433b451"
+  },
+  {
+   "id": "ELF/sdata:00001430",
+   "va": 2329648,
+   "en": "None",
+   "source_size": 5,
+   "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1"
+  },
+  {
+   "id": "ELF/native:00238C28",
+   "va": 2329640,
+   "en": "",
+   "source_size": 1,
+   "source_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+  },
+  {
+   "id": "ELF/rodata:0000FC50",
+   "va": 2294096,
+   "en": "GT-B Parts",
+   "source_size": 15,
+   "source_sha256": "2914238df7859a1704025d578989443e6955538715c33ed59f7c98eb943ceb1e"
+  },
+  {
+   "id": "ELF/rodata:0000FC30",
+   "va": 2294064,
+   "en": "Convert GT-A to GT-B.",
+   "source_size": 31,
+   "source_sha256": "cfc999cab60b327d906d244489d37dabffc276f376f37fbbe935fd79fb72cbee"
+  },
+  {
+   "id": "ELF/rodata:0000FC20",
+   "va": 2294048,
+   "en": "GT-C Parts",
+   "source_size": 15,
+   "source_sha256": "61e5d65978b37ba082b5d8d35ef0b69283925f039fda5ca097f336650d514e92"
+  },
+  {
+   "id": "ELF/rodata:0000FC00",
+   "va": 2294016,
+   "en": "Convert GT-A to GT-C.",
+   "source_size": 31,
+   "source_sha256": "2445d136143271a26cfe4eae769f7c62a01d7338f333d31d21ad5323f4b4682a"
+  },
+  {
+   "id": "ELF/rodata:0000FBF0",
+   "va": 2294000,
+   "en": "GT-D Parts",
+   "source_size": 15,
+   "source_sha256": "9567f4e7206a25f41e86db8c14e33396ea7fb403486054edbc548290547e28f1"
+  },
+  {
+   "id": "ELF/rodata:0000FBD0",
+   "va": 2293968,
+   "en": "Convert GT-A to GT-D.",
+   "source_size": 31,
+   "source_sha256": "25349c9bd799ac4e8bf84952d2c3a78496b61460f1542828bb9a88d6b783ac32"
+  },
+  {
+   "id": "ELF/rodata:0000FBC0",
+   "va": 2293952,
+   "en": "GT-E Parts",
+   "source_size": 15,
+   "source_sha256": "cc1d1db270e40894c262dd32d2497596077a0f990e3efb0c3f721e25b598eb88"
+  },
+  {
+   "id": "ELF/rodata:0000FBA0",
+   "va": 2293920,
+   "en": "Convert GT-A to GT-E.",
+   "source_size": 31,
+   "source_sha256": "f6632ba4d258de75e6b4c256b1151b9a305aa3d9c4cd2f06f7c944933befb94f"
+  },
+  {
+   "id": "ELF/rodata:0000FB88",
+   "va": 2293896,
+   "en": "【GT-A Parts】",
+   "source_size": 19,
+   "source_sha256": "1c35fb15b94367a3d72936df919822dca89e3f81a7ed47bf5e37340123799632"
+  },
+  {
+   "id": "ELF/rodata:0000FB68",
+   "va": 2293864,
+   "en": "Change GT-A into GT-A.",
+   "source_size": 25,
+   "source_sha256": "f5572189bcd19fbdea11824567b754f6a1d0af0bc0e7996ace6272f237f1e989"
+  },
+  {
+   "id": "ELF/rodata:0000FB58",
+   "va": 2293848,
+   "en": "GT-G Parts",
+   "source_size": 15,
+   "source_sha256": "4e59d39de8e0b5ba403d6590a0b0957f85847aa464dc53ac659ba88fdd597fe5"
+  },
+  {
+   "id": "ELF/rodata:0000FB38",
+   "va": 2293816,
+   "en": "Convert GT-A to GT-G.",
+   "source_size": 31,
+   "source_sha256": "c19b8fee2b1cc91139529966239eaf3a1208480abb6543e90912842db1aefc37"
+  },
+  {
+   "id": "ELF/rodata:0000FB28",
+   "va": 2293800,
+   "en": "GT-H Parts",
+   "source_size": 15,
+   "source_sha256": "3d024c90f17dde9c4fd47dd951cc34bbe0866808d36caf2e4e8ecf6ddf3e8d68"
+  },
+  {
+   "id": "ELF/rodata:0000FB08",
+   "va": 2293768,
+   "en": "Convert GT-A to GT-H.",
+   "source_size": 31,
+   "source_sha256": "bc142716f87a2dcd64827087725fe9f42dfa00773ef7e3c930123f4d29855598"
+  },
+  {
+   "id": "ELF/rodata:0000FAF8",
+   "va": 2293752,
+   "en": "GT-I Parts",
+   "source_size": 15,
+   "source_sha256": "5a967cd464f4dd510375e4c625341e43c4cd8b4415935bebb99ff5c7b379f4f0"
+  },
+  {
+   "id": "ELF/rodata:0000FAD8",
+   "va": 2293720,
+   "en": "Convert GT-A to GT-I.",
+   "source_size": 31,
+   "source_sha256": "196e0479d6de7230695f561a1a7d1c462fe7122cb40a02b2772c5269799d9c2a"
+  },
+  {
+   "id": "ELF/rodata:0000FAC8",
+   "va": 2293704,
+   "en": "GT-J Parts",
+   "source_size": 15,
+   "source_sha256": "e6e7cf3aed6888fca1a1cec48b470d93573f9e29256fd6b52a8e24d0f61c6187"
+  },
+  {
+   "id": "ELF/rodata:0000FAA8",
+   "va": 2293672,
+   "en": "Convert GT-A to GT-J.",
+   "source_size": 31,
+   "source_sha256": "7535e5e7bce7987893578c9a7ee7b877114a8282015d72b63d102aa6eb4d4786"
+  },
+  {
+   "id": "ELF/rodata:0000FA98",
+   "va": 2293656,
+   "en": "GT-K Parts",
+   "source_size": 15,
+   "source_sha256": "2753b336ead1a357c2b65f2489551d565892f4b528ea487bffd2287bbbd86013"
+  },
+  {
+   "id": "ELF/rodata:0000FA78",
+   "va": 2293624,
+   "en": "Convert GT-A to GT-K.",
+   "source_size": 31,
+   "source_sha256": "9f57f6885677a78a06992efab65bc51677bbf9c10a47fd1a4465f9d865cf9761"
+  },
+  {
+   "id": "ELF/rodata:0000FA68",
+   "va": 2293608,
+   "en": "GT-L Parts",
+   "source_size": 15,
+   "source_sha256": "f94940982dd8186763ac94ac45ece73cd85edb2752f204782884a30e8a5089da"
+  },
+  {
+   "id": "ELF/rodata:0000FA48",
+   "va": 2293576,
+   "en": "Convert GT-A to GT-L.",
+   "source_size": 31,
+   "source_sha256": "457bc5b812c948898ac1e7b0e3835feb285184bc5bec5d64a3870a680fee67d6"
+  },
+  {
+   "id": "ELF/rodata:0000FA38",
+   "va": 2293560,
+   "en": "GT-M Parts",
+   "source_size": 15,
+   "source_sha256": "9f27e83e84f4eab5b823071d2e5657a29ab8694ec5fc87b2a6e3f36ee365b5ae"
+  },
+  {
+   "id": "ELF/rodata:0000FA18",
+   "va": 2293528,
+   "en": "Convert GT-A to GT-M.",
+   "source_size": 31,
+   "source_sha256": "d7ae6827a4ae3e970743cb46ece43937a44cac9ac0b30370d43dca8917a1ab38"
+  },
+  {
+   "id": "ELF/rodata:0000FA08",
+   "va": 2293512,
+   "en": "GT-N Parts",
+   "source_size": 15,
+   "source_sha256": "5ff7a4f1f4de2827939accc80c8f9a0928b3e35522b5ba64ea70a74f9d7d5be1"
+  },
+  {
+   "id": "ELF/rodata:0000F9E8",
+   "va": 2293480,
+   "en": "Convert GT-A to GT-N.",
+   "source_size": 31,
+   "source_sha256": "01789080f30a86c79e08f48ba6b7e949ac75866d79bd23fd7910f6f72bb95639"
+  },
+  {
+   "id": "ELF/rodata:0000F9D8",
+   "va": 2293464,
+   "en": "GT-O Parts",
+   "source_size": 15,
+   "source_sha256": "30fd8dae8bc2c5649ea74da86bbbb1e480691929f7f9e370d43c2ff56c53001b"
+  },
+  {
+   "id": "ELF/rodata:0000F9B8",
+   "va": 2293432,
+   "en": "Convert GT-A to GT-O.",
+   "source_size": 31,
+   "source_sha256": "17a206b95420b8082be4b09803898934ce60330cc8a99b9bf9b545bfeaed6b68"
+  },
+  {
+   "id": "ELF/rodata:0000F9A8",
+   "va": 2293416,
+   "en": "GT-P Parts",
+   "source_size": 15,
+   "source_sha256": "90ab6a4e4e685c14e7275ff19b496f11f39f6cadf5d56f589fa7043a2d8c963f"
+  },
+  {
+   "id": "ELF/rodata:0000F988",
+   "va": 2293384,
+   "en": "Convert GT-A to GT-P.",
+   "source_size": 31,
+   "source_sha256": "c8f47500e4aedd41429af3ea42d4be8d3edf9274a88191ec4251b6da0eafa006"
+  },
+  {
+   "id": "ELF/rodata:0000F978",
+   "va": 2293368,
+   "en": "GT-Q Parts",
+   "source_size": 15,
+   "source_sha256": "0b5da4012a7137a47a6be9fbeef7f9fe51f96cdfb8acbdb764d9c851539670cc"
+  },
+  {
+   "id": "ELF/rodata:0000F958",
+   "va": 2293336,
+   "en": "Convert GT-A to GT-Q.",
+   "source_size": 31,
+   "source_sha256": "c6d0c602fd9dad36c02aeb1ce9f8348ad6796b54a6bfdfcc3dd2831d04cb948e"
+  },
+  {
+   "id": "ELF/rodata:0000F948",
+   "va": 2293320,
+   "en": "GT-R Parts",
+   "source_size": 15,
+   "source_sha256": "2adbf46150690c40b5faa03e7caae285aba759de8911b0a41ee8a1c6687382ef"
+  },
+  {
+   "id": "ELF/rodata:0000F928",
+   "va": 2293288,
+   "en": "Convert GT-A to GT-R.",
+   "source_size": 31,
+   "source_sha256": "0b379e961edb4498b5602800df0e2f127abe3a5f5a51207613bcc1f31ec94127"
+  },
+  {
+   "id": "ELF/rodata:0000F918",
+   "va": 2293272,
+   "en": "GT-S Parts",
+   "source_size": 15,
+   "source_sha256": "66b59d8332ce6e2bc3069943344bfa6179905546bede49836f3466f88fe0f2a2"
+  },
+  {
+   "id": "ELF/rodata:0000F8F8",
+   "va": 2293240,
+   "en": "Convert GT-A to GT-S.",
+   "source_size": 31,
+   "source_sha256": "1f06c8df948f740170013aa9b237d159c272c32565cd29ecc3d37a4eb5fefde5"
+  },
+  {
+   "id": "ELF/rodata:0000F8E8",
+   "va": 2293224,
+   "en": "GT-T Parts",
+   "source_size": 15,
+   "source_sha256": "51595c373828da73be3323fb3a2bbf6cd0b22bd112fea42fc2f6a620fb498fa3"
+  },
+  {
+   "id": "ELF/rodata:0000F8C8",
+   "va": 2293192,
+   "en": "Convert GT-A to GT-T.",
+   "source_size": 31,
+   "source_sha256": "82b70f9103cf33a0a8938fad327de9c579cafb7da184e58b2d0d94c32ef9ac9c"
+  },
+  {
+   "id": "ELF/rodata:0000F8B8",
+   "va": 2293176,
+   "en": "GT-U Parts",
+   "source_size": 15,
+   "source_sha256": "53527160bf545522255166eea01e13760807d7adbc0e06d52292288b43852a52"
+  },
+  {
+   "id": "ELF/rodata:0000F898",
+   "va": 2293144,
+   "en": "Convert GT-A to GT-U.",
+   "source_size": 31,
+   "source_sha256": "168928c2ae3a39d7bf6662469dd704f71d602a2eeaa2f18ec725ba5f9e3a92a8"
+  },
+  {
+   "id": "ELF/rodata:0000F888",
+   "va": 2293128,
+   "en": "GT-V Parts",
+   "source_size": 15,
+   "source_sha256": "7926198ce4f014b6750dd7e08abba83c1fb31b5b70b2e0248dc0d44a4a53fd02"
+  },
+  {
+   "id": "ELF/rodata:0000F868",
+   "va": 2293096,
+   "en": "Convert GT-A to GT-V.",
+   "source_size": 31,
+   "source_sha256": "92dac8b8241c0e2f6ee73fc79b0dd4dedcf132b4df43342a2749399f55cf1b22"
+  },
+  {
+   "id": "ELF/rodata:0000F858",
+   "va": 2293080,
+   "en": "GT-W Parts",
+   "source_size": 15,
+   "source_sha256": "95fb17ad13e40efc2bf0aa28f1e5541c801fafec706b77fbfc7e2d42d27f787c"
+  },
+  {
+   "id": "ELF/rodata:0000F838",
+   "va": 2293048,
+   "en": "Convert GT-A to GT-W.",
+   "source_size": 31,
+   "source_sha256": "4fc37f32dccb2ffc3eafeb3767de3eb8297fbef8fea829f614426c130a0b4b02"
+  },
+  {
+   "id": "ELF/rodata:0000F828",
+   "va": 2293032,
+   "en": "GT-X Parts",
+   "source_size": 15,
+   "source_sha256": "f63b221affc5a7f3e927063672429a99c3a6e7203bb4c1a4bc46178e1e7293e6"
+  },
+  {
+   "id": "ELF/rodata:0000F808",
+   "va": 2293000,
+   "en": "Convert GT-A to GT-X.",
+   "source_size": 31,
+   "source_sha256": "8166f97b28b06fbf44e916bf90a1ee800fffd5860ab0606bec395b44718d0bd4"
+  },
+  {
+   "id": "ELF/rodata:0000F7E8",
+   "va": 2292968,
+   "en": "Dunbine Sho Custom",
+   "source_size": 27,
+   "source_sha256": "5254ce54c3ec4e737f13643e4c0013b57fd79ab0a22943e9b2132cfba58ca9ac"
+  },
+  {
+   "id": "ELF/rodata:0000F7C0",
+   "va": 2292928,
+   "en": "Change Dunbine to Sho's colors.",
+   "source_size": 33,
+   "source_sha256": "98c8d91d672eceb654320928b266e0926cd93012dfad206510cd0279e586d7f7"
+  },
+  {
+   "id": "ELF/rodata:0000F7A0",
+   "va": 2292896,
+   "en": "Dunbine Todd Custom",
+   "source_size": 27,
+   "source_sha256": "564135b0a7ccff0bfe9c16c54e328406dbb828065343dbb65306c6a540409b79"
+  },
+  {
+   "id": "ELF/rodata:0000F778",
+   "va": 2292856,
+   "en": "Change Dunbine to Todd's colors.",
+   "source_size": 33,
+   "source_sha256": "96fc23269285905c85cb8bb2209bb1305e2fd012a86154e4ef516c0551d44897"
+  },
+  {
+   "id": "ELF/rodata:0000F760",
+   "va": 2292832,
+   "en": "Billbine Standard Colors",
+   "source_size": 21,
+   "source_sha256": "2054c9cb95dadff15b53e47d67c93d76332142f011ce54fdfd2830a33a690e14"
+  },
+  {
+   "id": "ELF/rodata:0000F738",
+   "va": 2292792,
+   "en": "Change Billbine's colors.",
+   "source_size": 35,
+   "source_sha256": "30c7fd6949f7b15fb67c79bb7f15b2b6a7e35a197d8863b43e4a9f289ac3b246"
+  },
+  {
+   "id": "ELF/rodata:0000F720",
+   "va": 2292768,
+   "en": "Billbine Camouflage Colors",
+   "source_size": 21,
+   "source_sha256": "606df97c3edcdcaa9341a1eea4ebc5b14c0e83f89c04dd0c090b60d060ed53ff"
+  },
+  {
+   "id": "ELF/rodata:0000F708",
+   "va": 2292744,
+   "en": "Drumlo Upgrade Parts",
+   "source_size": 17,
+   "source_sha256": "0df64179ac913dd719775af4089bc7f6e1e9520fbc970f370d66bc00655b9077"
+  },
+  {
+   "id": "ELF/rodata:0000F6E0",
+   "va": 2292704,
+   "en": "Replace Drumlo's converter with a new\nmodel.",
+   "source_size": 33,
+   "source_sha256": "beae6f70a50a0e3c396bad32f45edfb55f308cde4a8be0a8119a6cd2236016e2"
+  },
+  {
+   "id": "ELF/rodata:0000F6C0",
+   "va": 2292672,
+   "en": "【Drumlo Todd Parts】",
+   "source_size": 27,
+   "source_sha256": "5b97edcd1085acac321780c9fe9a3cbde6e8dbd77c05c21dad55de298e2c3a7f"
+  },
+  {
+   "id": "ELF/rodata:0000F698",
+   "va": 2292632,
+   "en": "Convert the improved Drumlo to a Drumlo\nfor Todd.",
+   "source_size": 40,
+   "source_sha256": "d878ab2fc77ca67e2694fd19552873fd2b61394e62a84c5d290d554ee1e63d96"
+  },
+  {
+   "id": "ELF/rodata:0000F678",
+   "va": 2292600,
+   "en": "Zwarth Black Knight Parts",
+   "source_size": 25,
+   "source_sha256": "736fe684d329cd67270958993c72a763371ae5d5fb3cdadc390e13ffc2f65717"
+  },
+  {
+   "id": "ELF/rodata:0000F658",
+   "va": 2292568,
+   "en": "Convert Zwarth for Black Knight use.",
+   "source_size": 27,
+   "source_sha256": "6190758f456aad686d9e1ba6e2f84426b30d7208c9bb5418135cea20dd26c06c"
+  },
+  {
+   "id": "ELF/rodata:0000F638",
+   "va": 2292536,
+   "en": "Botune Zelerna Parts",
+   "source_size": 27,
+   "source_sha256": "d0ec0ad521513f490ac5467469ef745f6cd57ee6224a1ef327b5b4974f8173ce"
+  },
+  {
+   "id": "ELF/rodata:0000F618",
+   "va": 2292504,
+   "en": "Convert Botune to Zelerna specifications.",
+   "source_size": 31,
+   "source_sha256": "45e0c9de44e2ada84aea81c130d06c00e30ddda030952f573eb65b3bf3da59df"
+  },
+  {
+   "id": "ELF/rodata:0000F5F8",
+   "va": 2292472,
+   "en": "Botune Foizon Parts",
+   "source_size": 29,
+   "source_sha256": "1ab3e34d4f3fa6115dd91cfcf967920ce334b8a6e743c0733728a34ee9668652"
+  },
+  {
+   "id": "ELF/rodata:0000F5D0",
+   "va": 2292432,
+   "en": "Convert Botune to Foizon specifications.",
+   "source_size": 34,
+   "source_sha256": "a3ef31e6ef6f564cfc7180e93585dc9809f162d93065380d9a35458c500c5dea"
+  },
+  {
+   "id": "ELF/rodata:0000F5B0",
+   "va": 2292400,
+   "en": "Botune Royal Guard Parts",
+   "source_size": 25,
+   "source_sha256": "d5dbb0494fea25641ac2eff678d07e6906b9341eb38fd5b901fdea1ffca5513d"
+  },
+  {
+   "id": "ELF/rodata:0000F588",
+   "va": 2292360,
+   "en": "Convert Botune to Kingdom of Na royal\nguard specifications.",
+   "source_size": 33,
+   "source_sha256": "b52f328535e04b5ddcfe8f70aeaa58c8d57937b873906e42cda800c3d26b67ef"
+  },
+  {
+   "id": "ELF/rodata:0000F568",
+   "va": 2292328,
+   "en": "Allone Mizun-Spec Parts",
+   "source_size": 25,
+   "source_sha256": "cc9f14c5837dff7fc1b99ecc810e0a663d18090f90347c5f780b6724d727a649"
+  },
+  {
+   "id": "ELF/rodata:0000F548",
+   "va": 2292296,
+   "en": "Convert Allone to Mizun Allone.",
+   "source_size": 31,
+   "source_sha256": "1caf1801855221a7c11226ce6c4eaee47401a50999cc89261a222b289cf6e394"
+  },
+  {
+   "id": "ELF/rodata:0000F530",
+   "va": 2292272,
+   "en": "Allone Military Parts",
+   "source_size": 19,
+   "source_sha256": "a7d4c025fb1af21e477ddef535cb160b93a7a0743b60bb41621a2843393b6e59"
+  },
+  {
+   "id": "ELF/rodata:0000F510",
+   "va": 2292240,
+   "en": "Convert Allone to a military Allone.",
+   "source_size": 29,
+   "source_sha256": "da3c31b0cfef5d5c2927c84b152a853a07658f45f534682e4629735600a88206"
+  },
+  {
+   "id": "ELF/rodata:0000F4F8",
+   "va": 2292216,
+   "en": "Allone Custom Parts",
+   "source_size": 23,
+   "source_sha256": "d1756efc270d39f21fbdbfa8388554e15536b094f9abe0cf99162665c077c709"
+  },
+  {
+   "id": "ELF/rodata:0000F4D0",
+   "va": 2292176,
+   "en": "Convert Allone into a customized unit.",
+   "source_size": 37,
+   "source_sha256": "f3908fa0263d40708a6249d8c678f989fc52fb4cd8ed59a3ec9dfd74a64d57c7"
+  },
+  {
+   "id": "ELF/rodata:0000F4C0",
+   "va": 2292160,
+   "en": "Gorongo Parts",
+   "source_size": 15,
+   "source_sha256": "d587ffc5fc95f073f26aa7e4b22b3bfd00bf59d2d210c3e175d04e64dd7d689f"
+  },
+  {
+   "id": "ELF/rodata:0000F4A0",
+   "va": 2292128,
+   "en": "Convert Allone to Gorongo.",
+   "source_size": 25,
+   "source_sha256": "6c17087157a0012dcbe8850d04a49193dcbe0011a9ffc592ffe7b7e9a979662a"
+  },
+  {
+   "id": "ELF/rodata:0000F488",
+   "va": 2292104,
+   "en": "S-Gorongo Parts",
+   "source_size": 17,
+   "source_sha256": "a837c99c5f00a598b01971fa17131a0b73d8378bb1d0b2439469329ff64325ca"
+  },
+  {
+   "id": "ELF/rodata:0000F460",
+   "va": 2292064,
+   "en": "Convert Gorongo to a Gorongo equipped\nwith a booster.",
+   "source_size": 40,
+   "source_sha256": "deb23063a5a42eb1a1dba23bce5190ac4f13b200c0dadfa2eb32631744c680c8"
+  },
+  {
+   "id": "ELF/rodata:0000F448",
+   "va": 2292040,
+   "en": "Greia Custom Parts",
+   "source_size": 23,
+   "source_sha256": "cd07f2c426ae6c693c5bed2ae33c5eb99c54d1dac304d54d1c4f3e36962985a6"
+  },
+  {
+   "id": "ELF/rodata:0000F420",
+   "va": 2292000,
+   "en": "Convert Greia into a customized unit.",
+   "source_size": 37,
+   "source_sha256": "2dc7a6b56cca35deb0a056478cede46cd08d93d0f2ceae2f0d31d64866a527f5"
+  },
+  {
+   "id": "ELF/rodata:0000F400",
+   "va": 2291968,
+   "en": "Bal-Bud Royal Guard Division Parts",
+   "source_size": 25,
+   "source_sha256": "7e1a4ff1d42f0fe2c8d469462c597ba4bd3373c5a6f2118dd09f8a900acb72ef"
+  },
+  {
+   "id": "ELF/rodata:0000F3E0",
+   "va": 2291936,
+   "en": "Convert Bal-Bud for Royal Guard Division\nuse.",
+   "source_size": 27,
+   "source_sha256": "d5cfe70eea7dbca18fc98cb5ede1e98c605033aad9ae3799e841794b3c492ea2"
+  },
+  {
+   "id": "ELF/rodata:0000F3C8",
+   "va": 2291912,
+   "en": "Titans Colors ０１",
+   "source_size": 23,
+   "source_sha256": "4b496b34dd56f932c4fdfe4e0e41000d92cccbafea501ac548920f0ced9b25ea"
+  },
+  {
+   "id": "ELF/rodata:0000F3A0",
+   "va": 2291872,
+   "en": "Change to Unit ０１ in Titans colors.",
+   "source_size": 35,
+   "source_sha256": "667ebabdd824ae4aafb2b2d6a1fde06c540cc7c8b5f3e3552871c792cc56b371"
+  },
+  {
+   "id": "ELF/rodata:0000F388",
+   "va": 2291848,
+   "en": "Titans Colors ０２",
+   "source_size": 23,
+   "source_sha256": "d2d86cd6861f304e3793f7f43f001a6b6ea66f7f39c02ce01f4cf66acef207b4"
+  },
+  {
+   "id": "ELF/rodata:0000F360",
+   "va": 2291808,
+   "en": "Change to Unit ０２ in Titans colors.",
+   "source_size": 35,
+   "source_sha256": "192037ddf5c9737d39be190be66c9f6f8fb2b5c1d0e85d44e2faa7e09658b92d"
+  },
+  {
+   "id": "ELF/rodata:0000F348",
+   "va": 2291784,
+   "en": "Titans Colors ０３",
+   "source_size": 23,
+   "source_sha256": "13df81b9a5b49c3c0665748ebfd6665decc5aa44b048baaee5a69cf5d918f173"
+  },
+  {
+   "id": "ELF/rodata:0000F320",
+   "va": 2291744,
+   "en": "Change to Unit ０３ in Titans colors.",
+   "source_size": 35,
+   "source_sha256": "681ec2bcd2cdd02feee105d9ef60bdeff9cc80595fe396255430b81ed93014e5"
+  },
+  {
+   "id": "ELF/rodata:0000F308",
+   "va": 2291720,
+   "en": "０１ AEUG Colors",
+   "source_size": 19,
+   "source_sha256": "e8e762f3f95d43cb4dad3400ca868d30e30ca7b04c75452890198e0b945db617"
+  },
+  {
+   "id": "ELF/rodata:0000F2E0",
+   "va": 2291680,
+   "en": "Change MkⅡ Unit ０１ to AEUG colors.",
+   "source_size": 37,
+   "source_sha256": "268ba2a30f24025cf18b2510df11e2a253c43e59eadc9000770506ca34c6c4a7"
+  },
+  {
+   "id": "ELF/rodata:0000F2C8",
+   "va": 2291656,
+   "en": "０２ AEUG Colors",
+   "source_size": 19,
+   "source_sha256": "9ddf499312b4244d81570b7eb59b427a994096bdaf36447ea279cf44bf6c3735"
+  },
+  {
+   "id": "ELF/rodata:0000F2A0",
+   "va": 2291616,
+   "en": "Change MkⅡ Unit ０２ to AEUG colors.",
+   "source_size": 37,
+   "source_sha256": "ec6c9eaa482a87f53862fbf6315b79aa07f8d55e277966d306ad98d918c8aa0a"
+  },
+  {
+   "id": "ELF/rodata:0000F288",
+   "va": 2291592,
+   "en": "０３ AEUG Colors",
+   "source_size": 19,
+   "source_sha256": "018c0e7a9c3ff1a9a68d6f9825ea990086f0e6315f4e48f901c837512570e913"
+  },
+  {
+   "id": "ELF/rodata:0000F260",
+   "va": 2291552,
+   "en": "Change MkⅡ Unit ０３ to AEUG colors.",
+   "source_size": 37,
+   "source_sha256": "9f24c10be2c50524dbcdbf1767c070c7f494b10cc4b45b76cc818d53bfa4ef95"
+  },
+  {
+   "id": "ELF/rodata:0000F248",
+   "va": 2291528,
+   "en": "Rick Dias (Late Version)",
+   "source_size": 23,
+   "source_sha256": "676b3ff748b18deba0034c7628914fc14a4f29e2937b79bc93482040a851da4d"
+  },
+  {
+   "id": "ELF/rodata:0000F228",
+   "va": 2291496,
+   "en": "Change Rick Dias to the late version.",
+   "source_size": 32,
+   "source_sha256": "0b8dd3aba2de96227da300152ca5d1b2889146fbe7c75939ee9c13c7e6c999fe"
+  },
+  {
+   "id": "ELF/rodata:0000F210",
+   "va": 2291472,
+   "en": "ATM０９-LC Parts",
+   "source_size": 23,
+   "source_sha256": "6bff2006cefafa7455830cdcc306ff81485a70b80ee292d39fe780b270d206a0"
+  },
+  {
+   "id": "ELF/rodata:0000F1E0",
+   "va": 2291424,
+   "en": "Convert Scopedog to Scopedog Light Type.",
+   "source_size": 44,
+   "source_sha256": "cc4305a5fecc149afd18137ec49eec9fbcb89b76d809032ba7b71a0b5c888927"
+  },
+  {
+   "id": "ELF/rodata:0000F1C0",
+   "va": 2291392,
+   "en": "ATM０９-RSC Parts",
+   "source_size": 25,
+   "source_sha256": "e2f43e7a6f1d56616b52fa10fcf73c349b3bf8f34399e0e6231171f745a4b2f1"
+  },
+  {
+   "id": "ELF/rodata:0000F190",
+   "va": 2291344,
+   "en": "Convert Scopedog to Scopedog RSC.",
+   "source_size": 44,
+   "source_sha256": "e91ac46fde7de95dfd7ba04e59c0cabeb9489834bde1f61c9ee799e6991885d9"
+  },
+  {
+   "id": "ELF/rodata:0000F178",
+   "va": 2291320,
+   "en": "Odon Survey Team Spec Parts",
+   "source_size": 23,
+   "source_sha256": "c8b9584597e8969a41f4ea4818e840db78ffa87dfb7cff534104960c2a47a2bb"
+  },
+  {
+   "id": "ELF/rodata:0000F150",
+   "va": 2291280,
+   "en": "Convert Scopedog to Odon survey team\nspecifications.",
+   "source_size": 40,
+   "source_sha256": "00e4c33ef67a9a890912eaf0d9b6b7bae573d318d369946350f38ed14998b3c3"
+  },
+  {
+   "id": "ELF/rodata:0000F138",
+   "va": 2291256,
+   "en": "AT０９-DD Parts",
+   "source_size": 21,
+   "source_sha256": "ccf2d65d95b2b88a7c1ac2c47413f3184ec518ae62503f7ebdb1ddf882961c8e"
+  },
+  {
+   "id": "ELF/rodata:0000F108",
+   "va": 2291208,
+   "en": "Convert Scopedog to Burglary Dog.",
+   "source_size": 42,
+   "source_sha256": "8e53e9948ac658d4a6ccd7b01c0b80c7e29c945c73425a364a35e9e3b9840679"
+  },
+  {
+   "id": "ELF/rodata:0000F0E8",
+   "va": 2291176,
+   "en": "X・ATH-P-RSC Parts",
+   "source_size": 29,
+   "source_sha256": "4f55722eb9414e44651a2ca73c6ab9014ec596a890eb144465777e78ccec3d02"
+  },
+  {
+   "id": "ELF/rodata:0000F0B8",
+   "va": 2291128,
+   "en": "Convert Scopedog RSC to Blood Sucker.",
+   "source_size": 46,
+   "source_sha256": "92503c9a8c7b05fec6984e9d682d4397d13a4bbe7f55aa8696441cf958f1946c"
+  },
+  {
+   "id": "ELF/rodata:0000F098",
+   "va": 2291096,
+   "en": "X・ATH-０２-DT Parts",
+   "source_size": 29,
+   "source_sha256": "23060df96c4495428c39872ea6a3d2aacf28da67bae40b4b3112a0a4d35f0ac2"
+  },
+  {
+   "id": "ELF/rodata:0000F068",
+   "va": 2291048,
+   "en": "Convert Blood Sucker to Rabidly Dog.",
+   "source_size": 42,
+   "source_sha256": "586a2ee898bffd53b823abb01771798837290616ae92043f313145c588bd24b4"
+  },
+  {
+   "id": "ELF/rodata:0000F048",
+   "va": 2291016,
+   "en": "BATM-０３/GR Parts",
+   "source_size": 27,
+   "source_sha256": "d78f108cd4c0c4ba5f9abd45c09bb566315423e2c84ec9971b10d471d2cbe100"
+  },
+  {
+   "id": "ELF/rodata:0000F028",
+   "va": 2290984,
+   "en": "Convert Fatty for ground use.",
+   "source_size": 27,
+   "source_sha256": "468cc3be71df1d8db1b95b0bee7f5583446f294bd388d7eb7d697315f83938f1"
+  },
+  {
+   "id": "ELF/rodata:0000F008",
+   "va": 2290952,
+   "en": "BATM-０３/GR Upgrade Parts",
+   "source_size": 31,
+   "source_sha256": "053d07ebb43edded0a14ad008665d300df81bcd9e5ab701bd5ef44a03f4f6cb5"
+  },
+  {
+   "id": "ELF/rodata:0000EFE0",
+   "va": 2290912,
+   "en": "Convert the ground-use Fatty to an\nenhanced model.",
+   "source_size": 33,
+   "source_sha256": "6a96af208e917a33b7c5a68b7998b086cc101942b9d2794739efa7e56ce568a3"
+  },
+  {
+   "id": "ELF/rodata:0000EFC8",
+   "va": 2290888,
+   "en": "Galient Heavy Armor Kai Parts",
+   "source_size": 21,
+   "source_sha256": "a88ef8645ced0bf4af17fda184d36e00a4990ae5865c8382088ea38363c346b4"
+  },
+  {
+   "id": "ELF/rodata:0000EFA8",
+   "va": 2290856,
+   "en": "Convert Galient to Galient Heavy Armor\nKai.",
+   "source_size": 31,
+   "source_sha256": "b22b26f986ee0af015253b9c325d66984fad1aeabd02815013baab5512b33dae"
+  },
+  {
+   "id": "ELF/rodata:0000EF90",
+   "va": 2290832,
+   "en": "Promaxis Zee Parts",
+   "source_size": 23,
+   "source_sha256": "b440245d05b8c32fd948c2b0a7b119c1a2e82d5197e42c07d8475e4a6b1d957e"
+  },
+  {
+   "id": "ELF/rodata:0000EF68",
+   "va": 2290792,
+   "en": "Convert Promaxis to Promaxis Zee.",
+   "source_size": 35,
+   "source_sha256": "2a20a63f2b1d0aaf1e4cc7f8ff11fceba738982cb2bf754ac6b18dacb0921e3c"
+  },
+  {
+   "id": "ELF/rodata:0000EF50",
+   "va": 2290768,
+   "en": "Promaxis Wee Parts",
+   "source_size": 23,
+   "source_sha256": "407655c673f7e24144a495544856759eb88ac84ec280ac184badd20f5c060ddc"
+  },
+  {
+   "id": "ELF/rodata:0000EF28",
+   "va": 2290728,
+   "en": "Convert Promaxis to Promaxis Wee.",
+   "source_size": 35,
+   "source_sha256": "3025ad75c7d1c8c46a6891c4acf23b5e7e3c14381cb1519e2cba9dac992c8662"
+  },
+  {
+   "id": "ELF/rodata:0000EF10",
+   "va": 2290704,
+   "en": "Wingal Zee Parts",
+   "source_size": 23,
+   "source_sha256": "06a003bb6f4da313944f5b76b9026cc05b2ace5733a173eeae42b7d5db70d4fa"
+  },
+  {
+   "id": "ELF/rodata:0000EEE8",
+   "va": 2290664,
+   "en": "Convert Wingal to Wingal Zee.",
+   "source_size": 35,
+   "source_sha256": "1e57afb17951568296933a776f03d1b045577f903ed63824ce68912404694210"
+  },
+  {
+   "id": "ELF/rodata:0000EED0",
+   "va": 2290640,
+   "en": "OZ Custom Parts",
+   "source_size": 19,
+   "source_sha256": "f990daa9d10f1f1a97b6dc3c114efc6938d412085fae5ee811b1a853bb6e6ff0"
+  },
+  {
+   "id": "ELF/rodata:0000EEB0",
+   "va": 2290608,
+   "en": "Convert Aries to OZ specifications.",
+   "source_size": 27,
+   "source_sha256": "92fff42a807857be75e41053df4189c969e57a373d9fef3adcac37db82de337a"
+  },
+  {
+   "id": "ELF/rodata:0000EEA0",
+   "va": 2290592,
+   "en": "Commander Unit Parts",
+   "source_size": 15,
+   "source_sha256": "ebecb94679bc3a1101bc4acb2e9499f13cae57c4edc5cfa5e43d5cfd421b61ef"
+  },
+  {
+   "id": "ELF/rodata:0000EE80",
+   "va": 2290560,
+   "en": "Convert Aries to commander\nspecifications.",
+   "source_size": 29,
+   "source_sha256": "8a0dd85648137d276d089f104019050ebd3d3f83d86543410090482446628108"
+  },
+  {
+   "id": "ELF/rodata:0000EE68",
+   "va": 2290536,
+   "en": "【Xabungle １】",
+   "source_size": 17,
+   "source_sha256": "785890173fc2249d38f450194ee42964dd7e2e118e9493fbc50377c4dc4c1930"
+  },
+  {
+   "id": "ELF/rodata:0000EE48",
+   "va": 2290504,
+   "en": "Convert Xabungle to Xabungle.",
+   "source_size": 29,
+   "source_sha256": "84b977fb8e7581fde4c5a1e4e1bdb59ad9138ed99d7b68d7a8f339a68c27c5f2"
+  },
+  {
+   "id": "ELF/rodata:0000EE30",
+   "va": 2290480,
+   "en": "【Xabungle ２】",
+   "source_size": 17,
+   "source_sha256": "bd16db7f2e2d37af7c37df6c3d132e31552eb11620f213ab9b5421d17d5b1fc3"
+  },
+  {
+   "id": "ELF/rodata:0000EE20",
+   "va": 2290464,
+   "en": "Turbozack",
+   "source_size": 13,
+   "source_sha256": "5729bb4eb93b917ee14d5984bcd785617396264ee2e83cf9d1df331acebc4b3e"
+  },
+  {
+   "id": "ELF/rodata:0000EDF8",
+   "va": 2290424,
+   "en": "Equip Dougram with a Turbozack.",
+   "source_size": 33,
+   "source_sha256": "5df3b784e5e8a4fcaddbae109be67de228b1dedb0d90baf66faa680faa44b2c9"
+  },
+  {
+   "id": "ELF/rodata:0000EDE0",
+   "va": 2290400,
+   "en": "6-Tube Missile Pod",
+   "source_size": 19,
+   "source_sha256": "719a9d81c47e6d1a417028fc381648aa0e3ef6f35babfb1221333bac8c42ae91"
+  },
+  {
+   "id": "ELF/rodata:0000EDB0",
+   "va": 2290352,
+   "en": "Change Dougram equipped with Turbozack\ninto the Jakt Type.",
+   "source_size": 46,
+   "source_sha256": "279802708391ba5c2e0d13062f00c371f8c9c7ff37d4488e3f38ff6a217ab786"
+  },
+  {
+   "id": "ELF/rodata:0000EDA0",
+   "va": 2290336,
+   "en": "Cavalier-0",
+   "source_size": 15,
+   "source_sha256": "c9dac198b3852db300acd9ff6bba822e290f915bb5a8ca4e0fec7c8b6ff8aa85"
+  },
+  {
+   "id": "ELF/rodata:0000ED70",
+   "va": 2290288,
+   "en": "Change Dragonar-1 into Dragonar-1\n(Cavalier).",
+   "source_size": 46,
+   "source_sha256": "2e657578230693a58310b7a3da816b1941d6923ee5f5043a8484efa1a25bef5d"
+  },
+  {
+   "id": "ELF/rodata:0000ED58",
+   "va": 2290264,
+   "en": "Cavalier-0 Removal Mechanism",
+   "source_size": 23,
+   "source_sha256": "2a79ad16d6041ffd55e5f14d21caccf3f7784a0dd9413d413cf81958a2afbac2"
+  },
+  {
+   "id": "ELF/rodata:0000ED28",
+   "va": 2290216,
+   "en": "Change Dragonar-1 (Cavalier) into\nDragonar-1.",
+   "source_size": 48,
+   "source_sha256": "b5e83a21ffe1fc5b18adb35e9df502197535f275a1a525b76417b359210cbdd3"
+  },
+  {
+   "id": "ELF/rodata:0000ED18",
+   "va": 2290200,
+   "en": "【Layzner】",
+   "source_size": 15,
+   "source_sha256": "88a6482676acc7b1aba4aaea20393df62340ba2aa03f87aed357b6db0cc5a4ce"
+  },
+  {
+   "id": "ELF/rodata:0000ECF8",
+   "va": 2290168,
+   "en": "Change Layzner into Layzner.",
+   "source_size": 29,
+   "source_sha256": "4893ffd0da27b76e036dadd0c40aaffa68190e095a6b48b972149ee654ddc9fe"
+  },
+  {
+   "id": "ELF/sdata:00001578",
+   "va": 2329976,
+   "en": "Flying",
+   "source_size": 3,
+   "source_sha256": "49dbef498db55b18df7e07c537079b85af462cdc22b8e1fe80d24fb366a72f7e"
+  },
+  {
+   "id": "ELF/sdata:00001580",
+   "va": 2329984,
+   "en": "Anti-Air",
+   "source_size": 3,
+   "source_sha256": "04a35685201cf8d2a982a98087dd9377e6fd4aa5004fb244346522f867589b7a"
+  },
+  {
+   "id": "ELF/sdata:00001588",
+   "va": 2329992,
+   "en": "Ground",
+   "source_size": 3,
+   "source_sha256": "b368e719f8d83ef544aee02760d8e837582784fbb96188ab5643f2f366a8d5a8"
+  },
+  {
+   "id": "ELF/sdata:00001590",
+   "va": 2330000,
+   "en": "Pierce",
+   "source_size": 3,
+   "source_sha256": "7487466ec1517c942c8fcd01446b7ce61c07a6fa6f65bada978439a99339735b"
+  },
+  {
+   "id": "ELF/sdata:00001598",
+   "va": 2330008,
+   "en": "Long",
+   "source_size": 3,
+   "source_sha256": "e8a13f070a01359c94e812febaf09a98b71ff77dd92bce3acbe3014f8daa5e5c"
+  },
+  {
+   "id": "ELF/sdata:000015A0",
+   "va": 2330016,
+   "en": "Short",
+   "source_size": 3,
+   "source_sha256": "ae8d47c4d312f28e3fd4989c953cb0389e6135eff1e5e592b8194e04e77c8579"
+  }
+ ],
+ "code": [
+  {
+   "site": 1245808,
+   "lui": 1245796,
+   "target": 2234232,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608507768
+  },
+  {
+   "site": 1245828,
+   "lui": 1245820,
+   "target": 2234256,
+   "register": 4,
+   "base_register": 3,
+   "lui_word": 1006829602,
+   "word": 610539408
+  },
+  {
+   "site": 1246228,
+   "lui": 1246220,
+   "target": 2234328,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612636632
+  },
+  {
+   "site": 1246280,
+   "lui": 1246272,
+   "target": 2234360,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608507896
+  },
+  {
+   "site": 1307548,
+   "lui": 1307540,
+   "target": 2236584,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614801576
+  },
+  {
+   "site": 1308244,
+   "lui": 1308228,
+   "target": 2325528,
+   "register": 2,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 608336920
+  },
+  {
+   "site": 1309336,
+   "lui": 1309328,
+   "target": 2236600,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612638904
+  },
+  {
+   "site": 1309552,
+   "lui": 1309544,
+   "target": 2236616,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612638920
+  },
+  {
+   "site": 1309744,
+   "lui": 1309736,
+   "target": 2236640,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612638944
+  },
+  {
+   "site": 1310080,
+   "lui": 1310072,
+   "target": 2236688,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612638992
+  },
+  {
+   "site": 1310104,
+   "lui": 1310096,
+   "target": 2236736,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612639040
+  },
+  {
+   "site": 1481004,
+   "lui": 1480988,
+   "target": 2330048,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960676,
+   "word": 614829504
+  },
+  {
+   "site": 1481184,
+   "lui": 1481176,
+   "target": 2298496,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612635264
+  },
+  {
+   "site": 1481224,
+   "lui": 1481172,
+   "target": 2298528,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797984
+  },
+  {
+   "site": 1482040,
+   "lui": 1482028,
+   "target": 2298560,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614798016
+  },
+  {
+   "site": 1482436,
+   "lui": 1482428,
+   "target": 2298592,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 608506592
+  },
+  {
+   "site": 1482948,
+   "lui": 1482936,
+   "target": 2298640,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638587664
+  },
+  {
+   "site": 1483052,
+   "lui": 1483040,
+   "target": 2298664,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638587688
+  },
+  {
+   "site": 1483124,
+   "lui": 1483112,
+   "target": 2298688,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638587712
+  },
+  {
+   "site": 1483196,
+   "lui": 1483184,
+   "target": 2298712,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638587736
+  },
+  {
+   "site": 1492996,
+   "lui": 1492988,
+   "target": 2301496,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614800952
+  },
+  {
+   "site": 1493272,
+   "lui": 1493264,
+   "target": 2301512,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612638280
+  }
+ ],
+ "pointers": [
+  {
+   "site": 1857584,
+   "target": 2325520
+  },
+  {
+   "site": 1857588,
+   "target": 2325512
+  },
+  {
+   "site": 1857592,
+   "target": 2325504
+  },
+  {
+   "site": 1857596,
+   "target": 2236568
+  },
+  {
+   "site": 2080280,
+   "target": 2298480
+  },
+  {
+   "site": 2080284,
+   "target": 2298464
+  },
+  {
+   "site": 2080288,
+   "target": 2298448
+  },
+  {
+   "site": 2086056,
+   "target": 2301472
+  },
+  {
+   "site": 2086072,
+   "target": 2301432
+  },
+  {
+   "site": 2086088,
+   "target": 2301392
+  },
+  {
+   "site": 2086104,
+   "target": 2301352
+  },
+  {
+   "site": 2086120,
+   "target": 2301320
+  },
+  {
+   "site": 2086136,
+   "target": 2301304
+  },
+  {
+   "site": 2086152,
+   "target": 2301288
+  },
+  {
+   "site": 2086168,
+   "target": 2301272
+  },
+  {
+   "site": 2086184,
+   "target": 2301256
+  },
+  {
+   "site": 2086200,
+   "target": 2301232
+  },
+  {
+   "site": 2086216,
+   "target": 2301208
+  },
+  {
+   "site": 2086232,
+   "target": 2301168
+  },
+  {
+   "site": 2086248,
+   "target": 2301128
+  },
+  {
+   "site": 2086264,
+   "target": 2301088
+  },
+  {
+   "site": 2086280,
+   "target": 2301056
+  },
+  {
+   "site": 2086296,
+   "target": 2301040
+  },
+  {
+   "site": 2086312,
+   "target": 2301024
+  },
+  {
+   "site": 2086328,
+   "target": 2301008
+  },
+  {
+   "site": 2086344,
+   "target": 2300992
+  },
+  {
+   "site": 2086360,
+   "target": 2300968
+  },
+  {
+   "site": 2330040,
+   "target": 2298432
+  },
+  {
+   "site": 2330044,
+   "target": 2298416
+  },
+  {
+   "site": 2066576,
+   "target": 2329992
+  },
+  {
+   "site": 2066580,
+   "target": 2329984
+  },
+  {
+   "site": 2066584,
+   "target": 2329976
+  },
+  {
+   "site": 2066592,
+   "target": 2330016
+  },
+  {
+   "site": 2066596,
+   "target": 2330008
+  },
+  {
+   "site": 2066600,
+   "target": 2330000
+  }
+ ],
+ "parts": {
+  "rows": [
+   {
+    "id": "ELF/sdata:00001430",
+    "va": 2329648,
+    "en": "None",
+    "source_size": 5,
+    "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1"
+   },
+   {
+    "id": "ELF/native:00238C28",
+    "va": 2329640,
+    "en": "",
+    "source_size": 1,
+    "source_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+   },
+   {
+    "id": "ELF/rodata:0000FC50",
+    "va": 2294096,
+    "en": "GT-B Parts",
+    "source_size": 15,
+    "source_sha256": "2914238df7859a1704025d578989443e6955538715c33ed59f7c98eb943ceb1e"
+   },
+   {
+    "id": "ELF/rodata:0000FC30",
+    "va": 2294064,
+    "en": "Convert GT-A to GT-B.",
+    "source_size": 31,
+    "source_sha256": "cfc999cab60b327d906d244489d37dabffc276f376f37fbbe935fd79fb72cbee"
+   },
+   {
+    "id": "ELF/rodata:0000FC20",
+    "va": 2294048,
+    "en": "GT-C Parts",
+    "source_size": 15,
+    "source_sha256": "61e5d65978b37ba082b5d8d35ef0b69283925f039fda5ca097f336650d514e92"
+   },
+   {
+    "id": "ELF/rodata:0000FC00",
+    "va": 2294016,
+    "en": "Convert GT-A to GT-C.",
+    "source_size": 31,
+    "source_sha256": "2445d136143271a26cfe4eae769f7c62a01d7338f333d31d21ad5323f4b4682a"
+   },
+   {
+    "id": "ELF/rodata:0000FBF0",
+    "va": 2294000,
+    "en": "GT-D Parts",
+    "source_size": 15,
+    "source_sha256": "9567f4e7206a25f41e86db8c14e33396ea7fb403486054edbc548290547e28f1"
+   },
+   {
+    "id": "ELF/rodata:0000FBD0",
+    "va": 2293968,
+    "en": "Convert GT-A to GT-D.",
+    "source_size": 31,
+    "source_sha256": "25349c9bd799ac4e8bf84952d2c3a78496b61460f1542828bb9a88d6b783ac32"
+   },
+   {
+    "id": "ELF/rodata:0000FBC0",
+    "va": 2293952,
+    "en": "GT-E Parts",
+    "source_size": 15,
+    "source_sha256": "cc1d1db270e40894c262dd32d2497596077a0f990e3efb0c3f721e25b598eb88"
+   },
+   {
+    "id": "ELF/rodata:0000FBA0",
+    "va": 2293920,
+    "en": "Convert GT-A to GT-E.",
+    "source_size": 31,
+    "source_sha256": "f6632ba4d258de75e6b4c256b1151b9a305aa3d9c4cd2f06f7c944933befb94f"
+   },
+   {
+    "id": "ELF/rodata:0000FB88",
+    "va": 2293896,
+    "en": "【GT-A Parts】",
+    "source_size": 19,
+    "source_sha256": "1c35fb15b94367a3d72936df919822dca89e3f81a7ed47bf5e37340123799632"
+   },
+   {
+    "id": "ELF/rodata:0000FB68",
+    "va": 2293864,
+    "en": "Change GT-A into GT-A.",
+    "source_size": 25,
+    "source_sha256": "f5572189bcd19fbdea11824567b754f6a1d0af0bc0e7996ace6272f237f1e989"
+   },
+   {
+    "id": "ELF/rodata:0000FB58",
+    "va": 2293848,
+    "en": "GT-G Parts",
+    "source_size": 15,
+    "source_sha256": "4e59d39de8e0b5ba403d6590a0b0957f85847aa464dc53ac659ba88fdd597fe5"
+   },
+   {
+    "id": "ELF/rodata:0000FB38",
+    "va": 2293816,
+    "en": "Convert GT-A to GT-G.",
+    "source_size": 31,
+    "source_sha256": "c19b8fee2b1cc91139529966239eaf3a1208480abb6543e90912842db1aefc37"
+   },
+   {
+    "id": "ELF/rodata:0000FB28",
+    "va": 2293800,
+    "en": "GT-H Parts",
+    "source_size": 15,
+    "source_sha256": "3d024c90f17dde9c4fd47dd951cc34bbe0866808d36caf2e4e8ecf6ddf3e8d68"
+   },
+   {
+    "id": "ELF/rodata:0000FB08",
+    "va": 2293768,
+    "en": "Convert GT-A to GT-H.",
+    "source_size": 31,
+    "source_sha256": "bc142716f87a2dcd64827087725fe9f42dfa00773ef7e3c930123f4d29855598"
+   },
+   {
+    "id": "ELF/rodata:0000FAF8",
+    "va": 2293752,
+    "en": "GT-I Parts",
+    "source_size": 15,
+    "source_sha256": "5a967cd464f4dd510375e4c625341e43c4cd8b4415935bebb99ff5c7b379f4f0"
+   },
+   {
+    "id": "ELF/rodata:0000FAD8",
+    "va": 2293720,
+    "en": "Convert GT-A to GT-I.",
+    "source_size": 31,
+    "source_sha256": "196e0479d6de7230695f561a1a7d1c462fe7122cb40a02b2772c5269799d9c2a"
+   },
+   {
+    "id": "ELF/rodata:0000FAC8",
+    "va": 2293704,
+    "en": "GT-J Parts",
+    "source_size": 15,
+    "source_sha256": "e6e7cf3aed6888fca1a1cec48b470d93573f9e29256fd6b52a8e24d0f61c6187"
+   },
+   {
+    "id": "ELF/rodata:0000FAA8",
+    "va": 2293672,
+    "en": "Convert GT-A to GT-J.",
+    "source_size": 31,
+    "source_sha256": "7535e5e7bce7987893578c9a7ee7b877114a8282015d72b63d102aa6eb4d4786"
+   },
+   {
+    "id": "ELF/rodata:0000FA98",
+    "va": 2293656,
+    "en": "GT-K Parts",
+    "source_size": 15,
+    "source_sha256": "2753b336ead1a357c2b65f2489551d565892f4b528ea487bffd2287bbbd86013"
+   },
+   {
+    "id": "ELF/rodata:0000FA78",
+    "va": 2293624,
+    "en": "Convert GT-A to GT-K.",
+    "source_size": 31,
+    "source_sha256": "9f57f6885677a78a06992efab65bc51677bbf9c10a47fd1a4465f9d865cf9761"
+   },
+   {
+    "id": "ELF/rodata:0000FA68",
+    "va": 2293608,
+    "en": "GT-L Parts",
+    "source_size": 15,
+    "source_sha256": "f94940982dd8186763ac94ac45ece73cd85edb2752f204782884a30e8a5089da"
+   },
+   {
+    "id": "ELF/rodata:0000FA48",
+    "va": 2293576,
+    "en": "Convert GT-A to GT-L.",
+    "source_size": 31,
+    "source_sha256": "457bc5b812c948898ac1e7b0e3835feb285184bc5bec5d64a3870a680fee67d6"
+   },
+   {
+    "id": "ELF/rodata:0000FA38",
+    "va": 2293560,
+    "en": "GT-M Parts",
+    "source_size": 15,
+    "source_sha256": "9f27e83e84f4eab5b823071d2e5657a29ab8694ec5fc87b2a6e3f36ee365b5ae"
+   },
+   {
+    "id": "ELF/rodata:0000FA18",
+    "va": 2293528,
+    "en": "Convert GT-A to GT-M.",
+    "source_size": 31,
+    "source_sha256": "d7ae6827a4ae3e970743cb46ece43937a44cac9ac0b30370d43dca8917a1ab38"
+   },
+   {
+    "id": "ELF/rodata:0000FA08",
+    "va": 2293512,
+    "en": "GT-N Parts",
+    "source_size": 15,
+    "source_sha256": "5ff7a4f1f4de2827939accc80c8f9a0928b3e35522b5ba64ea70a74f9d7d5be1"
+   },
+   {
+    "id": "ELF/rodata:0000F9E8",
+    "va": 2293480,
+    "en": "Convert GT-A to GT-N.",
+    "source_size": 31,
+    "source_sha256": "01789080f30a86c79e08f48ba6b7e949ac75866d79bd23fd7910f6f72bb95639"
+   },
+   {
+    "id": "ELF/rodata:0000F9D8",
+    "va": 2293464,
+    "en": "GT-O Parts",
+    "source_size": 15,
+    "source_sha256": "30fd8dae8bc2c5649ea74da86bbbb1e480691929f7f9e370d43c2ff56c53001b"
+   },
+   {
+    "id": "ELF/rodata:0000F9B8",
+    "va": 2293432,
+    "en": "Convert GT-A to GT-O.",
+    "source_size": 31,
+    "source_sha256": "17a206b95420b8082be4b09803898934ce60330cc8a99b9bf9b545bfeaed6b68"
+   },
+   {
+    "id": "ELF/rodata:0000F9A8",
+    "va": 2293416,
+    "en": "GT-P Parts",
+    "source_size": 15,
+    "source_sha256": "90ab6a4e4e685c14e7275ff19b496f11f39f6cadf5d56f589fa7043a2d8c963f"
+   },
+   {
+    "id": "ELF/rodata:0000F988",
+    "va": 2293384,
+    "en": "Convert GT-A to GT-P.",
+    "source_size": 31,
+    "source_sha256": "c8f47500e4aedd41429af3ea42d4be8d3edf9274a88191ec4251b6da0eafa006"
+   },
+   {
+    "id": "ELF/rodata:0000F978",
+    "va": 2293368,
+    "en": "GT-Q Parts",
+    "source_size": 15,
+    "source_sha256": "0b5da4012a7137a47a6be9fbeef7f9fe51f96cdfb8acbdb764d9c851539670cc"
+   },
+   {
+    "id": "ELF/rodata:0000F958",
+    "va": 2293336,
+    "en": "Convert GT-A to GT-Q.",
+    "source_size": 31,
+    "source_sha256": "c6d0c602fd9dad36c02aeb1ce9f8348ad6796b54a6bfdfcc3dd2831d04cb948e"
+   },
+   {
+    "id": "ELF/rodata:0000F948",
+    "va": 2293320,
+    "en": "GT-R Parts",
+    "source_size": 15,
+    "source_sha256": "2adbf46150690c40b5faa03e7caae285aba759de8911b0a41ee8a1c6687382ef"
+   },
+   {
+    "id": "ELF/rodata:0000F928",
+    "va": 2293288,
+    "en": "Convert GT-A to GT-R.",
+    "source_size": 31,
+    "source_sha256": "0b379e961edb4498b5602800df0e2f127abe3a5f5a51207613bcc1f31ec94127"
+   },
+   {
+    "id": "ELF/rodata:0000F918",
+    "va": 2293272,
+    "en": "GT-S Parts",
+    "source_size": 15,
+    "source_sha256": "66b59d8332ce6e2bc3069943344bfa6179905546bede49836f3466f88fe0f2a2"
+   },
+   {
+    "id": "ELF/rodata:0000F8F8",
+    "va": 2293240,
+    "en": "Convert GT-A to GT-S.",
+    "source_size": 31,
+    "source_sha256": "1f06c8df948f740170013aa9b237d159c272c32565cd29ecc3d37a4eb5fefde5"
+   },
+   {
+    "id": "ELF/rodata:0000F8E8",
+    "va": 2293224,
+    "en": "GT-T Parts",
+    "source_size": 15,
+    "source_sha256": "51595c373828da73be3323fb3a2bbf6cd0b22bd112fea42fc2f6a620fb498fa3"
+   },
+   {
+    "id": "ELF/rodata:0000F8C8",
+    "va": 2293192,
+    "en": "Convert GT-A to GT-T.",
+    "source_size": 31,
+    "source_sha256": "82b70f9103cf33a0a8938fad327de9c579cafb7da184e58b2d0d94c32ef9ac9c"
+   },
+   {
+    "id": "ELF/rodata:0000F8B8",
+    "va": 2293176,
+    "en": "GT-U Parts",
+    "source_size": 15,
+    "source_sha256": "53527160bf545522255166eea01e13760807d7adbc0e06d52292288b43852a52"
+   },
+   {
+    "id": "ELF/rodata:0000F898",
+    "va": 2293144,
+    "en": "Convert GT-A to GT-U.",
+    "source_size": 31,
+    "source_sha256": "168928c2ae3a39d7bf6662469dd704f71d602a2eeaa2f18ec725ba5f9e3a92a8"
+   },
+   {
+    "id": "ELF/rodata:0000F888",
+    "va": 2293128,
+    "en": "GT-V Parts",
+    "source_size": 15,
+    "source_sha256": "7926198ce4f014b6750dd7e08abba83c1fb31b5b70b2e0248dc0d44a4a53fd02"
+   },
+   {
+    "id": "ELF/rodata:0000F868",
+    "va": 2293096,
+    "en": "Convert GT-A to GT-V.",
+    "source_size": 31,
+    "source_sha256": "92dac8b8241c0e2f6ee73fc79b0dd4dedcf132b4df43342a2749399f55cf1b22"
+   },
+   {
+    "id": "ELF/rodata:0000F858",
+    "va": 2293080,
+    "en": "GT-W Parts",
+    "source_size": 15,
+    "source_sha256": "95fb17ad13e40efc2bf0aa28f1e5541c801fafec706b77fbfc7e2d42d27f787c"
+   },
+   {
+    "id": "ELF/rodata:0000F838",
+    "va": 2293048,
+    "en": "Convert GT-A to GT-W.",
+    "source_size": 31,
+    "source_sha256": "4fc37f32dccb2ffc3eafeb3767de3eb8297fbef8fea829f614426c130a0b4b02"
+   },
+   {
+    "id": "ELF/rodata:0000F828",
+    "va": 2293032,
+    "en": "GT-X Parts",
+    "source_size": 15,
+    "source_sha256": "f63b221affc5a7f3e927063672429a99c3a6e7203bb4c1a4bc46178e1e7293e6"
+   },
+   {
+    "id": "ELF/rodata:0000F808",
+    "va": 2293000,
+    "en": "Convert GT-A to GT-X.",
+    "source_size": 31,
+    "source_sha256": "8166f97b28b06fbf44e916bf90a1ee800fffd5860ab0606bec395b44718d0bd4"
+   },
+   {
+    "id": "ELF/rodata:0000F7E8",
+    "va": 2292968,
+    "en": "Dunbine Sho Custom",
+    "source_size": 27,
+    "source_sha256": "5254ce54c3ec4e737f13643e4c0013b57fd79ab0a22943e9b2132cfba58ca9ac"
+   },
+   {
+    "id": "ELF/rodata:0000F7C0",
+    "va": 2292928,
+    "en": "Change Dunbine to Sho's colors.",
+    "source_size": 33,
+    "source_sha256": "98c8d91d672eceb654320928b266e0926cd93012dfad206510cd0279e586d7f7"
+   },
+   {
+    "id": "ELF/rodata:0000F7A0",
+    "va": 2292896,
+    "en": "Dunbine Todd Custom",
+    "source_size": 27,
+    "source_sha256": "564135b0a7ccff0bfe9c16c54e328406dbb828065343dbb65306c6a540409b79"
+   },
+   {
+    "id": "ELF/rodata:0000F778",
+    "va": 2292856,
+    "en": "Change Dunbine to Todd's colors.",
+    "source_size": 33,
+    "source_sha256": "96fc23269285905c85cb8bb2209bb1305e2fd012a86154e4ef516c0551d44897"
+   },
+   {
+    "id": "ELF/rodata:0000F760",
+    "va": 2292832,
+    "en": "Billbine Standard Colors",
+    "source_size": 21,
+    "source_sha256": "2054c9cb95dadff15b53e47d67c93d76332142f011ce54fdfd2830a33a690e14"
+   },
+   {
+    "id": "ELF/rodata:0000F738",
+    "va": 2292792,
+    "en": "Change Billbine's colors.",
+    "source_size": 35,
+    "source_sha256": "30c7fd6949f7b15fb67c79bb7f15b2b6a7e35a197d8863b43e4a9f289ac3b246"
+   },
+   {
+    "id": "ELF/rodata:0000F720",
+    "va": 2292768,
+    "en": "Billbine Camouflage Colors",
+    "source_size": 21,
+    "source_sha256": "606df97c3edcdcaa9341a1eea4ebc5b14c0e83f89c04dd0c090b60d060ed53ff"
+   },
+   {
+    "id": "ELF/rodata:0000F708",
+    "va": 2292744,
+    "en": "Drumlo Upgrade Parts",
+    "source_size": 17,
+    "source_sha256": "0df64179ac913dd719775af4089bc7f6e1e9520fbc970f370d66bc00655b9077"
+   },
+   {
+    "id": "ELF/rodata:0000F6E0",
+    "va": 2292704,
+    "en": "Replace Drumlo's converter with a new\nmodel.",
+    "source_size": 33,
+    "source_sha256": "beae6f70a50a0e3c396bad32f45edfb55f308cde4a8be0a8119a6cd2236016e2"
+   },
+   {
+    "id": "ELF/rodata:0000F6C0",
+    "va": 2292672,
+    "en": "【Drumlo Todd Parts】",
+    "source_size": 27,
+    "source_sha256": "5b97edcd1085acac321780c9fe9a3cbde6e8dbd77c05c21dad55de298e2c3a7f"
+   },
+   {
+    "id": "ELF/rodata:0000F698",
+    "va": 2292632,
+    "en": "Convert the improved Drumlo to a Drumlo\nfor Todd.",
+    "source_size": 40,
+    "source_sha256": "d878ab2fc77ca67e2694fd19552873fd2b61394e62a84c5d290d554ee1e63d96"
+   },
+   {
+    "id": "ELF/rodata:0000F678",
+    "va": 2292600,
+    "en": "Zwarth Black Knight Parts",
+    "source_size": 25,
+    "source_sha256": "736fe684d329cd67270958993c72a763371ae5d5fb3cdadc390e13ffc2f65717"
+   },
+   {
+    "id": "ELF/rodata:0000F658",
+    "va": 2292568,
+    "en": "Convert Zwarth for Black Knight use.",
+    "source_size": 27,
+    "source_sha256": "6190758f456aad686d9e1ba6e2f84426b30d7208c9bb5418135cea20dd26c06c"
+   },
+   {
+    "id": "ELF/rodata:0000F638",
+    "va": 2292536,
+    "en": "Botune Zelerna Parts",
+    "source_size": 27,
+    "source_sha256": "d0ec0ad521513f490ac5467469ef745f6cd57ee6224a1ef327b5b4974f8173ce"
+   },
+   {
+    "id": "ELF/rodata:0000F618",
+    "va": 2292504,
+    "en": "Convert Botune to Zelerna specifications.",
+    "source_size": 31,
+    "source_sha256": "45e0c9de44e2ada84aea81c130d06c00e30ddda030952f573eb65b3bf3da59df"
+   },
+   {
+    "id": "ELF/rodata:0000F5F8",
+    "va": 2292472,
+    "en": "Botune Foizon Parts",
+    "source_size": 29,
+    "source_sha256": "1ab3e34d4f3fa6115dd91cfcf967920ce334b8a6e743c0733728a34ee9668652"
+   },
+   {
+    "id": "ELF/rodata:0000F5D0",
+    "va": 2292432,
+    "en": "Convert Botune to Foizon specifications.",
+    "source_size": 34,
+    "source_sha256": "a3ef31e6ef6f564cfc7180e93585dc9809f162d93065380d9a35458c500c5dea"
+   },
+   {
+    "id": "ELF/rodata:0000F5B0",
+    "va": 2292400,
+    "en": "Botune Royal Guard Parts",
+    "source_size": 25,
+    "source_sha256": "d5dbb0494fea25641ac2eff678d07e6906b9341eb38fd5b901fdea1ffca5513d"
+   },
+   {
+    "id": "ELF/rodata:0000F588",
+    "va": 2292360,
+    "en": "Convert Botune to Kingdom of Na royal\nguard specifications.",
+    "source_size": 33,
+    "source_sha256": "b52f328535e04b5ddcfe8f70aeaa58c8d57937b873906e42cda800c3d26b67ef"
+   },
+   {
+    "id": "ELF/rodata:0000F568",
+    "va": 2292328,
+    "en": "Allone Mizun-Spec Parts",
+    "source_size": 25,
+    "source_sha256": "cc9f14c5837dff7fc1b99ecc810e0a663d18090f90347c5f780b6724d727a649"
+   },
+   {
+    "id": "ELF/rodata:0000F548",
+    "va": 2292296,
+    "en": "Convert Allone to Mizun Allone.",
+    "source_size": 31,
+    "source_sha256": "1caf1801855221a7c11226ce6c4eaee47401a50999cc89261a222b289cf6e394"
+   },
+   {
+    "id": "ELF/rodata:0000F530",
+    "va": 2292272,
+    "en": "Allone Military Parts",
+    "source_size": 19,
+    "source_sha256": "a7d4c025fb1af21e477ddef535cb160b93a7a0743b60bb41621a2843393b6e59"
+   },
+   {
+    "id": "ELF/rodata:0000F510",
+    "va": 2292240,
+    "en": "Convert Allone to a military Allone.",
+    "source_size": 29,
+    "source_sha256": "da3c31b0cfef5d5c2927c84b152a853a07658f45f534682e4629735600a88206"
+   },
+   {
+    "id": "ELF/rodata:0000F4F8",
+    "va": 2292216,
+    "en": "Allone Custom Parts",
+    "source_size": 23,
+    "source_sha256": "d1756efc270d39f21fbdbfa8388554e15536b094f9abe0cf99162665c077c709"
+   },
+   {
+    "id": "ELF/rodata:0000F4D0",
+    "va": 2292176,
+    "en": "Convert Allone into a customized unit.",
+    "source_size": 37,
+    "source_sha256": "f3908fa0263d40708a6249d8c678f989fc52fb4cd8ed59a3ec9dfd74a64d57c7"
+   },
+   {
+    "id": "ELF/rodata:0000F4C0",
+    "va": 2292160,
+    "en": "Gorongo Parts",
+    "source_size": 15,
+    "source_sha256": "d587ffc5fc95f073f26aa7e4b22b3bfd00bf59d2d210c3e175d04e64dd7d689f"
+   },
+   {
+    "id": "ELF/rodata:0000F4A0",
+    "va": 2292128,
+    "en": "Convert Allone to Gorongo.",
+    "source_size": 25,
+    "source_sha256": "6c17087157a0012dcbe8850d04a49193dcbe0011a9ffc592ffe7b7e9a979662a"
+   },
+   {
+    "id": "ELF/rodata:0000F488",
+    "va": 2292104,
+    "en": "S-Gorongo Parts",
+    "source_size": 17,
+    "source_sha256": "a837c99c5f00a598b01971fa17131a0b73d8378bb1d0b2439469329ff64325ca"
+   },
+   {
+    "id": "ELF/rodata:0000F460",
+    "va": 2292064,
+    "en": "Convert Gorongo to a Gorongo equipped\nwith a booster.",
+    "source_size": 40,
+    "source_sha256": "deb23063a5a42eb1a1dba23bce5190ac4f13b200c0dadfa2eb32631744c680c8"
+   },
+   {
+    "id": "ELF/rodata:0000F448",
+    "va": 2292040,
+    "en": "Greia Custom Parts",
+    "source_size": 23,
+    "source_sha256": "cd07f2c426ae6c693c5bed2ae33c5eb99c54d1dac304d54d1c4f3e36962985a6"
+   },
+   {
+    "id": "ELF/rodata:0000F420",
+    "va": 2292000,
+    "en": "Convert Greia into a customized unit.",
+    "source_size": 37,
+    "source_sha256": "2dc7a6b56cca35deb0a056478cede46cd08d93d0f2ceae2f0d31d64866a527f5"
+   },
+   {
+    "id": "ELF/rodata:0000F400",
+    "va": 2291968,
+    "en": "Bal-Bud Royal Guard Division Parts",
+    "source_size": 25,
+    "source_sha256": "7e1a4ff1d42f0fe2c8d469462c597ba4bd3373c5a6f2118dd09f8a900acb72ef"
+   },
+   {
+    "id": "ELF/rodata:0000F3E0",
+    "va": 2291936,
+    "en": "Convert Bal-Bud for Royal Guard Division\nuse.",
+    "source_size": 27,
+    "source_sha256": "d5cfe70eea7dbca18fc98cb5ede1e98c605033aad9ae3799e841794b3c492ea2"
+   },
+   {
+    "id": "ELF/rodata:0000F3C8",
+    "va": 2291912,
+    "en": "Titans Colors ０１",
+    "source_size": 23,
+    "source_sha256": "4b496b34dd56f932c4fdfe4e0e41000d92cccbafea501ac548920f0ced9b25ea"
+   },
+   {
+    "id": "ELF/rodata:0000F3A0",
+    "va": 2291872,
+    "en": "Change to Unit ０１ in Titans colors.",
+    "source_size": 35,
+    "source_sha256": "667ebabdd824ae4aafb2b2d6a1fde06c540cc7c8b5f3e3552871c792cc56b371"
+   },
+   {
+    "id": "ELF/rodata:0000F388",
+    "va": 2291848,
+    "en": "Titans Colors ０２",
+    "source_size": 23,
+    "source_sha256": "d2d86cd6861f304e3793f7f43f001a6b6ea66f7f39c02ce01f4cf66acef207b4"
+   },
+   {
+    "id": "ELF/rodata:0000F360",
+    "va": 2291808,
+    "en": "Change to Unit ０２ in Titans colors.",
+    "source_size": 35,
+    "source_sha256": "192037ddf5c9737d39be190be66c9f6f8fb2b5c1d0e85d44e2faa7e09658b92d"
+   },
+   {
+    "id": "ELF/rodata:0000F348",
+    "va": 2291784,
+    "en": "Titans Colors ０３",
+    "source_size": 23,
+    "source_sha256": "13df81b9a5b49c3c0665748ebfd6665decc5aa44b048baaee5a69cf5d918f173"
+   },
+   {
+    "id": "ELF/rodata:0000F320",
+    "va": 2291744,
+    "en": "Change to Unit ０３ in Titans colors.",
+    "source_size": 35,
+    "source_sha256": "681ec2bcd2cdd02feee105d9ef60bdeff9cc80595fe396255430b81ed93014e5"
+   },
+   {
+    "id": "ELF/rodata:0000F308",
+    "va": 2291720,
+    "en": "０１ AEUG Colors",
+    "source_size": 19,
+    "source_sha256": "e8e762f3f95d43cb4dad3400ca868d30e30ca7b04c75452890198e0b945db617"
+   },
+   {
+    "id": "ELF/rodata:0000F2E0",
+    "va": 2291680,
+    "en": "Change MkⅡ Unit ０１ to AEUG colors.",
+    "source_size": 37,
+    "source_sha256": "268ba2a30f24025cf18b2510df11e2a253c43e59eadc9000770506ca34c6c4a7"
+   },
+   {
+    "id": "ELF/rodata:0000F2C8",
+    "va": 2291656,
+    "en": "０２ AEUG Colors",
+    "source_size": 19,
+    "source_sha256": "9ddf499312b4244d81570b7eb59b427a994096bdaf36447ea279cf44bf6c3735"
+   },
+   {
+    "id": "ELF/rodata:0000F2A0",
+    "va": 2291616,
+    "en": "Change MkⅡ Unit ０２ to AEUG colors.",
+    "source_size": 37,
+    "source_sha256": "ec6c9eaa482a87f53862fbf6315b79aa07f8d55e277966d306ad98d918c8aa0a"
+   },
+   {
+    "id": "ELF/rodata:0000F288",
+    "va": 2291592,
+    "en": "０３ AEUG Colors",
+    "source_size": 19,
+    "source_sha256": "018c0e7a9c3ff1a9a68d6f9825ea990086f0e6315f4e48f901c837512570e913"
+   },
+   {
+    "id": "ELF/rodata:0000F260",
+    "va": 2291552,
+    "en": "Change MkⅡ Unit ０３ to AEUG colors.",
+    "source_size": 37,
+    "source_sha256": "9f24c10be2c50524dbcdbf1767c070c7f494b10cc4b45b76cc818d53bfa4ef95"
+   },
+   {
+    "id": "ELF/rodata:0000F248",
+    "va": 2291528,
+    "en": "Rick Dias (Late Version)",
+    "source_size": 23,
+    "source_sha256": "676b3ff748b18deba0034c7628914fc14a4f29e2937b79bc93482040a851da4d"
+   },
+   {
+    "id": "ELF/rodata:0000F228",
+    "va": 2291496,
+    "en": "Change Rick Dias to the late version.",
+    "source_size": 32,
+    "source_sha256": "0b8dd3aba2de96227da300152ca5d1b2889146fbe7c75939ee9c13c7e6c999fe"
+   },
+   {
+    "id": "ELF/rodata:0000F210",
+    "va": 2291472,
+    "en": "ATM０９-LC Parts",
+    "source_size": 23,
+    "source_sha256": "6bff2006cefafa7455830cdcc306ff81485a70b80ee292d39fe780b270d206a0"
+   },
+   {
+    "id": "ELF/rodata:0000F1E0",
+    "va": 2291424,
+    "en": "Convert Scopedog to Scopedog Light Type.",
+    "source_size": 44,
+    "source_sha256": "cc4305a5fecc149afd18137ec49eec9fbcb89b76d809032ba7b71a0b5c888927"
+   },
+   {
+    "id": "ELF/rodata:0000F1C0",
+    "va": 2291392,
+    "en": "ATM０９-RSC Parts",
+    "source_size": 25,
+    "source_sha256": "e2f43e7a6f1d56616b52fa10fcf73c349b3bf8f34399e0e6231171f745a4b2f1"
+   },
+   {
+    "id": "ELF/rodata:0000F190",
+    "va": 2291344,
+    "en": "Convert Scopedog to Scopedog RSC.",
+    "source_size": 44,
+    "source_sha256": "e91ac46fde7de95dfd7ba04e59c0cabeb9489834bde1f61c9ee799e6991885d9"
+   },
+   {
+    "id": "ELF/rodata:0000F178",
+    "va": 2291320,
+    "en": "Odon Survey Team Spec Parts",
+    "source_size": 23,
+    "source_sha256": "c8b9584597e8969a41f4ea4818e840db78ffa87dfb7cff534104960c2a47a2bb"
+   },
+   {
+    "id": "ELF/rodata:0000F150",
+    "va": 2291280,
+    "en": "Convert Scopedog to Odon survey team\nspecifications.",
+    "source_size": 40,
+    "source_sha256": "00e4c33ef67a9a890912eaf0d9b6b7bae573d318d369946350f38ed14998b3c3"
+   },
+   {
+    "id": "ELF/rodata:0000F138",
+    "va": 2291256,
+    "en": "AT０９-DD Parts",
+    "source_size": 21,
+    "source_sha256": "ccf2d65d95b2b88a7c1ac2c47413f3184ec518ae62503f7ebdb1ddf882961c8e"
+   },
+   {
+    "id": "ELF/rodata:0000F108",
+    "va": 2291208,
+    "en": "Convert Scopedog to Burglary Dog.",
+    "source_size": 42,
+    "source_sha256": "8e53e9948ac658d4a6ccd7b01c0b80c7e29c945c73425a364a35e9e3b9840679"
+   },
+   {
+    "id": "ELF/rodata:0000F0E8",
+    "va": 2291176,
+    "en": "X・ATH-P-RSC Parts",
+    "source_size": 29,
+    "source_sha256": "4f55722eb9414e44651a2ca73c6ab9014ec596a890eb144465777e78ccec3d02"
+   },
+   {
+    "id": "ELF/rodata:0000F0B8",
+    "va": 2291128,
+    "en": "Convert Scopedog RSC to Blood Sucker.",
+    "source_size": 46,
+    "source_sha256": "92503c9a8c7b05fec6984e9d682d4397d13a4bbe7f55aa8696441cf958f1946c"
+   },
+   {
+    "id": "ELF/rodata:0000F098",
+    "va": 2291096,
+    "en": "X・ATH-０２-DT Parts",
+    "source_size": 29,
+    "source_sha256": "23060df96c4495428c39872ea6a3d2aacf28da67bae40b4b3112a0a4d35f0ac2"
+   },
+   {
+    "id": "ELF/rodata:0000F068",
+    "va": 2291048,
+    "en": "Convert Blood Sucker to Rabidly Dog.",
+    "source_size": 42,
+    "source_sha256": "586a2ee898bffd53b823abb01771798837290616ae92043f313145c588bd24b4"
+   },
+   {
+    "id": "ELF/rodata:0000F048",
+    "va": 2291016,
+    "en": "BATM-０３/GR Parts",
+    "source_size": 27,
+    "source_sha256": "d78f108cd4c0c4ba5f9abd45c09bb566315423e2c84ec9971b10d471d2cbe100"
+   },
+   {
+    "id": "ELF/rodata:0000F028",
+    "va": 2290984,
+    "en": "Convert Fatty for ground use.",
+    "source_size": 27,
+    "source_sha256": "468cc3be71df1d8db1b95b0bee7f5583446f294bd388d7eb7d697315f83938f1"
+   },
+   {
+    "id": "ELF/rodata:0000F008",
+    "va": 2290952,
+    "en": "BATM-０３/GR Upgrade Parts",
+    "source_size": 31,
+    "source_sha256": "053d07ebb43edded0a14ad008665d300df81bcd9e5ab701bd5ef44a03f4f6cb5"
+   },
+   {
+    "id": "ELF/rodata:0000EFE0",
+    "va": 2290912,
+    "en": "Convert the ground-use Fatty to an\nenhanced model.",
+    "source_size": 33,
+    "source_sha256": "6a96af208e917a33b7c5a68b7998b086cc101942b9d2794739efa7e56ce568a3"
+   },
+   {
+    "id": "ELF/rodata:0000EFC8",
+    "va": 2290888,
+    "en": "Galient Heavy Armor Kai Parts",
+    "source_size": 21,
+    "source_sha256": "a88ef8645ced0bf4af17fda184d36e00a4990ae5865c8382088ea38363c346b4"
+   },
+   {
+    "id": "ELF/rodata:0000EFA8",
+    "va": 2290856,
+    "en": "Convert Galient to Galient Heavy Armor\nKai.",
+    "source_size": 31,
+    "source_sha256": "b22b26f986ee0af015253b9c325d66984fad1aeabd02815013baab5512b33dae"
+   },
+   {
+    "id": "ELF/rodata:0000EF90",
+    "va": 2290832,
+    "en": "Promaxis Zee Parts",
+    "source_size": 23,
+    "source_sha256": "b440245d05b8c32fd948c2b0a7b119c1a2e82d5197e42c07d8475e4a6b1d957e"
+   },
+   {
+    "id": "ELF/rodata:0000EF68",
+    "va": 2290792,
+    "en": "Convert Promaxis to Promaxis Zee.",
+    "source_size": 35,
+    "source_sha256": "2a20a63f2b1d0aaf1e4cc7f8ff11fceba738982cb2bf754ac6b18dacb0921e3c"
+   },
+   {
+    "id": "ELF/rodata:0000EF50",
+    "va": 2290768,
+    "en": "Promaxis Wee Parts",
+    "source_size": 23,
+    "source_sha256": "407655c673f7e24144a495544856759eb88ac84ec280ac184badd20f5c060ddc"
+   },
+   {
+    "id": "ELF/rodata:0000EF28",
+    "va": 2290728,
+    "en": "Convert Promaxis to Promaxis Wee.",
+    "source_size": 35,
+    "source_sha256": "3025ad75c7d1c8c46a6891c4acf23b5e7e3c14381cb1519e2cba9dac992c8662"
+   },
+   {
+    "id": "ELF/rodata:0000EF10",
+    "va": 2290704,
+    "en": "Wingal Zee Parts",
+    "source_size": 23,
+    "source_sha256": "06a003bb6f4da313944f5b76b9026cc05b2ace5733a173eeae42b7d5db70d4fa"
+   },
+   {
+    "id": "ELF/rodata:0000EEE8",
+    "va": 2290664,
+    "en": "Convert Wingal to Wingal Zee.",
+    "source_size": 35,
+    "source_sha256": "1e57afb17951568296933a776f03d1b045577f903ed63824ce68912404694210"
+   },
+   {
+    "id": "ELF/rodata:0000EED0",
+    "va": 2290640,
+    "en": "OZ Custom Parts",
+    "source_size": 19,
+    "source_sha256": "f990daa9d10f1f1a97b6dc3c114efc6938d412085fae5ee811b1a853bb6e6ff0"
+   },
+   {
+    "id": "ELF/rodata:0000EEB0",
+    "va": 2290608,
+    "en": "Convert Aries to OZ specifications.",
+    "source_size": 27,
+    "source_sha256": "92fff42a807857be75e41053df4189c969e57a373d9fef3adcac37db82de337a"
+   },
+   {
+    "id": "ELF/rodata:0000EEA0",
+    "va": 2290592,
+    "en": "Commander Unit Parts",
+    "source_size": 15,
+    "source_sha256": "ebecb94679bc3a1101bc4acb2e9499f13cae57c4edc5cfa5e43d5cfd421b61ef"
+   },
+   {
+    "id": "ELF/rodata:0000EE80",
+    "va": 2290560,
+    "en": "Convert Aries to commander\nspecifications.",
+    "source_size": 29,
+    "source_sha256": "8a0dd85648137d276d089f104019050ebd3d3f83d86543410090482446628108"
+   },
+   {
+    "id": "ELF/rodata:0000EE68",
+    "va": 2290536,
+    "en": "【Xabungle １】",
+    "source_size": 17,
+    "source_sha256": "785890173fc2249d38f450194ee42964dd7e2e118e9493fbc50377c4dc4c1930"
+   },
+   {
+    "id": "ELF/rodata:0000EE48",
+    "va": 2290504,
+    "en": "Convert Xabungle to Xabungle.",
+    "source_size": 29,
+    "source_sha256": "84b977fb8e7581fde4c5a1e4e1bdb59ad9138ed99d7b68d7a8f339a68c27c5f2"
+   },
+   {
+    "id": "ELF/rodata:0000EE30",
+    "va": 2290480,
+    "en": "【Xabungle ２】",
+    "source_size": 17,
+    "source_sha256": "bd16db7f2e2d37af7c37df6c3d132e31552eb11620f213ab9b5421d17d5b1fc3"
+   },
+   {
+    "id": "ELF/rodata:0000EE20",
+    "va": 2290464,
+    "en": "Turbozack",
+    "source_size": 13,
+    "source_sha256": "5729bb4eb93b917ee14d5984bcd785617396264ee2e83cf9d1df331acebc4b3e"
+   },
+   {
+    "id": "ELF/rodata:0000EDF8",
+    "va": 2290424,
+    "en": "Equip Dougram with a Turbozack.",
+    "source_size": 33,
+    "source_sha256": "5df3b784e5e8a4fcaddbae109be67de228b1dedb0d90baf66faa680faa44b2c9"
+   },
+   {
+    "id": "ELF/rodata:0000EDE0",
+    "va": 2290400,
+    "en": "6-Tube Missile Pod",
+    "source_size": 19,
+    "source_sha256": "719a9d81c47e6d1a417028fc381648aa0e3ef6f35babfb1221333bac8c42ae91"
+   },
+   {
+    "id": "ELF/rodata:0000EDB0",
+    "va": 2290352,
+    "en": "Change Dougram equipped with Turbozack\ninto the Jakt Type.",
+    "source_size": 46,
+    "source_sha256": "279802708391ba5c2e0d13062f00c371f8c9c7ff37d4488e3f38ff6a217ab786"
+   },
+   {
+    "id": "ELF/rodata:0000EDA0",
+    "va": 2290336,
+    "en": "Cavalier-0",
+    "source_size": 15,
+    "source_sha256": "c9dac198b3852db300acd9ff6bba822e290f915bb5a8ca4e0fec7c8b6ff8aa85"
+   },
+   {
+    "id": "ELF/rodata:0000ED70",
+    "va": 2290288,
+    "en": "Change Dragonar-1 into Dragonar-1\n(Cavalier).",
+    "source_size": 46,
+    "source_sha256": "2e657578230693a58310b7a3da816b1941d6923ee5f5043a8484efa1a25bef5d"
+   },
+   {
+    "id": "ELF/rodata:0000ED58",
+    "va": 2290264,
+    "en": "Cavalier-0 Removal Mechanism",
+    "source_size": 23,
+    "source_sha256": "2a79ad16d6041ffd55e5f14d21caccf3f7784a0dd9413d413cf81958a2afbac2"
+   },
+   {
+    "id": "ELF/rodata:0000ED28",
+    "va": 2290216,
+    "en": "Change Dragonar-1 (Cavalier) into\nDragonar-1.",
+    "source_size": 48,
+    "source_sha256": "b5e83a21ffe1fc5b18adb35e9df502197535f275a1a525b76417b359210cbdd3"
+   },
+   {
+    "id": "ELF/rodata:0000ED18",
+    "va": 2290200,
+    "en": "【Layzner】",
+    "source_size": 15,
+    "source_sha256": "88a6482676acc7b1aba4aaea20393df62340ba2aa03f87aed357b6db0cc5a4ce"
+   },
+   {
+    "id": "ELF/rodata:0000ECF8",
+    "va": 2290168,
+    "en": "Change Layzner into Layzner.",
+    "source_size": 29,
+    "source_sha256": "4893ffd0da27b76e036dadd0c40aaffa68190e095a6b48b972149ee654ddc9fe"
+   }
+  ],
+  "records": [
+   {
+    "index": 0,
+    "va": 2063408,
+    "raw_sha256": "d91f1477460885822f821f001f627b00b120a25fcc1933cefaa5be2b716978d4",
+    "source_unit": 0,
+    "target_unit": 0,
+    "pointers": [
+     2329648,
+     2329648,
+     2329648,
+     2329640
+    ]
+   },
+   {
+    "index": 1,
+    "va": 2063440,
+    "raw_sha256": "e8f115cf6e21957806382ed2534e662328e0293041be81da3fc499d145063a54",
+    "source_unit": 4,
+    "target_unit": 5,
+    "pointers": [
+     2294096,
+     2294096,
+     2294096,
+     2294064
+    ]
+   },
+   {
+    "index": 2,
+    "va": 2063472,
+    "raw_sha256": "82e71c4df7fa1f9b6c2116eca60075efd4c8c8cabf424db6409158dc6eaf3a8c",
+    "source_unit": 4,
+    "target_unit": 6,
+    "pointers": [
+     2294048,
+     2294048,
+     2294048,
+     2294016
+    ]
+   },
+   {
+    "index": 3,
+    "va": 2063504,
+    "raw_sha256": "c1e7fce6168ac9eb4bbab239e9d8a8d7a36d9a9bd0bf1713d3001e0755b169f5",
+    "source_unit": 4,
+    "target_unit": 7,
+    "pointers": [
+     2294000,
+     2294000,
+     2294000,
+     2293968
+    ]
+   },
+   {
+    "index": 4,
+    "va": 2063536,
+    "raw_sha256": "e73d43abf8f3361be6f7924a13bd74c16502748d2b309f13d2ca1c1acca14c78",
+    "source_unit": 4,
+    "target_unit": 8,
+    "pointers": [
+     2293952,
+     2293952,
+     2293952,
+     2293920
+    ]
+   },
+   {
+    "index": 5,
+    "va": 2063568,
+    "raw_sha256": "61298667d00d7f941e66433ba4855aa9952ad1a6c37793dad732cd54760c2bc5",
+    "source_unit": 4,
+    "target_unit": 4,
+    "pointers": [
+     2293896,
+     2293896,
+     2293896,
+     2293864
+    ]
+   },
+   {
+    "index": 6,
+    "va": 2063600,
+    "raw_sha256": "7165afb6f3821e7e4e7799d3d0df2cebf06b78a274ceaa0abb77f6bebaae4b77",
+    "source_unit": 4,
+    "target_unit": 10,
+    "pointers": [
+     2293848,
+     2293848,
+     2293848,
+     2293816
+    ]
+   },
+   {
+    "index": 7,
+    "va": 2063632,
+    "raw_sha256": "741cab4d5401807ee178d4e9467c0cb238bb06a2788bfb84517854cf74aeb284",
+    "source_unit": 4,
+    "target_unit": 11,
+    "pointers": [
+     2293800,
+     2293800,
+     2293800,
+     2293768
+    ]
+   },
+   {
+    "index": 8,
+    "va": 2063664,
+    "raw_sha256": "7176a1807158526a1a769fc01d5f71e6bb1f7512a0f1f1a7ac0ba7f8cb54ef8e",
+    "source_unit": 4,
+    "target_unit": 12,
+    "pointers": [
+     2293752,
+     2293752,
+     2293752,
+     2293720
+    ]
+   },
+   {
+    "index": 9,
+    "va": 2063696,
+    "raw_sha256": "3c5a191eadbf4ff013266c424bfeb4d50e77c7b42629e58b793d4528fa8d250f",
+    "source_unit": 4,
+    "target_unit": 13,
+    "pointers": [
+     2293704,
+     2293704,
+     2293704,
+     2293672
+    ]
+   },
+   {
+    "index": 10,
+    "va": 2063728,
+    "raw_sha256": "9d0256964386398d19239ffa0014969d283830d0876666ae5f7a2114d0bd6856",
+    "source_unit": 4,
+    "target_unit": 14,
+    "pointers": [
+     2293656,
+     2293656,
+     2293656,
+     2293624
+    ]
+   },
+   {
+    "index": 11,
+    "va": 2063760,
+    "raw_sha256": "2c3c9f130a120b6fde7e4c935504f54e65ef48194e6fe3c14b1da2c1321c50e0",
+    "source_unit": 4,
+    "target_unit": 15,
+    "pointers": [
+     2293608,
+     2293608,
+     2293608,
+     2293576
+    ]
+   },
+   {
+    "index": 12,
+    "va": 2063792,
+    "raw_sha256": "d77184ca3f4f906df11c85f42871406855f4f8dfc74a51a11b0480bfe28c757b",
+    "source_unit": 4,
+    "target_unit": 16,
+    "pointers": [
+     2293560,
+     2293560,
+     2293560,
+     2293528
+    ]
+   },
+   {
+    "index": 13,
+    "va": 2063824,
+    "raw_sha256": "e7e9c8a4fd32c529ecd70d559c97ea357392d0099a61696e1fa0bb448c246028",
+    "source_unit": 4,
+    "target_unit": 17,
+    "pointers": [
+     2293512,
+     2293512,
+     2293512,
+     2293480
+    ]
+   },
+   {
+    "index": 14,
+    "va": 2063856,
+    "raw_sha256": "a63c67170dd7b283f9316cb4be943523d7e3b0aae38b83d16f7d3cb835997374",
+    "source_unit": 4,
+    "target_unit": 18,
+    "pointers": [
+     2293464,
+     2293464,
+     2293464,
+     2293432
+    ]
+   },
+   {
+    "index": 15,
+    "va": 2063888,
+    "raw_sha256": "49843aa73060fd1e49f965d1ca5a99b817438bffd93751ba5a1ef9ab7e4fefd9",
+    "source_unit": 4,
+    "target_unit": 19,
+    "pointers": [
+     2293416,
+     2293416,
+     2293416,
+     2293384
+    ]
+   },
+   {
+    "index": 16,
+    "va": 2063920,
+    "raw_sha256": "c8c4577a956be044175d3ed57f1a104211ccf6352deb4eab6b268c3ea8fac404",
+    "source_unit": 4,
+    "target_unit": 20,
+    "pointers": [
+     2293368,
+     2293368,
+     2293368,
+     2293336
+    ]
+   },
+   {
+    "index": 17,
+    "va": 2063952,
+    "raw_sha256": "52d38c4443ad5487ec8643a0acfeee688ce23bbbeb3d5cdee7c5ff755769e33f",
+    "source_unit": 4,
+    "target_unit": 21,
+    "pointers": [
+     2293320,
+     2293320,
+     2293320,
+     2293288
+    ]
+   },
+   {
+    "index": 18,
+    "va": 2063984,
+    "raw_sha256": "352f3c067c70e5ab157e0e9c2f51c675191aeb74b9574cf11869856d9a218c93",
+    "source_unit": 4,
+    "target_unit": 22,
+    "pointers": [
+     2293272,
+     2293272,
+     2293272,
+     2293240
+    ]
+   },
+   {
+    "index": 19,
+    "va": 2064016,
+    "raw_sha256": "7834780efe2df2abc09ef0d3e995982f4aaaa563e174b7306a58950ebd72e9c6",
+    "source_unit": 4,
+    "target_unit": 23,
+    "pointers": [
+     2293224,
+     2293224,
+     2293224,
+     2293192
+    ]
+   },
+   {
+    "index": 20,
+    "va": 2064048,
+    "raw_sha256": "d0174a29c6f6fcc4fa18519d90fc37c67e9d8de35eec483697e72d845e3ac95e",
+    "source_unit": 4,
+    "target_unit": 24,
+    "pointers": [
+     2293176,
+     2293176,
+     2293176,
+     2293144
+    ]
+   },
+   {
+    "index": 21,
+    "va": 2064080,
+    "raw_sha256": "a1376bc7a531586dc85922d58aeaf8907d488ffb94fa1da4f9a4a59e89cef9cd",
+    "source_unit": 4,
+    "target_unit": 25,
+    "pointers": [
+     2293128,
+     2293128,
+     2293128,
+     2293096
+    ]
+   },
+   {
+    "index": 22,
+    "va": 2064112,
+    "raw_sha256": "b25509c903959f6dbaa9faa0700ac0ebcdc5bce42b040321b9d1096bba1bdf78",
+    "source_unit": 4,
+    "target_unit": 26,
+    "pointers": [
+     2293080,
+     2293080,
+     2293080,
+     2293048
+    ]
+   },
+   {
+    "index": 23,
+    "va": 2064144,
+    "raw_sha256": "6975d88215007262347723ccafbaf879137b29823fedfa6712cc9be88579ebac",
+    "source_unit": 4,
+    "target_unit": 27,
+    "pointers": [
+     2293032,
+     2293032,
+     2293032,
+     2293000
+    ]
+   },
+   {
+    "index": 24,
+    "va": 2064176,
+    "raw_sha256": "61298667d00d7f941e66433ba4855aa9952ad1a6c37793dad732cd54760c2bc5",
+    "source_unit": 4,
+    "target_unit": 4,
+    "pointers": [
+     2293896,
+     2293896,
+     2293896,
+     2293864
+    ]
+   },
+   {
+    "index": 25,
+    "va": 2064208,
+    "raw_sha256": "61298667d00d7f941e66433ba4855aa9952ad1a6c37793dad732cd54760c2bc5",
+    "source_unit": 4,
+    "target_unit": 4,
+    "pointers": [
+     2293896,
+     2293896,
+     2293896,
+     2293864
+    ]
+   },
+   {
+    "index": 26,
+    "va": 2064240,
+    "raw_sha256": "dba6e73f20b484b6aa230966e8087099103e8e78b1885a9f143144fcc786db45",
+    "source_unit": 77,
+    "target_unit": 76,
+    "pointers": [
+     2292968,
+     2292968,
+     2292968,
+     2292928
+    ]
+   },
+   {
+    "index": 27,
+    "va": 2064272,
+    "raw_sha256": "8cc48e3147e8c34d48e25b5240cf1e3bf12b945839879325fdff477a2b8a4f82",
+    "source_unit": 76,
+    "target_unit": 77,
+    "pointers": [
+     2292896,
+     2292896,
+     2292896,
+     2292856
+    ]
+   },
+   {
+    "index": 28,
+    "va": 2064304,
+    "raw_sha256": "2848c3bf7c6c271ca0410d6662a0608ae89480fd9d6e5e58b2336a054f8a5789",
+    "source_unit": 80,
+    "target_unit": 79,
+    "pointers": [
+     2292832,
+     2292832,
+     2292832,
+     2292792
+    ]
+   },
+   {
+    "index": 29,
+    "va": 2064336,
+    "raw_sha256": "a5cbd54f54ac8f07705c4208b37d39b416104563099181dc330572c2b1d73b37",
+    "source_unit": 79,
+    "target_unit": 80,
+    "pointers": [
+     2292768,
+     2292768,
+     2292768,
+     2292792
+    ]
+   },
+   {
+    "index": 30,
+    "va": 2064368,
+    "raw_sha256": "603e199d5cb5c9231141d192c35c39fd06a127191333ac9f7e16cad688e205ca",
+    "source_unit": 82,
+    "target_unit": 83,
+    "pointers": [
+     2292744,
+     2292744,
+     2292744,
+     2292704
+    ]
+   },
+   {
+    "index": 31,
+    "va": 2064400,
+    "raw_sha256": "51774638959a6dac18edc44afff02484c650fe2231cf816ce6254934b87dca9e",
+    "source_unit": 83,
+    "target_unit": 84,
+    "pointers": [
+     2292672,
+     2292672,
+     2292672,
+     2292632
+    ]
+   },
+   {
+    "index": 32,
+    "va": 2064432,
+    "raw_sha256": "8acc337727d7637b2d143b8980acf68e34f42ee1f5af8e786326d6ded291d823",
+    "source_unit": 92,
+    "target_unit": 94,
+    "pointers": [
+     2292600,
+     2292600,
+     2292600,
+     2292568
+    ]
+   },
+   {
+    "index": 33,
+    "va": 2064464,
+    "raw_sha256": "80a89de10f44a0dddfac5dd8237273e9107f88b267bb3e7478ea73e7aefd69fc",
+    "source_unit": 100,
+    "target_unit": 101,
+    "pointers": [
+     2292536,
+     2292536,
+     2292536,
+     2292504
+    ]
+   },
+   {
+    "index": 34,
+    "va": 2064496,
+    "raw_sha256": "8940e0f7dd73a7987e6322716b01ef198e0421210c512ed3ee52a92f687c573f",
+    "source_unit": 100,
+    "target_unit": 102,
+    "pointers": [
+     2292472,
+     2292472,
+     2292472,
+     2292432
+    ]
+   },
+   {
+    "index": 35,
+    "va": 2064528,
+    "raw_sha256": "1bf392001e9121458058e3d3ab30de44cf6646686dd49d14d17a8741785a65b4",
+    "source_unit": 100,
+    "target_unit": 103,
+    "pointers": [
+     2292400,
+     2292400,
+     2292400,
+     2292360
+    ]
+   },
+   {
+    "index": 36,
+    "va": 2064560,
+    "raw_sha256": "060acd678d2ab21ddacdeb21e5644736b248f002f5d55d5404573ee24d373a46",
+    "source_unit": 113,
+    "target_unit": 114,
+    "pointers": [
+     2292328,
+     2292328,
+     2292328,
+     2292296
+    ]
+   },
+   {
+    "index": 37,
+    "va": 2064592,
+    "raw_sha256": "45fd01250664f0d348719107e261e63879414f855bdf9e0077dbd2a9b9f4cc39",
+    "source_unit": 113,
+    "target_unit": 115,
+    "pointers": [
+     2292272,
+     2292272,
+     2292272,
+     2292240
+    ]
+   },
+   {
+    "index": 38,
+    "va": 2064624,
+    "raw_sha256": "0c517f2ebcc92e182da043b37f897d9691a0fd0e1579c5a43f4b3acf36fc5ae0",
+    "source_unit": 113,
+    "target_unit": 116,
+    "pointers": [
+     2292216,
+     2292216,
+     2292216,
+     2292176
+    ]
+   },
+   {
+    "index": 39,
+    "va": 2064656,
+    "raw_sha256": "61b48855739adbbedf63a8f6d3644c988df0654f935405bf8a2deea8fdc83347",
+    "source_unit": 113,
+    "target_unit": 117,
+    "pointers": [
+     2292160,
+     2292160,
+     2292160,
+     2292128
+    ]
+   },
+   {
+    "index": 40,
+    "va": 2064688,
+    "raw_sha256": "26b3b5b2754efe598ce55a64ab807c09f9f84a01ed319c122033b0dc5316bb81",
+    "source_unit": 117,
+    "target_unit": 118,
+    "pointers": [
+     2292104,
+     2292104,
+     2292104,
+     2292064
+    ]
+   },
+   {
+    "index": 41,
+    "va": 2064720,
+    "raw_sha256": "6677c79a3642186ca39a4208eca8b4d86114def27b651ca9b6b6b5222d8588d6",
+    "source_unit": 119,
+    "target_unit": 120,
+    "pointers": [
+     2292040,
+     2292040,
+     2292040,
+     2292000
+    ]
+   },
+   {
+    "index": 42,
+    "va": 2064752,
+    "raw_sha256": "f8a5696f4d921463acdde249f14051084cd2799fcfb57400a408cefc29170c14",
+    "source_unit": 122,
+    "target_unit": 123,
+    "pointers": [
+     2291968,
+     2291968,
+     2291968,
+     2291936
+    ]
+   },
+   {
+    "index": 43,
+    "va": 2064784,
+    "raw_sha256": "2263c1e2e58a406c9d7918ecca895804ceeb79be22f64a923de1fe362ec26ca7",
+    "source_unit": 137,
+    "target_unit": 138,
+    "pointers": [
+     2291912,
+     2291912,
+     2291912,
+     2291872
+    ]
+   },
+   {
+    "index": 44,
+    "va": 2064816,
+    "raw_sha256": "2e847605d7e4166685dd204f1a46876cff6fd51f7d11b1d1343a7991b532c728",
+    "source_unit": 137,
+    "target_unit": 139,
+    "pointers": [
+     2291848,
+     2291848,
+     2291848,
+     2291808
+    ]
+   },
+   {
+    "index": 45,
+    "va": 2064848,
+    "raw_sha256": "2c9fef92400156f95f65daa7c6c0350f983b0a70677bc34e482e8df0c9106aba",
+    "source_unit": 137,
+    "target_unit": 140,
+    "pointers": [
+     2291784,
+     2291784,
+     2291784,
+     2291744
+    ]
+   },
+   {
+    "index": 46,
+    "va": 2064880,
+    "raw_sha256": "4fc65a9a823e475924eb44796a8ee96a2a22fb6895353e532d9604289283b4fe",
+    "source_unit": 138,
+    "target_unit": 137,
+    "pointers": [
+     2291720,
+     2291720,
+     2291720,
+     2291680
+    ]
+   },
+   {
+    "index": 47,
+    "va": 2064912,
+    "raw_sha256": "003b5d3faf53d9a9560a1534bd1c893a67d54a0cf0d0fc72de111029076f08df",
+    "source_unit": 139,
+    "target_unit": 137,
+    "pointers": [
+     2291656,
+     2291656,
+     2291656,
+     2291616
+    ]
+   },
+   {
+    "index": 48,
+    "va": 2064944,
+    "raw_sha256": "58453cc9fe337cca081a3cdad5a83081c3d1933cfc77d9a8350b6f247a2a57a6",
+    "source_unit": 140,
+    "target_unit": 137,
+    "pointers": [
+     2291592,
+     2291592,
+     2291592,
+     2291552
+    ]
+   },
+   {
+    "index": 49,
+    "va": 2064976,
+    "raw_sha256": "fa643c18dab6fcee1d55f59ce63291bd058dc46dc7a94577f2a382b7ec12dd69",
+    "source_unit": 146,
+    "target_unit": 147,
+    "pointers": [
+     2291528,
+     2291528,
+     2291528,
+     2291496
+    ]
+   },
+   {
+    "index": 50,
+    "va": 2065008,
+    "raw_sha256": "f3f29ebbab1f965108e0d95f457cfeafe11b9f3381d6a7e81e2a58e8d7e2aa7b",
+    "source_unit": 176,
+    "target_unit": 177,
+    "pointers": [
+     2291472,
+     2291472,
+     2291472,
+     2291424
+    ]
+   },
+   {
+    "index": 51,
+    "va": 2065040,
+    "raw_sha256": "c2aa0478d30d6e298a06b4cee38e4125936dae3daee6a9e03770e863d49d918d",
+    "source_unit": 176,
+    "target_unit": 179,
+    "pointers": [
+     2291392,
+     2291392,
+     2291392,
+     2291344
+    ]
+   },
+   {
+    "index": 52,
+    "va": 2065072,
+    "raw_sha256": "4638ef3adeb36553aed5cd1cf462843e0d93f72f786c3c449fb5d71272ab264b",
+    "source_unit": 176,
+    "target_unit": 187,
+    "pointers": [
+     2291320,
+     2291320,
+     2291320,
+     2291280
+    ]
+   },
+   {
+    "index": 53,
+    "va": 2065104,
+    "raw_sha256": "615a8890ab9ddc1388e6981e9eb6b2ef0265e2c547643dd09a1e758ad1299fa6",
+    "source_unit": 176,
+    "target_unit": 192,
+    "pointers": [
+     2291256,
+     2291256,
+     2291256,
+     2291208
+    ]
+   },
+   {
+    "index": 54,
+    "va": 2065136,
+    "raw_sha256": "a74c4232133c5e1b7c733943299023e7463e4d435f88853bdc1ecd121b2ab1af",
+    "source_unit": 179,
+    "target_unit": 204,
+    "pointers": [
+     2291176,
+     2291176,
+     2291176,
+     2291128
+    ]
+   },
+   {
+    "index": 55,
+    "va": 2065168,
+    "raw_sha256": "e2ed35486429742edf7e80ee476092f5071a2da7e2f48f2516d50e98d35c1b14",
+    "source_unit": 204,
+    "target_unit": 206,
+    "pointers": [
+     2291096,
+     2291096,
+     2291096,
+     2291048
+    ]
+   },
+   {
+    "index": 56,
+    "va": 2065200,
+    "raw_sha256": "f816ed9f14d6605360653241badde130795cd2084b82fea325d9ecfc9aaa7597",
+    "source_unit": 210,
+    "target_unit": 211,
+    "pointers": [
+     2291016,
+     2291016,
+     2291016,
+     2290984
+    ]
+   },
+   {
+    "index": 57,
+    "va": 2065232,
+    "raw_sha256": "05adde20ac42c1e4021d1822e71391be0be1494e96cc2975787d3bf7a4ad903c",
+    "source_unit": 211,
+    "target_unit": 212,
+    "pointers": [
+     2290952,
+     2290952,
+     2290952,
+     2290912
+    ]
+   },
+   {
+    "index": 58,
+    "va": 2065264,
+    "raw_sha256": "b4ed9c7a0353bef88d63cc0bcf8ef8d513cefa609cb7513a6d2ade499f8cf45e",
+    "source_unit": 214,
+    "target_unit": 215,
+    "pointers": [
+     2290888,
+     2290888,
+     2290888,
+     2290856
+    ]
+   },
+   {
+    "index": 59,
+    "va": 2065296,
+    "raw_sha256": "344e38a6b44da8faa4fc14057a9b4164b048e23d623e1634e91e87b94c6534da",
+    "source_unit": 218,
+    "target_unit": 219,
+    "pointers": [
+     2290832,
+     2290832,
+     2290832,
+     2290792
+    ]
+   },
+   {
+    "index": 60,
+    "va": 2065328,
+    "raw_sha256": "9270dce1c88f8adcd959053d4fcadc4679913941196497f777e39cc7f6292969",
+    "source_unit": 218,
+    "target_unit": 220,
+    "pointers": [
+     2290768,
+     2290768,
+     2290768,
+     2290728
+    ]
+   },
+   {
+    "index": 61,
+    "va": 2065360,
+    "raw_sha256": "8b627fc1df567330e44c87bd10283851f1215c14e281177319b15ac96bbf4b6e",
+    "source_unit": 221,
+    "target_unit": 222,
+    "pointers": [
+     2290704,
+     2290704,
+     2290704,
+     2290664
+    ]
+   },
+   {
+    "index": 62,
+    "va": 2065392,
+    "raw_sha256": "09c7fcfdda3303b9dec6b964b54e91b65233b809d6681053d66e00705d99c423",
+    "source_unit": 352,
+    "target_unit": 353,
+    "pointers": [
+     2290640,
+     2290640,
+     2290640,
+     2290608
+    ]
+   },
+   {
+    "index": 63,
+    "va": 2065424,
+    "raw_sha256": "671454f75da2b1682ac3ebc717a1bbc0707175cf1d3a6992a821589385f522f7",
+    "source_unit": 352,
+    "target_unit": 354,
+    "pointers": [
+     2290592,
+     2290592,
+     2290592,
+     2290560
+    ]
+   },
+   {
+    "index": 64,
+    "va": 2065456,
+    "raw_sha256": "16bc6f395b8e9720076fac876ebe0d4fbaf30475333169ea9292dd611ba5f27f",
+    "source_unit": 362,
+    "target_unit": 362,
+    "pointers": [
+     2290536,
+     2290536,
+     2290536,
+     2290504
+    ]
+   },
+   {
+    "index": 65,
+    "va": 2065488,
+    "raw_sha256": "0d1fa544ce4d6435603ea8d8d3de67264b5db68ecf1a1b9a363b2cdd4fdcef66",
+    "source_unit": 362,
+    "target_unit": 362,
+    "pointers": [
+     2290480,
+     2290480,
+     2290480,
+     2290504
+    ]
+   },
+   {
+    "index": 66,
+    "va": 2065520,
+    "raw_sha256": "33b592fb0b31f670c362b6d8b8d4e774d6edb298e01bb13ed7d2821aef556926",
+    "source_unit": 366,
+    "target_unit": 367,
+    "pointers": [
+     2290464,
+     2290464,
+     2290464,
+     2290424
+    ]
+   },
+   {
+    "index": 67,
+    "va": 2065552,
+    "raw_sha256": "b4ca64e00dbd44dbcc4a5bba1deb787482385ec18698d3e77437a31239f0c964",
+    "source_unit": 367,
+    "target_unit": 369,
+    "pointers": [
+     2290400,
+     2290400,
+     2290400,
+     2290352
+    ]
+   },
+   {
+    "index": 68,
+    "va": 2065584,
+    "raw_sha256": "5afbeda0861a11cc29d070de5b77bb6ee567a2ebc3cd7e11b408447dcbbb5307",
+    "source_unit": 398,
+    "target_unit": 397,
+    "pointers": [
+     2290336,
+     2290336,
+     2290336,
+     2290288
+    ]
+   },
+   {
+    "index": 69,
+    "va": 2065616,
+    "raw_sha256": "df8ea55571e48e267d5eaa20efeddc91c95a1a42b2e40870a96d6f21947a2a15",
+    "source_unit": 397,
+    "target_unit": 398,
+    "pointers": [
+     2290264,
+     2290264,
+     2290264,
+     2290216
+    ]
+   },
+   {
+    "index": 70,
+    "va": 2065648,
+    "raw_sha256": "8b019aa17d5096a4387b0a171d8079c3af6839f646972c7f6a17ee2a199512ca",
+    "source_unit": 230,
+    "target_unit": 230,
+    "pointers": [
+     2290200,
+     2290200,
+     2290200,
+     2290168
+    ]
+   }
+  ],
+  "fields": [
+   {
+    "record": 0,
+    "offset": 0,
+    "site": 2063408,
+    "target": 2329648,
+    "id": "ELF/sdata:00001430"
+   },
+   {
+    "record": 0,
+    "offset": 4,
+    "site": 2063412,
+    "target": 2329648,
+    "id": "ELF/sdata:00001430"
+   },
+   {
+    "record": 0,
+    "offset": 8,
+    "site": 2063416,
+    "target": 2329648,
+    "id": "ELF/sdata:00001430"
+   },
+   {
+    "record": 0,
+    "offset": 12,
+    "site": 2063420,
+    "target": 2329640,
+    "id": "ELF/native:00238C28"
+   },
+   {
+    "record": 1,
+    "offset": 0,
+    "site": 2063440,
+    "target": 2294096,
+    "id": "ELF/rodata:0000FC50"
+   },
+   {
+    "record": 1,
+    "offset": 4,
+    "site": 2063444,
+    "target": 2294096,
+    "id": "ELF/rodata:0000FC50"
+   },
+   {
+    "record": 1,
+    "offset": 8,
+    "site": 2063448,
+    "target": 2294096,
+    "id": "ELF/rodata:0000FC50"
+   },
+   {
+    "record": 1,
+    "offset": 12,
+    "site": 2063452,
+    "target": 2294064,
+    "id": "ELF/rodata:0000FC30"
+   },
+   {
+    "record": 2,
+    "offset": 0,
+    "site": 2063472,
+    "target": 2294048,
+    "id": "ELF/rodata:0000FC20"
+   },
+   {
+    "record": 2,
+    "offset": 4,
+    "site": 2063476,
+    "target": 2294048,
+    "id": "ELF/rodata:0000FC20"
+   },
+   {
+    "record": 2,
+    "offset": 8,
+    "site": 2063480,
+    "target": 2294048,
+    "id": "ELF/rodata:0000FC20"
+   },
+   {
+    "record": 2,
+    "offset": 12,
+    "site": 2063484,
+    "target": 2294016,
+    "id": "ELF/rodata:0000FC00"
+   },
+   {
+    "record": 3,
+    "offset": 0,
+    "site": 2063504,
+    "target": 2294000,
+    "id": "ELF/rodata:0000FBF0"
+   },
+   {
+    "record": 3,
+    "offset": 4,
+    "site": 2063508,
+    "target": 2294000,
+    "id": "ELF/rodata:0000FBF0"
+   },
+   {
+    "record": 3,
+    "offset": 8,
+    "site": 2063512,
+    "target": 2294000,
+    "id": "ELF/rodata:0000FBF0"
+   },
+   {
+    "record": 3,
+    "offset": 12,
+    "site": 2063516,
+    "target": 2293968,
+    "id": "ELF/rodata:0000FBD0"
+   },
+   {
+    "record": 4,
+    "offset": 0,
+    "site": 2063536,
+    "target": 2293952,
+    "id": "ELF/rodata:0000FBC0"
+   },
+   {
+    "record": 4,
+    "offset": 4,
+    "site": 2063540,
+    "target": 2293952,
+    "id": "ELF/rodata:0000FBC0"
+   },
+   {
+    "record": 4,
+    "offset": 8,
+    "site": 2063544,
+    "target": 2293952,
+    "id": "ELF/rodata:0000FBC0"
+   },
+   {
+    "record": 4,
+    "offset": 12,
+    "site": 2063548,
+    "target": 2293920,
+    "id": "ELF/rodata:0000FBA0"
+   },
+   {
+    "record": 5,
+    "offset": 0,
+    "site": 2063568,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 5,
+    "offset": 4,
+    "site": 2063572,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 5,
+    "offset": 8,
+    "site": 2063576,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 5,
+    "offset": 12,
+    "site": 2063580,
+    "target": 2293864,
+    "id": "ELF/rodata:0000FB68"
+   },
+   {
+    "record": 6,
+    "offset": 0,
+    "site": 2063600,
+    "target": 2293848,
+    "id": "ELF/rodata:0000FB58"
+   },
+   {
+    "record": 6,
+    "offset": 4,
+    "site": 2063604,
+    "target": 2293848,
+    "id": "ELF/rodata:0000FB58"
+   },
+   {
+    "record": 6,
+    "offset": 8,
+    "site": 2063608,
+    "target": 2293848,
+    "id": "ELF/rodata:0000FB58"
+   },
+   {
+    "record": 6,
+    "offset": 12,
+    "site": 2063612,
+    "target": 2293816,
+    "id": "ELF/rodata:0000FB38"
+   },
+   {
+    "record": 7,
+    "offset": 0,
+    "site": 2063632,
+    "target": 2293800,
+    "id": "ELF/rodata:0000FB28"
+   },
+   {
+    "record": 7,
+    "offset": 4,
+    "site": 2063636,
+    "target": 2293800,
+    "id": "ELF/rodata:0000FB28"
+   },
+   {
+    "record": 7,
+    "offset": 8,
+    "site": 2063640,
+    "target": 2293800,
+    "id": "ELF/rodata:0000FB28"
+   },
+   {
+    "record": 7,
+    "offset": 12,
+    "site": 2063644,
+    "target": 2293768,
+    "id": "ELF/rodata:0000FB08"
+   },
+   {
+    "record": 8,
+    "offset": 0,
+    "site": 2063664,
+    "target": 2293752,
+    "id": "ELF/rodata:0000FAF8"
+   },
+   {
+    "record": 8,
+    "offset": 4,
+    "site": 2063668,
+    "target": 2293752,
+    "id": "ELF/rodata:0000FAF8"
+   },
+   {
+    "record": 8,
+    "offset": 8,
+    "site": 2063672,
+    "target": 2293752,
+    "id": "ELF/rodata:0000FAF8"
+   },
+   {
+    "record": 8,
+    "offset": 12,
+    "site": 2063676,
+    "target": 2293720,
+    "id": "ELF/rodata:0000FAD8"
+   },
+   {
+    "record": 9,
+    "offset": 0,
+    "site": 2063696,
+    "target": 2293704,
+    "id": "ELF/rodata:0000FAC8"
+   },
+   {
+    "record": 9,
+    "offset": 4,
+    "site": 2063700,
+    "target": 2293704,
+    "id": "ELF/rodata:0000FAC8"
+   },
+   {
+    "record": 9,
+    "offset": 8,
+    "site": 2063704,
+    "target": 2293704,
+    "id": "ELF/rodata:0000FAC8"
+   },
+   {
+    "record": 9,
+    "offset": 12,
+    "site": 2063708,
+    "target": 2293672,
+    "id": "ELF/rodata:0000FAA8"
+   },
+   {
+    "record": 10,
+    "offset": 0,
+    "site": 2063728,
+    "target": 2293656,
+    "id": "ELF/rodata:0000FA98"
+   },
+   {
+    "record": 10,
+    "offset": 4,
+    "site": 2063732,
+    "target": 2293656,
+    "id": "ELF/rodata:0000FA98"
+   },
+   {
+    "record": 10,
+    "offset": 8,
+    "site": 2063736,
+    "target": 2293656,
+    "id": "ELF/rodata:0000FA98"
+   },
+   {
+    "record": 10,
+    "offset": 12,
+    "site": 2063740,
+    "target": 2293624,
+    "id": "ELF/rodata:0000FA78"
+   },
+   {
+    "record": 11,
+    "offset": 0,
+    "site": 2063760,
+    "target": 2293608,
+    "id": "ELF/rodata:0000FA68"
+   },
+   {
+    "record": 11,
+    "offset": 4,
+    "site": 2063764,
+    "target": 2293608,
+    "id": "ELF/rodata:0000FA68"
+   },
+   {
+    "record": 11,
+    "offset": 8,
+    "site": 2063768,
+    "target": 2293608,
+    "id": "ELF/rodata:0000FA68"
+   },
+   {
+    "record": 11,
+    "offset": 12,
+    "site": 2063772,
+    "target": 2293576,
+    "id": "ELF/rodata:0000FA48"
+   },
+   {
+    "record": 12,
+    "offset": 0,
+    "site": 2063792,
+    "target": 2293560,
+    "id": "ELF/rodata:0000FA38"
+   },
+   {
+    "record": 12,
+    "offset": 4,
+    "site": 2063796,
+    "target": 2293560,
+    "id": "ELF/rodata:0000FA38"
+   },
+   {
+    "record": 12,
+    "offset": 8,
+    "site": 2063800,
+    "target": 2293560,
+    "id": "ELF/rodata:0000FA38"
+   },
+   {
+    "record": 12,
+    "offset": 12,
+    "site": 2063804,
+    "target": 2293528,
+    "id": "ELF/rodata:0000FA18"
+   },
+   {
+    "record": 13,
+    "offset": 0,
+    "site": 2063824,
+    "target": 2293512,
+    "id": "ELF/rodata:0000FA08"
+   },
+   {
+    "record": 13,
+    "offset": 4,
+    "site": 2063828,
+    "target": 2293512,
+    "id": "ELF/rodata:0000FA08"
+   },
+   {
+    "record": 13,
+    "offset": 8,
+    "site": 2063832,
+    "target": 2293512,
+    "id": "ELF/rodata:0000FA08"
+   },
+   {
+    "record": 13,
+    "offset": 12,
+    "site": 2063836,
+    "target": 2293480,
+    "id": "ELF/rodata:0000F9E8"
+   },
+   {
+    "record": 14,
+    "offset": 0,
+    "site": 2063856,
+    "target": 2293464,
+    "id": "ELF/rodata:0000F9D8"
+   },
+   {
+    "record": 14,
+    "offset": 4,
+    "site": 2063860,
+    "target": 2293464,
+    "id": "ELF/rodata:0000F9D8"
+   },
+   {
+    "record": 14,
+    "offset": 8,
+    "site": 2063864,
+    "target": 2293464,
+    "id": "ELF/rodata:0000F9D8"
+   },
+   {
+    "record": 14,
+    "offset": 12,
+    "site": 2063868,
+    "target": 2293432,
+    "id": "ELF/rodata:0000F9B8"
+   },
+   {
+    "record": 15,
+    "offset": 0,
+    "site": 2063888,
+    "target": 2293416,
+    "id": "ELF/rodata:0000F9A8"
+   },
+   {
+    "record": 15,
+    "offset": 4,
+    "site": 2063892,
+    "target": 2293416,
+    "id": "ELF/rodata:0000F9A8"
+   },
+   {
+    "record": 15,
+    "offset": 8,
+    "site": 2063896,
+    "target": 2293416,
+    "id": "ELF/rodata:0000F9A8"
+   },
+   {
+    "record": 15,
+    "offset": 12,
+    "site": 2063900,
+    "target": 2293384,
+    "id": "ELF/rodata:0000F988"
+   },
+   {
+    "record": 16,
+    "offset": 0,
+    "site": 2063920,
+    "target": 2293368,
+    "id": "ELF/rodata:0000F978"
+   },
+   {
+    "record": 16,
+    "offset": 4,
+    "site": 2063924,
+    "target": 2293368,
+    "id": "ELF/rodata:0000F978"
+   },
+   {
+    "record": 16,
+    "offset": 8,
+    "site": 2063928,
+    "target": 2293368,
+    "id": "ELF/rodata:0000F978"
+   },
+   {
+    "record": 16,
+    "offset": 12,
+    "site": 2063932,
+    "target": 2293336,
+    "id": "ELF/rodata:0000F958"
+   },
+   {
+    "record": 17,
+    "offset": 0,
+    "site": 2063952,
+    "target": 2293320,
+    "id": "ELF/rodata:0000F948"
+   },
+   {
+    "record": 17,
+    "offset": 4,
+    "site": 2063956,
+    "target": 2293320,
+    "id": "ELF/rodata:0000F948"
+   },
+   {
+    "record": 17,
+    "offset": 8,
+    "site": 2063960,
+    "target": 2293320,
+    "id": "ELF/rodata:0000F948"
+   },
+   {
+    "record": 17,
+    "offset": 12,
+    "site": 2063964,
+    "target": 2293288,
+    "id": "ELF/rodata:0000F928"
+   },
+   {
+    "record": 18,
+    "offset": 0,
+    "site": 2063984,
+    "target": 2293272,
+    "id": "ELF/rodata:0000F918"
+   },
+   {
+    "record": 18,
+    "offset": 4,
+    "site": 2063988,
+    "target": 2293272,
+    "id": "ELF/rodata:0000F918"
+   },
+   {
+    "record": 18,
+    "offset": 8,
+    "site": 2063992,
+    "target": 2293272,
+    "id": "ELF/rodata:0000F918"
+   },
+   {
+    "record": 18,
+    "offset": 12,
+    "site": 2063996,
+    "target": 2293240,
+    "id": "ELF/rodata:0000F8F8"
+   },
+   {
+    "record": 19,
+    "offset": 0,
+    "site": 2064016,
+    "target": 2293224,
+    "id": "ELF/rodata:0000F8E8"
+   },
+   {
+    "record": 19,
+    "offset": 4,
+    "site": 2064020,
+    "target": 2293224,
+    "id": "ELF/rodata:0000F8E8"
+   },
+   {
+    "record": 19,
+    "offset": 8,
+    "site": 2064024,
+    "target": 2293224,
+    "id": "ELF/rodata:0000F8E8"
+   },
+   {
+    "record": 19,
+    "offset": 12,
+    "site": 2064028,
+    "target": 2293192,
+    "id": "ELF/rodata:0000F8C8"
+   },
+   {
+    "record": 20,
+    "offset": 0,
+    "site": 2064048,
+    "target": 2293176,
+    "id": "ELF/rodata:0000F8B8"
+   },
+   {
+    "record": 20,
+    "offset": 4,
+    "site": 2064052,
+    "target": 2293176,
+    "id": "ELF/rodata:0000F8B8"
+   },
+   {
+    "record": 20,
+    "offset": 8,
+    "site": 2064056,
+    "target": 2293176,
+    "id": "ELF/rodata:0000F8B8"
+   },
+   {
+    "record": 20,
+    "offset": 12,
+    "site": 2064060,
+    "target": 2293144,
+    "id": "ELF/rodata:0000F898"
+   },
+   {
+    "record": 21,
+    "offset": 0,
+    "site": 2064080,
+    "target": 2293128,
+    "id": "ELF/rodata:0000F888"
+   },
+   {
+    "record": 21,
+    "offset": 4,
+    "site": 2064084,
+    "target": 2293128,
+    "id": "ELF/rodata:0000F888"
+   },
+   {
+    "record": 21,
+    "offset": 8,
+    "site": 2064088,
+    "target": 2293128,
+    "id": "ELF/rodata:0000F888"
+   },
+   {
+    "record": 21,
+    "offset": 12,
+    "site": 2064092,
+    "target": 2293096,
+    "id": "ELF/rodata:0000F868"
+   },
+   {
+    "record": 22,
+    "offset": 0,
+    "site": 2064112,
+    "target": 2293080,
+    "id": "ELF/rodata:0000F858"
+   },
+   {
+    "record": 22,
+    "offset": 4,
+    "site": 2064116,
+    "target": 2293080,
+    "id": "ELF/rodata:0000F858"
+   },
+   {
+    "record": 22,
+    "offset": 8,
+    "site": 2064120,
+    "target": 2293080,
+    "id": "ELF/rodata:0000F858"
+   },
+   {
+    "record": 22,
+    "offset": 12,
+    "site": 2064124,
+    "target": 2293048,
+    "id": "ELF/rodata:0000F838"
+   },
+   {
+    "record": 23,
+    "offset": 0,
+    "site": 2064144,
+    "target": 2293032,
+    "id": "ELF/rodata:0000F828"
+   },
+   {
+    "record": 23,
+    "offset": 4,
+    "site": 2064148,
+    "target": 2293032,
+    "id": "ELF/rodata:0000F828"
+   },
+   {
+    "record": 23,
+    "offset": 8,
+    "site": 2064152,
+    "target": 2293032,
+    "id": "ELF/rodata:0000F828"
+   },
+   {
+    "record": 23,
+    "offset": 12,
+    "site": 2064156,
+    "target": 2293000,
+    "id": "ELF/rodata:0000F808"
+   },
+   {
+    "record": 24,
+    "offset": 0,
+    "site": 2064176,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 24,
+    "offset": 4,
+    "site": 2064180,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 24,
+    "offset": 8,
+    "site": 2064184,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 24,
+    "offset": 12,
+    "site": 2064188,
+    "target": 2293864,
+    "id": "ELF/rodata:0000FB68"
+   },
+   {
+    "record": 25,
+    "offset": 0,
+    "site": 2064208,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 25,
+    "offset": 4,
+    "site": 2064212,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 25,
+    "offset": 8,
+    "site": 2064216,
+    "target": 2293896,
+    "id": "ELF/rodata:0000FB88"
+   },
+   {
+    "record": 25,
+    "offset": 12,
+    "site": 2064220,
+    "target": 2293864,
+    "id": "ELF/rodata:0000FB68"
+   },
+   {
+    "record": 26,
+    "offset": 0,
+    "site": 2064240,
+    "target": 2292968,
+    "id": "ELF/rodata:0000F7E8"
+   },
+   {
+    "record": 26,
+    "offset": 4,
+    "site": 2064244,
+    "target": 2292968,
+    "id": "ELF/rodata:0000F7E8"
+   },
+   {
+    "record": 26,
+    "offset": 8,
+    "site": 2064248,
+    "target": 2292968,
+    "id": "ELF/rodata:0000F7E8"
+   },
+   {
+    "record": 26,
+    "offset": 12,
+    "site": 2064252,
+    "target": 2292928,
+    "id": "ELF/rodata:0000F7C0"
+   },
+   {
+    "record": 27,
+    "offset": 0,
+    "site": 2064272,
+    "target": 2292896,
+    "id": "ELF/rodata:0000F7A0"
+   },
+   {
+    "record": 27,
+    "offset": 4,
+    "site": 2064276,
+    "target": 2292896,
+    "id": "ELF/rodata:0000F7A0"
+   },
+   {
+    "record": 27,
+    "offset": 8,
+    "site": 2064280,
+    "target": 2292896,
+    "id": "ELF/rodata:0000F7A0"
+   },
+   {
+    "record": 27,
+    "offset": 12,
+    "site": 2064284,
+    "target": 2292856,
+    "id": "ELF/rodata:0000F778"
+   },
+   {
+    "record": 28,
+    "offset": 0,
+    "site": 2064304,
+    "target": 2292832,
+    "id": "ELF/rodata:0000F760"
+   },
+   {
+    "record": 28,
+    "offset": 4,
+    "site": 2064308,
+    "target": 2292832,
+    "id": "ELF/rodata:0000F760"
+   },
+   {
+    "record": 28,
+    "offset": 8,
+    "site": 2064312,
+    "target": 2292832,
+    "id": "ELF/rodata:0000F760"
+   },
+   {
+    "record": 28,
+    "offset": 12,
+    "site": 2064316,
+    "target": 2292792,
+    "id": "ELF/rodata:0000F738"
+   },
+   {
+    "record": 29,
+    "offset": 0,
+    "site": 2064336,
+    "target": 2292768,
+    "id": "ELF/rodata:0000F720"
+   },
+   {
+    "record": 29,
+    "offset": 4,
+    "site": 2064340,
+    "target": 2292768,
+    "id": "ELF/rodata:0000F720"
+   },
+   {
+    "record": 29,
+    "offset": 8,
+    "site": 2064344,
+    "target": 2292768,
+    "id": "ELF/rodata:0000F720"
+   },
+   {
+    "record": 29,
+    "offset": 12,
+    "site": 2064348,
+    "target": 2292792,
+    "id": "ELF/rodata:0000F738"
+   },
+   {
+    "record": 30,
+    "offset": 0,
+    "site": 2064368,
+    "target": 2292744,
+    "id": "ELF/rodata:0000F708"
+   },
+   {
+    "record": 30,
+    "offset": 4,
+    "site": 2064372,
+    "target": 2292744,
+    "id": "ELF/rodata:0000F708"
+   },
+   {
+    "record": 30,
+    "offset": 8,
+    "site": 2064376,
+    "target": 2292744,
+    "id": "ELF/rodata:0000F708"
+   },
+   {
+    "record": 30,
+    "offset": 12,
+    "site": 2064380,
+    "target": 2292704,
+    "id": "ELF/rodata:0000F6E0"
+   },
+   {
+    "record": 31,
+    "offset": 0,
+    "site": 2064400,
+    "target": 2292672,
+    "id": "ELF/rodata:0000F6C0"
+   },
+   {
+    "record": 31,
+    "offset": 4,
+    "site": 2064404,
+    "target": 2292672,
+    "id": "ELF/rodata:0000F6C0"
+   },
+   {
+    "record": 31,
+    "offset": 8,
+    "site": 2064408,
+    "target": 2292672,
+    "id": "ELF/rodata:0000F6C0"
+   },
+   {
+    "record": 31,
+    "offset": 12,
+    "site": 2064412,
+    "target": 2292632,
+    "id": "ELF/rodata:0000F698"
+   },
+   {
+    "record": 32,
+    "offset": 0,
+    "site": 2064432,
+    "target": 2292600,
+    "id": "ELF/rodata:0000F678"
+   },
+   {
+    "record": 32,
+    "offset": 4,
+    "site": 2064436,
+    "target": 2292600,
+    "id": "ELF/rodata:0000F678"
+   },
+   {
+    "record": 32,
+    "offset": 8,
+    "site": 2064440,
+    "target": 2292600,
+    "id": "ELF/rodata:0000F678"
+   },
+   {
+    "record": 32,
+    "offset": 12,
+    "site": 2064444,
+    "target": 2292568,
+    "id": "ELF/rodata:0000F658"
+   },
+   {
+    "record": 33,
+    "offset": 0,
+    "site": 2064464,
+    "target": 2292536,
+    "id": "ELF/rodata:0000F638"
+   },
+   {
+    "record": 33,
+    "offset": 4,
+    "site": 2064468,
+    "target": 2292536,
+    "id": "ELF/rodata:0000F638"
+   },
+   {
+    "record": 33,
+    "offset": 8,
+    "site": 2064472,
+    "target": 2292536,
+    "id": "ELF/rodata:0000F638"
+   },
+   {
+    "record": 33,
+    "offset": 12,
+    "site": 2064476,
+    "target": 2292504,
+    "id": "ELF/rodata:0000F618"
+   },
+   {
+    "record": 34,
+    "offset": 0,
+    "site": 2064496,
+    "target": 2292472,
+    "id": "ELF/rodata:0000F5F8"
+   },
+   {
+    "record": 34,
+    "offset": 4,
+    "site": 2064500,
+    "target": 2292472,
+    "id": "ELF/rodata:0000F5F8"
+   },
+   {
+    "record": 34,
+    "offset": 8,
+    "site": 2064504,
+    "target": 2292472,
+    "id": "ELF/rodata:0000F5F8"
+   },
+   {
+    "record": 34,
+    "offset": 12,
+    "site": 2064508,
+    "target": 2292432,
+    "id": "ELF/rodata:0000F5D0"
+   },
+   {
+    "record": 35,
+    "offset": 0,
+    "site": 2064528,
+    "target": 2292400,
+    "id": "ELF/rodata:0000F5B0"
+   },
+   {
+    "record": 35,
+    "offset": 4,
+    "site": 2064532,
+    "target": 2292400,
+    "id": "ELF/rodata:0000F5B0"
+   },
+   {
+    "record": 35,
+    "offset": 8,
+    "site": 2064536,
+    "target": 2292400,
+    "id": "ELF/rodata:0000F5B0"
+   },
+   {
+    "record": 35,
+    "offset": 12,
+    "site": 2064540,
+    "target": 2292360,
+    "id": "ELF/rodata:0000F588"
+   },
+   {
+    "record": 36,
+    "offset": 0,
+    "site": 2064560,
+    "target": 2292328,
+    "id": "ELF/rodata:0000F568"
+   },
+   {
+    "record": 36,
+    "offset": 4,
+    "site": 2064564,
+    "target": 2292328,
+    "id": "ELF/rodata:0000F568"
+   },
+   {
+    "record": 36,
+    "offset": 8,
+    "site": 2064568,
+    "target": 2292328,
+    "id": "ELF/rodata:0000F568"
+   },
+   {
+    "record": 36,
+    "offset": 12,
+    "site": 2064572,
+    "target": 2292296,
+    "id": "ELF/rodata:0000F548"
+   },
+   {
+    "record": 37,
+    "offset": 0,
+    "site": 2064592,
+    "target": 2292272,
+    "id": "ELF/rodata:0000F530"
+   },
+   {
+    "record": 37,
+    "offset": 4,
+    "site": 2064596,
+    "target": 2292272,
+    "id": "ELF/rodata:0000F530"
+   },
+   {
+    "record": 37,
+    "offset": 8,
+    "site": 2064600,
+    "target": 2292272,
+    "id": "ELF/rodata:0000F530"
+   },
+   {
+    "record": 37,
+    "offset": 12,
+    "site": 2064604,
+    "target": 2292240,
+    "id": "ELF/rodata:0000F510"
+   },
+   {
+    "record": 38,
+    "offset": 0,
+    "site": 2064624,
+    "target": 2292216,
+    "id": "ELF/rodata:0000F4F8"
+   },
+   {
+    "record": 38,
+    "offset": 4,
+    "site": 2064628,
+    "target": 2292216,
+    "id": "ELF/rodata:0000F4F8"
+   },
+   {
+    "record": 38,
+    "offset": 8,
+    "site": 2064632,
+    "target": 2292216,
+    "id": "ELF/rodata:0000F4F8"
+   },
+   {
+    "record": 38,
+    "offset": 12,
+    "site": 2064636,
+    "target": 2292176,
+    "id": "ELF/rodata:0000F4D0"
+   },
+   {
+    "record": 39,
+    "offset": 0,
+    "site": 2064656,
+    "target": 2292160,
+    "id": "ELF/rodata:0000F4C0"
+   },
+   {
+    "record": 39,
+    "offset": 4,
+    "site": 2064660,
+    "target": 2292160,
+    "id": "ELF/rodata:0000F4C0"
+   },
+   {
+    "record": 39,
+    "offset": 8,
+    "site": 2064664,
+    "target": 2292160,
+    "id": "ELF/rodata:0000F4C0"
+   },
+   {
+    "record": 39,
+    "offset": 12,
+    "site": 2064668,
+    "target": 2292128,
+    "id": "ELF/rodata:0000F4A0"
+   },
+   {
+    "record": 40,
+    "offset": 0,
+    "site": 2064688,
+    "target": 2292104,
+    "id": "ELF/rodata:0000F488"
+   },
+   {
+    "record": 40,
+    "offset": 4,
+    "site": 2064692,
+    "target": 2292104,
+    "id": "ELF/rodata:0000F488"
+   },
+   {
+    "record": 40,
+    "offset": 8,
+    "site": 2064696,
+    "target": 2292104,
+    "id": "ELF/rodata:0000F488"
+   },
+   {
+    "record": 40,
+    "offset": 12,
+    "site": 2064700,
+    "target": 2292064,
+    "id": "ELF/rodata:0000F460"
+   },
+   {
+    "record": 41,
+    "offset": 0,
+    "site": 2064720,
+    "target": 2292040,
+    "id": "ELF/rodata:0000F448"
+   },
+   {
+    "record": 41,
+    "offset": 4,
+    "site": 2064724,
+    "target": 2292040,
+    "id": "ELF/rodata:0000F448"
+   },
+   {
+    "record": 41,
+    "offset": 8,
+    "site": 2064728,
+    "target": 2292040,
+    "id": "ELF/rodata:0000F448"
+   },
+   {
+    "record": 41,
+    "offset": 12,
+    "site": 2064732,
+    "target": 2292000,
+    "id": "ELF/rodata:0000F420"
+   },
+   {
+    "record": 42,
+    "offset": 0,
+    "site": 2064752,
+    "target": 2291968,
+    "id": "ELF/rodata:0000F400"
+   },
+   {
+    "record": 42,
+    "offset": 4,
+    "site": 2064756,
+    "target": 2291968,
+    "id": "ELF/rodata:0000F400"
+   },
+   {
+    "record": 42,
+    "offset": 8,
+    "site": 2064760,
+    "target": 2291968,
+    "id": "ELF/rodata:0000F400"
+   },
+   {
+    "record": 42,
+    "offset": 12,
+    "site": 2064764,
+    "target": 2291936,
+    "id": "ELF/rodata:0000F3E0"
+   },
+   {
+    "record": 43,
+    "offset": 0,
+    "site": 2064784,
+    "target": 2291912,
+    "id": "ELF/rodata:0000F3C8"
+   },
+   {
+    "record": 43,
+    "offset": 4,
+    "site": 2064788,
+    "target": 2291912,
+    "id": "ELF/rodata:0000F3C8"
+   },
+   {
+    "record": 43,
+    "offset": 8,
+    "site": 2064792,
+    "target": 2291912,
+    "id": "ELF/rodata:0000F3C8"
+   },
+   {
+    "record": 43,
+    "offset": 12,
+    "site": 2064796,
+    "target": 2291872,
+    "id": "ELF/rodata:0000F3A0"
+   },
+   {
+    "record": 44,
+    "offset": 0,
+    "site": 2064816,
+    "target": 2291848,
+    "id": "ELF/rodata:0000F388"
+   },
+   {
+    "record": 44,
+    "offset": 4,
+    "site": 2064820,
+    "target": 2291848,
+    "id": "ELF/rodata:0000F388"
+   },
+   {
+    "record": 44,
+    "offset": 8,
+    "site": 2064824,
+    "target": 2291848,
+    "id": "ELF/rodata:0000F388"
+   },
+   {
+    "record": 44,
+    "offset": 12,
+    "site": 2064828,
+    "target": 2291808,
+    "id": "ELF/rodata:0000F360"
+   },
+   {
+    "record": 45,
+    "offset": 0,
+    "site": 2064848,
+    "target": 2291784,
+    "id": "ELF/rodata:0000F348"
+   },
+   {
+    "record": 45,
+    "offset": 4,
+    "site": 2064852,
+    "target": 2291784,
+    "id": "ELF/rodata:0000F348"
+   },
+   {
+    "record": 45,
+    "offset": 8,
+    "site": 2064856,
+    "target": 2291784,
+    "id": "ELF/rodata:0000F348"
+   },
+   {
+    "record": 45,
+    "offset": 12,
+    "site": 2064860,
+    "target": 2291744,
+    "id": "ELF/rodata:0000F320"
+   },
+   {
+    "record": 46,
+    "offset": 0,
+    "site": 2064880,
+    "target": 2291720,
+    "id": "ELF/rodata:0000F308"
+   },
+   {
+    "record": 46,
+    "offset": 4,
+    "site": 2064884,
+    "target": 2291720,
+    "id": "ELF/rodata:0000F308"
+   },
+   {
+    "record": 46,
+    "offset": 8,
+    "site": 2064888,
+    "target": 2291720,
+    "id": "ELF/rodata:0000F308"
+   },
+   {
+    "record": 46,
+    "offset": 12,
+    "site": 2064892,
+    "target": 2291680,
+    "id": "ELF/rodata:0000F2E0"
+   },
+   {
+    "record": 47,
+    "offset": 0,
+    "site": 2064912,
+    "target": 2291656,
+    "id": "ELF/rodata:0000F2C8"
+   },
+   {
+    "record": 47,
+    "offset": 4,
+    "site": 2064916,
+    "target": 2291656,
+    "id": "ELF/rodata:0000F2C8"
+   },
+   {
+    "record": 47,
+    "offset": 8,
+    "site": 2064920,
+    "target": 2291656,
+    "id": "ELF/rodata:0000F2C8"
+   },
+   {
+    "record": 47,
+    "offset": 12,
+    "site": 2064924,
+    "target": 2291616,
+    "id": "ELF/rodata:0000F2A0"
+   },
+   {
+    "record": 48,
+    "offset": 0,
+    "site": 2064944,
+    "target": 2291592,
+    "id": "ELF/rodata:0000F288"
+   },
+   {
+    "record": 48,
+    "offset": 4,
+    "site": 2064948,
+    "target": 2291592,
+    "id": "ELF/rodata:0000F288"
+   },
+   {
+    "record": 48,
+    "offset": 8,
+    "site": 2064952,
+    "target": 2291592,
+    "id": "ELF/rodata:0000F288"
+   },
+   {
+    "record": 48,
+    "offset": 12,
+    "site": 2064956,
+    "target": 2291552,
+    "id": "ELF/rodata:0000F260"
+   },
+   {
+    "record": 49,
+    "offset": 0,
+    "site": 2064976,
+    "target": 2291528,
+    "id": "ELF/rodata:0000F248"
+   },
+   {
+    "record": 49,
+    "offset": 4,
+    "site": 2064980,
+    "target": 2291528,
+    "id": "ELF/rodata:0000F248"
+   },
+   {
+    "record": 49,
+    "offset": 8,
+    "site": 2064984,
+    "target": 2291528,
+    "id": "ELF/rodata:0000F248"
+   },
+   {
+    "record": 49,
+    "offset": 12,
+    "site": 2064988,
+    "target": 2291496,
+    "id": "ELF/rodata:0000F228"
+   },
+   {
+    "record": 50,
+    "offset": 0,
+    "site": 2065008,
+    "target": 2291472,
+    "id": "ELF/rodata:0000F210"
+   },
+   {
+    "record": 50,
+    "offset": 4,
+    "site": 2065012,
+    "target": 2291472,
+    "id": "ELF/rodata:0000F210"
+   },
+   {
+    "record": 50,
+    "offset": 8,
+    "site": 2065016,
+    "target": 2291472,
+    "id": "ELF/rodata:0000F210"
+   },
+   {
+    "record": 50,
+    "offset": 12,
+    "site": 2065020,
+    "target": 2291424,
+    "id": "ELF/rodata:0000F1E0"
+   },
+   {
+    "record": 51,
+    "offset": 0,
+    "site": 2065040,
+    "target": 2291392,
+    "id": "ELF/rodata:0000F1C0"
+   },
+   {
+    "record": 51,
+    "offset": 4,
+    "site": 2065044,
+    "target": 2291392,
+    "id": "ELF/rodata:0000F1C0"
+   },
+   {
+    "record": 51,
+    "offset": 8,
+    "site": 2065048,
+    "target": 2291392,
+    "id": "ELF/rodata:0000F1C0"
+   },
+   {
+    "record": 51,
+    "offset": 12,
+    "site": 2065052,
+    "target": 2291344,
+    "id": "ELF/rodata:0000F190"
+   },
+   {
+    "record": 52,
+    "offset": 0,
+    "site": 2065072,
+    "target": 2291320,
+    "id": "ELF/rodata:0000F178"
+   },
+   {
+    "record": 52,
+    "offset": 4,
+    "site": 2065076,
+    "target": 2291320,
+    "id": "ELF/rodata:0000F178"
+   },
+   {
+    "record": 52,
+    "offset": 8,
+    "site": 2065080,
+    "target": 2291320,
+    "id": "ELF/rodata:0000F178"
+   },
+   {
+    "record": 52,
+    "offset": 12,
+    "site": 2065084,
+    "target": 2291280,
+    "id": "ELF/rodata:0000F150"
+   },
+   {
+    "record": 53,
+    "offset": 0,
+    "site": 2065104,
+    "target": 2291256,
+    "id": "ELF/rodata:0000F138"
+   },
+   {
+    "record": 53,
+    "offset": 4,
+    "site": 2065108,
+    "target": 2291256,
+    "id": "ELF/rodata:0000F138"
+   },
+   {
+    "record": 53,
+    "offset": 8,
+    "site": 2065112,
+    "target": 2291256,
+    "id": "ELF/rodata:0000F138"
+   },
+   {
+    "record": 53,
+    "offset": 12,
+    "site": 2065116,
+    "target": 2291208,
+    "id": "ELF/rodata:0000F108"
+   },
+   {
+    "record": 54,
+    "offset": 0,
+    "site": 2065136,
+    "target": 2291176,
+    "id": "ELF/rodata:0000F0E8"
+   },
+   {
+    "record": 54,
+    "offset": 4,
+    "site": 2065140,
+    "target": 2291176,
+    "id": "ELF/rodata:0000F0E8"
+   },
+   {
+    "record": 54,
+    "offset": 8,
+    "site": 2065144,
+    "target": 2291176,
+    "id": "ELF/rodata:0000F0E8"
+   },
+   {
+    "record": 54,
+    "offset": 12,
+    "site": 2065148,
+    "target": 2291128,
+    "id": "ELF/rodata:0000F0B8"
+   },
+   {
+    "record": 55,
+    "offset": 0,
+    "site": 2065168,
+    "target": 2291096,
+    "id": "ELF/rodata:0000F098"
+   },
+   {
+    "record": 55,
+    "offset": 4,
+    "site": 2065172,
+    "target": 2291096,
+    "id": "ELF/rodata:0000F098"
+   },
+   {
+    "record": 55,
+    "offset": 8,
+    "site": 2065176,
+    "target": 2291096,
+    "id": "ELF/rodata:0000F098"
+   },
+   {
+    "record": 55,
+    "offset": 12,
+    "site": 2065180,
+    "target": 2291048,
+    "id": "ELF/rodata:0000F068"
+   },
+   {
+    "record": 56,
+    "offset": 0,
+    "site": 2065200,
+    "target": 2291016,
+    "id": "ELF/rodata:0000F048"
+   },
+   {
+    "record": 56,
+    "offset": 4,
+    "site": 2065204,
+    "target": 2291016,
+    "id": "ELF/rodata:0000F048"
+   },
+   {
+    "record": 56,
+    "offset": 8,
+    "site": 2065208,
+    "target": 2291016,
+    "id": "ELF/rodata:0000F048"
+   },
+   {
+    "record": 56,
+    "offset": 12,
+    "site": 2065212,
+    "target": 2290984,
+    "id": "ELF/rodata:0000F028"
+   },
+   {
+    "record": 57,
+    "offset": 0,
+    "site": 2065232,
+    "target": 2290952,
+    "id": "ELF/rodata:0000F008"
+   },
+   {
+    "record": 57,
+    "offset": 4,
+    "site": 2065236,
+    "target": 2290952,
+    "id": "ELF/rodata:0000F008"
+   },
+   {
+    "record": 57,
+    "offset": 8,
+    "site": 2065240,
+    "target": 2290952,
+    "id": "ELF/rodata:0000F008"
+   },
+   {
+    "record": 57,
+    "offset": 12,
+    "site": 2065244,
+    "target": 2290912,
+    "id": "ELF/rodata:0000EFE0"
+   },
+   {
+    "record": 58,
+    "offset": 0,
+    "site": 2065264,
+    "target": 2290888,
+    "id": "ELF/rodata:0000EFC8"
+   },
+   {
+    "record": 58,
+    "offset": 4,
+    "site": 2065268,
+    "target": 2290888,
+    "id": "ELF/rodata:0000EFC8"
+   },
+   {
+    "record": 58,
+    "offset": 8,
+    "site": 2065272,
+    "target": 2290888,
+    "id": "ELF/rodata:0000EFC8"
+   },
+   {
+    "record": 58,
+    "offset": 12,
+    "site": 2065276,
+    "target": 2290856,
+    "id": "ELF/rodata:0000EFA8"
+   },
+   {
+    "record": 59,
+    "offset": 0,
+    "site": 2065296,
+    "target": 2290832,
+    "id": "ELF/rodata:0000EF90"
+   },
+   {
+    "record": 59,
+    "offset": 4,
+    "site": 2065300,
+    "target": 2290832,
+    "id": "ELF/rodata:0000EF90"
+   },
+   {
+    "record": 59,
+    "offset": 8,
+    "site": 2065304,
+    "target": 2290832,
+    "id": "ELF/rodata:0000EF90"
+   },
+   {
+    "record": 59,
+    "offset": 12,
+    "site": 2065308,
+    "target": 2290792,
+    "id": "ELF/rodata:0000EF68"
+   },
+   {
+    "record": 60,
+    "offset": 0,
+    "site": 2065328,
+    "target": 2290768,
+    "id": "ELF/rodata:0000EF50"
+   },
+   {
+    "record": 60,
+    "offset": 4,
+    "site": 2065332,
+    "target": 2290768,
+    "id": "ELF/rodata:0000EF50"
+   },
+   {
+    "record": 60,
+    "offset": 8,
+    "site": 2065336,
+    "target": 2290768,
+    "id": "ELF/rodata:0000EF50"
+   },
+   {
+    "record": 60,
+    "offset": 12,
+    "site": 2065340,
+    "target": 2290728,
+    "id": "ELF/rodata:0000EF28"
+   },
+   {
+    "record": 61,
+    "offset": 0,
+    "site": 2065360,
+    "target": 2290704,
+    "id": "ELF/rodata:0000EF10"
+   },
+   {
+    "record": 61,
+    "offset": 4,
+    "site": 2065364,
+    "target": 2290704,
+    "id": "ELF/rodata:0000EF10"
+   },
+   {
+    "record": 61,
+    "offset": 8,
+    "site": 2065368,
+    "target": 2290704,
+    "id": "ELF/rodata:0000EF10"
+   },
+   {
+    "record": 61,
+    "offset": 12,
+    "site": 2065372,
+    "target": 2290664,
+    "id": "ELF/rodata:0000EEE8"
+   },
+   {
+    "record": 62,
+    "offset": 0,
+    "site": 2065392,
+    "target": 2290640,
+    "id": "ELF/rodata:0000EED0"
+   },
+   {
+    "record": 62,
+    "offset": 4,
+    "site": 2065396,
+    "target": 2290640,
+    "id": "ELF/rodata:0000EED0"
+   },
+   {
+    "record": 62,
+    "offset": 8,
+    "site": 2065400,
+    "target": 2290640,
+    "id": "ELF/rodata:0000EED0"
+   },
+   {
+    "record": 62,
+    "offset": 12,
+    "site": 2065404,
+    "target": 2290608,
+    "id": "ELF/rodata:0000EEB0"
+   },
+   {
+    "record": 63,
+    "offset": 0,
+    "site": 2065424,
+    "target": 2290592,
+    "id": "ELF/rodata:0000EEA0"
+   },
+   {
+    "record": 63,
+    "offset": 4,
+    "site": 2065428,
+    "target": 2290592,
+    "id": "ELF/rodata:0000EEA0"
+   },
+   {
+    "record": 63,
+    "offset": 8,
+    "site": 2065432,
+    "target": 2290592,
+    "id": "ELF/rodata:0000EEA0"
+   },
+   {
+    "record": 63,
+    "offset": 12,
+    "site": 2065436,
+    "target": 2290560,
+    "id": "ELF/rodata:0000EE80"
+   },
+   {
+    "record": 64,
+    "offset": 0,
+    "site": 2065456,
+    "target": 2290536,
+    "id": "ELF/rodata:0000EE68"
+   },
+   {
+    "record": 64,
+    "offset": 4,
+    "site": 2065460,
+    "target": 2290536,
+    "id": "ELF/rodata:0000EE68"
+   },
+   {
+    "record": 64,
+    "offset": 8,
+    "site": 2065464,
+    "target": 2290536,
+    "id": "ELF/rodata:0000EE68"
+   },
+   {
+    "record": 64,
+    "offset": 12,
+    "site": 2065468,
+    "target": 2290504,
+    "id": "ELF/rodata:0000EE48"
+   },
+   {
+    "record": 65,
+    "offset": 0,
+    "site": 2065488,
+    "target": 2290480,
+    "id": "ELF/rodata:0000EE30"
+   },
+   {
+    "record": 65,
+    "offset": 4,
+    "site": 2065492,
+    "target": 2290480,
+    "id": "ELF/rodata:0000EE30"
+   },
+   {
+    "record": 65,
+    "offset": 8,
+    "site": 2065496,
+    "target": 2290480,
+    "id": "ELF/rodata:0000EE30"
+   },
+   {
+    "record": 65,
+    "offset": 12,
+    "site": 2065500,
+    "target": 2290504,
+    "id": "ELF/rodata:0000EE48"
+   },
+   {
+    "record": 66,
+    "offset": 0,
+    "site": 2065520,
+    "target": 2290464,
+    "id": "ELF/rodata:0000EE20"
+   },
+   {
+    "record": 66,
+    "offset": 4,
+    "site": 2065524,
+    "target": 2290464,
+    "id": "ELF/rodata:0000EE20"
+   },
+   {
+    "record": 66,
+    "offset": 8,
+    "site": 2065528,
+    "target": 2290464,
+    "id": "ELF/rodata:0000EE20"
+   },
+   {
+    "record": 66,
+    "offset": 12,
+    "site": 2065532,
+    "target": 2290424,
+    "id": "ELF/rodata:0000EDF8"
+   },
+   {
+    "record": 67,
+    "offset": 0,
+    "site": 2065552,
+    "target": 2290400,
+    "id": "ELF/rodata:0000EDE0"
+   },
+   {
+    "record": 67,
+    "offset": 4,
+    "site": 2065556,
+    "target": 2290400,
+    "id": "ELF/rodata:0000EDE0"
+   },
+   {
+    "record": 67,
+    "offset": 8,
+    "site": 2065560,
+    "target": 2290400,
+    "id": "ELF/rodata:0000EDE0"
+   },
+   {
+    "record": 67,
+    "offset": 12,
+    "site": 2065564,
+    "target": 2290352,
+    "id": "ELF/rodata:0000EDB0"
+   },
+   {
+    "record": 68,
+    "offset": 0,
+    "site": 2065584,
+    "target": 2290336,
+    "id": "ELF/rodata:0000EDA0"
+   },
+   {
+    "record": 68,
+    "offset": 4,
+    "site": 2065588,
+    "target": 2290336,
+    "id": "ELF/rodata:0000EDA0"
+   },
+   {
+    "record": 68,
+    "offset": 8,
+    "site": 2065592,
+    "target": 2290336,
+    "id": "ELF/rodata:0000EDA0"
+   },
+   {
+    "record": 68,
+    "offset": 12,
+    "site": 2065596,
+    "target": 2290288,
+    "id": "ELF/rodata:0000ED70"
+   },
+   {
+    "record": 69,
+    "offset": 0,
+    "site": 2065616,
+    "target": 2290264,
+    "id": "ELF/rodata:0000ED58"
+   },
+   {
+    "record": 69,
+    "offset": 4,
+    "site": 2065620,
+    "target": 2290264,
+    "id": "ELF/rodata:0000ED58"
+   },
+   {
+    "record": 69,
+    "offset": 8,
+    "site": 2065624,
+    "target": 2290264,
+    "id": "ELF/rodata:0000ED58"
+   },
+   {
+    "record": 69,
+    "offset": 12,
+    "site": 2065628,
+    "target": 2290216,
+    "id": "ELF/rodata:0000ED28"
+   },
+   {
+    "record": 70,
+    "offset": 0,
+    "site": 2065648,
+    "target": 2290200,
+    "id": "ELF/rodata:0000ED18"
+   },
+   {
+    "record": 70,
+    "offset": 4,
+    "site": 2065652,
+    "target": 2290200,
+    "id": "ELF/rodata:0000ED18"
+   },
+   {
+    "record": 70,
+    "offset": 8,
+    "site": 2065656,
+    "target": 2290200,
+    "id": "ELF/rodata:0000ED18"
+   },
+   {
+    "record": 70,
+    "offset": 12,
+    "site": 2065660,
+    "target": 2290168,
+    "id": "ELF/rodata:0000ECF8"
+   }
+  ],
+  "table": {
+   "va": 2063408,
+   "size": 2272,
+   "sha256": "57e1a5da7d596a25bd8372fa6d08064a385286d64f0b78162b839e230b906ba2"
+  },
+  "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+  "baseline_elf_sha256": "5cfa3c2a2278d496cfabb94db30c9c37330cb58037b00da8ca807d0d297f94dd",
+  "glossary_sha256": "dfe1b3922cc42b39b018746a771698fe5b4534fde79ab5af7f7a141c292c804f",
+  "scope": "All71 native modification-part records: zero None/empty,69 normal selector records and final encoded Rayzner placeholder record70. No availability or obtainable claim for record70; original native selector tests1..69. Four text pointers per record, all non-text fields retained."
+ },
+ "review_guards": {
+  "service823.json": "189f5645536b88c8c8692ca50ab312571497c2e61dbaa9559e1923592949366b",
+  "service_parts825.json": "20cc68da69cd20f4cb311a3a8d0176c79387b7d3549b51347fe5b62201e7fef7",
+  "service_accuracy824.json": "8f7c51314ad9df65e5ca07d20825f30114b65735b2efde1a2d8b64c6c67a3427",
+  "service_parts_accuracy826.json": "089b2472abee97d4027bf3039c915715964885bdcf266868098b50fefbac0a4a",
+  "service_attributes827.json": "6ad8f26add65bfb2b6f095295424a3f214ea40be59f42e4588cf0d8d938c760a",
+  "service_proof829.json": "c27e82d0104c4b87d3af5946ec53e22dda110f78fd44529236ff951db0e250a4"
+ },
+ "layout": [
+  {
+   "id": "ELF/rodata:00001278",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Recovery  Battleship HP 99999/99999"
+   ],
+   "widths": [
+    428
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001290",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "[　　　　　　Name　　　　　　]     [Owned]"
+   ],
+   "widths": [
+    543
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000012D8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "There is no need to use it."
+   ],
+   "widths": [
+    305
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000012F8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [],
+   "widths": [],
+   "qualification": "Dynamic name confirmation excluded from universal maximum claim."
+  },
+  {
+   "id": "ELF/rodata:00001B98",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Items"
+   ],
+   "widths": [
+    65
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001BA8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Information  Battleships"
+   ],
+   "widths": [
+    289
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001BB8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "There are no allies."
+   ],
+   "widths": [
+    225
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001BC8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "There are no units."
+   ],
+   "widths": [
+    221
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001BE0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "There are no battleships."
+   ],
+   "widths": [
+    297
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001C10",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "[　　　　　　Name　　　　　　]     [Owned]"
+   ],
+   "widths": [
+    543
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00001C40",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "There are no items."
+   ],
+   "widths": [
+    226
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010D30",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Combine/Separate"
+   ],
+   "widths": [
+    214
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010D40",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Unit Modification"
+   ],
+   "widths": [
+    202
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010D50",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Details After Modification"
+   ],
+   "widths": [
+    307
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010D60",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Details Before Modification"
+   ],
+   "widths": [
+    320
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010D70",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Apply Modification"
+   ],
+   "widths": [
+    223
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010D80",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "There are no units available to modify."
+   ],
+   "widths": [
+    459
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010DA0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Select modification parts."
+   ],
+   "widths": [
+    308
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010DC0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Do you want to build this unit?"
+   ],
+   "widths": [
+    365
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010DE0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "has been acquired."
+   ],
+   "widths": [
+    216
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010E10",
+   "font_width": 22,
+   "font_height": 26,
+   "max_width": 292,
+   "expanded_lines": [
+    "HPMax 999 [Ground・Short]",
+    "HPMax 999 [Ground・Long]",
+    "HPMax 999 [Ground・Pierce]",
+    "HPMax 999 [Anti-Air・Short]",
+    "HPMax 999 [Anti-Air・Long]",
+    "HPMax 999 [Anti-Air・Pierce]",
+    "HPMax 999 [Flying・Short]",
+    "HPMax 999 [Flying・Long]",
+    "HPMax 999 [Flying・Pierce]"
+   ],
+   "widths": [
+    270,
+    261,
+    275,
+    278,
+    269,
+    283,
+    262,
+    253,
+    267
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010E28",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 292,
+   "expanded_lines": [
+    "ENMax 999 Launch EN999"
+   ],
+   "widths": [
+    278
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010E40",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 292,
+   "expanded_lines": [
+    "Attack AT999 EN999"
+   ],
+   "widths": [
+    230
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00010E58",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 292,
+   "expanded_lines": [
+    "Defend DF999 EN999"
+   ],
+   "widths": [
+    229
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011728",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: Raijin-Oh"
+   ],
+   "widths": [
+    226
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011740",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: GenRyuJin"
+   ],
+   "widths": [
+    238
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011750",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: GouRyuJin"
+   ],
+   "widths": [
+    239
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011760",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: GekiRyuJin"
+   ],
+   "widths": [
+    246
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011770",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: ChoRyuJin"
+   ],
+   "widths": [
+    239
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011780",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: Amuro's Super Gundam"
+   ],
+   "widths": [
+    385
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000117A0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: Super Gundam (Titans) ３"
+   ],
+   "widths": [
+    418
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000117C8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: Super Gundam (Titans) ２"
+   ],
+   "widths": [
+    418
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000117F0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: Super Gundam (Titans) １"
+   ],
+   "widths": [
+    418
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011818",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Separate: Super Gundam"
+   ],
+   "widths": [
+    283
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011830",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: Raijin-Oh"
+   ],
+   "widths": [
+    221
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011848",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: GenRyuJin"
+   ],
+   "widths": [
+    233
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011858",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: GouRyuJin"
+   ],
+   "widths": [
+    234
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011868",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: GekiRyuJin"
+   ],
+   "widths": [
+    241
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011878",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: ChoRyuJin"
+   ],
+   "widths": [
+    234
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011888",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: Amuro's Super Gundam"
+   ],
+   "widths": [
+    380
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000118A8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: Super Gundam (Titans) ３"
+   ],
+   "widths": [
+    413
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000118D0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: Super Gundam (Titans) ２"
+   ],
+   "widths": [
+    413
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:000118F8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: Super Gundam (Titans) １"
+   ],
+   "widths": [
+    413
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011920",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 512,
+   "expanded_lines": [
+    "Combine: Super Gundam"
+   ],
+   "widths": [
+    278
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011938",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Combine/Separate"
+   ],
+   "widths": [
+    214
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:00011948",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "No units can combine or separate."
+   ],
+   "widths": [
+    396
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00000400",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Battleships"
+   ],
+   "widths": [
+    136
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00000408",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Units"
+   ],
+   "widths": [
+    62
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00000410",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Allies"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00000418",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Information"
+   ],
+   "widths": [
+    139
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:000015C0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 150,
+   "expanded_lines": [
+    "Modification"
+   ],
+   "widths": [
+    146
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00001430",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "None"
+   ],
+   "widths": [
+    31
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/native:00238C28",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [],
+   "widths": [],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FC50",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-B Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FC30",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-B."
+   ],
+   "widths": [
+    257
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FC20",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-C Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FC00",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-C."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FBF0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-D Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FBD0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-D."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FBC0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-E Parts"
+   ],
+   "widths": [
+    67
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FBA0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-E."
+   ],
+   "widths": [
+    256
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FB88",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "【GT-A Parts】"
+   ],
+   "widths": [
+    99
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FB68",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change GT-A into GT-A."
+   ],
+   "widths": [
+    270
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FB58",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-G Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FB38",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-G."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FB28",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-H Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FB08",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-H."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FAF8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-I Parts"
+   ],
+   "widths": [
+    64
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FAD8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-I."
+   ],
+   "widths": [
+    250
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FAC8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-J Parts"
+   ],
+   "widths": [
+    67
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FAA8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-J."
+   ],
+   "widths": [
+    255
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA98",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-K Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA78",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-K."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA68",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-L Parts"
+   ],
+   "widths": [
+    67
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA48",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-L."
+   ],
+   "widths": [
+    255
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA38",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-M Parts"
+   ],
+   "widths": [
+    69
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA18",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-M."
+   ],
+   "widths": [
+    260
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000FA08",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-N Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F9E8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-N."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F9D8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-O Parts"
+   ],
+   "widths": [
+    69
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F9B8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-O."
+   ],
+   "widths": [
+    260
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F9A8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-P Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F988",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-P."
+   ],
+   "widths": [
+    257
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F978",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-Q Parts"
+   ],
+   "widths": [
+    69
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F958",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-Q."
+   ],
+   "widths": [
+    260
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F948",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-R Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F928",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-R."
+   ],
+   "widths": [
+    257
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F918",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-S Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F8F8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-S."
+   ],
+   "widths": [
+    257
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F8E8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-T Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F8C8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-T."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F8B8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-U Parts"
+   ],
+   "widths": [
+    68
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F898",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-U."
+   ],
+   "widths": [
+    258
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F888",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-V Parts"
+   ],
+   "widths": [
+    69
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F868",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-V."
+   ],
+   "widths": [
+    259
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F858",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-W Parts"
+   ],
+   "widths": [
+    71
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F838",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-W."
+   ],
+   "widths": [
+    264
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F828",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "GT-X Parts"
+   ],
+   "widths": [
+    69
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F808",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert GT-A to GT-X."
+   ],
+   "widths": [
+    259
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F7E8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Dunbine Sho Custom"
+   ],
+   "widths": [
+    133
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F7C0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Dunbine to Sho's colors."
+   ],
+   "widths": [
+    373
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F7A0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Dunbine Todd Custom"
+   ],
+   "widths": [
+    141
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F778",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Dunbine to Todd's colors."
+   ],
+   "widths": [
+    388
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F760",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Billbine Standard Colors"
+   ],
+   "widths": [
+    160
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F738",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Billbine's colors."
+   ],
+   "widths": [
+    288
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F720",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Billbine Camouflage Colors"
+   ],
+   "widths": [
+    177
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F708",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Drumlo Upgrade Parts"
+   ],
+   "widths": [
+    141
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F6E0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Replace Drumlo's converter with a new",
+    "model."
+   ],
+   "widths": [
+    454,
+    78
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F6C0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "【Drumlo Todd Parts】"
+   ],
+   "widths": [
+    151
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F698",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert the improved Drumlo to a Drumlo",
+    "for Todd."
+   ],
+   "widths": [
+    490,
+    109
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F678",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Zwarth Black Knight Parts"
+   ],
+   "widths": [
+    172
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F658",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Zwarth for Black Knight use."
+   ],
+   "widths": [
+    436
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F638",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Botune Zelerna Parts"
+   ],
+   "widths": [
+    137
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F618",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Botune to Zelerna specifications."
+   ],
+   "widths": [
+    491
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F5F8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Botune Foizon Parts"
+   ],
+   "widths": [
+    132
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F5D0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Botune to Foizon specifications."
+   ],
+   "widths": [
+    479
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F5B0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Botune Royal Guard Parts"
+   ],
+   "widths": [
+    166
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F588",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Botune to Kingdom of Na royal",
+    "guard specifications."
+   ],
+   "widths": [
+    458,
+    248
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F568",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Allone Mizun-Spec Parts"
+   ],
+   "widths": [
+    157
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F548",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Allone to Mizun Allone."
+   ],
+   "widths": [
+    371
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F530",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Allone Military Parts"
+   ],
+   "widths": [
+    137
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F510",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Allone to a military Allone."
+   ],
+   "widths": [
+    422
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F4F8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Allone Custom Parts"
+   ],
+   "widths": [
+    134
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F4D0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Allone into a customized unit."
+   ],
+   "widths": [
+    453
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F4C0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Gorongo Parts"
+   ],
+   "widths": [
+    93
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F4A0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Allone to Gorongo."
+   ],
+   "widths": [
+    320
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F488",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "S-Gorongo Parts"
+   ],
+   "widths": [
+    106
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F460",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Gorongo to a Gorongo equipped",
+    "with a booster."
+   ],
+   "widths": [
+    466,
+    180
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F448",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Greia Custom Parts"
+   ],
+   "widths": [
+    125
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F420",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Greia into a customized unit."
+   ],
+   "widths": [
+    438
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F400",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Bal-Bud Royal Guard Division Parts"
+   ],
+   "widths": [
+    227
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F3E0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Bal-Bud for Royal Guard Division",
+    "use."
+   ],
+   "widths": [
+    480,
+    48
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F3C8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Titans Colors ０１"
+   ],
+   "widths": [
+    122
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F3A0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change to Unit ０１ in Titans colors."
+   ],
+   "widths": [
+    434
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F388",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Titans Colors ０２"
+   ],
+   "widths": [
+    122
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F360",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change to Unit ０２ in Titans colors."
+   ],
+   "widths": [
+    434
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F348",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Titans Colors ０３"
+   ],
+   "widths": [
+    122
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F320",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change to Unit ０３ in Titans colors."
+   ],
+   "widths": [
+    434
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F308",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "０１ AEUG Colors"
+   ],
+   "widths": [
+    112
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F2E0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change MkⅡ Unit ０１ to AEUG colors."
+   ],
+   "widths": [
+    455
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F2C8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "０２ AEUG Colors"
+   ],
+   "widths": [
+    112
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F2A0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change MkⅡ Unit ０２ to AEUG colors."
+   ],
+   "widths": [
+    455
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F288",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "０３ AEUG Colors"
+   ],
+   "widths": [
+    112
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F260",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change MkⅡ Unit ０３ to AEUG colors."
+   ],
+   "widths": [
+    455
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F248",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Rick Dias (Late Version)"
+   ],
+   "widths": [
+    155
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F228",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Rick Dias to the late version."
+   ],
+   "widths": [
+    430
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F210",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "ATM０９-LC Parts"
+   ],
+   "widths": [
+    115
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F1E0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Scopedog to Scopedog Light Type."
+   ],
+   "widths": [
+    501
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F1C0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "ATM０９-RSC Parts"
+   ],
+   "widths": [
+    124
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F190",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Scopedog to Scopedog RSC."
+   ],
+   "widths": [
+    419
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F178",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Odon Survey Team Spec Parts"
+   ],
+   "widths": [
+    192
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F150",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Scopedog to Odon survey team",
+    "specifications."
+   ],
+   "widths": [
+    463,
+    175
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F138",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "AT０９-DD Parts"
+   ],
+   "widths": [
+    107
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F108",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Scopedog to Burglary Dog."
+   ],
+   "widths": [
+    410
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F0E8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "X・ATH-P-RSC Parts"
+   ],
+   "widths": [
+    130
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F0B8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Scopedog RSC to Blood Sucker."
+   ],
+   "widths": [
+    459
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F098",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "X・ATH-０２-DT Parts"
+   ],
+   "widths": [
+    144
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F068",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Blood Sucker to Rabidly Dog."
+   ],
+   "widths": [
+    437
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F048",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "BATM-０３/GR Parts"
+   ],
+   "widths": [
+    130
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F028",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Fatty for ground use."
+   ],
+   "widths": [
+    353
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000F008",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "BATM-０３/GR Upgrade Parts"
+   ],
+   "widths": [
+    186
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EFE0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert the ground-use Fatty to an",
+    "enhanced model."
+   ],
+   "widths": [
+    416,
+    192
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EFC8",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Galient Heavy Armor Kai Parts"
+   ],
+   "widths": [
+    196
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EFA8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Galient to Galient Heavy Armor",
+    "Kai."
+   ],
+   "widths": [
+    466,
+    44
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EF90",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Promaxis Zee Parts"
+   ],
+   "widths": [
+    125
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EF68",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Promaxis to Promaxis Zee."
+   ],
+   "widths": [
+    410
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EF50",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Promaxis Wee Parts"
+   ],
+   "widths": [
+    128
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EF28",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Promaxis to Promaxis Wee."
+   ],
+   "widths": [
+    417
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EF10",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Wingal Zee Parts"
+   ],
+   "widths": [
+    109
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EEE8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Wingal to Wingal Zee."
+   ],
+   "widths": [
+    354
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EED0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "OZ Custom Parts"
+   ],
+   "widths": [
+    109
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EEB0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Aries to OZ specifications."
+   ],
+   "widths": [
+    415
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EEA0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Commander Unit Parts"
+   ],
+   "widths": [
+    145
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EE80",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Aries to commander",
+    "specifications."
+   ],
+   "widths": [
+    333,
+    175
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EE68",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "【Xabungle １】"
+   ],
+   "widths": [
+    109
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EE48",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Convert Xabungle to Xabungle."
+   ],
+   "widths": [
+    365
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EE30",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "【Xabungle ２】"
+   ],
+   "widths": [
+    109
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EE20",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Turbozack"
+   ],
+   "widths": [
+    67
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EDF8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Equip Dougram with a Turbozack."
+   ],
+   "widths": [
+    387
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EDE0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "6-Tube Missile Pod"
+   ],
+   "widths": [
+    121
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EDB0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Dougram equipped with Turbozack",
+    "into the Jakt Type."
+   ],
+   "widths": [
+    491,
+    225
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000EDA0",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Cavalier-0"
+   ],
+   "widths": [
+    65
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000ED70",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Dragonar-1 into Dragonar-1",
+    "(Cavalier)."
+   ],
+   "widths": [
+    406,
+    123
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000ED58",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "Cavalier-0 Removal Mechanism"
+   ],
+   "widths": [
+    196
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000ED28",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Dragonar-1 (Cavalier) into",
+    "Dragonar-1."
+   ],
+   "widths": [
+    394,
+    135
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000ED18",
+   "font_width": 13,
+   "font_height": 26,
+   "max_width": 272,
+   "expanded_lines": [
+    "【Layzner】"
+   ],
+   "widths": [
+    80
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/rodata:0000ECF8",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 504,
+   "expanded_lines": [
+    "Change Layzner into Layzner."
+   ],
+   "widths": [
+    340
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00001578",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Flying"
+   ],
+   "widths": [
+    73
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00001580",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Anti-Air"
+   ],
+   "widths": [
+    94
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00001588",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Ground"
+   ],
+   "widths": [
+    82
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00001590",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Pierce"
+   ],
+   "widths": [
+    71
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:00001598",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Long"
+   ],
+   "widths": [
+    54
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  },
+  {
+   "id": "ELF/sdata:000015A0",
+   "font_width": 26,
+   "font_height": 26,
+   "max_width": 608,
+   "expanded_lines": [
+    "Short"
+   ],
+   "widths": [
+    65
+   ],
+   "qualification": "Numeric fixture exceeds native modification-table maxima."
+  }
+ ],
+ "reflow": [
+  {
+   "id": "ELF/rodata:0000F6E0",
+   "before": "Replace Drumlo's converter with a new model.",
+   "after": "Replace Drumlo's converter with a new\nmodel."
+  },
+  {
+   "id": "ELF/rodata:0000F698",
+   "before": "Convert the improved Drumlo\nto a Drumlo for Todd.",
+   "after": "Convert the improved Drumlo to a Drumlo\nfor Todd."
+  },
+  {
+   "id": "ELF/rodata:0000F5D0",
+   "before": "Convert Botune\nto Foizon specifications.",
+   "after": "Convert Botune to Foizon specifications."
+  },
+  {
+   "id": "ELF/rodata:0000F588",
+   "before": "Convert Botune to Kingdom of Na royal guard specifications.",
+   "after": "Convert Botune to Kingdom of Na royal\nguard specifications."
+  },
+  {
+   "id": "ELF/rodata:0000F460",
+   "before": "Convert Gorongo\nto a Gorongo equipped with a booster.",
+   "after": "Convert Gorongo to a Gorongo equipped\nwith a booster."
+  },
+  {
+   "id": "ELF/rodata:0000F3E0",
+   "before": "Convert Bal-Bud for Royal Guard Division use.",
+   "after": "Convert Bal-Bud for Royal Guard Division\nuse."
+  },
+  {
+   "id": "ELF/rodata:0000F228",
+   "before": "Change Rick Dias\nto the late version.",
+   "after": "Change Rick Dias to the late version."
+  },
+  {
+   "id": "ELF/rodata:0000F1E0",
+   "before": "Convert Scopedog\nto Scopedog Light Type.",
+   "after": "Convert Scopedog to Scopedog Light Type."
+  },
+  {
+   "id": "ELF/rodata:0000F190",
+   "before": "Convert Scopedog\nto Scopedog RSC.",
+   "after": "Convert Scopedog to Scopedog RSC."
+  },
+  {
+   "id": "ELF/rodata:0000F150",
+   "before": "Convert Scopedog\nto Odon survey team specifications.",
+   "after": "Convert Scopedog to Odon survey team\nspecifications."
+  },
+  {
+   "id": "ELF/rodata:0000F108",
+   "before": "Convert Scopedog\nto Burglary Dog.",
+   "after": "Convert Scopedog to Burglary Dog."
+  },
+  {
+   "id": "ELF/rodata:0000F0B8",
+   "before": "Convert Scopedog RSC\nto Blood Sucker.",
+   "after": "Convert Scopedog RSC to Blood Sucker."
+  },
+  {
+   "id": "ELF/rodata:0000F068",
+   "before": "Convert Blood Sucker\nto Rabidly Dog.",
+   "after": "Convert Blood Sucker to Rabidly Dog."
+  },
+  {
+   "id": "ELF/rodata:0000EFE0",
+   "before": "Convert the ground-use Fatty to an enhanced model.",
+   "after": "Convert the ground-use Fatty to an\nenhanced model."
+  },
+  {
+   "id": "ELF/rodata:0000EFA8",
+   "before": "Convert Galient to Galient Heavy Armor Kai.",
+   "after": "Convert Galient to Galient Heavy Armor\nKai."
+  },
+  {
+   "id": "ELF/rodata:0000EE80",
+   "before": "Convert Aries to commander specifications.",
+   "after": "Convert Aries to commander\nspecifications."
+  },
+  {
+   "id": "ELF/rodata:0000ED70",
+   "before": "Change Dragonar-1\ninto Dragonar-1 (Cavalier).",
+   "after": "Change Dragonar-1 into Dragonar-1\n(Cavalier)."
+  },
+  {
+   "id": "ELF/rodata:0000ED28",
+   "before": "Change Dragonar-1 (Cavalier)\ninto Dragonar-1.",
+   "after": "Change Dragonar-1 (Cavalier) into\nDragonar-1."
+  }
+ ],
+ "name_audit": {
+  "flag_applied": "ELF/rodata:0000F488",
+  "whole_translation_corpus_scan": [
+   "compiled-proposals.en.json: one unintegrated offer",
+   "pending/compiled_rodata_conversion78_draft651.json: archived draft",
+   "pending/compiled_rodata_conversion78_language664.json: archived language draft"
+  ],
+  "other_active_integrated_occurrences": 0,
+  "fixed_registry_entries": 1697,
+  "source_bound_GT_codes": "Literal GT-A..GT-X; no expansion to Gunblaze despite numeric unit association.",
+  "proper_names": "All compound unit/equipment stems checked against actual fixed entries and source-bound native record context; no new unsupported names. Existing drafts are not integrated naming authority."
+ },
+ "glossary_sha256": "dfe1b3922cc42b39b018746a771698fe5b4534fde79ab5af7f7a141c292c804f",
+ "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+ "baseline_elf_sha256": "5cfa3c2a2278d496cfabb94db30c9c37330cb58037b00da8ca807d0d297f94dd",
+ "reference_method": "CFG reaching LUI definitions, including saved fp and branch delay slots. Shared small-data literals limited to owning service functions and four-entry information table.",
+ "editorial": "Root read all193 complete English values after source accuracy; retained accepted wording, restored source column padding and kept acquisition suffix as separately rendered native fragment. Launch EN source-rechecked827. Name script then applied S-Gorongo and ordinary fullwidth Latin typography; existing source-fullwidth digits, brackets, punctuation and Roman glyphs retained. UI description paragraphs reflow without word loss or dialogue-boundary changes. Five translated numeral/fixed-name forms retain ASCII digits as enumerated in proof829; no blanket fullwidth-digit preservation claim.",
+ "coverage": {
+  "ui_source_objects": 57,
+  "part_source_objects": 136,
+  "total_source_objects": 193,
+  "part_records": 71,
+  "part_typed_fields": 284,
+  "combination_labels": 20,
+  "code_reference_pairs": 22,
+  "static_pointers": 35
+ },
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "proofreading": "All193 saved values checked; no corrections. Source guards and controls verified; no runtime/layout approval inferred."
+}

@@ -1,0 +1,9 @@
+# Changelog
+
+## v0.8.0 — first public release — 2026-11-05
+
+- Package the verified cumulative local v0.2.31 image as public v0.8.0. Game bytes are identical; the public version is not a completion percentage.
+- Publish an original-Japanese-disc xdelta patch, complete source/output fingerprints, instructions, validation records and checksums. Decode the patch with source verification enabled and require an exact full-image reconstruction.
+- Add a public README and release notes following retro-trans/SRW-Z, with this project's own coverage, model-assisted translation disclosure, credits and remaining 56 battle holds/testing limits.
+- Prepare a source repository under retro-trans/Sunrise-Eiyuutan-2 containing tools, English-only exports, glossary, documentation and the social banner. Original images, extracted game data, Japanese script dumps and local caches remain excluded. Historical inputs are not a portable one-command rebuild kit.
+

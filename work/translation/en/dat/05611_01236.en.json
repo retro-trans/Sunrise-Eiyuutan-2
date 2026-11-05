@@ -1,0 +1,18 @@
+{
+ "table": "05611_01236",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81900300}{C:81958296923200000000}How's the Cloud Stream\nlooking, Nelfea?\n\n{C:81900400}{C:81958296933200000000}Hmm, right now... Oh.\nThe Cloud Stream's concentration is rising.\n\n{C:81958296943200000000}...Just as I thought.\nWe can't get out again.\n\n{C:81900300}{C:81958296953200000000}Then we'll have to\ngather information again.\n\n{C:81900400}{C:81958296963200000000}That's right.\n\n{C:81930100}{C:81958296973200000000}(I couldn't get a word in...)\n\n{x00}",
+   "source_sha256": "a2d0bcb05182c363eed6c4c6b3c5ecf0d4ddb35173a415cd4baa88fa110f7d38",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

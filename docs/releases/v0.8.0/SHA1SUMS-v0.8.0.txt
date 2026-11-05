@@ -1,0 +1,5 @@
+989f1c3e53472b7a269f4894abecd0a25ca0c732  BUILD-MANIFEST.json
+78929bdfbde314eaca20e9c5dca53a7d6a7d6ef5  CHANGELOG-v0.8.0.txt
+eeef9d1551f21ecb2e9879f7c75c32d43746d648  README-v0.8.0.txt
+89755a2bee8b533eac2e6bdcc89f376e66d49334  Sunrise-Eiyuutan-2-English-v0.8.0.xdelta
+6ecb535db09f849992039f758ee388a7cbea3cc4  VALIDATION.json

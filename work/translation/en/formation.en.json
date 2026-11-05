@@ -1,0 +1,2910 @@
+{
+ "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+ "baseline_elf_sha256": "89d471695b856e7bede1a8e92141204bd3f5ee045f7b6be9eb36335904b8aef0",
+ "rows": [
+  {
+   "id": "ELF/rodata:00010010",
+   "va": 2295056,
+   "en": "Some machine equipment will be deleted.",
+   "source_size": 29,
+   "source_sha256": "62d19ab4f2dd3c6e7fd9e54bd1309f96134e42645c55e55fe2a81cf88b832524"
+  },
+  {
+   "id": "ELF/rodata:00010030",
+   "va": 2295088,
+   "en": "Some units will be deleted.",
+   "source_size": 29,
+   "source_sha256": "927f5317ab987d1933dcbba7ceba25f1898747fa78652a975bd695f394b67267"
+  },
+  {
+   "id": "ELF/rodata:00010050",
+   "va": 2295120,
+   "en": "The squad will be deleted.",
+   "source_size": 19,
+   "source_sha256": "278779b95b89f0b151e1af81fb7faf580c84c259d6c5e5e5e98dd1aad50a32ef"
+  },
+  {
+   "id": "ELF/rodata:00010068",
+   "va": 2295144,
+   "en": "The squad above will be changed.",
+   "source_size": 25,
+   "source_sha256": "f432c14cfebfac97721a5508ee29cac3e3e9c5e6acd870affcab3eabbb277192"
+  },
+  {
+   "id": "ELF/rodata:000100A8",
+   "va": 2295208,
+   "en": "No squad is registered.",
+   "source_size": 25,
+   "source_sha256": "17f61639bd78b97bddbc558cf0f26f9dc459805e67ac7ceb857ffac214a8070b"
+  },
+  {
+   "id": "ELF/rodata:000100C8",
+   "va": 2295240,
+   "en": "%s\nCaptain:%s",
+   "source_size": 12,
+   "source_sha256": "e4ad6c10f19b7e0f1e96409b21cfc6c01121eb59758caa3f5f700b83e35efaf9"
+  },
+  {
+   "id": "ELF/rodata:000100D8",
+   "va": 2295256,
+   "en": "[%s・%s]",
+   "source_size": 9,
+   "source_sha256": "fb443999eeaf01344d4c79662827c22d3c5ac54432563b7e1a4103c0d61f9aa5"
+  },
+  {
+   "id": "ELF/rodata:000100E8",
+   "va": 2295272,
+   "en": "Attack %s[vs %s: AT %3d％]\n%%1AT%%0%3d %%4EN%%0%3d %%6SP%%0%d\n%s",
+   "source_size": 66,
+   "source_sha256": "44710a76d70ab3fcd614a0d47986d678ecf534038a03e5294c938954898a7c8f"
+  },
+  {
+   "id": "ELF/rodata:00010130",
+   "va": 2295344,
+   "en": "Defend\n%%2DF%%0%3d %%4EN%%0%3d",
+   "source_size": 29,
+   "source_sha256": "38956671d45b56fa0f89bc5272311027da3dc77723d483639aea06c9ba0b849e"
+  },
+  {
+   "id": "ELF/rodata:00010150",
+   "va": 2295376,
+   "en": "Special %s[vs %s: AT %3d％]\n%%1AT%%0%3d %%2DF%%0%3d %%4EN%%0%3d %%6Mental%%0%3d％ %%6SP%%0%d\n%s",
+   "source_size": 96,
+   "source_sha256": "8ebf73336a4db4f93232094f204ee0763192261673791a0fa16bff11a1de5054"
+  },
+  {
+   "id": "ELF/rodata:000101C8",
+   "va": 2295496,
+   "en": "Equipment 1:%s",
+   "source_size": 10,
+   "source_sha256": "5b7e7662ae71c96537130481776baa85189b2d1290f7fdaff38c4bf90d69936f"
+  },
+  {
+   "id": "ELF/rodata:000101D8",
+   "va": 2295512,
+   "en": "Equipment 1:%s\nEquipment 2:%s",
+   "source_size": 20,
+   "source_sha256": "503d0c044eee3d5d3affce80f8239801fd25dddc60f9cf27def4bab27fec55c5"
+  },
+  {
+   "id": "ELF/rodata:000101F0",
+   "va": 2295536,
+   "en": "Equipment 1:%s\nEquipment 2:%s\nEquipment 3:%s",
+   "source_size": 30,
+   "source_sha256": "355cad5f40a93c84e1eefa3789e468fcfd581b0fb74c00dc9cbd8e871884e926"
+  },
+  {
+   "id": "ELF/rodata:00010210",
+   "va": 2295568,
+   "en": "Delete",
+   "source_size": 9,
+   "source_sha256": "1a5522951f1bdc70334d4eb1785d400f507995f859847bcde5d3d71bb72ed922"
+  },
+  {
+   "id": "ELF/rodata:00010220",
+   "va": 2295584,
+   "en": "Duplicate",
+   "source_size": 9,
+   "source_sha256": "0d491f205c0607d844e8d8ce27f8177b6be38b9ab5bd5af860915ff6fb6d9ff6"
+  },
+  {
+   "id": "ELF/rodata:00010230",
+   "va": 2295600,
+   "en": "New",
+   "source_size": 9,
+   "source_sha256": "90e43c2fdb719e5a785c3ad5ad5b5d1466ec479315bb0c1bafdbd51ac2bf2f30"
+  },
+  {
+   "id": "ELF/rodata:00010240",
+   "va": 2295616,
+   "en": "Change",
+   "source_size": 9,
+   "source_sha256": "d57dd76f70193fc98d6170b028b2db3c0bdd5c47171c078f40e01e468a4ca52e"
+  },
+  {
+   "id": "ELF/rodata:00010250",
+   "va": 2295632,
+   "en": "Delete a registered squad.",
+   "source_size": 27,
+   "source_sha256": "ffbd3ec554524c6248517f73c9119d89e9234949b46ef7466bfa23eaa43221f6"
+  },
+  {
+   "id": "ELF/rodata:00010270",
+   "va": 2295664,
+   "en": "Duplicate a registered squad.",
+   "source_size": 27,
+   "source_sha256": "e26d102c84ed768d361e65ebdc1496b52df3dd3e4625271be25084e0a3770efb"
+  },
+  {
+   "id": "ELF/rodata:00010290",
+   "va": 2295696,
+   "en": "Create a new squad.",
+   "source_size": 23,
+   "source_sha256": "b758608172b8b36196ace5d77ba965eae4f34ef037b83bd88464937d1071bd3f"
+  },
+  {
+   "id": "ELF/rodata:000102A8",
+   "va": 2295720,
+   "en": "Change a registered squad.",
+   "source_size": 27,
+   "source_sha256": "65c04232fe69c64b2400926334a8fc0a047502c84dfdace11f111dc2d63c1a6b"
+  },
+  {
+   "id": "ELF/rodata:000102C8",
+   "va": 2295752,
+   "en": "Squad Setup",
+   "source_size": 9,
+   "source_sha256": "bf14eaf74ab553761614ae63d4fc1b0cd72464cdb798eb3723f75bb439511275"
+  },
+  {
+   "id": "ELF/rodata:000102D8",
+   "va": 2295768,
+   "en": "Manage squad organization.",
+   "source_size": 31,
+   "source_sha256": "b4102b0c8cf2eaa7d334c2dfc293a63e055aabeef5ccd728773d863e6d098698"
+  },
+  {
+   "id": "ELF/rodata:000102F8",
+   "va": 2295800,
+   "en": "Choose the squad to change.",
+   "source_size": 27,
+   "source_sha256": "1b526e495d11e39814e64fb40d5f3b61d0a11015856f222993443d28ae98e940"
+  },
+  {
+   "id": "ELF/rodata:00010318",
+   "va": 2295832,
+   "en": "No squad is registered.",
+   "source_size": 25,
+   "source_sha256": "f9454eb7b8210daf9f4f7e0c7f932e83597912122e777775485329dda053e6a5"
+  },
+  {
+   "id": "ELF/rodata:00010348",
+   "va": 2295880,
+   "en": "...Unregistered...",
+   "source_size": 35,
+   "source_sha256": "1ea6411a9d53b28aeefa843e164aea6aa3a290ade4ae4c5ce9e6d8be41878d74"
+  },
+  {
+   "id": "ELF/rodata:00010380",
+   "va": 2295936,
+   "en": "New Squad",
+   "source_size": 9,
+   "source_sha256": "7199a4d76ddbef7cffa5a6fead67fe3019c89e9b8e81dffa56f807e361a528d1"
+  },
+  {
+   "id": "ELF/rodata:00010390",
+   "va": 2295952,
+   "en": "Choose a squad name.",
+   "source_size": 21,
+   "source_sha256": "167f9c32d4f867065d320773933917f92c8349279be7823353103b02b36b7e1d"
+  },
+  {
+   "id": "ELF/rodata:000103A8",
+   "va": 2295976,
+   "en": "No more squads can be registered.",
+   "source_size": 29,
+   "source_sha256": "8f676e5e48b455d858a0d05a09e0fca2229ce12008b1c7e854687d14cc07df4d"
+  },
+  {
+   "id": "ELF/rodata:000103C8",
+   "va": 2296008,
+   "en": "New Squad",
+   "source_size": 9,
+   "source_sha256": "a116967df74a68ecca09fb6eeec7f0a02bfd504d903946aec0305f64adef69c5"
+  },
+  {
+   "id": "ELF/rodata:000103D8",
+   "va": 2296024,
+   "en": "Cancel organizing the new squad?",
+   "source_size": 31,
+   "source_sha256": "fae20d37f246150038a20827b98b6ec75efb55d4e7441b5b0fa6e3eb887741b4"
+  },
+  {
+   "id": "ELF/rodata:000103F8",
+   "va": 2296056,
+   "en": "Copy Squad",
+   "source_size": 9,
+   "source_sha256": "db111e5c10e10ea7060e1e00634c6a3e361d3cd1aea853e86b14252a8b92b6b2"
+  },
+  {
+   "id": "ELF/rodata:00010408",
+   "va": 2296072,
+   "en": "Choose the squad to duplicate.",
+   "source_size": 27,
+   "source_sha256": "4aa457e589531afab20227dbfcbf6e8812c0093a3175dd7edb5481f43e0705e7"
+  },
+  {
+   "id": "ELF/rodata:00010428",
+   "va": 2296104,
+   "en": "Choose the destination for the copy.",
+   "source_size": 21,
+   "source_sha256": "e6f5508d06d710dd99f97cf52d850ca0b6437ec09585090291ca2aed181a0191"
+  },
+  {
+   "id": "ELF/rodata:00010440",
+   "va": 2296128,
+   "en": "[%s]\n▼\n[%s]\nDuplicate this squad?",
+   "source_size": 36,
+   "source_sha256": "540705804c2f2c744781e3bc5a043abe9e972e0c9bd9a76a373d180e96b64791"
+  },
+  {
+   "id": "ELF/rodata:00010468",
+   "va": 2296168,
+   "en": "Delete Squad",
+   "source_size": 9,
+   "source_sha256": "6aa61195ac5a0c526a5ee263ba759faa889e517ce59d9771a455b54d28374775"
+  },
+  {
+   "id": "ELF/rodata:00010478",
+   "va": 2296184,
+   "en": "Choose the squad to delete.",
+   "source_size": 27,
+   "source_sha256": "fe417a2849312c1fb52bb2237ce2f3ee761968aba55169144be652fdcea7b3d3"
+  },
+  {
+   "id": "ELF/rodata:00010498",
+   "va": 2296216,
+   "en": "[%s]\nDelete this squad?",
+   "source_size": 28,
+   "source_sha256": "69cd16527fa07d6944419f33057e08467a9994d95d379bb941afb71662ca000d"
+  },
+  {
+   "id": "ELF/rodata:000104B8",
+   "va": 2296248,
+   "en": "Travel Assignment",
+   "source_size": 11,
+   "source_sha256": "003345eccbfcbaf286a812f3c7616372fe46fa3091ee575d25920c6e10ca9534"
+  },
+  {
+   "id": "ELF/rodata:000104C8",
+   "va": 2296264,
+   "en": "Squad Name",
+   "source_size": 11,
+   "source_sha256": "f3ebd792d64f62d91f8cadf675cbbb0bdbe06435408c346bcef6e185cfe0a0cd"
+  },
+  {
+   "id": "ELF/rodata:000104D8",
+   "va": 2296280,
+   "en": "Ship",
+   "source_size": 11,
+   "source_sha256": "7ae40365819e78d45bd7ea5de9897958381228af6dc8f817c81787726c773638"
+  },
+  {
+   "id": "ELF/rodata:000104E8",
+   "va": 2296296,
+   "en": "Item",
+   "source_size": 11,
+   "source_sha256": "0faf5a6245f96a8673b6e37003c3f39124a5dfa4a4b81319e7fbbc102fcdec8b"
+  },
+  {
+   "id": "ELF/rodata:000104F8",
+   "va": 2296312,
+   "en": "Unit",
+   "source_size": 11,
+   "source_sha256": "bbe78135e115323e7eb36b49aeb067def06c3787404b04812fd1aa367a733520"
+  },
+  {
+   "id": "ELF/rodata:00010508",
+   "va": 2296328,
+   "en": "Select the squad to use for travel between\ncontinents.",
+   "source_size": 33,
+   "source_sha256": "d47c1c970a467be406875c2cb5852c5c2945c83c2ba92b2ee0ebd60a7ae264bd"
+  },
+  {
+   "id": "ELF/rodata:00010530",
+   "va": 2296368,
+   "en": "Change the squad name.",
+   "source_size": 23,
+   "source_sha256": "a85d705524dd35d623b477cdbbd6a3ecfbdcab038d09f1b17efe3aafff29b1cb"
+  },
+  {
+   "id": "ELF/rodata:00010548",
+   "va": 2296392,
+   "en": "Change the battleship or its captain.",
+   "source_size": 33,
+   "source_sha256": "12f5c3564232eedad8aa70dfa80dfe3c9711ef10836abb2914cebc7e8c0e4a1f"
+  },
+  {
+   "id": "ELF/rodata:00010570",
+   "va": 2296432,
+   "en": "Add or change onboard items.",
+   "source_size": 35,
+   "source_sha256": "a1b390ab20a10a9635beb232af5c7cc53fbd2a016b764ad2305c31b2610c2164"
+  },
+  {
+   "id": "ELF/rodata:00010598",
+   "va": 2296472,
+   "en": "You can view stats, change pilots,\nand equip unit items.",
+   "source_size": 60,
+   "source_sha256": "704938a0618321de7dc96756e6770c89b30b4b83fe7fc28521780a60d91ec4e8"
+  },
+  {
+   "id": "ELF/rodata:000105D8",
+   "va": 2296536,
+   "en": "Delete this item?",
+   "source_size": 27,
+   "source_sha256": "9794b974dd5d9bff033b8c2352da2e7139b67f2f7fccada49e28801368af8523"
+  },
+  {
+   "id": "ELF/rodata:00010618",
+   "va": 2296600,
+   "en": "Set this squad for travel.",
+   "source_size": 29,
+   "source_sha256": "78dacaa4129ac83719b50f08b779fc86ef1dc8a345c7a9fef1ba782583d4bb48"
+  },
+  {
+   "id": "ELF/rodata:00010638",
+   "va": 2296632,
+   "en": "Delete",
+   "source_size": 11,
+   "source_sha256": "81e97ac58262e3e5d2d5f141cbd3c3d9a2aeb84bbea1de4866877c6317e3d8fb"
+  },
+  {
+   "id": "ELF/rodata:00010648",
+   "va": 2296648,
+   "en": "Equip",
+   "source_size": 11,
+   "source_sha256": "d9ba1224d22f0681ef55a47292cd686aa093c0e0aa7dfa2f8f966fed41d825cc"
+  },
+  {
+   "id": "ELF/rodata:00010658",
+   "va": 2296664,
+   "en": "Pilot",
+   "source_size": 11,
+   "source_sha256": "4464e986d1b47e0d0d58012d6deda9dfbc894998fb6b7bd11006886a29aeca78"
+  },
+  {
+   "id": "ELF/rodata:00010668",
+   "va": 2296680,
+   "en": "View Stats",
+   "source_size": 11,
+   "source_sha256": "5942d1c7399e667f2517b20a9b2273eec39561e9da8279b8aea8f5c66585ee58"
+  },
+  {
+   "id": "ELF/rodata:00010678",
+   "va": 2296696,
+   "en": "Remove it from the squad being organized.",
+   "source_size": 27,
+   "source_sha256": "90576d37ede386d0023be13f94ae706cf420264117b7abc33ac3c19d726c5720"
+  },
+  {
+   "id": "ELF/rodata:00010698",
+   "va": 2296728,
+   "en": "Equipping a unit with an item\ncan improve its stats.",
+   "source_size": 64,
+   "source_sha256": "a3c43b825a99a9f71c7025fe3a9236aec8f927c18661f397c59f66d8e9e2c04c"
+  },
+  {
+   "id": "ELF/rodata:000106D8",
+   "va": 2296792,
+   "en": "Change the pilot who boards the unit.",
+   "source_size": 31,
+   "source_sha256": "24b38a7d0990d44184520eb68c8d39092dbc8cf0950e33bcacc42eea7a443454"
+  },
+  {
+   "id": "ELF/rodata:000106F8",
+   "va": 2296824,
+   "en": "You can check capabilities such as attack\nand defense for units used in battle.",
+   "source_size": 58,
+   "source_sha256": "8e9f71709e246cc0e8d652962c399f56ca6bf385c816b0b8f1981005348b7ac3"
+  },
+  {
+   "id": "ELF/rodata:00010738",
+   "va": 2296888,
+   "en": "It cannot be equipped on this machine.",
+   "source_size": 27,
+   "source_sha256": "1f4ee3f80f0225b9e061e302ff493b020871a1a6afd41eec11b7f8b0d52dce91"
+  },
+  {
+   "id": "ELF/rodata:00010758",
+   "va": 2296920,
+   "en": "[%s]\nRemove this equipment?",
+   "source_size": 28,
+   "source_sha256": "d5be3327903c7615e25e0ce2fcfe67c2c40ce27884d5bf4861aa3f198e28384b"
+  },
+  {
+   "id": "ELF/rodata:00010778",
+   "va": 2296952,
+   "en": "Select Sort Criterion",
+   "source_size": 15,
+   "source_sha256": "ff7ef784207375ab7f1bb2b5efb0224698603058f824d5eb32d94b0a93704f89"
+  },
+  {
+   "id": "ELF/rodata:00010788",
+   "va": 2296968,
+   "en": "No battleship is available for selection.",
+   "source_size": 27,
+   "source_sha256": "73bc3a428600c46349ff43a2243a12e2ee67635d380cdd71086513450d9dde93"
+  },
+  {
+   "id": "ELF/rodata:000107A8",
+   "va": 2297000,
+   "en": "No captain is available to board.",
+   "source_size": 25,
+   "source_sha256": "1cb4cb3c1c1ef629c97b12922bae7ce349ff30889855ac28322c8d79ee4b4e9f"
+  },
+  {
+   "id": "ELF/rodata:000107C8",
+   "va": 2297032,
+   "en": "[Add Machine]",
+   "source_size": 24,
+   "source_sha256": "b9524eb04b8e02699f904d10a00c2a2037e5937b6af29277a0d02a1d0a8739e5"
+  },
+  {
+   "id": "ELF/rodata:000107F0",
+   "va": 2297072,
+   "en": "Add a new unit.",
+   "source_size": 27,
+   "source_sha256": "df54d2a275c09f164d71264c4e9a9bc6cdcbec30d73ee2f760f4d1ff7204a2d4"
+  },
+  {
+   "id": "ELF/rodata:00010810",
+   "va": 2297104,
+   "en": "Add a new unit.",
+   "source_size": 27,
+   "source_sha256": "70b9a6ecba73fd0a4913123dbcc15a36b730356358284e6bc482449a316d00e6"
+  },
+  {
+   "id": "ELF/rodata:00010830",
+   "va": 2297136,
+   "en": "Unit",
+   "source_size": 9,
+   "source_sha256": "73aa121b83fb44a6c0b56c6f8910078b822438c73a64f4c613e5f10d7085bb0c"
+  },
+  {
+   "id": "ELF/rodata:00010840",
+   "va": 2297152,
+   "en": "No units are on board.",
+   "source_size": 29,
+   "source_sha256": "c7efaf74460421ba6841f99a4930eaa3706344243b9c88576323c4a39152a643"
+  },
+  {
+   "id": "ELF/rodata:00010860",
+   "va": 2297184,
+   "en": "[Add Equipment]",
+   "source_size": 24,
+   "source_sha256": "22dd681acfb8e9809f9d14c8fed4eab5dea8babeb421e87cd10bdcc20ab0c6fa"
+  },
+  {
+   "id": "ELF/rodata:00010878",
+   "va": 2297208,
+   "en": "Add a new item.",
+   "source_size": 27,
+   "source_sha256": "92566c5e03de928abadc3c3e7520ebb1ee98c4d3e1be5418da2434fa48944263"
+  },
+  {
+   "id": "ELF/rodata:00010898",
+   "va": 2297240,
+   "en": "Add a new item.",
+   "source_size": 27,
+   "source_sha256": "843d5173f9b30506f125ebf74d52d086c312435ea9688e0b4a64866db374f534"
+  },
+  {
+   "id": "ELF/rodata:000108B8",
+   "va": 2297272,
+   "en": "Item",
+   "source_size": 9,
+   "source_sha256": "2de51f7f3bbc90e56c001ba72267117c50610216b0b561bbb841ab9754bd762f"
+  },
+  {
+   "id": "ELF/rodata:000108C8",
+   "va": 2297288,
+   "en": "No items are loaded.",
+   "source_size": 29,
+   "source_sha256": "22a012f3d5ed85a1a1c63a5e0729149b0c05e6fc1da808b829392c3b39fa55fa"
+  },
+  {
+   "id": "ELF/rodata:000108E8",
+   "va": 2297320,
+   "en": "There are no units available to select.",
+   "source_size": 27,
+   "source_sha256": "366e23162d99acf30346d4493f15b26ea08053a5e65d93de49892ce91ce36ea0"
+  },
+  {
+   "id": "ELF/rodata:00010908",
+   "va": 2297352,
+   "en": "No pilots are available to board.",
+   "source_size": 31,
+   "source_sha256": "cc193b2503b54a8d4534420cd94377799a2808ed6688a97d299dfab73b1959ad"
+  },
+  {
+   "id": "ELF/rodata:00010928",
+   "va": 2297384,
+   "en": "No compatible unit equipment is available.",
+   "source_size": 31,
+   "source_sha256": "de55392fea3448811e54c76b221b6fa9c31294af8413bd61283fe39388541339"
+  },
+  {
+   "id": "ELF/rodata:00010948",
+   "va": 2297416,
+   "en": "No equipment can be fitted.",
+   "source_size": 27,
+   "source_sha256": "4edaf9a084fb1a7638afa856ab6633952279e8016339cf80da4f4ea0bbe00912"
+  },
+  {
+   "id": "ELF/rodata:00010968",
+   "va": 2297448,
+   "en": "Remove this unit from the squad.",
+   "source_size": 33,
+   "source_sha256": "a17633772899973b0f2e86291d28c712e14dca5bd1e33d810479e3cbd460a03a"
+  },
+  {
+   "id": "ELF/rodata:000109C8",
+   "va": 2297544,
+   "en": "HPMax %-3d [%s・%s]",
+   "source_size": 20,
+   "source_sha256": "7d9e01a061cca738da38c9842b3a20f3f88b39456d6604c2d51eae13e5879d47"
+  },
+  {
+   "id": "ELF/rodata:000109E0",
+   "va": 2297568,
+   "en": "ENMax %-3d Launch EN%-3d",
+   "source_size": 21,
+   "source_sha256": "31d6bac74ea160f553bcda8754fccdfdb64546ac8adea09271e56fc46b781fab"
+  },
+  {
+   "id": "ELF/rodata:000109F8",
+   "va": 2297592,
+   "en": "S%2d L%2d P%2d",
+   "source_size": 16,
+   "source_sha256": "5fc8f5aa696a711e6c329b09840fe53d7fbd52b78448c43c2bc498001e384814"
+  },
+  {
+   "id": "ELF/rodata:00010A18",
+   "va": 2297624,
+   "en": "L Cannon Null",
+   "source_size": 13,
+   "source_sha256": "c6e4197dc42d2bfd7b500396205d2799c61a2b9c5a3cf4d7d8e9968080f7286f"
+  },
+  {
+   "id": "ELF/rodata:00010A28",
+   "va": 2297640,
+   "en": "M Cannon Null",
+   "source_size": 13,
+   "source_sha256": "18d64b5da45cb85140d6b606144f2e026e1b27d8ef48cd498e5d82021622af0e"
+  },
+  {
+   "id": "ELF/rodata:00010A38",
+   "va": 2297656,
+   "en": "LM Cannon Null",
+   "source_size": 13,
+   "source_sha256": "8a89c7513164a7507d380c89e591461cdfa6058b58ba91b131caaf8f5c88949a"
+  },
+  {
+   "id": "ELF/rodata:00010A48",
+   "va": 2297672,
+   "en": "Attack AT%-3d EN%-3d",
+   "source_size": 20,
+   "source_sha256": "855583aa0dede2d1dab632eee8a4d03e7aea4a5707434c3caaf71c1b10fb5674"
+  },
+  {
+   "id": "ELF/rodata:00010A60",
+   "va": 2297696,
+   "en": "Defend DF%-3d EN%-3d",
+   "source_size": 20,
+   "source_sha256": "057ae6621933272e1d88d04e7e6091e5bfcb4db2a2fac02ddaacf4dc2dd958f9"
+  },
+  {
+   "id": "ELF/rodata:00010A78",
+   "va": 2297720,
+   "en": "Special AT%-3d EN%-3d",
+   "source_size": 20,
+   "source_sha256": "33a2f45028f403929539f08ce1c35569b5df24a90db431cc154f68609eeecf70"
+  },
+  {
+   "id": "ELF/rodata:00010AA0",
+   "va": 2297760,
+   "en": "%%3HP%%0 %3d %%4EN%%0 %3d        +EN %2d/TURN\n%%1Cannon%%0 %3d %%1Support%%0 %3d Repair %3d％\nUnits[Deployed+%%4EN%%0% 2d Aboard+%%3HP%%0% 2d]",
+   "source_size": 143,
+   "source_sha256": "8da60b99539ec3383bb4f47b2ee62b12e684f463a94f49112e8a6649f0cdfc5a"
+  },
+  {
+   "id": "ELF/rodata:00010B30",
+   "va": 2297904,
+   "en": "%%3HP%%0% 3d %%4EN%%0% 3d %%6SP%%0 %d [%s・%s]\nAtk[%%1AT%%0%3d %%4EN%%0%3d] Def[%%2DF%%0%3d %%4EN%%0%3d]\n%s",
+   "source_size": 110,
+   "source_sha256": "6030f9bdff59480278d845c7787c228c8216371a4e808fd844f73de3dc7c9a46"
+  },
+  {
+   "id": "ELF/rodata:00010BA0",
+   "va": 2298016,
+   "en": "Attack (%2d+%2d) Defense (%2d+%2d)\nS/L/P(%2d,%2d,%2d) F/A/G(%2d,%2d,%2d)\n%%1AT%%0+%3d %%2DF%%0+%3d %%6Mental%%0%+2d％/TURN",
+   "source_size": 125,
+   "source_sha256": "3680ec23bacf0a62b1eade3a8aa204c0d7bcf0e4c47ac0ec4d1a8d75dcbab0d0"
+  },
+  {
+   "id": "ELF/rodata:00010C68",
+   "va": 2298216,
+   "en": "%s\nAtk[%%1AT%%0%3d %%4EN%%0%3d] Def[%%2DF%%0%3d  %%4EN%%0 %3d]\n%s",
+   "source_size": 64,
+   "source_sha256": "e6ed9a13f8ada70b0cd6032d3c7ec1d01de9069aa73be9ec247afb7e0b05cf06"
+  },
+  {
+   "id": "ELF/rodata:00010CA8",
+   "va": 2298280,
+   "en": "%s\n%%1Cannon%%0+%2d %%1Support%%0+%2d Repair+%3d％\nvs Ship(%%1AT%%0%3d%%2DF%%0%3d) vs Unit(%%1AT%%0%3d%%2DF%%0%3d)",
+   "source_size": 110,
+   "source_sha256": "7feec0eed79483232dac5c5d3e37825ccc242d0e8a9bd9373b6d474bc22948d2"
+  },
+  {
+   "id": "ELF/rodata:00010D18",
+   "va": 2298392,
+   "en": "^200,26,Not Registered",
+   "source_size": 19,
+   "source_sha256": "7e00e3ddb6b0170f19daf0c06f9de45499eaeb781878bbe6fd84ddbfa3f87fce"
+  },
+  {
+   "id": "ELF/sdata:00001470",
+   "va": 2329712,
+   "en": "Change",
+   "source_size": 5,
+   "source_sha256": "1e3d16dc6d75c10024394eae16408bd5a192058da9fd7143e0a135fa51b7d31d"
+  },
+  {
+   "id": "ELF/sdata:00001478",
+   "va": 2329720,
+   "en": "Unregistered",
+   "source_size": 7,
+   "source_sha256": "b93cd6cf008a40a21905252f10c732b2e5d66c0926e151b2c892ce02fb3d85ed"
+  },
+  {
+   "id": "ELF/sdata:00001490",
+   "va": 2329744,
+   "en": "Ship",
+   "source_size": 7,
+   "source_sha256": "10e331613b946567e1d069e38cce1ee0a18f790fe58549245312d1cc9eb3ce5f"
+  }
+ ],
+ "code": [
+  {
+   "site": 1448796,
+   "lui": 1448788,
+   "target": 2295120,
+   "register": 30,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 610141520
+  },
+  {
+   "site": 1448808,
+   "lui": 1448792,
+   "target": 2295056,
+   "register": 23,
+   "base_register": 3,
+   "lui_word": 1006829603,
+   "word": 611779856
+  },
+  {
+   "site": 1448812,
+   "lui": 1448804,
+   "target": 2295088,
+   "register": 22,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 609617200
+  },
+  {
+   "site": 1449012,
+   "lui": 1449004,
+   "target": 2295056,
+   "register": 2,
+   "base_register": 3,
+   "lui_word": 1006829603,
+   "word": 3697411344
+  },
+  {
+   "site": 1449040,
+   "lui": 1449032,
+   "target": 2295088,
+   "register": 2,
+   "base_register": 3,
+   "lui_word": 1006829603,
+   "word": 3697411376
+  },
+  {
+   "site": 1449088,
+   "lui": 1449080,
+   "target": 2295120,
+   "register": 3,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 3695379792
+  },
+  {
+   "site": 1449232,
+   "lui": 1449228,
+   "target": 2295144,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614794600
+  },
+  {
+   "site": 1452660,
+   "lui": 1452648,
+   "target": 2295208,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614794664
+  },
+  {
+   "site": 1452708,
+   "lui": 1452700,
+   "target": 2295240,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584264
+  },
+  {
+   "site": 1452960,
+   "lui": 1452936,
+   "target": 2295256,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584280
+  },
+  {
+   "site": 1452960,
+   "lui": 1452952,
+   "target": 2295256,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584280
+  },
+  {
+   "site": 1453116,
+   "lui": 1453108,
+   "target": 2295272,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614794728
+  },
+  {
+   "site": 1453172,
+   "lui": 1453160,
+   "target": 2295344,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584368
+  },
+  {
+   "site": 1453408,
+   "lui": 1453384,
+   "target": 2295256,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584280
+  },
+  {
+   "site": 1453408,
+   "lui": 1453400,
+   "target": 2295256,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584280
+  },
+  {
+   "site": 1453568,
+   "lui": 1453556,
+   "target": 2295376,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614794832
+  },
+  {
+   "site": 1453816,
+   "lui": 1453808,
+   "target": 2295496,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584520
+  },
+  {
+   "site": 1453868,
+   "lui": 1453860,
+   "target": 2295512,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584536
+  },
+  {
+   "site": 1453940,
+   "lui": 1453756,
+   "target": 2295536,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584560
+  },
+  {
+   "site": 1453940,
+   "lui": 1453772,
+   "target": 2295536,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638584560
+  },
+  {
+   "site": 1454992,
+   "lui": 1454900,
+   "target": 2295752,
+   "register": 5,
+   "base_register": 30,
+   "lui_word": 1008599075,
+   "word": 667224008
+  },
+  {
+   "site": 1455024,
+   "lui": 1454908,
+   "target": 2295768,
+   "register": 5,
+   "base_register": 23,
+   "lui_word": 1008140323,
+   "word": 652543960
+  },
+  {
+   "site": 1455276,
+   "lui": 1455268,
+   "target": 2329712,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960676,
+   "word": 614829168
+  },
+  {
+   "site": 1455312,
+   "lui": 1455304,
+   "target": 2295800,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795256
+  },
+  {
+   "site": 1455548,
+   "lui": 1455540,
+   "target": 2295832,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612632600
+  },
+  {
+   "site": 1455844,
+   "lui": 1455620,
+   "target": 2295880,
+   "register": 5,
+   "base_register": 30,
+   "lui_word": 1008599075,
+   "word": 667224136
+  },
+  {
+   "site": 1456108,
+   "lui": 1456100,
+   "target": 2295832,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612632600
+  },
+  {
+   "site": 1456380,
+   "lui": 1456180,
+   "target": 2295880,
+   "register": 5,
+   "base_register": 30,
+   "lui_word": 1008599075,
+   "word": 667224136
+  },
+  {
+   "site": 1456740,
+   "lui": 1456732,
+   "target": 2295832,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612632600
+  },
+  {
+   "site": 1457024,
+   "lui": 1456848,
+   "target": 2295880,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 608503880
+  },
+  {
+   "site": 1457264,
+   "lui": 1457256,
+   "target": 2295936,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795392
+  },
+  {
+   "site": 1457300,
+   "lui": 1457292,
+   "target": 2295952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795408
+  },
+  {
+   "site": 1457344,
+   "lui": 1457336,
+   "target": 2295976,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612632744
+  },
+  {
+   "site": 1457356,
+   "lui": 1457332,
+   "target": 2296008,
+   "register": 7,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 608635080
+  },
+  {
+   "site": 1457476,
+   "lui": 1457440,
+   "target": 2296024,
+   "register": 5,
+   "base_register": 18,
+   "lui_word": 1007812643,
+   "word": 642058456
+  },
+  {
+   "site": 1457604,
+   "lui": 1457596,
+   "target": 2296056,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795512
+  },
+  {
+   "site": 1457636,
+   "lui": 1457576,
+   "target": 2296072,
+   "register": 5,
+   "base_register": 18,
+   "lui_word": 1007812643,
+   "word": 642058504
+  },
+  {
+   "site": 1457684,
+   "lui": 1457584,
+   "target": 2296104,
+   "register": 5,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 637864232
+  },
+  {
+   "site": 1457784,
+   "lui": 1457780,
+   "target": 2329720,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960676,
+   "word": 614829176
+  },
+  {
+   "site": 1457808,
+   "lui": 1457804,
+   "target": 2296128,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795584
+  },
+  {
+   "site": 1458116,
+   "lui": 1458108,
+   "target": 2296168,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795624
+  },
+  {
+   "site": 1458152,
+   "lui": 1458144,
+   "target": 2296184,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795640
+  },
+  {
+   "site": 1458220,
+   "lui": 1458212,
+   "target": 2296216,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614795672
+  },
+  {
+   "site": 1459008,
+   "lui": 1458912,
+   "target": 2296536,
+   "register": 5,
+   "base_register": 17,
+   "lui_word": 1007747107,
+   "word": 639961816
+  },
+  {
+   "site": 1459568,
+   "lui": 1459556,
+   "target": 2296600,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796056
+  },
+  {
+   "site": 1460376,
+   "lui": 1460368,
+   "target": 2296888,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612633656
+  },
+  {
+   "site": 1460528,
+   "lui": 1460388,
+   "target": 2296920,
+   "register": 5,
+   "base_register": 30,
+   "lui_word": 1008599075,
+   "word": 667225176
+  },
+  {
+   "site": 1461840,
+   "lui": 1461836,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1462344,
+   "lui": 1462336,
+   "target": 2329744,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960676,
+   "word": 614829200
+  },
+  {
+   "site": 1462572,
+   "lui": 1462564,
+   "target": 2296968,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612633736
+  },
+  {
+   "site": 1463248,
+   "lui": 1463244,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1463612,
+   "lui": 1463604,
+   "target": 2329744,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960676,
+   "word": 614829200
+  },
+  {
+   "site": 1463872,
+   "lui": 1463864,
+   "target": 2297000,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612633768
+  },
+  {
+   "site": 1464100,
+   "lui": 1464092,
+   "target": 2297032,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 608505032
+  },
+  {
+   "site": 1464368,
+   "lui": 1464360,
+   "target": 2297072,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796528
+  },
+  {
+   "site": 1464408,
+   "lui": 1464400,
+   "target": 2297104,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612633872
+  },
+  {
+   "site": 1464780,
+   "lui": 1464776,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1465380,
+   "lui": 1465372,
+   "target": 2297136,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796592
+  },
+  {
+   "site": 1465520,
+   "lui": 1465512,
+   "target": 2297152,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612633920
+  },
+  {
+   "site": 1465788,
+   "lui": 1465780,
+   "target": 2297184,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 608505184
+  },
+  {
+   "site": 1466056,
+   "lui": 1466048,
+   "target": 2297208,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796664
+  },
+  {
+   "site": 1466096,
+   "lui": 1466088,
+   "target": 2297240,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612634008
+  },
+  {
+   "site": 1466484,
+   "lui": 1466480,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1466968,
+   "lui": 1466960,
+   "target": 2297272,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796728
+  },
+  {
+   "site": 1467120,
+   "lui": 1467112,
+   "target": 2297288,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612634056
+  },
+  {
+   "site": 1467888,
+   "lui": 1467884,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1468760,
+   "lui": 1468752,
+   "target": 2297320,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612634088
+  },
+  {
+   "site": 1469280,
+   "lui": 1469276,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1469952,
+   "lui": 1469944,
+   "target": 2297352,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612634120
+  },
+  {
+   "site": 1470376,
+   "lui": 1470372,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1471184,
+   "lui": 1471176,
+   "target": 2297384,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612634152
+  },
+  {
+   "site": 1471928,
+   "lui": 1471924,
+   "target": 2296952,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796408
+  },
+  {
+   "site": 1472528,
+   "lui": 1472520,
+   "target": 2297416,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895139,
+   "word": 612634184
+  },
+  {
+   "site": 1473232,
+   "lui": 1473212,
+   "target": 2297448,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614796904
+  },
+  {
+   "site": 1473632,
+   "lui": 1473620,
+   "target": 2297544,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586568
+  },
+  {
+   "site": 1473736,
+   "lui": 1473724,
+   "target": 2297568,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586592
+  },
+  {
+   "site": 1473808,
+   "lui": 1473796,
+   "target": 2297592,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586616
+  },
+  {
+   "site": 1473924,
+   "lui": 1473912,
+   "target": 2297624,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797080
+  },
+  {
+   "site": 1473952,
+   "lui": 1473940,
+   "target": 2297640,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797096
+  },
+  {
+   "site": 1473996,
+   "lui": 1473984,
+   "target": 2297656,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797112
+  },
+  {
+   "site": 1474036,
+   "lui": 1474024,
+   "target": 2297672,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586696
+  },
+  {
+   "site": 1474108,
+   "lui": 1474096,
+   "target": 2297696,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586720
+  },
+  {
+   "site": 1474244,
+   "lui": 1474216,
+   "target": 2297720,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586744
+  },
+  {
+   "site": 1474244,
+   "lui": 1474232,
+   "target": 2297720,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586744
+  },
+  {
+   "site": 1474516,
+   "lui": 1474504,
+   "target": 2297544,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586568
+  },
+  {
+   "site": 1474620,
+   "lui": 1474608,
+   "target": 2297568,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586592
+  },
+  {
+   "site": 1474692,
+   "lui": 1474680,
+   "target": 2297672,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586696
+  },
+  {
+   "site": 1474764,
+   "lui": 1474752,
+   "target": 2297696,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638586720
+  },
+  {
+   "site": 1476916,
+   "lui": 1476872,
+   "target": 2297760,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797216
+  },
+  {
+   "site": 1477308,
+   "lui": 1477272,
+   "target": 2297904,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797360
+  },
+  {
+   "site": 1477736,
+   "lui": 1477712,
+   "target": 2298016,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797472
+  },
+  {
+   "site": 1478784,
+   "lui": 1478772,
+   "target": 2298216,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638587240
+  },
+  {
+   "site": 1479376,
+   "lui": 1479340,
+   "target": 2298280,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797736
+  },
+  {
+   "site": 1479780,
+   "lui": 1479768,
+   "target": 2297904,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797360
+  },
+  {
+   "site": 1480324,
+   "lui": 1480312,
+   "target": 2298392,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614797848
+  }
+ ],
+ "pointers": [
+  {
+   "site": 2066368,
+   "target": 2295616
+  },
+  {
+   "site": 2066372,
+   "target": 2295600
+  },
+  {
+   "site": 2066376,
+   "target": 2295584
+  },
+  {
+   "site": 2066380,
+   "target": 2295568
+  },
+  {
+   "site": 2066384,
+   "target": 2295720
+  },
+  {
+   "site": 2066388,
+   "target": 2295696
+  },
+  {
+   "site": 2066392,
+   "target": 2295664
+  },
+  {
+   "site": 2066396,
+   "target": 2295632
+  },
+  {
+   "site": 2066400,
+   "target": 2296312
+  },
+  {
+   "site": 2066404,
+   "target": 2296296
+  },
+  {
+   "site": 2066408,
+   "target": 2296280
+  },
+  {
+   "site": 2066412,
+   "target": 2296264
+  },
+  {
+   "site": 2066416,
+   "target": 2296248
+  },
+  {
+   "site": 2066424,
+   "target": 2296472
+  },
+  {
+   "site": 2066428,
+   "target": 2296432
+  },
+  {
+   "site": 2066432,
+   "target": 2296392
+  },
+  {
+   "site": 2066436,
+   "target": 2296368
+  },
+  {
+   "site": 2066440,
+   "target": 2296328
+  },
+  {
+   "site": 2066448,
+   "target": 2296680
+  },
+  {
+   "site": 2066452,
+   "target": 2296664
+  },
+  {
+   "site": 2066456,
+   "target": 2296648
+  },
+  {
+   "site": 2066460,
+   "target": 2296632
+  },
+  {
+   "site": 2066464,
+   "target": 2296824
+  },
+  {
+   "site": 2066468,
+   "target": 2296792
+  },
+  {
+   "site": 2066472,
+   "target": 2296728
+  },
+  {
+   "site": 2066476,
+   "target": 2296696
+  }
+ ],
+ "battle_repair": [
+  {
+   "site": 1437124,
+   "lui": 1436948,
+   "target": 2289752,
+   "register": 5,
+   "base_register": 30,
+   "lui_word": 1008599075,
+   "word": 667283544,
+   "expected_lui": 1008599075,
+   "expected_word": 667283544,
+   "wanted": 10209517
+  }
+ ],
+ "indirect": {
+  "1458636": [
+   1458644,
+   1458868,
+   1459092,
+   1459300,
+   1459324
+  ]
+ },
+ "reference_method": "Reaching LUI definitions through native branch/delay CFG, calls preserve fp and other ABI saved registers. Five explicitly source-guarded gdmkDeckMain jump-table edges admitted. Unknown high-address ambiguity rejects. Bounded all-section catalog scan of native formation functions identified3shared captions at4uses. These uses only are relocated. Left fixed header widened10pixels.",
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "review_guards": {
+  "formation808.json": "e790736051eaf9be526f6cf897fd85291540519659cf088119db079918db3cef",
+  "formation_accuracy809.json": "bef54243196225b2fb481c1bf2f9794f4e1bf1e89bdb9de9a7a852d9171b936a",
+  "refs811.json": "436f2b763768102d90f4e20d91360bd3c2e17193bf9c12300ee9904d985e8d96",
+  "formation812.json": "8b59f5121069e7b85f7ff775bd8f27ddb95e60a6ff78780d72016885ed059bc4",
+  "formation_compact_proof813.json": "e2d251c18e53910b13b99b04df5de53fae6e8da2dc012db0ab52be89433dbd90",
+  "formation_header817.json": "a041c85157c8b82321f626fbfcacbcbbc4fc6ee98f0e405f8e27923101e06ac8",
+  "formation_header817_ship_addendum.json": "2077fdd6409975dad659a4a2da706e74f4b327a268bc146095037d879db31551"
+ },
+ "glossary_sha256": "dfe1b3922cc42b39b018746a771698fe5b4534fde79ab5af7f7a141c292c804f",
+ "glossary_audit": [
+  {
+   "index": 914,
+   "jp": "地上",
+   "en": "Ground",
+   "full_entry_sha256": "d474d92b0f88af5dc201145d2e519bddd36be1b0e38ff8f0cd6046ab2254479b",
+   "entry": {
+    "jp": "地上",
+    "en": "Ground",
+    "kind": "battle-attribute",
+    "status": "provisional-project-form",
+    "sources": [
+     "local:04949_10472:6"
+    ],
+    "notes": "Capitalized location-attribute label. Generic ground-level physical descriptions may remain lowercase; not every ground-level unit is asserted to have this exact attribute. Full target source reviewed by parent and independent source preparer; no translation/insertion/native English approval is implied."
+   }
+  },
+  {
+   "index": 915,
+   "jp": "対空",
+   "en": "Anti-Air",
+   "full_entry_sha256": "e34b0ff2ae143d66991f7210694d0f69a79b59e5913c83da06952df96493f135",
+   "entry": {
+    "jp": "対空",
+    "en": "Anti-Air",
+    "kind": "battle-attribute",
+    "status": "provisional-project-form",
+    "sources": [
+     "local:04949_10472:6"
+    ],
+    "notes": "Project location-attribute label; target8 defines its advantage over Flying. Do not copy the near variant incomplete cycle. Full target source reviewed by parent and independent source preparer; no translation/insertion/native English approval is implied."
+   }
+  },
+  {
+   "index": 916,
+   "jp": "飛行",
+   "en": "Flying",
+   "full_entry_sha256": "8baaf4b42fc9390cc8a5c3c8dc16828f086ff2f1c138c85df1de9ffa7668f7f7",
+   "entry": {
+    "jp": "飛行",
+    "en": "Flying",
+    "kind": "battle-attribute",
+    "status": "provisional-project-form",
+    "sources": [
+     "local:04949_10472:6"
+    ],
+    "notes": "Project location-attribute label; target8 defines its advantage over Ground. Does not rename the Flying Trooper class. Full target source reviewed by parent and independent source preparer; no translation/insertion/native English approval is implied."
+   }
+  },
+  {
+   "index": 917,
+   "jp": "長距離",
+   "en": "Long Range",
+   "full_entry_sha256": "b342a669effc1bab23c80f77c3593b1b7c25b019cde324308e39d5ad20dcb843",
+   "entry": {
+    "jp": "長距離",
+    "en": "Long Range",
+    "kind": "battle-attribute",
+    "status": "provisional-project-form",
+    "sources": [
+     "local:04949_10472:9"
+    ],
+    "notes": "Project range-attribute label. Suitability for Back is a recommendation, not an absolute placement restriction. Full target source reviewed by parent and independent source preparer; no translation/insertion/native English approval is implied."
+   }
+  },
+  {
+   "index": 918,
+   "jp": "近距離",
+   "en": "Short Range",
+   "full_entry_sha256": "5f19c943c975143183b20a7fff84dc90e05dc1ab81201d223c1b14a33d601c87",
+   "entry": {
+    "jp": "近距離",
+    "en": "Short Range",
+    "kind": "battle-attribute",
+    "status": "provisional-project-form",
+    "sources": [
+     "local:04949_10472:9"
+    ],
+    "notes": "Project range-attribute label. Suitability for Forward is qualified; no numeric attack bonus invented. Full target source reviewed by parent and independent source preparer; no translation/insertion/native English approval is implied."
+   }
+  },
+  {
+   "index": 919,
+   "jp": "貫通",
+   "en": "Piercing",
+   "full_entry_sha256": "25c661b7a398abea8969e2dd62f678940d359eade339451e9597c0bad232fa67",
+   "entry": {
+    "jp": "貫通",
+    "en": "Piercing",
+    "kind": "battle-attribute",
+    "status": "provisional-project-form",
+    "sources": [
+     "local:04949_10472:9"
+    ],
+    "notes": "Source-defined simultaneous Short Range and Long Range attacks. No automatic armor/defense bypass, all-lane or all-target claim. Full target source reviewed by parent and independent source preparer; no translation/insertion/native English approval is implied."
+   }
+  }
+ ],
+ "legend": {
+  "Mental": "Mental Strength (separate from SP)",
+  "S/L/P": [
+   "Short Range",
+   "Long Range",
+   "Piercing"
+  ],
+  "F/A/G": [
+   "Flying",
+   "Anti-Air",
+   "Ground"
+  ],
+  "Cannon_numeric_stat": "Bombardment Power",
+  "Cannon_Null_caption": "Bombardment Nullification; L/M/LM codes remain literal",
+  "Support_numeric_stat": "Support Power",
+  "Repair_numeric_stat": "Repair Power",
+  "Atk/AT": "Attack",
+  "Def/DF": "Defense",
+  "vs Ship": "against the ship target class",
+  "vs Unit": "against the unit target class"
+ },
+ "layout": [
+  {
+   "id": "ELF/rodata:00010010",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Some machine equipment will be deleted."
+   ],
+   "widths": [
+    482
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010030",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Some units will be deleted."
+   ],
+   "widths": [
+    319
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010050",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "The squad will be deleted."
+   ],
+   "widths": [
+    307
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010068",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "The squad above will be changed."
+   ],
+   "widths": [
+    390
+   ]
+  },
+  {
+   "id": "ELF/rodata:000100A8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No squad is registered."
+   ],
+   "widths": [
+    269
+   ]
+  },
+  {
+   "id": "ELF/rodata:000100C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [],
+   "widths": []
+  },
+  {
+   "id": "ELF/rodata:000100D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [],
+   "widths": []
+  },
+  {
+   "id": "ELF/rodata:000100E8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "AT999 EN999 SP999"
+   ],
+   "widths": [
+    218
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010130",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Defend",
+    "DF999 EN999"
+   ],
+   "widths": [
+    81,
+    141
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010150",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "AT999 DF999 EN999 Mental999％ SP999"
+   ],
+   "widths": [
+    444
+   ]
+  },
+  {
+   "id": "ELF/rodata:000101C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [],
+   "widths": []
+  },
+  {
+   "id": "ELF/rodata:000101D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [],
+   "widths": []
+  },
+  {
+   "id": "ELF/rodata:000101F0",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [],
+   "widths": []
+  },
+  {
+   "id": "ELF/rodata:00010210",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Delete"
+   ],
+   "widths": [
+    75
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010220",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Duplicate"
+   ],
+   "widths": [
+    111
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010230",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "New"
+   ],
+   "widths": [
+    47
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010240",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Change"
+   ],
+   "widths": [
+    83
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010250",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Delete a registered squad."
+   ],
+   "widths": [
+    307
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010270",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Duplicate a registered squad."
+   ],
+   "widths": [
+    343
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010290",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Create a new squad."
+   ],
+   "widths": [
+    233
+   ]
+  },
+  {
+   "id": "ELF/rodata:000102A8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Change a registered squad."
+   ],
+   "widths": [
+    315
+   ]
+  },
+  {
+   "id": "ELF/rodata:000102C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Squad Setup"
+   ],
+   "widths": [
+    144
+   ]
+  },
+  {
+   "id": "ELF/rodata:000102D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Manage squad organization."
+   ],
+   "widths": [
+    321
+   ]
+  },
+  {
+   "id": "ELF/rodata:000102F8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Choose the squad to change."
+   ],
+   "widths": [
+    332
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010318",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No squad is registered."
+   ],
+   "widths": [
+    269
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010348",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "...Unregistered..."
+   ],
+   "widths": [
+    199
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010380",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "New Squad"
+   ],
+   "widths": [
+    123
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010390",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Choose a squad name."
+   ],
+   "widths": [
+    253
+   ]
+  },
+  {
+   "id": "ELF/rodata:000103A8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No more squads can be registered."
+   ],
+   "widths": [
+    400
+   ]
+  },
+  {
+   "id": "ELF/rodata:000103C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "New Squad"
+   ],
+   "widths": [
+    123
+   ]
+  },
+  {
+   "id": "ELF/rodata:000103D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Cancel organizing the new squad?"
+   ],
+   "widths": [
+    391
+   ]
+  },
+  {
+   "id": "ELF/rodata:000103F8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Copy Squad"
+   ],
+   "widths": [
+    135
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010408",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Choose the squad to duplicate."
+   ],
+   "widths": [
+    362
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010428",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Choose the destination for the copy."
+   ],
+   "widths": [
+    432
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010440",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "▼",
+    "Duplicate this squad?"
+   ],
+   "widths": [
+    28,
+    252
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010468",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Delete Squad"
+   ],
+   "widths": [
+    151
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010478",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Choose the squad to delete."
+   ],
+   "widths": [
+    326
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010498",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Delete this squad?"
+   ],
+   "widths": [
+    216
+   ]
+  },
+  {
+   "id": "ELF/rodata:000104B8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Travel Assignment"
+   ],
+   "widths": [
+    220
+   ]
+  },
+  {
+   "id": "ELF/rodata:000104C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Squad Name"
+   ],
+   "widths": [
+    137
+   ]
+  },
+  {
+   "id": "ELF/rodata:000104D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Ship"
+   ],
+   "widths": [
+    51
+   ]
+  },
+  {
+   "id": "ELF/rodata:000104E8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Item"
+   ],
+   "widths": [
+    52
+   ]
+  },
+  {
+   "id": "ELF/rodata:000104F8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Unit"
+   ],
+   "widths": [
+    49
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010508",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Select the squad to use for travel between",
+    "continents."
+   ],
+   "widths": [
+    504,
+    134
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010530",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Change the squad name."
+   ],
+   "widths": [
+    279
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010548",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Change the battleship or its captain."
+   ],
+   "widths": [
+    434
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010570",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Add or change onboard items."
+   ],
+   "widths": [
+    346
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010598",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "You can view stats, change pilots,",
+    "and equip unit items."
+   ],
+   "widths": [
+    402,
+    248
+   ]
+  },
+  {
+   "id": "ELF/rodata:000105D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Delete this item?"
+   ],
+   "widths": [
+    201
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010618",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Set this squad for travel."
+   ],
+   "widths": [
+    300
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010638",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Delete"
+   ],
+   "widths": [
+    75
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010648",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Equip"
+   ],
+   "widths": [
+    64
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010658",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Pilot"
+   ],
+   "widths": [
+    57
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010668",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "View Stats"
+   ],
+   "widths": [
+    127
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010678",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Remove it from the squad being organized."
+   ],
+   "widths": [
+    500
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010698",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Equipping a unit with an item",
+    "can improve its stats."
+   ],
+   "widths": [
+    344,
+    260
+   ]
+  },
+  {
+   "id": "ELF/rodata:000106D8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Change the pilot who boards the unit."
+   ],
+   "widths": [
+    444
+   ]
+  },
+  {
+   "id": "ELF/rodata:000106F8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "You can check capabilities such as attack",
+    "and defense for units used in battle."
+   ],
+   "widths": [
+    483,
+    431
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010738",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "It cannot be equipped on this machine."
+   ],
+   "widths": [
+    451
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010758",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Remove this equipment?"
+   ],
+   "widths": [
+    285
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010778",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Select Sort Criterion"
+   ],
+   "widths": [
+    244
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010788",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No battleship is available for selection."
+   ],
+   "widths": [
+    470
+   ]
+  },
+  {
+   "id": "ELF/rodata:000107A8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No captain is available to board."
+   ],
+   "widths": [
+    381
+   ]
+  },
+  {
+   "id": "ELF/rodata:000107C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "[Add Machine]"
+   ],
+   "widths": [
+    159
+   ]
+  },
+  {
+   "id": "ELF/rodata:000107F0",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Add a new unit."
+   ],
+   "widths": [
+    180
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010810",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Add a new unit."
+   ],
+   "widths": [
+    180
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010830",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Unit"
+   ],
+   "widths": [
+    49
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010840",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No units are on board."
+   ],
+   "widths": [
+    258
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010860",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "[Add Equipment]"
+   ],
+   "widths": [
+    191
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010878",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Add a new item."
+   ],
+   "widths": [
+    185
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010898",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Add a new item."
+   ],
+   "widths": [
+    185
+   ]
+  },
+  {
+   "id": "ELF/rodata:000108B8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Item"
+   ],
+   "widths": [
+    52
+   ]
+  },
+  {
+   "id": "ELF/rodata:000108C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No items are loaded."
+   ],
+   "widths": [
+    238
+   ]
+  },
+  {
+   "id": "ELF/rodata:000108E8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "There are no units available to select."
+   ],
+   "widths": [
+    448
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010908",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No pilots are available to board."
+   ],
+   "widths": [
+    381
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010928",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No compatible unit equipment is available."
+   ],
+   "widths": [
+    503
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010948",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "No equipment can be fitted."
+   ],
+   "widths": [
+    326
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010968",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Remove this unit from the squad."
+   ],
+   "widths": [
+    391
+   ]
+  },
+  {
+   "id": "ELF/rodata:000109C8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [],
+   "widths": []
+  },
+  {
+   "id": "ELF/rodata:000109E0",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "ENMax 999 Launch EN999"
+   ],
+   "widths": [
+    278
+   ]
+  },
+  {
+   "id": "ELF/rodata:000109F8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "S99 L99 P99"
+   ],
+   "widths": [
+    132
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010A18",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "L Cannon Null"
+   ],
+   "widths": [
+    157
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010A28",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "M Cannon Null"
+   ],
+   "widths": [
+    162
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010A38",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "LM Cannon Null"
+   ],
+   "widths": [
+    174
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010A48",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Attack AT999 EN999"
+   ],
+   "widths": [
+    230
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010A60",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Defend DF999 EN999"
+   ],
+   "widths": [
+    229
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010A78",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Special AT999 EN999"
+   ],
+   "widths": [
+    235
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010AA0",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "HP 999 EN 999        +EN 99/TURN",
+    "Cannon 999 Support 999 Repair 999％",
+    "Units[Deployed+EN 99 Aboard+HP 99]"
+   ],
+   "widths": [
+    357,
+    433,
+    428
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010B30",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Atk[AT999 EN999] Def[DF999 EN999]"
+   ],
+   "widths": [
+    408
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010BA0",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Attack (99+99) Defense (99+99)",
+    "S/L/P(99,99,99) F/A/G(99,99,99)",
+    "AT+999 DF+999 Mental+99％/TURN"
+   ],
+   "widths": [
+    361,
+    359,
+    395
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010C68",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Atk[AT999 EN999] Def[DF999  EN 999]"
+   ],
+   "widths": [
+    422
+   ]
+  },
+  {
+   "id": "ELF/rodata:00010CA8",
+   "profile": "26px ASCII baseline, numeric width fixtures 99/999; dynamic strings excluded",
+   "expanded_lines": [
+    "Cannon+99 Support+99 Repair+999％",
+    "vs Ship(AT999DF999) vs Unit(AT999DF999)"
+   ],
+   "widths": [
+    428,
+    487
+   ]
+  },
+  {
+   "id": "ELF/sdata:00001470",
+   "profile": "26px baseline",
+   "expanded_lines": [
+    "Change"
+   ],
+   "widths": [
+    83
+   ]
+  },
+  {
+   "id": "ELF/sdata:00001478",
+   "profile": "26px baseline",
+   "expanded_lines": [
+    "Unregistered"
+   ],
+   "widths": [
+    151
+   ]
+  },
+  {
+   "id": "ELF/sdata:00001490",
+   "profile": "26px baseline",
+   "expanded_lines": [
+    "Ship"
+   ],
+   "widths": [
+    51
+   ]
+  }
+ ],
+ "layout_qualifications": [
+  {
+   "id": "ELF/rodata:000100C8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:000100D8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:000100E8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010150",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:000101C8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:000101D8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:000101F0",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010440",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010498",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010758",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:000109C8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010B30",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010C68",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010CA8",
+   "reason": "Dynamic string arguments: no universal maximum-width claim. Numeric-only rows measured."
+  },
+  {
+   "id": "ELF/rodata:00010D18",
+   "reason": "Native caret-coordinate hint; coordinates preserved."
+  }
+ ],
+ "short_title_widths": {
+  "0x2307c8": 144,
+  "0x230880": 123,
+  "0x2308f8": 135
+ },
+ "geometry": [
+  {
+   "site": 1448200,
+   "old": 604635286,
+   "new": 604635296,
+   "reason": "Left header content width150 to160; unchanged x16, paired right header starts x190."
+  },
+  {
+   "site": 1448232,
+   "old": 604504244,
+   "new": 604504254,
+   "reason": "Right header x180 to190, retaining separation from widened left frame."
+  },
+  {
+   "site": 1448240,
+   "old": 604635584,
+   "new": 604635574,
+   "reason": "Right header width448 to438 keeps its right edge unchanged."
+  }
+ ],
+ "header_layout": [
+  {
+   "id": "ELF/rodata:000102C8",
+   "width": 144,
+   "limit": 160
+  },
+  {
+   "id": "ELF/rodata:000102D8",
+   "width": 321,
+   "limit": 434
+  },
+  {
+   "id": "ELF/rodata:000102F8",
+   "width": 332,
+   "limit": 434
+  },
+  {
+   "id": "ELF/rodata:00010380",
+   "width": 123,
+   "limit": 160
+  },
+  {
+   "id": "ELF/rodata:00010390",
+   "width": 253,
+   "limit": 434
+  },
+  {
+   "id": "ELF/rodata:000103C8",
+   "width": 123,
+   "limit": 160
+  },
+  {
+   "id": "ELF/rodata:000103F8",
+   "width": 135,
+   "limit": 160
+  },
+  {
+   "id": "ELF/rodata:00010408",
+   "width": 362,
+   "limit": 434
+  },
+  {
+   "id": "ELF/rodata:00010428",
+   "width": 432,
+   "limit": 434
+  },
+  {
+   "id": "ELF/rodata:00010468",
+   "width": 151,
+   "limit": 160
+  },
+  {
+   "id": "ELF/rodata:00010478",
+   "width": 326,
+   "limit": 434
+  },
+  {
+   "id": "ELF/sdata:00001470",
+   "width": 83,
+   "limit": 160
+  },
+  {
+   "id": "ELF/sdata:00001490",
+   "width": 51,
+   "limit": 160
+  }
+ ],
+ "review_notes": "Final root editorial, agent source recheck and saved-English proof include one compact header and three shared captions. Fixed glossary unchanged after all corrections.",
+ "coverage": {
+  "category_source_objects": 93,
+  "shared_dependencies": 3,
+  "source_objects": 96
+ }
+}

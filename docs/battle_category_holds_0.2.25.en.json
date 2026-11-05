@@ -1,0 +1,289 @@
+{
+ "version": "0.2.25",
+ "table": "00022_10512",
+ "identical_alias": "04971_11849",
+ "count": 56,
+ "scope": "Remaining original-language holds in the complete category inventory; no invented translation substituted.",
+ "rows": [
+  {
+   "id": 349,
+   "source_sha256": "659bf5f39657f3eec454db8226d813448bb09ecb55515285c0a5869c7a5ee59f",
+   "reason": "A bare apology/indebted acknowledgment has no same-row favor or offense. Physical support neighbors do not prove a grateful reply."
+  },
+  {
+   "id": 503,
+   "source_sha256": "5123120f1bedb573e89b178276170dc66aa4ddf4bd67beda3b400c2695ec97ac",
+   "reason": "The protectee-focused reading is natural, but the existing review identifies opposed protector/protectee parses. The source and independent royal barks do not conclusively eliminate the alternate parse; do not silently choose."
+  },
+  {
+   "id": 525,
+   "source_sha256": "a408655ba0e1f7f791541cda38c890242b5dad8016a85feaa795af65707ce1d3",
+   "reason": "The bare social formula does not distinguish an apology from indebted thanks. The preceding independent support offer supplies no proven reply."
+  },
+  {
+   "id": 635,
+   "source_sha256": "207b08191fa29e34f12a99582437c9209a8e670440fc1b52e1ee6cc0ac37e6d5",
+   "reason": "The trial question does not establish whether the speaker is proposing to take a hit or inviting an addressee to do so."
+  },
+  {
+   "id": 643,
+   "source_sha256": "42ce4e01efa6b7b3f18b5a4f3a03d882f6d4e6499300071b69f851458043ec1c",
+   "reason": "The number two is explicit; their identities are not. Do not change it into we two or you two without actor evidence."
+  },
+  {
+   "id": 644,
+   "source_sha256": "7ed05f2320e97931767442e07c7a51ecfc75bba06ac3cdd5b3e8ed7fedeea1a6",
+   "reason": "Interesting and then trying are explicit. The trying participant remains unset, and the preceding question is not a demonstrated reply."
+  },
+  {
+   "id": 760,
+   "source_sha256": "94369c91adc7e9876a6f6f526505c86b939ec65abfbfdf26df944cc3ee0380db",
+   "reason": "The favorable second clause does not itself establish the first clause as gratitude. Preserve the complete two-clause source until the apology/thanks stance is determined."
+  },
+  {
+   "id": 774,
+   "source_sha256": "0753c45e84176f0ab98c5e2a7e74ed70917742d9d76703eefa1f460783fe5f0c",
+   "reason": "The speaker supplies support. The effort phrase may qualify that undertaking or encourage the listener; comma placement and neighbors do not settle its scope."
+  },
+  {
+   "id": 855,
+   "source_sha256": "8fc72eea26a46d8052cc56b916b05feb79b4fb14d105e9b917cc913d1987b9c4",
+   "reason": "The misreading-of-the-times question and inability to win are complete, but self-reflection versus outward judgment remains unsettled."
+  },
+  {
+   "id": 873,
+   "source_sha256": "c3bf6a15fd9ef99fe955a74e41dcda73e800140e76a7e39a7ed789c12ecb8266",
+   "reason": "Joining forces is clear, but unusual source grammar leaves declaration/proposal/advice force unresolved. The adjacent independent alliance bark cannot repair it."
+  },
+  {
+   "id": 880,
+   "source_sha256": "4e14155529e35c851d4d9b0e26c266ace4dc383b8d85c1e11ac10af802fdeb79",
+   "reason": "Remaining on defense is explicit; an own refusal and an outward challenge require materially different English subjects and stances."
+  },
+  {
+   "id": 945,
+   "source_sha256": "41d79e8423f6413ad8bd945b6a8ecaf1a514b6e065da20fdf5f0aa285dbdcad4",
+   "reason": "The stronger-firepower requirement is explicit. Neither the attacker nor the defeated party is grammatically expressed, so do not assert self invulnerability from a static defense category alone."
+  },
+  {
+   "id": 992,
+   "source_sha256": "a79d53e89f5334d1a7c1191e7fb712899621a6f418476fa5b68c0771721b6cc0",
+   "reason": "The inference qualifier must survive. Self escape and an appraisal of another party's escape remain possible; do not erase the experiencer issue by inventing generic luck."
+  },
+  {
+   "id": 1005,
+   "source_sha256": "1691a367ccf7dfde8540f328ef2c1c728a6f01e22f408f61eeffaaee9349b323",
+   "reason": "The emphatic endurance construction can express own resolve or encourage another. A bare imperative would choose the latter without evidence."
+  },
+  {
+   "id": 1043,
+   "source_sha256": "c86116a2ec3ed40fa0018ca2b9fbf52327a2c953c950178f1bdae43b05789511",
+   "reason": "The laugh survives in any eventual rendering; apology versus grateful indebtedness remains unsettled."
+  },
+  {
+   "id": 1060,
+   "source_sha256": "e2bde1c1f0bc38192d113b88beeb50798fb676e811ceba8ccab4df2c1c72a0aa",
+   "reason": "The terse destruction declaration has no explicit tense or patient. Static attack association alone does not establish achieved destruction versus intended takedown."
+  },
+  {
+   "id": 1089,
+   "source_sha256": "1cffe0b4bf3f2a29a5624e68930bfd72968930074fe4df30a5ebb8b2d09d1d45",
+   "reason": "Both strength development and approaching/returning aspect require consideration; do not force a spatial return instruction from an unproved actor."
+  },
+  {
+   "id": 1102,
+   "source_sha256": "d2afbfd81ea9d4409714705a331c037d6ce74b2da56af6edb2cecdc56354822f",
+   "reason": "The short chuckle does not settle apology versus grateful acknowledgment."
+  },
+  {
+   "id": 1132,
+   "source_sha256": "3f3d5fc87ed47e7bfe62b1fbc5a22152c9d702211e421e295a412c6bc41d5f0d",
+   "reason": "The bare social formula has no same-row discriminator between apology and indebted thanks."
+  },
+  {
+   "id": 1163,
+   "source_sha256": "4f82189d52f95187acde6804482298831ea1142ecf3111c12ffa8a1577c0873a",
+   "reason": "A usefulness assessment is clear, but the judged entity could be self, addressee, equipment, or another party. Do not substitute action futility for an entity judgment."
+  },
+  {
+   "id": 1195,
+   "source_sha256": "e35228fd9777140bd54b799ef05aa3083fd1683d5dff49edfcc05985b21bdb84",
+   "reason": "This is a genuine demonstrative clipping. A completed evaluation would add an unexpressed predicate; a literal English noun fragment is not yet a convincing spoken equivalent."
+  },
+  {
+   "id": 1219,
+   "source_sha256": "3291ac8298de216c60e62e17a97d3dde064c50a777a18f1fff599f63cd7357bb",
+   "reason": "The inferred need for support is explicit; the needing party is not. The neighboring independent acceptance does not establish offer direction."
+  },
+  {
+   "id": 1230,
+   "source_sha256": "c592a2ea9fc3730e8f380815d2806018ca564a0ea3828682a1d17a9777c147dd",
+   "reason": "The still/more appraisal leaves own continuance and another party's inadequacy unresolved."
+  },
+  {
+   "id": 1269,
+   "source_sha256": "01ec4f499b514a56673fe1af110236c7c6bf82de4c0d87c19f6f5a34daab36cb",
+   "reason": "Explanatory effort language can express own resolve or urge another participant. The neighboring inclusive encouragement is independent."
+  },
+  {
+   "id": 1305,
+   "source_sha256": "3ef5c072d3f8832a1d8320a9286f2c9e69203fa8c68575af7fa96712398fb15c",
+   "reason": "The source effort construction does not decide self resolve versus another-party encouragement."
+  },
+  {
+   "id": 1310,
+   "source_sha256": "1cc024d6cc789abeab95f38224ce53dd510ecd5b4e2f9b5b28e931df090cdded",
+   "reason": "A prolonged demonstrative clipping remains; its governing predicate and referent are unexpressed. No finite dismissal is securely established."
+  },
+  {
+   "id": 1352,
+   "source_sha256": "42a5f2be5e4ed0a2a6fcc1a106b2144eb599ffd90fd75026ccd4dc53e7c3fcc2",
+   "reason": "The idiom can emphasize seriousness or reject something indignantly. The source window provides no demonstrated speech-act discriminator."
+  },
+  {
+   "id": 1395,
+   "source_sha256": "72a6079627bd2f9dce1476881edcff45faf19d6003c60183437cd2d81d4aa5d0",
+   "reason": "The aged-register acknowledgment does not determine apology versus gratitude. Preserve that register when the stance is resolved."
+  },
+  {
+   "id": 1450,
+   "source_sha256": "294c4926b2ff1daec2bce2e5431aab1aa0a020943046ad027b4382d80db07cb9",
+   "reason": "The short social formula does not settle apology versus indebted gratitude."
+  },
+  {
+   "id": 1457,
+   "source_sha256": "6d4093258954b67663a7980624948f8ff1a12e4ea2e09c1bc44258defb714f58",
+   "reason": "The emphatic still/more cry does not decide self continuance versus outward insufficient degree."
+  },
+  {
+   "id": 1538,
+   "source_sha256": "344d756873f959b7c5de6e7ce836402dc3a3610233c60aeda4fd88a1395e7d00",
+   "reason": "The still/more cry is genuinely short and does not establish an own temporal not-done claim."
+  },
+  {
+   "id": 1604,
+   "source_sha256": "759f0d6c9c5fdd2e4f61a78446d51f97cacc581d2fdda3d7b7d0c4dbbe736c07",
+   "reason": "The explanatory do construction leaves own undertaking versus insistence on another's action unresolved."
+  },
+  {
+   "id": 1605,
+   "source_sha256": "05c20c7b0cbd98c6f7ec13de267edd3379dfd7f314473f76aaff8b6adf9896b8",
+   "reason": "The hostile knowing idiom may disclaim knowledge or dismiss concern. The nearby independent taunts do not decide which meaning to state."
+  },
+  {
+   "id": 1655,
+   "source_sha256": "0c28118a36d4b5681c1d839b0e04025121f10b759c1dddc24781d5ac9bfc12dd",
+   "reason": "Ah plus the social formula remains insufficient to select apology or grateful indebtedness."
+  },
+  {
+   "id": 1661,
+   "source_sha256": "acc8970519feddacd163c24e677065d72d672dbeda2f9c8de13423f336b94637",
+   "reason": "The elongated still/more cry does not prove an own endurance statement merely because it is near damage barks."
+  },
+  {
+   "id": 1892,
+   "source_sha256": "20053b09a7f23ef33e9be45e9e2234094b7ff2adc9347fa744a57cdc01fdc9e1",
+   "reason": "No same-row benefit or fault establishes apology versus gratitude. Do not add an unexpressed trouble or favor."
+  },
+  {
+   "id": 1970,
+   "source_sha256": "3f9305c5567d657ffb13cf7c38640c10fc2eeba660d5f156778e8a8be62678ce",
+   "reason": "Own continuance versus an outward insufficiency appraisal remains unresolved despite the prolonged cry."
+  },
+  {
+   "id": 1985,
+   "source_sha256": "834fb1fc7940d40ee8f466f85adeb975a8d2225cd0dabec593d93c8b58815985",
+   "reason": "The polite done acknowledgment can congratulate or voice a grievance. The neighboring rough grievance belongs to another independent row."
+  },
+  {
+   "id": 1986,
+   "source_sha256": "5eddc534ee4934be0f0cbe992764d62523a8e92afc8ffc30f0e1d2feb9aca296",
+   "reason": "The polite still/more appraisal does not itself establish a first-person temporal completion statement."
+  },
+  {
+   "id": 2166,
+   "source_sha256": "213ae58d31e1102afb639cdca0ac43d53ed0a9a315c9debce0ad7005e628a9fd",
+   "reason": "The prolonged cry permits self continuance or an outward demand for more. Static hit association is not actor proof."
+  },
+  {
+   "id": 2187,
+   "source_sha256": "34e40910f17d50141993aa16ee9e5be78ae16245a066daec50144f7d44c766ac",
+   "reason": "The trailing pause preserves emotional openness; it does not distinguish apology from indebted acknowledgment."
+  },
+  {
+   "id": 2281,
+   "source_sha256": "fe395923707c6fa6a4581a60d44f4c99b69cff78e61d34782a5171d974cdac01",
+   "reason": "The entire2240-2319 source slice was examined. The adjacent hand-offering bark is independent and cannot establish grateful reply direction."
+  },
+  {
+   "id": 2303,
+   "source_sha256": "df0e7c6e9442295161532f985e845adb713a239707f92cbad46bf4e4d3e2ca9b",
+   "reason": "The entire2240-2319 source slice was examined. The chuckle and pause do not resolve apology versus gratitude; adjacent help language is not a proven exchange."
+  },
+  {
+   "id": 2316,
+   "source_sha256": "c428c38d566c651412173c01cd7297282e9df67c5679827e03529ac0fbf216d6",
+   "reason": "The entire2240-2319 source slice was examined. Extreme pain is explicit, but self report versus warning to another and present versus expected pain remain unsettled. No specific self-destruction incident is established."
+  },
+  {
+   "id": 2459,
+   "source_sha256": "77005849df528639f2002bc5c1368f7107f828150053b90996def91330398c4c",
+   "reason": "The demonstrative this leaves the cause unnamed and does not distinguish apology from grateful indebtedness."
+  },
+  {
+   "id": 2489,
+   "source_sha256": "8976766b160053ef472cdac531449cdd337c55147797ce593927b30a65fb6818",
+   "reason": "The full laugh must survive. The social formula still does not settle apology versus gratitude."
+  },
+  {
+   "id": 2491,
+   "source_sha256": "0e63f7ba3512092c51f82d569362e909d4096f32d054c320c25ef5cc62611621",
+   "reason": "The opening exclamation does not resolve apology versus grateful acknowledgment."
+  },
+  {
+   "id": 2708,
+   "source_sha256": "d22077f87a037b1a04fc876449d8725271434430f85631c0b4047ff1be11f370",
+   "reason": "The extended still/more cry does not settle own continuance versus outward insufficient degree."
+  },
+  {
+   "id": 3143,
+   "source_sha256": "2d1668858cafe136567c73801a346dd03ff1dc667b1d279753910ad00b2e69c5",
+   "reason": "The causative-benefactive construction can permit actions or threaten compulsion. Do not invert it into a promise that the speaker will do anything."
+  },
+  {
+   "id": 3409,
+   "source_sha256": "4f0c687b0276cd012f29b6542cacdb037e235d04da7bcf4e65d5235453691b61",
+   "reason": "The bare acknowledgment remains socially ambiguous. Adjacent cooperation/support barks are not established replies."
+  },
+  {
+   "id": 3570,
+   "source_sha256": "28e532ac350c3082c923aa6ac59b9efaafec7baf1c4857fe5c4a27d8e43b448a",
+   "reason": "Both downing and hitting clauses must survive, but refusal/exhortation versus asserted safety remains unsettled."
+  },
+  {
+   "id": 3676,
+   "source_sha256": "ee9003b8c3b586a709ed413f5fd4f4032950df1ee510adbebc558e923801ce0e",
+   "reason": "The three support repetitions and reversed sound echoes are clear. Hiragana leaves five-yen versus connection/encounter wordplay unresolved; do not invent an English rhyme."
+  },
+  {
+   "id": 4058,
+   "source_sha256": "c02e9b7d13e6a086ba3e0f3346adcfefaa1fe17adaf777af4d6c37d29ba8e9b5",
+   "reason": "The emphatic still/more cry does not establish own endurance or an opponent's insufficient skill."
+  },
+  {
+   "id": 4384,
+   "source_sha256": "1854ab672fd2ee615536c03f66b45e6ea70ee9922bf5f3af9eb6c5cdfb7d6441",
+   "reason": "The source has malformed particles. A request for strength is profile-supported, but selecting it would repair the source in one of opposed directions without direct confirmation."
+  },
+  {
+   "id": 5903,
+   "source_sha256": "4b6beb234cf198a3e2278cda14528839b84cde301eddbb23c6671977dde30305",
+   "reason": "The written verb means ceasing/perishing; a homophonic enduring interpretation requires a source correction. The Majesty motive and defense-like neighbors do not independently approve that correction."
+  },
+  {
+   "id": 6432,
+   "source_sha256": "9a64fdc4caff56e1de3e62f20b1811eb1439bb9ba6f9a9290ba27816bc7329a7",
+   "reason": "The first clause commits the speaker to cover. The malformed second clause allows opposed dodge stances after different repairs; do not silently impose a positive directive."
+  }
+ ]
+}

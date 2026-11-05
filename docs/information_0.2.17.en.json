@@ -1,0 +1,1705 @@
+{
+ "rows": [
+  {
+   "id": "ELF/rodata:0000CBD8",
+   "va": 2281688,
+   "source_size": 15,
+   "source_sha256": "53f2b69fa27a2afc93461f3a2f43c260d9e85894258e46ae6ea95196a065de15",
+   "en": "Short Range & Weakening"
+  },
+  {
+   "id": "ELF/rodata:0000CBE8",
+   "va": 2281704,
+   "source_size": 19,
+   "source_sha256": "05859accdcfbdbbe3242d5e5bec7a1cbedec2a74a63559230b59b4a54ae98ee4",
+   "en": "Slower SP, Lower EN, Higher AT"
+  },
+  {
+   "id": "ELF/rodata:0000CC00",
+   "va": 2281728,
+   "source_size": 21,
+   "source_sha256": "9b3ac041e25703651f4a56189afc57261926d997795d5ea99c9b48cdafe4205c",
+   "en": "Worse Speed & Cost"
+  },
+  {
+   "id": "ELF/rodata:0000CC18",
+   "va": 2281752,
+   "source_size": 15,
+   "source_sha256": "0473ce488f968a394c8e41a8b25e53f99c1fb6f5eb9963468a633556294d930d",
+   "en": "Speed Down"
+  },
+  {
+   "id": "ELF/rodata:0000CC28",
+   "va": 2281768,
+   "source_size": 24,
+   "source_sha256": "023bfa77db1c164b9a74d1eb282e9ba7ad150df664fa34a3862832ce2865eb20",
+   "en": "Kikoutei only: immune to battleship\nbombardment"
+  },
+  {
+   "id": "ELF/rodata:0000CC40",
+   "va": 2281792,
+   "source_size": 9,
+   "source_sha256": "58d31af003351e0f2fb8532d4b1872b40333c46300fb65ea599dd9b3475b0739",
+   "en": "Jewel of Life"
+  },
+  {
+   "id": "ELF/rodata:0000CC50",
+   "va": 2281808,
+   "source_size": 30,
+   "source_sha256": "3defcd361393248ae490dad24eef6b9d10faf3c167d384d649fd313b26a6073e",
+   "en": "Kikoutei only: enables Sen Ko Zan"
+  },
+  {
+   "id": "ELF/rodata:0000CC70",
+   "va": 2281840,
+   "source_size": 17,
+   "source_sha256": "8d3d8ce7800b82e4fc8c17be00a25bfb128b03369717fca6fedacf20d813526c",
+   "en": "Loyalty to Arago"
+  },
+  {
+   "id": "ELF/rodata:0000CC88",
+   "va": 2281864,
+   "source_size": 9,
+   "source_sha256": "195ecc8bf9adf973d66776fe15720fb60d1d73361c0a7540ebcd25f6382c9025",
+   "en": "Musoku Naginata"
+  },
+  {
+   "id": "ELF/rodata:0000CC98",
+   "va": 2281880,
+   "source_size": 32,
+   "source_sha256": "16d6810ba2923d61b13b2339390b55ef729754a6a6cfa08649230080fcfa7669",
+   "en": "Altron SP+1 Deployment EN+10\n+Self-Destruct"
+  },
+  {
+   "id": "ELF/rodata:0000CCB8",
+   "va": 2281912,
+   "source_size": 19,
+   "source_sha256": "d3014302755d6d0f216f2229d54be2029e4de664777d7ba8658015d1a195715b",
+   "en": "Self-Destruct Device: Wufei"
+  },
+  {
+   "id": "ELF/rodata:0000CCD0",
+   "va": 2281936,
+   "source_size": 34,
+   "source_sha256": "bf8acb359c8696d037e821a7d4803e43706075c2127c2cd66156773e7b96662d",
+   "en": "Sandrock SP+1 Deployment EN+10\n+Self-Destruct"
+  },
+  {
+   "id": "ELF/rodata:0000CCF8",
+   "va": 2281976,
+   "source_size": 15,
+   "source_sha256": "044887640fbbcab6faf0d28d56a74e8639d4dcd150469d80745e03036d38d466",
+   "en": "Self-Destruct Device: Quatre"
+  },
+  {
+   "id": "ELF/rodata:0000CD08",
+   "va": 2281992,
+   "source_size": 36,
+   "source_sha256": "3e6e8a9b126ad9625295ccdf92c6a0ab849288d3133bc60596114c6ec2eeaca1",
+   "en": "Heavyarms SP+1 Deployment EN+10\n+Self-Destruct"
+  },
+  {
+   "id": "ELF/rodata:0000CD30",
+   "va": 2282032,
+   "source_size": 15,
+   "source_sha256": "f92a86db31032e47e8e4c4ffcb2bb47ab77114f545a5f2b002c76af325137942",
+   "en": "Self-Destruct Device: Trowa"
+  },
+  {
+   "id": "ELF/rodata:0000CD40",
+   "va": 2282048,
+   "source_size": 36,
+   "source_sha256": "fb4e3d61c8e8369f492146861a72ce1dd29723a70920061fc170ed4f7ed45e49",
+   "en": "Deathscythe Hell SP+1 Deployment EN+10\n+Self-Destruct"
+  },
+  {
+   "id": "ELF/rodata:0000CD68",
+   "va": 2282088,
+   "source_size": 15,
+   "source_sha256": "1509e96e613f504965d18b84dee24a5063a7818aacc7dd6553ebc183cea76e24",
+   "en": "Self-Destruct Device: Duo"
+  },
+  {
+   "id": "ELF/rodata:0000CD78",
+   "va": 2282104,
+   "source_size": 34,
+   "source_sha256": "f3c316891cfb853a07104b92b38b7b0e16cd2300b3ae4445548a3738a8681169",
+   "en": "Wing Zero SP+1 Deployment EN+10\n+Self-Destruct"
+  },
+  {
+   "id": "ELF/rodata:0000CDA0",
+   "va": 2282144,
+   "source_size": 15,
+   "source_sha256": "081bd5ab5beeb7e6699338fe85682c70b256e98ccc5287b41f928f0e70eac4a4",
+   "en": "Self-Destruct Device: Heero"
+  },
+  {
+   "id": "ELF/rodata:0000CDB0",
+   "va": 2282160,
+   "source_size": 19,
+   "source_sha256": "25873d75dd63ade36b613383540e94826445563ec575259fcfdcdf7aac9db73a",
+   "en": "Dark Matter ＬＶ４"
+  },
+  {
+   "id": "ELF/rodata:0000CDC8",
+   "va": 2282184,
+   "source_size": 19,
+   "source_sha256": "0a195517af9c2738027dc4b3bb994b8c8d29effaeb1278d7c1c603727da79f33",
+   "en": "Dark Matter ＬＶ３"
+  },
+  {
+   "id": "ELF/rodata:0000CDE0",
+   "va": 2282208,
+   "source_size": 19,
+   "source_sha256": "63df580c7caaeb2eef34c7be9c10669f63a133ac2a16bfc0763f6a3b4ddb142f",
+   "en": "Dark Matter ＬＶ２"
+  },
+  {
+   "id": "ELF/rodata:0000CDF8",
+   "va": 2282232,
+   "source_size": 19,
+   "source_sha256": "48d6aea9846d426034a0ac00a83c4c7648889aeed532af70dc88cd8533912a4d",
+   "en": "Dark Matter ＬＶ１"
+  },
+  {
+   "id": "ELF/rodata:0000CE10",
+   "va": 2282256,
+   "source_size": 13,
+   "source_sha256": "6ff6610ffc16db48aa2cef3b4588a55a371aa136db18ece3c01a71940e61b3c8",
+   "en": "ＰＭＤ－Zin"
+  },
+  {
+   "id": "ELF/rodata:0000CE20",
+   "va": 2282272,
+   "source_size": 15,
+   "source_sha256": "9da88f434459af96fea8f2e5dcdbdd67f4521862b35fe3400b53db9df4775d42",
+   "en": "ＰＭＤ－Ganan"
+  },
+  {
+   "id": "ELF/rodata:0000CE30",
+   "va": 2282288,
+   "source_size": 13,
+   "source_sha256": "0da86f32a8ccde656b61eea1a71285c79a9054d1ef178d8605fe151d001da1d5",
+   "en": "ＰＭＤ－Gol"
+  },
+  {
+   "id": "ELF/rodata:0000CE40",
+   "va": 2282304,
+   "source_size": 13,
+   "source_sha256": "207c5ad77e996260a02a388c5d50b22df9db0f13620edba927894a42a8434298",
+   "en": "ＰＭＤ－Min"
+  },
+  {
+   "id": "ELF/rodata:0000CE50",
+   "va": 2282320,
+   "source_size": 19,
+   "source_sha256": "b4e15b732b8ba83626779cf0eb4ff64d5c0c3b6418bf25724b315b8ab91f9e7a",
+   "en": "ＰＭＤ－Gon Jem"
+  },
+  {
+   "id": "ELF/rodata:0000CE68",
+   "va": 2282344,
+   "source_size": 15,
+   "source_sha256": "5b1d6b42b1bb7f6a5e24b206dab06f52566c7911f3495e5dbf93abebcfa388f4",
+   "en": "ＰＭＤ－Meio"
+  },
+  {
+   "id": "ELF/rodata:0000CE78",
+   "va": 2282360,
+   "source_size": 15,
+   "source_sha256": "3655a56021f0ac978dcc857360dba797766c8206be23b8fe57728600b57066ae",
+   "en": "ＰＭＤ－Light"
+  },
+  {
+   "id": "ELF/rodata:0000CE88",
+   "va": 2282376,
+   "source_size": 15,
+   "source_sha256": "feb7c806b4b9815d2712bb191b267fa7a00dfe078cbe9971693b07ba9da86ac1",
+   "en": "ＰＭＤ－Tap"
+  },
+  {
+   "id": "ELF/rodata:0000CE98",
+   "va": 2282392,
+   "source_size": 15,
+   "source_sha256": "09b2cd0f4f9c88b3411bc5e077e827cc92407ffa78383572ed1e35eb22b48f66",
+   "en": "ＰＭＤ－Kaine"
+  },
+  {
+   "id": "ELF/rodata:0000CEA8",
+   "va": 2282408,
+   "source_size": 15,
+   "source_sha256": "99763e957bad4180e516963d255c4a50e15538ec0d711cfc8d6a7731f6ebb3c9",
+   "en": "ＰＭＤ－Barts"
+  },
+  {
+   "id": "ELF/rodata:0000CEB8",
+   "va": 2282424,
+   "source_size": 15,
+   "source_sha256": "e6d58019f2c91eb76ee5054ba51c389af1cfadbdae7380d468070819c5065005",
+   "en": "ＰＭＤ－Roddy"
+  },
+  {
+   "id": "ELF/rodata:0000CEC8",
+   "va": 2282440,
+   "source_size": 15,
+   "source_sha256": "5d60a6b4eb184c6f963b78f86b9c33975a1914dd13c460d3b0209471ed113a71",
+   "en": "ＰＭＤ－Radd"
+  },
+  {
+   "id": "ELF/rodata:0000CED8",
+   "va": 2282456,
+   "source_size": 15,
+   "source_sha256": "4aa5923210f4b35980d54cc135e61356304f3ccbe3a10e0c2ef0c7b4c0ac6133",
+   "en": "ＰＭＤ－Barrel"
+  },
+  {
+   "id": "ELF/rodata:0000CEE8",
+   "va": 2282472,
+   "source_size": 17,
+   "source_sha256": "c8543c92e83d77cef2b2f3d1416b4df4dd328081b38986ee0ba461695381fa50",
+   "en": "ＰＭＤ－Tenisun"
+  },
+  {
+   "id": "ELF/rodata:0000CF00",
+   "va": 2282496,
+   "source_size": 17,
+   "source_sha256": "a5be560ca2a89fd563aa919d599aeba5dcae24c1b0b2c3feb2387a0a77eeaa48",
+   "en": "ＰＭＤ－Brink"
+  },
+  {
+   "id": "ELF/rodata:0000CF18",
+   "va": 2282520,
+   "source_size": 15,
+   "source_sha256": "1a56585a1a5e4354f17d3f47f1e470fb4460eea210340083862de936218b8bb1",
+   "en": "ＰＭＤ－Crinn"
+  },
+  {
+   "id": "ELF/rodata:0000CF28",
+   "va": 2282536,
+   "source_size": 17,
+   "source_sha256": "3777ddb3009de7e2935f4b5aa046a7a6bfbb0e794ee1708a91cf982bff35a727",
+   "en": "ＰＭＤ－Timp"
+  },
+  {
+   "id": "ELF/rodata:0000CF40",
+   "va": 2282560,
+   "source_size": 13,
+   "source_sha256": "75329e48a8277185ec77e32d9512653ac932484531b7cec665e77816161b9473",
+   "en": "ＰＭＤ－Rag"
+  },
+  {
+   "id": "ELF/rodata:0000CF50",
+   "va": 2282576,
+   "source_size": 15,
+   "source_sha256": "fafe2da6418a10b97ff7851b99b69edfe570f2875e2e83e27453638306e99114",
+   "en": "ＰＭＤ－Elchi"
+  },
+  {
+   "id": "ELF/rodata:0000CF60",
+   "va": 2282592,
+   "source_size": 15,
+   "source_sha256": "e645da5ad97d252348ef08493398718bfe2a9e7ccf62ff968dffc420173a404a",
+   "en": "ＰＭＤ－Jiron"
+  },
+  {
+   "id": "ELF/rodata:0000CF70",
+   "va": 2282608,
+   "source_size": 19,
+   "source_sha256": "0a891a9585d7cc4858dc352ae30e67366a91e87509084c2fec6fe09d423cef02",
+   "en": "ＰＭＤ－Lady Une"
+  },
+  {
+   "id": "ELF/rodata:0000CF88",
+   "va": 2282632,
+   "source_size": 17,
+   "source_sha256": "b2604b91105552dfa300780d5ef6c52d3672c16203da645bd27528c1ed712a2a",
+   "en": "ＰＭＤ－Treize"
+  },
+  {
+   "id": "ELF/rodata:0000CFA0",
+   "va": 2282656,
+   "source_size": 15,
+   "source_sha256": "813c135da89e12b16a5cef8c61e55a211088ce6b2b3b76682065cdaf2f15d321",
+   "en": "ＰＭＤ－Noin"
+  },
+  {
+   "id": "ELF/rodata:0000CFB0",
+   "va": 2282672,
+   "source_size": 15,
+   "source_sha256": "1f649d6a657871f4591d0d3747a77bfe64a78e7b45159b1915a3746f98eea8bd",
+   "en": "ＰＭＤ－Zechs"
+  },
+  {
+   "id": "ELF/rodata:0000CFC0",
+   "va": 2282688,
+   "source_size": 19,
+   "source_sha256": "139272adb588b4cc1060358e5152b22b4533c463e70930ded76c935086aff171",
+   "en": "ＰＭＤ－Wufei"
+  },
+  {
+   "id": "ELF/rodata:0000CFD8",
+   "va": 2282712,
+   "source_size": 15,
+   "source_sha256": "94c0099876429572e6b555c5369135d06ccbc7d8e0a919e5d38743a969327b5b",
+   "en": "ＰＭＤ－Quatre"
+  },
+  {
+   "id": "ELF/rodata:0000CFE8",
+   "va": 2282728,
+   "source_size": 15,
+   "source_sha256": "c81823f8314391a6041377767853ea69ad88f29410f6201323e0de2f6284a776",
+   "en": "ＰＭＤ－Trowa"
+  },
+  {
+   "id": "ELF/rodata:0000CFF8",
+   "va": 2282744,
+   "source_size": 15,
+   "source_sha256": "2420943d8aa2861cf4f68e78f55ef8269fb7b84ad0ed21f2f7d492dbd8ee8bdd",
+   "en": "ＰＭＤ－Duo"
+  },
+  {
+   "id": "ELF/rodata:0000D008",
+   "va": 2282760,
+   "source_size": 15,
+   "source_sha256": "1e4a7967f1ea819337ab650f2e2c03b675ad2bd73c53ca94de6d9f670c89a190",
+   "en": "ＰＭＤ－Heero"
+  },
+  {
+   "id": "ELF/rodata:0000D018",
+   "va": 2282776,
+   "source_size": 23,
+   "source_sha256": "35bf2e84cbe937e118136636c797277c6439f27d1d31809e25b63cc95e2a236a",
+   "en": "ＰＭＤ－Master Asia"
+  },
+  {
+   "id": "ELF/rodata:0000D030",
+   "va": 2282800,
+   "source_size": 15,
+   "source_sha256": "13afc570348a173044a3f48c625fb8185b15811c4e49a64ef7b739863350c043",
+   "en": "ＰＭＤ－Argo"
+  },
+  {
+   "id": "ELF/rodata:0000D040",
+   "va": 2282816,
+   "source_size": 19,
+   "source_sha256": "1f995377239995276abb361259c7e194d736e46843dfed65be99776e84414d93",
+   "en": "ＰＭＤ－George"
+  },
+  {
+   "id": "ELF/rodata:0000D058",
+   "va": 2282840,
+   "source_size": 21,
+   "source_sha256": "cdd757f171e19530f8f4fdf2187f25da975d3e08da609caa35a9fd08f676c045",
+   "en": "ＰＭＤ－Sai Saici"
+  },
+  {
+   "id": "ELF/rodata:0000D070",
+   "va": 2282864,
+   "source_size": 17,
+   "source_sha256": "eeeafd7868e328ec949619eb79b61800503eabe762d2e72167398105cfbaa087",
+   "en": "ＰＭＤ－Chibodee"
+  },
+  {
+   "id": "ELF/rodata:0000D088",
+   "va": 2282888,
+   "source_size": 15,
+   "source_sha256": "e7b9e9bac5a388a56b21ba7668cabeb8a5fb717adde2725913436de85622a8b8",
+   "en": "ＰＭＤ－Rain"
+  },
+  {
+   "id": "ELF/rodata:0000D098",
+   "va": 2282904,
+   "source_size": 15,
+   "source_sha256": "ccd3df0935a550937d5d39300d45eff623e154b0dfa1e78da9d34fd9cdacabaf",
+   "en": "ＰＭＤ－Domon"
+  },
+  {
+   "id": "ELF/native:0022D5A8",
+   "va": 2282920,
+   "source_size": 11,
+   "source_sha256": "75652e294e7fc770b54528634b0d6de26058906846368b53876746eff31be3e0",
+   "en": "ＰＭＤ－Ｊ"
+  },
+  {
+   "id": "ELF/rodata:0000D0B8",
+   "va": 2282936,
+   "source_size": 15,
+   "source_sha256": "85bdae22dcf3d38620f5e0b4c21e0fe75f6fbf6968cfa7921319e36ab97ea983",
+   "en": "ＰＭＤ－Mamoru"
+  },
+  {
+   "id": "ELF/rodata:0000D0C8",
+   "va": 2282952,
+   "source_size": 13,
+   "source_sha256": "7a82d0b0854ff54e4f59aebe0473b27fa8ae628e958c40401d2a52ecd56017d4",
+   "en": "ＰＭＤ－Guy"
+  },
+  {
+   "id": "ELF/rodata:0000D0D8",
+   "va": 2282968,
+   "source_size": 19,
+   "source_sha256": "68c6962793eeba744f12503310c79fbc58746af9a725e34b49b49048961816e1",
+   "en": "ＰＭＤ－Manjero"
+  },
+  {
+   "id": "ELF/rodata:0000D0F0",
+   "va": 2282992,
+   "source_size": 15,
+   "source_sha256": "bebee04613e99a2cf05f9c384e76773c9e18ad5c2ec0ad380cfc42c8ab4b4f08",
+   "en": "ＰＭＤ－Bohn"
+  },
+  {
+   "id": "ELF/rodata:0000D100",
+   "va": 2283008,
+   "source_size": 15,
+   "source_sha256": "7693c810a10c6c05ae83cf842279ca4368aaf98c256473e2223e75964632e2f5",
+   "en": "ＰＭＤ－Getey"
+  },
+  {
+   "id": "ELF/rodata:0000D110",
+   "va": 2283024,
+   "source_size": 17,
+   "source_sha256": "4426b3fe1446f9e758b803ac7dbadc60e1f54d3c0ab9e9199f6cd6b6ad3a6d5b",
+   "en": "ＰＭＤ－Gosterro"
+  },
+  {
+   "id": "ELF/rodata:0000D128",
+   "va": 2283048,
+   "source_size": 17,
+   "source_sha256": "8db9ab5545fc26339691a1e5d1cce1de9f2c7e3df1ce97beb53d2daa01f28b28",
+   "en": "ＰＭＤ－Le Caine"
+  },
+  {
+   "id": "ELF/rodata:0000D140",
+   "va": 2283072,
+   "source_size": 15,
+   "source_sha256": "770fb1ab814d5e80778f1686101af8ec825479947e833105b0dfba79d7e95f49",
+   "en": "ＰＭＤ－Eiji"
+  },
+  {
+   "id": "ELF/rodata:0000D150",
+   "va": 2283088,
+   "source_size": 17,
+   "source_sha256": "262ba4be258522bb7ff6d69cd1494f5779886c29ea647210a31344460d36b95f",
+   "en": "ＰＭＤ－Lordan"
+  },
+  {
+   "id": "ELF/rodata:0000D168",
+   "va": 2283112,
+   "source_size": 17,
+   "source_sha256": "a9f23350278feb4fee0711da8e402190a164ab6e1825e8cdecbe12f2f7d60ba1",
+   "en": "ＰＭＤ－Ranvel"
+  },
+  {
+   "id": "ELF/rodata:0000D180",
+   "va": 2283136,
+   "source_size": 25,
+   "source_sha256": "211e2b38ddea7e476775ea33b8676722e8cba7e2da842aa2c662e65801b73991",
+   "en": "ＰＭＤ－High Schultatte"
+  },
+  {
+   "id": "ELF/rodata:0000D1A0",
+   "va": 2283168,
+   "source_size": 17,
+   "source_sha256": "f551157a34460508ad39c0e1dcc8c5e3dbb2b338df8c8fa98d30a31b422e0a3e",
+   "en": "ＰＭＤ－Mardoul"
+  },
+  {
+   "id": "ELF/rodata:0000D1B8",
+   "va": 2283192,
+   "source_size": 17,
+   "source_sha256": "84dff9f9bf53b385c3898431f93691ce7deac92b3e14a791141c002ae61b4911",
+   "en": "ＰＭＤ－Jojo"
+  },
+  {
+   "id": "ELF/rodata:0000D1D0",
+   "va": 2283216,
+   "source_size": 17,
+   "source_sha256": "102582205ba51edcf50e7558228eb2c933ae8cbab5a04cbc740c828d697de0e0",
+   "en": "ＰＭＤ－Riemann"
+  },
+  {
+   "id": "ELF/rodata:0000D1E8",
+   "va": 2283240,
+   "source_size": 17,
+   "source_sha256": "1621fc350652bac3e66cdde6147aaabc19055e340416e79f2488a2efbaefe3bb",
+   "en": "ＰＭＤ－Carson"
+  },
+  {
+   "id": "ELF/rodata:0000D200",
+   "va": 2283264,
+   "source_size": 17,
+   "source_sha256": "d2e2cfcfe8eef421d65178c247e0bd11305ab71ceca0df82b13c0ba064cf8154",
+   "en": "ＰＭＤ－Byman"
+  },
+  {
+   "id": "ELF/rodata:0000D218",
+   "va": 2283288,
+   "source_size": 15,
+   "source_sha256": "aec8582d913cdd06d56c4dc538296cbbb55ba6ac34361a25af2a13616600110f",
+   "en": "ＰＭＤ－Murza"
+  },
+  {
+   "id": "ELF/rodata:0000D228",
+   "va": 2283304,
+   "source_size": 19,
+   "source_sha256": "e509456c941c14b7894a56ae9ba1ad12bc151a8201053ca46ec6503da4dce57b",
+   "en": "ＰＭＤ－Gregore"
+  },
+  {
+   "id": "ELF/rodata:0000D240",
+   "va": 2283328,
+   "source_size": 17,
+   "source_sha256": "f0c9b480ae8b4e07cdcd290442946c835fe2d8fff9ccaf978d1db168e72cf29b",
+   "en": "ＰＭＤ－Niva"
+  },
+  {
+   "id": "ELF/rodata:0000D258",
+   "va": 2283352,
+   "source_size": 19,
+   "source_sha256": "9d76763c892d1d7022cdd0e54145d89ddf0cf1d43cc87a8628071cdf1a59cce4",
+   "en": "ＰＭＤ－Epsilon"
+  },
+  {
+   "id": "ELF/rodata:0000D270",
+   "va": 2283376,
+   "source_size": 17,
+   "source_sha256": "b4dc8761febbb6860dfea4962e41608abc70d5abc99959b190cbfea7d37c7fdb",
+   "en": "ＰＭＤ－Shako"
+  },
+  {
+   "id": "ELF/rodata:0000D288",
+   "va": 2283400,
+   "source_size": 17,
+   "source_sha256": "e0e4048929c5842d31613dff7703c396bcafd19f455e2236dda74b146bd1a384",
+   "en": "ＰＭＤ－Fyana"
+  },
+  {
+   "id": "ELF/rodata:0000D2A0",
+   "va": 2283424,
+   "source_size": 15,
+   "source_sha256": "bbefa6dde39d87f51568ff2822746a5490d1fe61044a3f9906956693d5a114c5",
+   "en": "ＰＭＤ－Chirico"
+  },
+  {
+   "id": "ELF/rodata:0000D2B0",
+   "va": 2283440,
+   "source_size": 17,
+   "source_sha256": "3848532226c38e8040df63970fa182b24da6066fdde6bfd5e182d24470fa2603",
+   "en": "ＰＭＤ－Haman"
+  },
+  {
+   "id": "ELF/rodata:0000D2C8",
+   "va": 2283464,
+   "source_size": 17,
+   "source_sha256": "151184f0879e28a4fc7d8a337bdc0d0deeec8c05bc1b319be34589b7affe651d",
+   "en": "ＰＭＤ－Scirocco"
+  },
+  {
+   "id": "ELF/rodata:0000D2E0",
+   "va": 2283488,
+   "source_size": 17,
+   "source_sha256": "94d6121c7d7733d29f5638420d3312af05d43443f114d761b1f8fc6f7d168f61",
+   "en": "ＰＭＤ－Rosamia"
+  },
+  {
+   "id": "ELF/rodata:0000D2F8",
+   "va": 2283512,
+   "source_size": 15,
+   "source_sha256": "3cf40a228aaa4edf60ac386e6399590eb46d19f80745035c2bf8346063d1daac",
+   "en": "ＰＭＤ－Four"
+  },
+  {
+   "id": "ELF/rodata:0000D308",
+   "va": 2283528,
+   "source_size": 15,
+   "source_sha256": "9da7045dd61a112bb470fbe7495160df2b578c8b600a06b909f30974718c94f3",
+   "en": "ＰＭＤ－Yazan"
+  },
+  {
+   "id": "ELF/rodata:0000D318",
+   "va": 2283544,
+   "source_size": 17,
+   "source_sha256": "95682063e0f496760e892556318842dba053b1134da41502ba1033a00f002ffe",
+   "en": "ＰＭＤ－Jerid"
+  },
+  {
+   "id": "ELF/rodata:0000D330",
+   "va": 2283568,
+   "source_size": 15,
+   "source_sha256": "4405fa1787968a52ce60719dc6e48fa0af26b2b2e2c7aafab0bf6986a2235e3b",
+   "en": "ＰＭＤ－Amuro"
+  },
+  {
+   "id": "ELF/rodata:0000D340",
+   "va": 2283584,
+   "source_size": 15,
+   "source_sha256": "5aa477a6bff8ead218822ea86b7e4856a5485b733c59637b517d82353d45b784",
+   "en": "ＰＭＤ－Char"
+  },
+  {
+   "id": "ELF/rodata:0000D350",
+   "va": 2283600,
+   "source_size": 17,
+   "source_sha256": "0703c5c895131d1e3bffc3b80c472a37535a353477fa2284f877679284e33d09",
+   "en": "ＰＭＤ－Quattro"
+  },
+  {
+   "id": "ELF/rodata:0000D368",
+   "va": 2283624,
+   "source_size": 17,
+   "source_sha256": "c2d395c241cd3f366b78b134e922cba4464f1e248b5b4fd1c418532a0afde21b",
+   "en": "ＰＭＤ－Kamille"
+  },
+  {
+   "id": "ELF/rodata:0000D380",
+   "va": 2283648,
+   "source_size": 19,
+   "source_sha256": "e103802f5a54edaab428a1f47e38c076b1ddd27a605dae50e5c6c6a830640080",
+   "en": "ＰＭＤ－Amandra"
+  },
+  {
+   "id": "ELF/rodata:0000D398",
+   "va": 2283672,
+   "source_size": 19,
+   "source_sha256": "4bb5dc9b20c8ac49ca440fe364048b35fd559b3e25fc1b223f5b477ac4847699",
+   "en": "ＰＭＤ－McTomin"
+  },
+  {
+   "id": "ELF/rodata:0000D3B0",
+   "va": 2283696,
+   "source_size": 15,
+   "source_sha256": "ff5e703562933cfa5e26d97a071a669b78e359dbdf19983e9c6b99ad63e7b9a8",
+   "en": "ＰＭＤ－Gania"
+  },
+  {
+   "id": "ELF/rodata:0000D3C0",
+   "va": 2283712,
+   "source_size": 13,
+   "source_sha256": "1230b6409e67c62e97d66799623fcf9ab55c9a80ec43d05efadbdaeb1f53c3c2",
+   "en": "ＰＭＤ－Nei"
+  },
+  {
+   "id": "ELF/rodata:0000D3D0",
+   "va": 2283728,
+   "source_size": 17,
+   "source_sha256": "f594d65143678edb2b172d87d9dc3da0180e19a380136e03215371d425fafda2",
+   "en": "ＰＭＤ－Antoon"
+  },
+  {
+   "id": "ELF/rodata:0000D3E8",
+   "va": 2283752,
+   "source_size": 19,
+   "source_sha256": "b71528a2f1b243930cbcc764b4182ab105e638c1a77e0daad0bdb4a9e3fed02b",
+   "en": "ＰＭＤ－Hekeler"
+  },
+  {
+   "id": "ELF/rodata:0000D400",
+   "va": 2283776,
+   "source_size": 19,
+   "source_sha256": "529028c0c937a02a5aef2d4980640ddb784fdcc3b42cd53abe388b561f3dc777",
+   "en": "ＰＭＤ－Gablae"
+  },
+  {
+   "id": "ELF/rodata:0000D418",
+   "va": 2283800,
+   "source_size": 13,
+   "source_sha256": "5b5b23d5604c8846cbc4021c6358ec87d66d325a753edbe4bef3715ae6275b8c",
+   "en": "ＰＭＤ－Daba"
+  },
+  {
+   "id": "ELF/rodata:0000D428",
+   "va": 2283816,
+   "source_size": 17,
+   "source_sha256": "441eff8733892fd9ca3c79deddbe7acb48f4d114192e84c20c71b0095afb4001",
+   "en": "ＰＭＤ－Garalia"
+  },
+  {
+   "id": "ELF/rodata:0000D440",
+   "va": 2283840,
+   "source_size": 15,
+   "source_sha256": "aaf1cdf95e4edac210f0a28c8323398c7f48e73e4a9f23285afb6271a2b86b33",
+   "en": "ＰＭＤ－Black Knight"
+  },
+  {
+   "id": "ELF/rodata:0000D450",
+   "va": 2283856,
+   "source_size": 15,
+   "source_sha256": "a8077e192219b43d147c3d5b0a844cb8ca52e07569fa947e988610b1167a1ee9",
+   "en": "ＰＭＤ－Bern"
+  },
+  {
+   "id": "ELF/rodata:0000D460",
+   "va": 2283872,
+   "source_size": 15,
+   "source_sha256": "f11917e02b2bf457af7d2cc8c94ac60c50d60cb3b86e4af25a2d1db783a9eab2",
+   "en": "ＰＭＤ－Todd"
+  },
+  {
+   "id": "ELF/rodata:0000D470",
+   "va": 2283888,
+   "source_size": 17,
+   "source_sha256": "309b747cdfe8912f6c151242d71265bf9807aafb8ef592dc764abbd68b67feba",
+   "en": "ＰＭＤ－Marvel"
+  },
+  {
+   "id": "ELF/rodata:0000D488",
+   "va": 2283912,
+   "source_size": 15,
+   "source_sha256": "ecbbf4103b2e26f5b9e55f82f40e1ea8ebfed749b005ca23d72fc5177611be68",
+   "en": "ＰＭＤ－Sho"
+  },
+  {
+   "id": "ELF/rodata:0000D498",
+   "va": 2283928,
+   "source_size": 11,
+   "source_sha256": "87d88154c5e42185063f48d75ad0ae6b3ba42fec5ebda55d57cfbfd72bbc6f0a",
+   "en": "【Unused】"
+  },
+  {
+   "id": "ELF/rodata:0000D4A8",
+   "va": 2283944,
+   "source_size": 23,
+   "source_sha256": "1eb8a3edb5ca45183d49bc8e152d0261f8fdcd0e7ce468a482814b65b422602d",
+   "en": "For armored soldiers: ENMAX+10 SP-1"
+  },
+  {
+   "id": "ELF/rodata:0000D4C0",
+   "va": 2283968,
+   "source_size": 9,
+   "source_sha256": "c3d9f91d26fbc0445a86883b013b774e413e9be70b2fca75ea78b4f6e5f40a96",
+   "en": "For armored soldiers"
+  },
+  {
+   "id": "ELF/rodata:0000D4D0",
+   "va": 2283984,
+   "source_size": 15,
+   "source_sha256": "50419d5760664f2424563eaa4ae7486fb6ed3524e110104bd3074f196e8e58d3",
+   "en": "For Guardians"
+  },
+  {
+   "id": "ELF/rodata:0000D4E0",
+   "va": 2284000,
+   "source_size": 19,
+   "source_sha256": "a2e8ee97a111788e91bb0f4d6a083cf9b1665025f3dec8bfacff0308f4b162c4",
+   "en": "Laser Cannon Ｓ"
+  },
+  {
+   "id": "ELF/rodata:0000D4F8",
+   "va": 2284024,
+   "source_size": 28,
+   "source_sha256": "0aca40ba9dcc8dfcffb5ceadcdada9093bacbac4d8100301ba97e618839ae121",
+   "en": "For Mobile Fighters: ENMAX+20"
+  },
+  {
+   "id": "ELF/rodata:0000D518",
+   "va": 2284056,
+   "source_size": 27,
+   "source_sha256": "55b2e6aebc4c89d471b51d807612954a5fe0d6c5690d7e9d167257592bc80487",
+   "en": "Unit Propellant Tank"
+  },
+  {
+   "id": "ELF/rodata:0000D538",
+   "va": 2284088,
+   "source_size": 17,
+   "source_sha256": "2617f3b0b680481a6241fbdaa1777338261f39579fdd795276bff0a6a45a2efd",
+   "en": "Unit Armor"
+  },
+  {
+   "id": "ELF/rodata:0000D550",
+   "va": 2284112,
+   "source_size": 19,
+   "source_sha256": "48e4e9fe11e4507eb8cc630dc38f794aba2c248edac45dd20b714807dd3430e4",
+   "en": "For Mobile Fighters"
+  },
+  {
+   "id": "ELF/rodata:0000D568",
+   "va": 2284136,
+   "source_size": 17,
+   "source_sha256": "f0f754ce67124716875c1c48220387e5a12d53e96d89d2543ccde60b93d31603",
+   "en": "Unit Weapon"
+  },
+  {
+   "id": "ELF/rodata:0000D580",
+   "va": 2284160,
+   "source_size": 19,
+   "source_sha256": "250c116fb95d172fd7f8287c13bc77e9ec566ccded604e076d4742baf2543b2f",
+   "en": "For MA: ENMAX+20 SP-1"
+  },
+  {
+   "id": "ELF/rodata:0000D598",
+   "va": 2284184,
+   "source_size": 23,
+   "source_sha256": "7a352ced6bfc4edd73e7817b1f193fa82acb5684a1ff6f1041a083ae950166aa",
+   "en": "Improved Ultra-Compact Nuclear Fusion Engine"
+  },
+  {
+   "id": "ELF/rodata:0000D5B0",
+   "va": 2284208,
+   "source_size": 19,
+   "source_sha256": "8c3e5300e9c5a9535dedddc658a401c59e6bcb04aab09a6a0aeeba94bee554e6",
+   "en": "Improved Image Sensor"
+  },
+  {
+   "id": "ELF/rodata:0000D5C8",
+   "va": 2284232,
+   "source_size": 19,
+   "source_sha256": "1be89f8dae9a6729376a4c94c4ea6fd2e4765132419fd6d8952753770d1623fd",
+   "en": "Multi-Tube Missile Pod"
+  },
+  {
+   "id": "ELF/rodata:0000D5E0",
+   "va": 2284256,
+   "source_size": 15,
+   "source_sha256": "310f4f0ffb8f6cddd04f7b162266886aed939f156b6d04b231ca5ca9dcd20819",
+   "en": "For RV: Deployment EN-10"
+  },
+  {
+   "id": "ELF/rodata:0000D5F0",
+   "va": 2284272,
+   "source_size": 15,
+   "source_sha256": "2f8b3a5a4052b5aa81105c4cb80859fc3d3105ac1adba0cd0250a24c321097c4",
+   "en": "Auxiliary Fuel Tank"
+  },
+  {
+   "id": "ELF/rodata:0000D600",
+   "va": 2284288,
+   "source_size": 9,
+   "source_sha256": "95f28428571b39bd92c97cbccec0865c95036f00af293f6348615dae2a59c199",
+   "en": "Shield"
+  },
+  {
+   "id": "ELF/rodata:0000D610",
+   "va": 2284304,
+   "source_size": 15,
+   "source_sha256": "acde04d45342414b79ebf4a6a2de5a506fb5f957839dd56e03dafe84e83d5279",
+   "en": "Enhanced Beam Gun"
+  },
+  {
+   "id": "ELF/rodata:0000D620",
+   "va": 2284320,
+   "source_size": 15,
+   "source_sha256": "fb4847e100f3af51d30d0845d7f8bdf364272a08ca52b41073eb36b51a66d48d",
+   "en": "For CA: Deployment EN-10"
+  },
+  {
+   "id": "ELF/rodata:0000D630",
+   "va": 2284336,
+   "source_size": 27,
+   "source_sha256": "a9edc92a900b16c280454a33245d882a743e85ea18267c23801e79722c3b8f4a",
+   "en": "Enhanced Main Generator"
+  },
+  {
+   "id": "ELF/rodata:0000D650",
+   "va": 2284368,
+   "source_size": 14,
+   "source_sha256": "04351dba7b25438fba3f39ab03bd6f7ea4de23df4fd1d17bbbccaa336755848d",
+   "en": "For WM: Deployment EN-5"
+  },
+  {
+   "id": "ELF/rodata:0000D660",
+   "va": 2284384,
+   "source_size": 21,
+   "source_sha256": "c5eca664d2c28e3315d7d8b8a05cd0e0a7d3c63e51f58222b4371895570af45d",
+   "en": "Engine Oil Additive"
+  },
+  {
+   "id": "ELF/rodata:0000D678",
+   "va": 2284408,
+   "source_size": 9,
+   "source_sha256": "4149e42ded3b080a18823845951da7d3062382920b4e3f5910c5462ebea765d8",
+   "en": "High-Octane Fuel"
+  },
+  {
+   "id": "ELF/rodata:0000D688",
+   "va": 2284424,
+   "source_size": 19,
+   "source_sha256": "800971c7aecd7e92fc46c2ac329803309a1d793e5b53ed30076918d23e12db13",
+   "en": "For WM: ENMAX+20 SP-1"
+  },
+  {
+   "id": "ELF/rodata:0000D6A0",
+   "va": 2284448,
+   "source_size": 11,
+   "source_sha256": "b0ec4a6e7dde5a6f52cd9afb34fe710188a7a632bbd3f688603c4b50d6011d49",
+   "en": "Top Gear"
+  },
+  {
+   "id": "ELF/rodata:0000D6B0",
+   "va": 2284464,
+   "source_size": 22,
+   "source_sha256": "85faccd863b7cf3d3a61943df146d9a254da9f07784864fbb2c62448027ccf24",
+   "en": "For SPT MF TS: Deployment EN-10"
+  },
+  {
+   "id": "ELF/rodata:0000D6C8",
+   "va": 2284488,
+   "source_size": 27,
+   "source_sha256": "8bb932a5ab04d89ac88e0598d82f9545b6f85a62ea1a527e049776dbd4702f70",
+   "en": "Enhanced Power Generator"
+  },
+  {
+   "id": "ELF/rodata:0000D6E8",
+   "va": 2284520,
+   "source_size": 12,
+   "source_sha256": "eb136dcce3a3a58ac54c56eea17728d79e831ce53e36736edad3ca5c310493a3",
+   "en": "For SPT MF TS"
+  },
+  {
+   "id": "ELF/rodata:0000D6F8",
+   "va": 2284536,
+   "source_size": 27,
+   "source_sha256": "41018196b7ccadc0b003e3d7124d2336e6c1058452dcb3ba5206815d51ed63e5",
+   "en": "Enhanced Backpack Unit"
+  },
+  {
+   "id": "ELF/rodata:0000D718",
+   "va": 2284568,
+   "source_size": 31,
+   "source_sha256": "db50d65e10e24e10cae1f25567c881fd3c53298836e9d4612eb8f1cebe1b88a7",
+   "en": "For AT: SP+1, immune to battleship\nbombardment (beam)"
+  },
+  {
+   "id": "ELF/rodata:0000D738",
+   "va": 2284600,
+   "source_size": 21,
+   "source_sha256": "4d3b4cd31c6b3eab47fde3207ab33ac49672740eb311defd3453db420a5d3116",
+   "en": "Anti-Laser Layered Coating"
+  },
+  {
+   "id": "ELF/rodata:0000D750",
+   "va": 2284624,
+   "source_size": 11,
+   "source_sha256": "1323b1c2903851d43d4930d061619e73278753005f5dee5573d55c0aa8076d3f",
+   "en": "Caterpillar Tracks"
+  },
+  {
+   "id": "ELF/rodata:0000D760",
+   "va": 2284640,
+   "source_size": 19,
+   "source_sha256": "8d2d5e4226cc279d0b62a9a9cf2c9124458b600e9b90c6ff641d838a296e2fb6",
+   "en": "Mission Disk"
+  },
+  {
+   "id": "ELF/rodata:0000D778",
+   "va": 2284664,
+   "source_size": 20,
+   "source_sha256": "676e4784f8c5373a9cf952af5837e91e1dc082c7af9086dcd778594f764e1fae",
+   "en": "For Mobile Suits: SP-1"
+  },
+  {
+   "id": "ELF/rodata:0000D790",
+   "va": 2284688,
+   "source_size": 23,
+   "source_sha256": "50c8ca273a0f23d867736072a77145972a91a842d343aefb6245667cecc0b581",
+   "en": "Enhanced Field Motor"
+  },
+  {
+   "id": "ELF/rodata:0000D7A8",
+   "va": 2284712,
+   "source_size": 17,
+   "source_sha256": "775df17a4d96f0aac27bf55b4ed104d8ee3db7a35fd3470f60378560e70845a4",
+   "en": "Hybrid Armor"
+  },
+  {
+   "id": "ELF/rodata:0000D7C0",
+   "va": 2284736,
+   "source_size": 15,
+   "source_sha256": "d2f8892453c902ae1c34c910aaf10642baa0a342476c51db26fdf1a96b292cd3",
+   "en": "For Mobile Suits"
+  },
+  {
+   "id": "ELF/rodata:0000D7D0",
+   "va": 2284752,
+   "source_size": 23,
+   "source_sha256": "0d2bdcbf56f2bae3f08ee3412738bbabecbc5e3ccdfa3244dc00f35e150607f9",
+   "en": "High-Capacity Energy ＣＡＰ"
+  },
+  {
+   "id": "ELF/rodata:0000D7E8",
+   "va": 2284776,
+   "source_size": 35,
+   "source_sha256": "a57e07cc8b64a959f240abc1ff85dbf6463cbb43614406a5bf828aa7f664912b",
+   "en": "For HM: Deployment EN-5, immune to\nbattleship bombardment (beam)"
+  },
+  {
+   "id": "ELF/rodata:0000D810",
+   "va": 2284816,
+   "source_size": 13,
+   "source_sha256": "5cdb46b0405c882a57ad439777e65f8d4e0843d9f6bd3d53834be8dca94dbc00",
+   "en": "High-Conversion ＴＭＣ"
+  },
+  {
+   "id": "ELF/rodata:0000D820",
+   "va": 2284832,
+   "source_size": 11,
+   "source_sha256": "ec506e319fceb4dedf9ae6d2662e20fe141c95a1a2f764a8f7ae84c8b3bf0598",
+   "en": "Binder"
+  },
+  {
+   "id": "ELF/rodata:0000D830",
+   "va": 2284848,
+   "source_size": 9,
+   "source_sha256": "4ca77340f0a45e276b823ed1d1287943c34366e1579d3faa18d2481db0b031dc",
+   "en": "Saber"
+  },
+  {
+   "id": "ELF/rodata:0000D840",
+   "va": 2284864,
+   "source_size": 33,
+   "source_sha256": "f7af416bb034c455418a9f43d12a29e0cc10614f7b98390a0b2a8ea42a25685d",
+   "en": "For AB: Deployment EN+5, immune to\nbattleship bombardment (solid\nprojectiles)"
+  },
+  {
+   "id": "ELF/rodata:0000D868",
+   "va": 2284904,
+   "source_size": 21,
+   "source_sha256": "97e301ded7551f86c719a8f5905a4938e4fadc16227aaaf2bade46e3720c26fd",
+   "en": "Hyper Aura Amplifier"
+  },
+  {
+   "id": "ELF/rodata:0000D880",
+   "va": 2284928,
+   "source_size": 13,
+   "source_sha256": "46cf7e32c9eed1d682c5c23aef00c07cccfc1cdb22af78ca2ec227f83244e939",
+   "en": "For AB: HPMAX+5"
+  },
+  {
+   "id": "ELF/rodata:0000D890",
+   "va": 2284944,
+   "source_size": 13,
+   "source_sha256": "81f1bb512a57465e374ff76c99a566d4b429494189be42b00ac2884ec5b0fbe3",
+   "en": "Hyper Carapace"
+  },
+  {
+   "id": "ELF/rodata:0000D8A0",
+   "va": 2284960,
+   "source_size": 21,
+   "source_sha256": "9f559cac68e493072d7a364b81c4b5ed7578b6e8b84e5f7fcfb3850b85e0f675",
+   "en": "Hyper Aura Marus"
+  },
+  {
+   "id": "ELF/rodata:0000D8B8",
+   "va": 2284984,
+   "source_size": 14,
+   "source_sha256": "61746610a057c2e628758d6cc667363aa4f8f27e9a0a426859fb113ac87ca6aa",
+   "en": "For GT: ENMAX+20"
+  },
+  {
+   "id": "ELF/rodata:0000D8C8",
+   "va": 2285000,
+   "source_size": 19,
+   "source_sha256": "c6c867dcf590a805b594ce75a9c23c1b414f21232e4cb24159adc826e10e64de",
+   "en": "Enhanced Generator"
+  },
+  {
+   "id": "ELF/rodata:0000D8E0",
+   "va": 2285024,
+   "source_size": 9,
+   "source_sha256": "473857ffcbbd4e8564ea75cfff4a7c858dc7f09d79e8378915a3027b038f61a4",
+   "en": "Enhanced Armor"
+  },
+  {
+   "id": "ELF/rodata:0000D8F0",
+   "va": 2285040,
+   "source_size": 33,
+   "source_sha256": "2d05b60dd95e7c69f9458da326be9c9f32b33af2cc1919511eb1b7d7e8251cae",
+   "en": "For FT: Deployment EN-5, immune to\nbattleship bombardment (solid\nprojectiles)"
+  },
+  {
+   "id": "ELF/rodata:0000D918",
+   "va": 2285080,
+   "source_size": 21,
+   "source_sha256": "846da9a48eb2ca0ef714310908a9b1bdf633c2923532bf092124b3b8783e0094",
+   "en": "Custom ＣＬ System"
+  },
+  {
+   "id": "ELF/rodata:0000D930",
+   "va": 2285104,
+   "source_size": 13,
+   "source_sha256": "74690eb206c1bde385d259a1e7774fd9bcf3ba3b4c54859da5650b84dcb1f913",
+   "en": "ＣＬ Armor"
+  },
+  {
+   "id": "ELF/rodata:0000D940",
+   "va": 2285120,
+   "source_size": 13,
+   "source_sha256": "20b48d493fc45fb81cafbcc479266705e8736323ac72aaf2ac7b439ee35f70af",
+   "en": "ＣＬ Rifle"
+  },
+  {
+   "id": "ELF/rodata:0000FC60",
+   "va": 2294112,
+   "source_size": 15,
+   "source_sha256": "c896483e8a009cb68450238debf2c40d097066c68cd56d025cffc1e44dfb3a13",
+   "en": "ＳＰＴ parts"
+  },
+  {
+   "id": "ELF/rodata:0000FC70",
+   "va": 2294128,
+   "source_size": 13,
+   "source_sha256": "12981cedb1aefc89b77a15713688f3c95acc59d17dacda6f03ea6a45d676d075",
+   "en": "ＳＰＴ Parts"
+  },
+  {
+   "id": "ELF/rodata:0000FC80",
+   "va": 2294144,
+   "source_size": 17,
+   "source_sha256": "e49ddff02d6adb1e23a2b704df12d21ad831f6bcd6551c5258b2a14229cb30b2",
+   "en": "Class-Ａ ＨＭ parts"
+  },
+  {
+   "id": "ELF/rodata:0000FC98",
+   "va": 2294168,
+   "source_size": 17,
+   "source_sha256": "d3fb9afc4eeca445311b8cf0dc5b5322fd93953f2e173ee37a34692bb8377c65",
+   "en": "ＨＭ Parts ＬｖＡ"
+  },
+  {
+   "id": "ELF/rodata:0000FCB0",
+   "va": 2294192,
+   "source_size": 21,
+   "source_sha256": "15295484d6c57410ad65a865853bd487b99c3e26423877334a14fbf3aba8f8ec",
+   "en": "Parts from a rare armored soldier"
+  },
+  {
+   "id": "ELF/rodata:0000FCC8",
+   "va": 2294216,
+   "source_size": 19,
+   "source_sha256": "304cd9e7bb20bd3e34a3c158e25dfb7e0f1fb508ca9046dacaefcace93c47493",
+   "en": "Armored Soldier Parts ＬｖＡ"
+  },
+  {
+   "id": "ELF/rodata:0000FCE0",
+   "va": 2294240,
+   "source_size": 23,
+   "source_sha256": "c074350cee6ecd39d7c9a4153e26d9f83a4eb17c6d542574322b4c48fd962d50",
+   "en": "Aura Battler parts"
+  },
+  {
+   "id": "ELF/rodata:0000FCF8",
+   "va": 2294264,
+   "source_size": 17,
+   "source_sha256": "0494c0680c617863a0a16d52d401d8c1d262427440016ec00d592de69bfb5fb7",
+   "en": "ＡＢ Parts ＬｖＡ"
+  },
+  {
+   "id": "ELF/rodata:0000FD10",
+   "va": 2294288,
+   "source_size": 48,
+   "source_sha256": "da0ee063c159724b96ce88e2c7c90f2b95d6e56deeed5d4cc3ab11a4e92c2ed6",
+   "en": "Parts from a customized\nArmored Trooper"
+  },
+  {
+   "id": "ELF/rodata:0000FD40",
+   "va": 2294336,
+   "source_size": 17,
+   "source_sha256": "dc7ba29c7b728d1519d621ce34eb5cc63f21c389c60dfd40063174a216c65c4b",
+   "en": "ＡＴ Parts ＬｖＡ"
+  },
+  {
+   "id": "ELF/rodata:0000FD58",
+   "va": 2294360,
+   "source_size": 21,
+   "source_sha256": "90c09a596c7ac0255e8ec5cbe50b3c02550ee13f3349bf64a272beecc437e638",
+   "en": "Mobile Suit parts"
+  },
+  {
+   "id": "ELF/rodata:0000FD70",
+   "va": 2294384,
+   "source_size": 17,
+   "source_sha256": "c9b826b4a348dd3d6d495ab80785cc0d0c1e942ffa362baa834ea8fe6e5a734e",
+   "en": "ＭＳ Parts ＬｖＡ"
+  },
+  {
+   "id": "ELF/rodata:0000FD88",
+   "va": 2294408,
+   "source_size": 31,
+   "source_sha256": "799ed4ca218cc68f55f0ee57433704b130aabf2e3e6f804aa073fee597241761",
+   "en": "Parts from a customized ＭＴ"
+  },
+  {
+   "id": "ELF/rodata:0000FDA8",
+   "va": 2294440,
+   "source_size": 17,
+   "source_sha256": "5dc67c255cb0c06548b6f130fc879b56a51a8aef8ae7ac7c7b697f2aaac07d0d",
+   "en": "ＭＴ Parts ＬｖＡ"
+  },
+  {
+   "id": "ELF/rodata:0000FDC0",
+   "va": 2294464,
+   "source_size": 13,
+   "source_sha256": "6e5717eea6fafc0b8403f46204c98fca7d819e631a72b181510052ffefb9b56c",
+   "en": "Unit parts"
+  },
+  {
+   "id": "ELF/rodata:0000FDD0",
+   "va": 2294480,
+   "source_size": 21,
+   "source_sha256": "eafeaf6f8dac994951125c845c9f6794c5160f99ddd2b1698652fbe2d9bdcde7",
+   "en": "Multiform wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FDE8",
+   "va": 2294504,
+   "source_size": 11,
+   "source_sha256": "c9d80b8e2c2e8e393a49786df9b6614903978e17f3e4d1279b2235d31ed1d7c0",
+   "en": "ＭＦ Parts"
+  },
+  {
+   "id": "ELF/rodata:0000FDF8",
+   "va": 2294520,
+   "source_size": 15,
+   "source_sha256": "aa735164caf002ea5a4b78168936f2b445334f8bbb01747f60bccb71e1a7ddcc",
+   "en": "Class-Ｂ ＨＭ wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FE08",
+   "va": 2294536,
+   "source_size": 17,
+   "source_sha256": "84127f6f0bee2c0546f80e16d2639007ac8b550e76cf2e6055808ffc02dd03b8",
+   "en": "ＨＭ Parts ＬｖＢ"
+  },
+  {
+   "id": "ELF/rodata:0000FE20",
+   "va": 2294560,
+   "source_size": 13,
+   "source_sha256": "12df096a19788cebf6bf771f6623635405f3248238023647c98a6404efcfbb65",
+   "en": "Armored soldier wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FE30",
+   "va": 2294576,
+   "source_size": 19,
+   "source_sha256": "ff961e295373532027b43f6ca8e033614782dd31d175a9e297d10290922aa032",
+   "en": "Armored Soldier Parts ＬｖＢ"
+  },
+  {
+   "id": "ELF/rodata:0000FE48",
+   "va": 2294600,
+   "source_size": 21,
+   "source_sha256": "f30ca6effc7b8075404720e0794a77444dccd484b1c5a9ccb3455fa6454b3428",
+   "en": "Aura Battler wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FE60",
+   "va": 2294624,
+   "source_size": 17,
+   "source_sha256": "9e9040f9e3fa89a68b4221dbb63a86510ca338e91efc96b11858a6ec632eeae0",
+   "en": "ＡＢ Parts ＬｖＢ"
+  },
+  {
+   "id": "ELF/rodata:0000FE78",
+   "va": 2294648,
+   "source_size": 27,
+   "source_sha256": "841af684de56d75e45d9f33d9d038eab39fef361968de5dd67f0068f1a9f5247",
+   "en": "Armored Trooper wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FE98",
+   "va": 2294680,
+   "source_size": 17,
+   "source_sha256": "fccf993831ecf70745f1ae863d4bf110c6962f1ff62de4a53424bd582d1aaee1",
+   "en": "ＡＴ Parts ＬｖＢ"
+  },
+  {
+   "id": "ELF/rodata:0000FEB0",
+   "va": 2294704,
+   "source_size": 19,
+   "source_sha256": "ae4bb6cee64ce17ca2316ef1347e3a7eea33efc0f2c17384e43bd59d0bf2765c",
+   "en": "Mobile Suit wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FEC8",
+   "va": 2294728,
+   "source_size": 17,
+   "source_sha256": "e0077cedd799aabfa60a28cde54b8463977999e95d52893f93a7feb2f01efb05",
+   "en": "ＭＳ Parts ＬｖＢ"
+  },
+  {
+   "id": "ELF/rodata:0000FEE0",
+   "va": 2294752,
+   "source_size": 11,
+   "source_sha256": "293a737bc6aee33a97c26c3828086c931ce09e20cc01f23049cc556705851b17",
+   "en": "ＭＴ wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FEF0",
+   "va": 2294768,
+   "source_size": 17,
+   "source_sha256": "8babab83aec0a57924dea5d2f5aa6e44149c17c15c7869ba0f1bba5239940132",
+   "en": "ＭＴ Parts ＬｖＢ"
+  },
+  {
+   "id": "ELF/rodata:0000FF08",
+   "va": 2294792,
+   "source_size": 11,
+   "source_sha256": "d6dafd5edaf7b2922867b3a227f8cd1153e9fe68a78c0c172ff45260317420c7",
+   "en": "Unit wreckage"
+  },
+  {
+   "id": "ELF/rodata:0000FF18",
+   "va": 2294808,
+   "source_size": 11,
+   "source_sha256": "23700fc6017f1bc18b5d6b83b6829ca172e46618083d916dd770abd633329cbb",
+   "en": "Scrap"
+  },
+  {
+   "id": "ELF/rodata:0000FF28",
+   "va": 2294824,
+   "source_size": 40,
+   "source_sha256": "5dbc8f67d97e8a19c05236a02ab272bc671a9e63e9d1a1bd3e0fc911aa740277",
+   "en": "Materials tradable on every continent\nExtremely precious"
+  },
+  {
+   "id": "ELF/rodata:0000FF50",
+   "va": 2294864,
+   "source_size": 15,
+   "source_sha256": "2cbc585440888e69770d22cb4161276ce58a656fdb10fbcb4b2ec858b31075ae",
+   "en": "General-Purpose Materials Ｌｖ４"
+  },
+  {
+   "id": "ELF/rodata:0000FF60",
+   "va": 2294880,
+   "source_size": 36,
+   "source_sha256": "285ca1c2b64ab7b557aee6477d76b8636796d6254d2924088b6f9affaaf25467",
+   "en": "Materials tradable on every continent\nHigh value"
+  },
+  {
+   "id": "ELF/rodata:0000FF88",
+   "va": 2294920,
+   "source_size": 15,
+   "source_sha256": "9d6fc1bf9c302871b9a60ca2d785358603f70823b681bf2322e41a4059768928",
+   "en": "General-Purpose Materials Ｌｖ３"
+  },
+  {
+   "id": "ELF/rodata:0000FF98",
+   "va": 2294936,
+   "source_size": 36,
+   "source_sha256": "69eb893c3b72dc1c4ea1aeb651eb096b27874d4c2fbbc592d219a8d3d9df5593",
+   "en": "Materials tradable on every continent\nCommon materials"
+  },
+  {
+   "id": "ELF/rodata:0000FFC0",
+   "va": 2294976,
+   "source_size": 15,
+   "source_sha256": "b483c6fe363cd883ef72051f42ec1a39f41cf79f44e8e9ee946e925c51104f3f",
+   "en": "General-Purpose Materials Ｌｖ２"
+  },
+  {
+   "id": "ELF/rodata:0000FFD0",
+   "va": 2294992,
+   "source_size": 36,
+   "source_sha256": "fbb2814699ea0d156f4aa66407d929ce18caec002d6a9d1e441e4d32424a5612",
+   "en": "Materials tradable on every continent\nLow value"
+  },
+  {
+   "id": "ELF/rodata:0000FFF8",
+   "va": 2295032,
+   "source_size": 15,
+   "source_sha256": "2330133695165c32e60a69f001582a4f0830987b3dc66e3bff1ccfcd510f75ab",
+   "en": "General-Purpose Materials Ｌｖ１"
+  },
+  {
+   "id": "ELF/native:00238A98",
+   "va": 2329240,
+   "source_size": 5,
+   "source_sha256": "5ea97dc8894fc9f972ad55778840a67428456451ebd172d61df71afe8fcd1024",
+   "en": "SP+1"
+  },
+  {
+   "id": "ELF/sdata:000012A0",
+   "va": 2329248,
+   "source_size": 7,
+   "source_sha256": "315e5549f374ace2829bf143bb3ff214ea87a0ab91bf19c4e1e8f0351ee8e80d",
+   "en": "Gou Retsu Ken"
+  },
+  {
+   "id": "ELF/sdata:000012A8",
+   "va": 2329256,
+   "source_size": 7,
+   "source_sha256": "ac2354eeb78fa53a6dfdd3de8889b7db14500dc43378c860455412a6f0105ca2",
+   "en": "Jaga Ken"
+  },
+  {
+   "id": "ELF/sdata:000012B0",
+   "va": 2329264,
+   "source_size": 7,
+   "source_sha256": "a9ca4147b6133e0e5d0a06b30a68414db95608385ab55c786e61f2ab8674fbbb",
+   "en": "Kokuro Ken"
+  },
+  {
+   "id": "ELF/sdata:000012B8",
+   "va": 2329272,
+   "source_size": 7,
+   "source_sha256": "63b00a1c681126e0736202be3752e43a7a867f64f948bff47ca65b410269a81d",
+   "en": "Jaki Gama"
+  },
+  {
+   "id": "ELF/sdata:000012C0",
+   "va": 2329280,
+   "source_size": 7,
+   "source_sha256": "207e0c221999f2e4ac62002497bb37fa066f24e4e2b18eeec7a26e7888e31060",
+   "en": "Shoha Kyu"
+  },
+  {
+   "id": "ELF/sdata:000012C8",
+   "va": 2329288,
+   "source_size": 7,
+   "source_sha256": "eb31203035f5830e222a9dec114299c970f0468cf06dc7df7c17152d45b64ef7",
+   "en": "Kongo Jo"
+  },
+  {
+   "id": "ELF/sdata:000012D0",
+   "va": 2329296,
+   "source_size": 7,
+   "source_sha256": "98013f059558e7019da6e4a81608b60a42249d713ae1f2119563da13f5e62a86",
+   "en": "Nijo So"
+  },
+  {
+   "id": "ELF/sdata:000012D8",
+   "va": 2329304,
+   "source_size": 7,
+   "source_sha256": "c86484a480333b99262d6a1b350ee9edc038ce9435acc871166f4cda67362695",
+   "en": "Korin Ken"
+  },
+  {
+   "id": "ELF/sdata:000012E0",
+   "va": 2329312,
+   "source_size": 7,
+   "source_sha256": "c2c8e0f9af1daf9593dbc1bf3b765807cfcb5235cd96c57d403be74fd40078f2",
+   "en": "Rekka Ken"
+  },
+  {
+   "id": "ELF/sdata:000012E8",
+   "va": 2329320,
+   "source_size": 7,
+   "source_sha256": "05e13e9857f550f858e574a431c5de13f7a43adebe4c449a565384421daa5e0f",
+   "en": "Swift-Leg Mechanism"
+  },
+  {
+   "id": "ELF/sdata:000012F0",
+   "va": 2329328,
+   "source_size": 7,
+   "source_sha256": "c7d440d46760a335b303be6f71bf92f1aee380952e00ad218a44d66718a960c7",
+   "en": "Heavy Shield"
+  },
+  {
+   "id": "ELF/sdata:000012F8",
+   "va": 2329336,
+   "source_size": 5,
+   "source_sha256": "4c8cc3f5d25cc9ca519f8d9de6adee923d701c97822065782264338a0d8fd43d",
+   "en": "Hard Blade"
+  },
+  {
+   "id": "ELF/sdata:00001300",
+   "va": 2329344,
+   "source_size": 5,
+   "source_sha256": "e4ae448cdce4b761f1fbeeb4739f297f791a313deb359f8bb6699e84c7f92534",
+   "en": "For MA"
+  },
+  {
+   "id": "ELF/sdata:00001308",
+   "va": 2329352,
+   "source_size": 5,
+   "source_sha256": "9407ee54fcdfe00afeb9d545dae1c15f117287b5757fc58f623c6d94970e6346",
+   "en": "For RV"
+  },
+  {
+   "id": "ELF/sdata:00001310",
+   "va": 2329360,
+   "source_size": 5,
+   "source_sha256": "83a311615d3cf30b7773bab8f45f3983324369d90b1b15d34ccb95fe748289c3",
+   "en": "For AT"
+  },
+  {
+   "id": "ELF/sdata:00001318",
+   "va": 2329368,
+   "source_size": 5,
+   "source_sha256": "1f83982b86ee8a6d09f91a42d5f817abef1213fdd67011c857a173c976a1cf37",
+   "en": "For HM"
+  },
+  {
+   "id": "ELF/sdata:00001320",
+   "va": 2329376,
+   "source_size": 5,
+   "source_sha256": "35ace39a2e4a800293a6d8b928fd29e41fb55ee8252fb41d206d72310e4e1414",
+   "en": "For AB"
+  },
+  {
+   "id": "ELF/sdata:00001328",
+   "va": 2329384,
+   "source_size": 5,
+   "source_sha256": "d312037493e4cc404ad9291bfdb5352e104df9f0597b4bb39bc5287afb2bb0e7",
+   "en": "For GT"
+  },
+  {
+   "id": "ELF/sdata:00001330",
+   "va": 2329392,
+   "source_size": 7,
+   "source_sha256": "066771e452853e43b83f83969e99d40ca93e6cf383bce12e6537a947e8c40f46",
+   "en": "Enhanced Rounds"
+  },
+  {
+   "id": "ELF/sdata:00001338",
+   "va": 2329400,
+   "source_size": 6,
+   "source_sha256": "0e7c4052ce92fbefee8731538efd2e60f92aa2019d741e161460a967a8220517",
+   "en": "For FT "
+  },
+  {
+   "id": "ELF/native:00238B40",
+   "va": 2329408,
+   "source_size": 1,
+   "source_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "en": ""
+  },
+  {
+   "id": "ELF/sdata:00001348",
+   "va": 2329416,
+   "source_size": 5,
+   "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1",
+   "en": "None"
+  },
+  {
+   "id": "ELF/sdata:00001438",
+   "va": 2329656,
+   "source_size": 7,
+   "source_sha256": "8d893154d730c3ba01b72a09e66b30ef2e59220812e7d99453aae1ef1048a7c6",
+   "en": "Parts"
+  },
+  {
+   "id": "ELF/native:00238C40",
+   "va": 2329664,
+   "source_size": 1,
+   "source_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "en": ""
+  },
+  {
+   "id": "ELF/sdata:00001448",
+   "va": 2329672,
+   "source_size": 5,
+   "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1",
+   "en": "None"
+  },
+  {
+   "id": "ELF/native:00238C50",
+   "va": 2329680,
+   "source_size": 1,
+   "source_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "en": ""
+  },
+  {
+   "id": "ELF/sdata:00001458",
+   "va": 2329688,
+   "source_size": 5,
+   "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1",
+   "en": "None"
+  }
+ ],
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "format_overrides": [
+  {
+   "original_va": 2295496,
+   "original_bytes_with_NUL_sha256": "5b7e7662ae71c96537130481776baa85189b2d1290f7fdaff38c4bf90d69936f",
+   "current_v016_va": 10179439,
+   "current_v016_en": "Equipment 1:%s",
+   "current_bytes_with_NUL_sha256": "323f32e46403a6ef85dc2e4d480a7b51ebc547b9906f0b14374e402cc6da318c",
+   "proposed_en": "#0Equipment 1:%s#2",
+   "proposed_bytes_with_NUL_sha256": "cab436bab5295d4ec6871c9a6f50fe7d1e7dd1fecf91acc99e428ac38c6f685c",
+   "sprintf_argument_count": 1,
+   "reference_pairs": [
+    {
+     "lui_va": 1453808,
+     "low_va": 1453816,
+     "register": 16,
+     "original_lui_word": "0x3c100023",
+     "original_low_word": "0x261006c8",
+     "current_v016_lui_word": "0x3c10009b",
+     "current_v016_low_word": "0x2610536f"
+    }
+   ],
+   "decision": "Relocate only this complete format and repoint these guarded consuming reference pairs. Keep every printf argument, escaped percent color selector, number and LF unchanged. No global original-VA blanket replacement."
+  },
+  {
+   "original_va": 2295512,
+   "original_bytes_with_NUL_sha256": "503d0c044eee3d5d3affce80f8239801fd25dddc60f9cf27def4bab27fec55c5",
+   "current_v016_va": 10179454,
+   "current_v016_en": "Equipment 1:%s\nEquipment 2:%s",
+   "current_bytes_with_NUL_sha256": "70511e2dee381836ea72686f17fae5f1d18a5b83f174fbdfac095b1d44e50488",
+   "proposed_en": "#0Equipment 1:%s\nEquipment 2:%s#2",
+   "proposed_bytes_with_NUL_sha256": "07b18c07f83aca53843feabf4577365d9e3a5fd140a0208318999d5352899132",
+   "sprintf_argument_count": 2,
+   "reference_pairs": [
+    {
+     "lui_va": 1453860,
+     "low_va": 1453868,
+     "register": 16,
+     "original_lui_word": "0x3c100023",
+     "original_low_word": "0x261006d8",
+     "current_v016_lui_word": "0x3c10009b",
+     "current_v016_low_word": "0x2610537e"
+    }
+   ],
+   "decision": "Relocate only this complete format and repoint these guarded consuming reference pairs. Keep every printf argument, escaped percent color selector, number and LF unchanged. No global original-VA blanket replacement."
+  },
+  {
+   "original_va": 2295536,
+   "original_bytes_with_NUL_sha256": "355cad5f40a93c84e1eefa3789e468fcfd581b0fb74c00dc9cbd8e871884e926",
+   "current_v016_va": 10179484,
+   "current_v016_en": "Equipment 1:%s\nEquipment 2:%s\nEquipment 3:%s",
+   "current_bytes_with_NUL_sha256": "1f99250ebb0732f287081afe75bb1cdba665165aeaeb0563951f18dae544c3fc",
+   "proposed_en": "#0Equipment 1:%s\nEquipment 2:%s\nEquipment 3:%s#2",
+   "proposed_bytes_with_NUL_sha256": "367e982ab33166200ed39d4975f993e785cd9014068f52f853cd651bd3c1cde6",
+   "sprintf_argument_count": 3,
+   "reference_pairs": [
+    {
+     "lui_va": 1453756,
+     "low_va": 1453940,
+     "register": 16,
+     "original_lui_word": "0x3c100023",
+     "original_low_word": "0x261006f0",
+     "current_v016_lui_word": "0x3c10009b",
+     "current_v016_low_word": "0x2610539c"
+    },
+    {
+     "lui_va": 1453772,
+     "low_va": 1453940,
+     "register": 16,
+     "original_lui_word": "0x3c100023",
+     "original_low_word": "0x261006f0",
+     "current_v016_lui_word": "0x3c10009b",
+     "current_v016_low_word": "0x2610539c"
+    }
+   ],
+   "decision": "Relocate only this complete format and repoint these guarded consuming reference pairs. Keep every printf argument, escaped percent color selector, number and LF unchanged. No global original-VA blanket replacement."
+  },
+  {
+   "original_va": 2298216,
+   "original_bytes_with_NUL_sha256": "e6ed9a13f8ada70b0cd6032d3c7ec1d01de9069aa73be9ec247afb7e0b05cf06",
+   "current_v016_va": 10181541,
+   "current_v016_en": "%s\nAtk[%%1AT%%0%3d %%4EN%%0%3d] Def[%%2DF%%0%3d  %%4EN%%0 %3d]\n%s",
+   "current_bytes_with_NUL_sha256": "ed91c82b29274762e7fe5990fedd2bf793b0a1542660f260fd7742f65ae9be38",
+   "proposed_en": "#0%s\nAtk[%%1AT%%0%3d %%4EN%%0%3d] Def[%%2DF%%0%3d  %%4EN%%0 %3d]\n%s#2",
+   "proposed_bytes_with_NUL_sha256": "a79192e15fa98ebb1f1c654e4bce166d7c0d8ee8e6fad2ff97cbd1e2e1843810",
+   "sprintf_argument_count": 6,
+   "reference_pairs": [
+    {
+     "lui_va": 1478772,
+     "low_va": 1478784,
+     "register": 16,
+     "original_lui_word": "0x3c100023",
+     "original_low_word": "0x26101168",
+     "current_v016_lui_word": "0x3c10009b",
+     "current_v016_low_word": "0x26105ba5"
+    }
+   ],
+   "decision": "Relocate only this complete format and repoint these guarded consuming reference pairs. Keep every printf argument, escaped percent color selector, number and LF unchanged. No global original-VA blanket replacement."
+  }
+ ]
+}

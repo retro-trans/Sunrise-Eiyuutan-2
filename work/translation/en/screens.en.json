@@ -1,0 +1,1627 @@
+{
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy_reviews": [
+  "11c054a3d9a7474ef3e1676f04f0fd81ac73a81bafc44f0c12d6884e189d0aec",
+  "107e3f8871565da8db24c30846c2821574852621402259f9c7dba1b8c17a75de"
+ ],
+ "rows": [
+  {
+   "id": "ELF/rodata:00000118",
+   "va": 2229784,
+   "source_sha256": "ac64f48d5cb2954b3b09ab8a4bc1b0f727fa139bc8faefdd2648327b27d8f941",
+   "source_size": 11,
+   "en": "Options",
+   "full_en": "Options",
+   "decision": "Standard Options heading; do not add a specific settings category."
+  },
+  {
+   "id": "ELF/rodata:00000138",
+   "va": 2229816,
+   "source_sha256": "8882a233f0aed1801a69e44442c69fdd8fba3520ad0792ecdcae6f2cfd046aa0",
+   "source_size": 9,
+   "en": "System",
+   "full_en": "System",
+   "decision": "Retain System as the source menu heading."
+  },
+  {
+   "id": "ELF/rodata:00000148",
+   "va": 2229832,
+   "source_sha256": "289a84ee7b08b6780246a900cb6995e9c39b0f5cf5e5ac04d0c91c5a43fbe000",
+   "source_size": 61,
+   "en": "This will quit the game and return to the title screen.\n\u3000\u3000\u3000\u3000 Are you sure?",
+   "full_en": "This will quit the game and return to the title screen.\n\u3000\u3000\u3000\u3000 Are you sure?",
+   "decision": "Retain both quitting the game/returning to title and the confirmation question; source LF and indentation survive."
+  },
+  {
+   "id": "ELF/rodata:00000188",
+   "va": 2229896,
+   "source_sha256": "94e40b2eba2bac0d75e3ef4d8dc2ec1f7b89cc635ade0fe9f5de32e6fd97f940",
+   "source_size": 74,
+   "en": " If you have not saved,\nyour progress will not be saved.\n Are you sure?\n",
+   "full_en": " If you have not saved,\nyour progress will not be saved.\n Are you sure?\n",
+   "decision": "Retain the unsaved-progress condition and repeated confirmation, including the terminal LF."
+  },
+  {
+   "id": "ELF/rodata:00001080",
+   "va": 2233728,
+   "source_sha256": "fe6a9c49714f78ebce6bab342cc6a1faa8c34055fdabce28a62cd7af5d5f1e8b",
+   "source_size": 13,
+   "en": "Claudia",
+   "full_en": "Claudia",
+   "decision": "Use exact fixed place name Claudia; no Claudian adjective or extra state title."
+  },
+  {
+   "id": "ELF/rodata:00001188",
+   "va": 2233992,
+   "source_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "source_size": 15,
+   "en": "Cloud City",
+   "full_en": "Cloud City",
+   "decision": "Use exact fixed Cloud City; no 2000 or other location expansion."
+  },
+  {
+   "id": "ELF/rodata:000011B8",
+   "va": 2234040,
+   "source_sha256": "d8e5c5ecdb5776d60034794e1f9264e7b81496edad3258468d5f1862b1d7a13a",
+   "source_size": 19,
+   "en": "Where do you want to go?",
+   "full_en": "Where do you want to go?",
+   "decision": "Natural complete destination-selection question; no fictional speaker inferred."
+  },
+  {
+   "id": "ELF/rodata:000011D0",
+   "va": 2234064,
+   "source_sha256": "bf14eaf74ab553761614ae63d4fc1b0cd72464cdb798eb3723f75bb439511275",
+   "source_size": 9,
+   "en": "Squad Formation",
+   "full_en": "Squad Formation",
+   "decision": "Squad Formation is conventional menu wording for \u90e8\u968a\u7de8\u6210; retain the existing reviewed label."
+  },
+  {
+   "id": "ELF/rodata:000011E0",
+   "va": 2234080,
+   "source_sha256": "c6439e01702926b687ca5fdb60c7b363291a0cbfd0e220b05f36beb84180b130",
+   "source_size": 9,
+   "en": "Shop",
+   "full_en": "Shop",
+   "decision": "Standard nominal Shop heading."
+  },
+  {
+   "id": "ELF/rodata:000011F0",
+   "va": 2234096,
+   "source_sha256": "f19316b4d00740c1aa9e831d8ae48ec77c3657d96ee10705c656218eb3d67a2e",
+   "source_size": 13,
+   "en": "Level Up",
+   "full_en": "Level Up",
+   "decision": "Retain the full Level Up action/category."
+  },
+  {
+   "id": "ELF/rodata:00001200",
+   "va": 2234112,
+   "source_sha256": "8882a233f0aed1801a69e44442c69fdd8fba3520ad0792ecdcae6f2cfd046aa0",
+   "source_size": 9,
+   "en": "System",
+   "full_en": "System",
+   "decision": "Retain the separate shared System label."
+  },
+  {
+   "id": "ELF/rodata:000017E0",
+   "va": 2235616,
+   "source_sha256": "4f40fbf82ecc9131ae7d8d673e60adcda982b2211ebdea601876d72885b3e543",
+   "source_size": 9,
+   "en": "Episode 1\u3000",
+   "full_en": "Episode 1\u3000",
+   "decision": "Retain numbered Episode prefix and source trailing U+3000; ordinary displayed numeral normalization does not change the count."
+  },
+  {
+   "id": "ELF/rodata:000017F0",
+   "va": 2235632,
+   "source_sha256": "8fdd271d77c3a0cf4bac98a20a9f018a37d59a56a86638f81b7551552b11226a",
+   "source_size": 9,
+   "en": "Episode 2\u3000",
+   "full_en": "Episode 2\u3000",
+   "decision": "Retain numbered Episode prefix and source trailing U+3000; ordinary displayed numeral normalization does not change the count."
+  },
+  {
+   "id": "ELF/rodata:00001800",
+   "va": 2235648,
+   "source_sha256": "6cbd01af2d74bc19d2e4ae0792ee0311b5772b94f2e28c85489320ccae97065c",
+   "source_size": 9,
+   "en": "Episode 3\u3000",
+   "full_en": "Episode 3\u3000",
+   "decision": "Retain numbered Episode prefix and source trailing U+3000; ordinary displayed numeral normalization does not change the count."
+  },
+  {
+   "id": "ELF/rodata:00001810",
+   "va": 2235664,
+   "source_sha256": "3c5813205ef68cffd719abf89dc1c7850977e6db1ecede11a3bc037eaeff163b",
+   "source_size": 9,
+   "en": "Episode 4\u3000",
+   "full_en": "Episode 4\u3000",
+   "decision": "Retain numbered Episode prefix and source trailing U+3000; ordinary displayed numeral normalization does not change the count."
+  },
+  {
+   "id": "ELF/rodata:00001820",
+   "va": 2235680,
+   "source_sha256": "47abb60d8936c4b1a41e1a5e076afd2fd7aa2793e466020ba6282ce50a61341e",
+   "source_size": 9,
+   "en": "Episode 5\u3000",
+   "full_en": "Episode 5\u3000",
+   "decision": "Retain numbered Episode prefix and source trailing U+3000; ordinary displayed numeral normalization does not change the count."
+  },
+  {
+   "id": "ELF/rodata:00001830",
+   "va": 2235696,
+   "source_sha256": "1f64a0dbde3fd79a4034596d0cef2a56a8d96ddaa48750e6d4f2f491c03d2696",
+   "source_size": 9,
+   "en": "Episode 6\u3000",
+   "full_en": "Episode 6\u3000",
+   "decision": "Retain numbered Episode prefix and source trailing U+3000; ordinary displayed numeral normalization does not change the count."
+  },
+  {
+   "id": "ELF/rodata:00001840",
+   "va": 2235712,
+   "source_sha256": "d092bd6fddc7d9159c03abaa187055285b1a641a0dc6069daaa427015daea930",
+   "source_size": 9,
+   "en": "Final Episode\u3000",
+   "full_en": "Final Episode\u3000",
+   "decision": "Retain Final Episode and source trailing U+3000; no extra episode number is inserted."
+  },
+  {
+   "id": "ELF/rodata:00001850",
+   "va": 2235728,
+   "source_sha256": "d3f6dd33924dfed4dd606328fc8a76da2f41b2bc46e7598a7ff5de7baa0be986",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 1\u3000",
+   "full_en": "Heroic Tales: Run 1\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:00001860",
+   "va": 2235744,
+   "source_sha256": "e664849b3e819d6a4cea6c607f6d748956b425cd6710769ce7ba2b32d99b76c2",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 2\u3000",
+   "full_en": "Heroic Tales: Run 2\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:00001870",
+   "va": 2235760,
+   "source_sha256": "72a3b785f5475d442e8e8366474c7c2056df332790c7f4eb3433a11a9bcec9fd",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 3\u3000",
+   "full_en": "Heroic Tales: Run 3\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:00001880",
+   "va": 2235776,
+   "source_sha256": "be392b776885ea23efbdcab456a7a060060746a629e8cfd11a5d0b73871dfc70",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 4\u3000",
+   "full_en": "Heroic Tales: Run 4\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:00001890",
+   "va": 2235792,
+   "source_sha256": "d9e1e94d8205d6dd5522b04866c328cf750d5adc38f24c860723e8fce543f0ff",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 5\u3000",
+   "full_en": "Heroic Tales: Run 5\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:000018A0",
+   "va": 2235808,
+   "source_sha256": "49a43fc16d106c806e7bec7bd60b9435da6ca1e06b68463eb3eebff6955f369a",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 6\u3000",
+   "full_en": "Heroic Tales: Run 6\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:000018B0",
+   "va": 2235824,
+   "source_sha256": "59b44a61ad0125a3d54a2905a3083e63b80254f106aa618526af7f1a8b1018bf",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 7\u3000",
+   "full_en": "Heroic Tales: Run 7\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:000018C0",
+   "va": 2235840,
+   "source_sha256": "6b43575070378dcb95424d5dae600b6784220363247f0b8b59b842173c11f6ab",
+   "source_size": 15,
+   "en": "Heroic Tales: Run 8\u3000",
+   "full_en": "Heroic Tales: Run 8\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:000018D0",
+   "va": 2235856,
+   "source_sha256": "8315579d53fb8e15761828628ac78ef7e860382531ae0c8fe88b4ea228d84211",
+   "source_size": 17,
+   "en": "Heroic Tales: Final Run\u3000",
+   "full_en": "Heroic Tales: Final Run\u3000",
+   "decision": "Retain the fixed Heroic Tales stem and counted Run label, with the source number/final qualifier and trailing U+3000."
+  },
+  {
+   "id": "ELF/rodata:00001938",
+   "va": 2235960,
+   "source_sha256": "e77e80db76c8efb2bc3ff846aa19352dbbe47e1eb139beb89986fba8390d783e",
+   "source_size": 11,
+   "en": "Prologue",
+   "full_en": "Prologue",
+   "decision": "Standard Prologue title."
+  },
+  {
+   "id": "ELF/rodata:00001948",
+   "va": 2235976,
+   "source_sha256": "abf616b9ade81a2f5d099cdc4b35e03d295f09a16b345bb5accc28c09f714dd7",
+   "source_size": 19,
+   "en": "Launch!\u3000Astante",
+   "full_en": "Launch!\u3000Astante",
+   "decision": "Retain the launch call and fixed ship name Astante, exclamation and fullwidth separator."
+  },
+  {
+   "id": "ELF/rodata:00001E70",
+   "va": 2237296,
+   "source_sha256": "11ae61df9cb0889ecdda3fa4dc2ba3433365e0399a1e685f7ba6dc08ca3c7bf3",
+   "source_size": 15,
+   "en": "%s\u3000%s Phase",
+   "full_en": "%s\u3000%s Phase",
+   "decision": "Translate only \u30d5\u30a7\u30fc\u30ba to Phase; keep both %s arguments in order and the U+3000 separator."
+  },
+  {
+   "id": "ELF/rodata:000045C8",
+   "va": 2247368,
+   "source_sha256": "ddf3ab47961363fd9373efa50ff2f5c3a3d721d8b91d55a15d7391ed36da446e",
+   "source_size": 29,
+   "en": "Retrieving system information",
+   "full_en": "Retrieving system information",
+   "decision": "Retain progressive retrieval of system information, not a completed load."
+  },
+  {
+   "id": "ELF/rodata:000045E8",
+   "va": 2247400,
+   "source_sha256": "613a81bb5811b541b85752b1ed02b3ae875e0378a01ba151c277108ef1c862ba",
+   "source_size": 29,
+   "en": "System data will be loaded.",
+   "full_en": "System data will be loaded.",
+   "decision": "Complete passive announcement of loading system data; no invented loading completion."
+  },
+  {
+   "id": "ELF/rodata:00004608",
+   "va": 2247432,
+   "source_sha256": "d523700391c051d7811ec83c11132201c2cbb5c505eae9b710c4abc0b0013d9c",
+   "source_size": 23,
+   "en": "Retrieving information...",
+   "full_en": "Retrieving information...",
+   "decision": "Retain ongoing retrieval and the written ellipsis."
+  },
+  {
+   "id": "ELF/rodata:00004620",
+   "va": 2247456,
+   "source_sha256": "c5964982a23f80cb4cd1a712ed9b68520e1bb15d17102b17593798de17560555",
+   "source_size": 42,
+   "en": "Do you want to cancel\nloading system data?",
+   "full_en": "Do you want to cancel\nloading system data?",
+   "decision": "Retain cancellation of system-data loading as a two-line question."
+  },
+  {
+   "id": "ELF/rodata:00004650",
+   "va": 2247504,
+   "source_sha256": "0357f31e9544bff65e113583627935a5a5be73cab33ac33234bf85135cda1240",
+   "source_size": 29,
+   "en": "System data will be saved.",
+   "full_en": "System data will be saved.",
+   "decision": "Complete passive announcement that system data will be saved."
+  },
+  {
+   "id": "ELF/rodata:00004670",
+   "va": 2247536,
+   "source_sha256": "8caee50b75d5a3a6a10b2f990f48b1b916cf20c54b7e3d05c21ae9b7e67ce035",
+   "source_size": 13,
+   "en": "System Information",
+   "full_en": "System Information",
+   "decision": "Nominal System Information heading; distinct source noun from system data."
+  },
+  {
+   "id": "ELF/rodata:00004680",
+   "va": 2247552,
+   "source_sha256": "648af3fe05a459648a196e2451067f497cf8f54e4ae14162eb6eb533706a83fb",
+   "source_size": 30,
+   "en": "%s\nSystem information will be overwritten.",
+   "full_en": "%s\nSystem information will be overwritten.",
+   "decision": "Retain leading runtime %s, LF and explicit overwrite announcement, not a save-as-new."
+  },
+  {
+   "id": "ELF/rodata:000046A0",
+   "va": 2247584,
+   "source_sha256": "85e2600237b161c80e637e34b9cfabd3b2a00ca91c2a7a9054795b231ba804ee",
+   "source_size": 30,
+   "en": "%s\nSystem information will be saved.",
+   "full_en": "%s\nSystem information will be saved.",
+   "decision": "Retain leading runtime %s, LF and system-information save announcement."
+  },
+  {
+   "id": "ELF/rodata:000046C0",
+   "va": 2247616,
+   "source_sha256": "e2b56873e95ec7458cd36eca8765751fbb49b4c0deaceeb62dae927f7a2fb72e",
+   "source_size": 21,
+   "en": "Saving is complete.",
+   "full_en": "Saving is complete.",
+   "decision": "Source states that saving completed; complete English assertion retained."
+  },
+  {
+   "id": "ELF/rodata:000046D8",
+   "va": 2247640,
+   "source_sha256": "b35d5d76e933da6e50a20ba64d92195a33fcf9590731b840ee0bb582d7399227",
+   "source_size": 21,
+   "en": "Saving failed.",
+   "full_en": "Saving failed.",
+   "decision": "Retain explicit save failure; do not turn it into a load failure or generic warning."
+  },
+  {
+   "id": "ELF/rodata:000046F0",
+   "va": 2247664,
+   "source_sha256": "d316f68a07a0e9e5d4781365635d741f971f74bfb36b7be94fc553e73a067ce5",
+   "source_size": 40,
+   "en": "Do you want to cancel\nsaving system data?",
+   "full_en": "Do you want to cancel\nsaving system data?",
+   "decision": "Retain cancellation of saving system data and the original LF."
+  },
+  {
+   "id": "ELF/rodata:00004718",
+   "va": 2247704,
+   "source_sha256": "3005cc1a18d4e5eee27baf7c1a324e72fb8b85732d43f284a9b38e6909138f3d",
+   "source_size": 34,
+   "en": "Please select a MEMORY CARD slot.",
+   "full_en": "Please select a MEMORY CARD slot.",
+   "decision": "Request selection of a MEMORY CARD slot; retain the literal English device label."
+  },
+  {
+   "id": "ELF/rodata:00004740",
+   "va": 2247744,
+   "source_sha256": "9ea20a83e490500830bf55f2c4fe72e25a777f5eb6ab44f89ce3cd19c392cff5",
+   "source_size": 23,
+   "en": "Do you want to cancel saving?",
+   "full_en": "Do you want to cancel saving?",
+   "decision": "Retain the save-cancellation question."
+  },
+  {
+   "id": "ELF/rodata:00004758",
+   "va": 2247768,
+   "source_sha256": "d6fa453dd6b34c52163854d238b724a2f1ed5989cca4f50052480374b3f4cd03",
+   "source_size": 23,
+   "en": "Do you want to cancel loading?",
+   "full_en": "Do you want to cancel loading?",
+   "decision": "Retain the distinct load-cancellation question."
+  },
+  {
+   "id": "ELF/rodata:00004770",
+   "va": 2247792,
+   "source_sha256": "3c7e7edee9edd474b65e92e7275bf9327381c2cf4647d769729af8bb46f0640e",
+   "source_size": 39,
+   "en": "Last Updated\u3000\u3000%4d/%2d/%2d %02d:%02d:%02d",
+   "full_en": "Last Updated\u3000\u3000%4d/%2d/%2d %02d:%02d:%02d",
+   "decision": "Last Updated is a clear timestamp heading; all six date/time conversions and separators are exact."
+  },
+  {
+   "id": "ELF/rodata:00004798",
+   "va": 2247832,
+   "source_sha256": "9fa1e0bd7dac14bbe6481a3217b3f70f69b5f8cccc3c2d25b08835d4dde82207",
+   "source_size": 13,
+   "en": "Untraveled Area",
+   "full_en": "Untraveled Area",
+   "decision": "Untraveled Area retains the not-yet-navigated status."
+  },
+  {
+   "id": "ELF/rodata:000047A8",
+   "va": 2247848,
+   "source_sha256": "a616a4a0582849ad9ccb4ef515963fbce4cc4483f11fc43c8247bc0d65005a3d",
+   "source_size": 13,
+   "en": "Unsurveyed Area",
+   "full_en": "Unsurveyed Area",
+   "decision": "Unsurveyed Area retains the separate not-yet-investigated status."
+  },
+  {
+   "id": "ELF/rodata:000047C8",
+   "va": 2247880,
+   "source_sha256": "f55ef8d4afcc3d223688cca0f130b956a000604f90c9598837db207c2499c6e6",
+   "source_size": 11,
+   "en": "Not\u3000In\u3000Use",
+   "full_en": "Not\u3000In\u3000Use",
+   "decision": "Retain Not In Use as the nominal unused label and both source spacing divisions."
+  },
+  {
+   "id": "ELF/rodata:000047D8",
+   "va": 2247896,
+   "source_sha256": "7ff73377fa66647b430aadd7905a3841674242e94d1156eb60d5fc95871a4bd8",
+   "source_size": 13,
+   "en": "Load Game",
+   "full_en": "The data will be loaded.",
+   "decision": "Complete passive load announcement; no unspecified person invented."
+  },
+  {
+   "id": "ELF/rodata:000047E8",
+   "va": 2247912,
+   "source_sha256": "302e94c177b03b5cb4268d900c77ab3b27c2f8bf7b31d702e525600366222222",
+   "source_size": 19,
+   "en": "New Save",
+   "full_en": "New save data will be created.",
+   "decision": "Retain new-save creation, distinct from overwriting."
+  },
+  {
+   "id": "ELF/rodata:00004800",
+   "va": 2247936,
+   "source_sha256": "9620fa9f40212d7c7f46b4ad81f3690206e8114623773190e66018fd071d322c",
+   "source_size": 19,
+   "en": "Overwrite Save",
+   "full_en": "The save data will be overwritten.",
+   "decision": "Retain the overwrite-save announcement."
+  },
+  {
+   "id": "ELF/rodata:00004818",
+   "va": 2247960,
+   "source_sha256": "db765bf9b794d869ccdc6267a037f7474891e2d2369addb551d01ce5ca792d78",
+   "source_size": 17,
+   "en": "Please do not remove it.",
+   "full_en": "Please do not remove it.",
+   "decision": "Retain the prohibition/request not to remove it."
+  },
+  {
+   "id": "ELF/data:0001A8F0",
+   "va": 1874160,
+   "source_sha256": "4ef949ec92ccc02fdafa440e6c3d9982dc04674a72b1e4a949d594c1251d74fe",
+   "source_size": 35,
+   "en": "\uff0d\uff0d\uff0d\uff0d\uff0d\uff0d\uff0dUnused\uff0d\uff0d\uff0d\uff0d\uff0d\uff0d\uff0d",
+   "full_en": "\uff0d\uff0d\uff0d\uff0d\uff0d\uff0d\uff0dUnused\uff0d\uff0d\uff0d\uff0d\uff0d\uff0d\uff0d",
+   "decision": "Retain the unused-slot caption and all fourteen literal fullwidth dash glyphs."
+  },
+  {
+   "id": "ELF/data:0001A960",
+   "va": 1874272,
+   "source_sha256": "81f1baa14eb33ee3ad40d469a51ab06f5761927cca0e1360677f14754fd8774d",
+   "source_size": 20,
+   "en": "MEMORY CARD slot 1",
+   "full_en": "MEMORY CARD slot 1",
+   "decision": "Retain MEMORY CARD device name, slot and exact slot number 1."
+  },
+  {
+   "id": "ELF/data:0001A978",
+   "va": 1874296,
+   "source_sha256": "002271961e88defb5d324f45e97113bfedd34804dd4d880180ecf16b71f2f364",
+   "source_size": 20,
+   "en": "MEMORY CARD slot 2",
+   "full_en": "MEMORY CARD slot 2",
+   "decision": "Retain the distinct exact slot number 2."
+  },
+  {
+   "id": "ELF/sdata:00000018",
+   "va": 2324504,
+   "source_sha256": "6bd459214c20e5633e0d04ea5c124f696cd397dc12197c43b0d08fc755bfd672",
+   "source_size": 7,
+   "en": "Save",
+   "full_en": "Save",
+   "decision": "Standard Save menu action."
+  },
+  {
+   "id": "ELF/sdata:00000020",
+   "va": 2324512,
+   "source_sha256": "7a6260c54134a032bdfbe903e0202e4c266fe35b2ef52c9adecb337c4f0182d6",
+   "source_size": 7,
+   "en": "Load",
+   "full_en": "Load",
+   "decision": "Standard Load menu action, distinct from saving."
+  },
+  {
+   "id": "ELF/sdata:00000028",
+   "va": 2324520,
+   "source_sha256": "a1eb935b53b261ea80997978d25fe9aa8c0c35a4969dfea986501df3aa66c22f",
+   "source_size": 5,
+   "en": "Exit",
+   "full_en": "Exit",
+   "decision": "Exit is appropriate for the save/load/system menu termination label; not a tactical End Turn."
+  },
+  {
+   "id": "ELF/sdata:00000100",
+   "va": 2324736,
+   "source_sha256": "7017897ce9b520fe6fbec52fbf8b4c692ae6871232252e47b889f376848d823c",
+   "source_size": 5,
+   "en": "Yes",
+   "full_en": "Yes",
+   "decision": "Affirmative answer Yes."
+  },
+  {
+   "id": "ELF/sdata:00000108",
+   "va": 2324744,
+   "source_sha256": "994caed121f428d33bb71973ea63274c195a077b15e1d3474004dc01ef30b6cd",
+   "source_size": 7,
+   "en": "No",
+   "full_en": "No",
+   "decision": "Negative answer No."
+  },
+  {
+   "id": "ELF/sdata:00000288",
+   "va": 2325128,
+   "source_sha256": "de796df2220ebd5db1da85c803e1acf5ccb114f60583cbe8a33ec1c3446631d4",
+   "source_size": 7,
+   "en": "Deck",
+   "full_en": "Deck",
+   "decision": "Retain Deck as the written ship/menu location label."
+  },
+  {
+   "id": "ELF/sdata:00000290",
+   "va": 2325136,
+   "source_sha256": "8cc511b2f86e7c4a5e89f496cd393ef79dc84b8e9242d8541f3790d5c7bc8634",
+   "source_size": 5,
+   "en": "To Town",
+   "full_en": "To Town",
+   "decision": "To Town preserves the explicit destination direction \u3078."
+  },
+  {
+   "id": "ELF/sdata:00000298",
+   "va": 2325144,
+   "source_sha256": "3cad0f1b58362ed09661969571f6534fada3e7853f51e270a70ee8323433b451",
+   "source_size": 5,
+   "en": "Modify",
+   "full_en": "Modify",
+   "decision": "Modify preserves \u6539\u9020 without promising a particular stat increase."
+  },
+  {
+   "id": "ELF/sdata:000002A0",
+   "va": 2325152,
+   "source_sha256": "cfdaf88f9ed1a498b64c9fdac811ef22a88c56dbb457ae35ed01bc2b97bf723f",
+   "source_size": 5,
+   "en": "Recovery",
+   "full_en": "Recovery",
+   "decision": "Recovery is the complete nominal menu term, with no invented patient or HP-only restriction."
+  },
+  {
+   "id": "ELF/sdata:000002A8",
+   "va": 2325160,
+   "source_sha256": "d6235635f5b779e95d421c46c227b6e0603d1630598880e0b6cc3e7dd42b0cd9",
+   "source_size": 5,
+   "en": "Information",
+   "full_en": "Information",
+   "decision": "Information is the full nominal heading; Info is an optional ordinary UI abbreviation."
+  },
+  {
+   "id": "ELF/sdata:000002B0",
+   "va": 2325168,
+   "source_sha256": "3f5ffd8d10daf7ec347f91e2f7df467fcf955cffac25a5d600ea78e90f7c4a42",
+   "source_size": 5,
+   "en": "Depart",
+   "full_en": "Depart",
+   "decision": "Depart preserves leaving port, not arriving or deploying a battle unit."
+  },
+  {
+   "id": "ELF/sdata:00000438",
+   "va": 2325560,
+   "source_sha256": "bbc9db3dd1e9150e9c81ac31b90e5bdb6919e39ecb038a0f6e689a1756b85281",
+   "source_size": 5,
+   "en": "Attack",
+   "full_en": "Attack",
+   "decision": "Attack is the complete nominal/action label and a natural phase-name component."
+  },
+  {
+   "id": "ELF/sdata:00000448",
+   "va": 2325576,
+   "source_sha256": "6443330dc53ba308305703201cefe72569f47c2fd6bf2d7d4c7ff231cd5695b4",
+   "source_size": 5,
+   "en": "Defense",
+   "full_en": "Defense",
+   "decision": "Defense is the complete nominal/action label and a natural phase-name component."
+  }
+ ],
+ "help_rows": [
+  {
+   "id": 0,
+   "source_sha256": "b297b7bc120845c7f9f1aefdc4d16964c1b8e65f3aec79a8c2d7ff26ef20391d",
+   "source_size": 429,
+   "en": "\n{C:819782960100}:\nHead into the city.\n\nOrganize units for use in battle.\n\nBuy and sell equipment and items.\nOnce allies in the city tell you about a shop,\nyou can visit it until you leave port.\n\nModify units.\n\nLevel up pilots.\n\nRepair the battleship and restore its HP.\n\nView information on allies and machines.\n\nSave or load your game,\nor change system settings.\n\nChoose a city or continent\nto display a guide on the radar.\n\n{C:819782960100}: Leave port.\n\n{x00}"
+  },
+  {
+   "id": 1,
+   "source_sha256": "26a9c2a5bf4797b4b39e1aed1b031598c0bbd1a4cd9240c7499b82683ec135b7",
+   "source_size": 22,
+   "en": "\nResume sailing.\n\n\n\n{x00}"
+  },
+  {
+   "id": 2,
+   "source_sha256": "e5a5a98c76cb0bd1ebcc0d12b42284cb27b1d1f87d8f83ec526162e4d4d32d74",
+   "source_size": 30,
+   "en": "\nSave your progress.\n\n{x00}"
+  },
+  {
+   "id": 3,
+   "source_sha256": "327142cf9645b1740e857bdc34c76e2d36ef973f8e62d0b14278e77cfa3b6d97",
+   "source_size": 30,
+   "en": "\nLoad your saved progress.\n\n{x00}"
+  },
+  {
+   "id": 4,
+   "source_sha256": "7d724b793b00f201b541088609290cd40692b31aa96b248ff3c43416a3a9fd2f",
+   "source_size": 34,
+   "en": "\nChange game settings.\n\n{x00}"
+  },
+  {
+   "id": 5,
+   "source_sha256": "83938d32d5555fd1b0ee8a9ed11b57fff9dfe4d52b60802dddbc34911bbb8069",
+   "source_size": 39,
+   "en": "\nEnd the game and return to the title screen.\n\n\n{x00}"
+  },
+  {
+   "id": 6,
+   "source_sha256": "ebd9f6edd6c3514574c9bd1f92b450b147375c906ca501d55380abc6b817352f",
+   "source_size": 28,
+   "en": "\nYou cannot save right now.\n\n{x00}"
+  },
+  {
+   "id": 7,
+   "source_sha256": "78852f61f4c01cf2ffe80d8ed527126f72936172d28fe2c7d5d50f5fd0536931",
+   "source_size": 28,
+   "en": "\nYou cannot load right now.\n\n{x00}"
+  },
+  {
+   "id": 8,
+   "source_sha256": "7d724b793b00f201b541088609290cd40692b31aa96b248ff3c43416a3a9fd2f",
+   "source_size": 34,
+   "en": "\nChange game settings.\n\n{x00}"
+  },
+  {
+   "id": 9,
+   "source_sha256": "20bc437a68b9da62ce30f73efe690b8fc3d7a44340ff5034035a028e34ffe9ac",
+   "source_size": 32,
+   "en": "\nYou cannot quit right now.\n\n{x00}"
+  },
+  {
+   "id": 10,
+   "source_sha256": "b0abb5cbe8ab91aed078f2db578918162f12f23fe9f34bf0da70763693273775",
+   "source_size": 192,
+   "en": "\nSet the message display speed.\n\nSet the BGM volume.\n\nSet the sound effect volume.\n\nSet the voice volume.\n\nSet the B.E.S volume.\n\nSet the song volume.\n\nSet the movie volume.\n\n{x00}"
+  },
+  {
+   "id": 11,
+   "source_sha256": "cd5f73c91d45039e7e1d410770ee2da3815bd0e478814aade12fe2cecc5814ea",
+   "source_size": 65,
+   "en": "\n{C:81930300}{C:81958296633500000000}We've reached our destination.\n\n{C:81930300}{C:81958296673500000000}We're setting sail.\n\n\n{x00}"
+  },
+  {
+   "id": 12,
+   "source_sha256": "5ad11123dc518607d54253029c0f42847ba559fb0becddd11b179a0dbf12a20b",
+   "source_size": 46,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000}\nhas joined your group.\n\n{x00}"
+  },
+  {
+   "id": 13,
+   "source_sha256": "c2f7a6a8b97c84a2ddc4ece9c5883479e4c0992863cb0c6c1f8c557cd3e304d9",
+   "source_size": 50,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000}\nhas left your group.\n\n\n\n{x00}"
+  },
+  {
+   "id": 14,
+   "source_sha256": "f98baeea488c82497713dc67573ce5cb2bb4c374db5990ee4890e95b5df74d5a",
+   "source_size": 44,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000}\nwas acquired.\n\n{x00}"
+  },
+  {
+   "id": 15,
+   "source_sha256": "e6303c08a69f9c7fcf5ecb55d746459ed7cbcd882e8bf7bab22446412f1f6604",
+   "source_size": 69,
+   "en": "\n\n{C:81930000}{C:819782830400}{C:819782960100}{C:819782830000} has been removed and\ncan no longer be used in unit formation.\n\n\n{x00}"
+  },
+  {
+   "id": 16,
+   "source_sha256": "b0d41282d988252f7903e4454831a1aa8ad6cb74182ef8949c11b01c07fe8327",
+   "source_size": 61,
+   "en": "\n{C:81930000}\n{C:819582860200010002000000}\nSave your current progress?\nYes\nNo\n\n\n{x00}"
+  },
+  {
+   "id": 17,
+   "source_sha256": "c3400056499df0deb5d1e17f81c295a1b10c566f9b27aa4ac004835905f35e84",
+   "source_size": 30,
+   "en": "\nNo information is available about this person.\n\n{x00}"
+  },
+  {
+   "id": 18,
+   "source_sha256": "9e8a298f4fc6feb291cefc1603ce01425cd436c9c447a1dd71ee9720fd9d4b09",
+   "source_size": 31,
+   "en": "\nNo information is available about this machine.\n\n\n{x00}"
+  },
+  {
+   "id": 19,
+   "source_sha256": "d9ae61ca6d67dfb38ce05dbaeb3b8af3c09a0b8a94723c6aef6175fa8d9aabec",
+   "source_size": 24,
+   "en": "\nBuy items.\n\n{x00}"
+  },
+  {
+   "id": 20,
+   "source_sha256": "f57cfcbadc2afd1aa44c2d41383549944c6c1134696f3badd06d748d22775423",
+   "source_size": 104,
+   "en": "\n\nSell items you own.\n(Items with a minimum required stock\ncannot be sold below that quantity.)\n\n\n{x00}"
+  },
+  {
+   "id": 21,
+   "source_sha256": "4eb960c3e103683714557e167030388b3eb68f91247b26f80c4350bc0c4984d4",
+   "source_size": 107,
+   "en": "\nHeroic Tales Mode has been unlocked. Select\n{C:819782830100}Continue{C:819782830000} then\n{C:819782830100}Heroic Tales: Run 1{C:819782830000}.\n\n\n{x00}"
+  },
+  {
+   "id": 22,
+   "source_sha256": "f28a7f3cc4664dbded19a09ea474a7ba27c4c84c84ab4b8a744791c13d512f4b",
+   "source_size": 27,
+   "en": "\n{C:81930000}A large quantity of supplies was brought in.\n{x00}"
+  }
+ ],
+ "overlays": [
+  {
+   "id": "EVEMAP/00029:000004D0",
+   "va": 10355920,
+   "offset": 1232,
+   "en": "Cloud City",
+   "source_nul_terminated_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00029:000004E0",
+   "va": 10355936,
+   "offset": 1248,
+   "en": "Home",
+   "source_nul_terminated_sha256": "ef21e078b73287c7dff093e6cb32e11ca7771cddd57a6b2005929f729a3c471e",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00029:000004E8",
+   "va": 10355944,
+   "offset": 1256,
+   "en": "Outskirts",
+   "source_nul_terminated_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00029:000004F0",
+   "va": 10355952,
+   "offset": 1264,
+   "en": "Main Street",
+   "source_nul_terminated_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00029:00000508",
+   "va": 10355976,
+   "offset": 1288,
+   "en": "Airport",
+   "source_nul_terminated_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00029:00000510",
+   "va": 10355984,
+   "offset": 1296,
+   "en": "Maintenance Deck",
+   "source_nul_terminated_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00035:000004D0",
+   "va": 10355920,
+   "offset": 1232,
+   "en": "Cloud City",
+   "source_nul_terminated_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e"
+  },
+  {
+   "id": "EVEMAP/00035:000004E0",
+   "va": 10355936,
+   "offset": 1248,
+   "en": "Home",
+   "source_nul_terminated_sha256": "ef21e078b73287c7dff093e6cb32e11ca7771cddd57a6b2005929f729a3c471e",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e"
+  },
+  {
+   "id": "EVEMAP/00035:000004E8",
+   "va": 10355944,
+   "offset": 1256,
+   "en": "Outskirts",
+   "source_nul_terminated_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e"
+  },
+  {
+   "id": "EVEMAP/00035:000004F0",
+   "va": 10355952,
+   "offset": 1264,
+   "en": "Main Street",
+   "source_nul_terminated_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e"
+  },
+  {
+   "id": "EVEMAP/00035:00000508",
+   "va": 10355976,
+   "offset": 1288,
+   "en": "Airport",
+   "source_nul_terminated_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e"
+  },
+  {
+   "id": "EVEMAP/00035:00000510",
+   "va": 10355984,
+   "offset": 1296,
+   "en": "Maintenance Deck",
+   "source_nul_terminated_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "9b8020ecb7c00bdf010a7315bb395c05d3ba672fbd3da8dab4a862922c0a551e"
+  },
+  {
+   "id": "EVEMAP/00060:000004D0",
+   "va": 10355920,
+   "offset": 1232,
+   "en": "Cloud City",
+   "source_nul_terminated_sha256": "907648b1d5d52031952cef2e8546ab1b83a51aec9f63cbee1c1e23b8d911afab",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00060:000004E0",
+   "va": 10355936,
+   "offset": 1248,
+   "en": "Home",
+   "source_nul_terminated_sha256": "ef21e078b73287c7dff093e6cb32e11ca7771cddd57a6b2005929f729a3c471e",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00060:000004E8",
+   "va": 10355944,
+   "offset": 1256,
+   "en": "Outskirts",
+   "source_nul_terminated_sha256": "0c027436f9f8a3f2169bf1b8fdf656a69803e2af73bf1563bc9cac863460d8b8",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00060:000004F0",
+   "va": 10355952,
+   "offset": 1264,
+   "en": "Main Street",
+   "source_nul_terminated_sha256": "779388340a3b7f813a4ea5e225768a7f99cd67e43bea2c216d2b187395c05370",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00060:00000508",
+   "va": 10355976,
+   "offset": 1288,
+   "en": "Airport",
+   "source_nul_terminated_sha256": "c21eee125e3ed21d11be857f207960cd9590afb7f39858d5b9fb06108f096be6",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00060:00000510",
+   "va": 10355984,
+   "offset": 1296,
+   "en": "Maintenance Deck",
+   "source_nul_terminated_sha256": "f7d0862b92d8b2f1a5220f8e83f412c033a0fc614105d07675d7725e539a2214",
+   "original_binary_sha256": "528602f3f957c21bbb8593e806ac45597b357eb4f4ed398d647f1ba293281a9a"
+  },
+  {
+   "id": "EVEMAP/00039:000004F0",
+   "va": 10355952,
+   "offset": 1264,
+   "en": "Park",
+   "source_nul_terminated_sha256": "fad2c1480ea522538bf85bb7bb5b6777e9f5f1b792401f99db74e91abd902d72",
+   "original_binary_sha256": "1c5958d134a9f287c9588ee20cc61db75c1e3ea538171f8b9fcda5a08ce3086d"
+  },
+  {
+   "id": "EVEMAP/00043:000004E0",
+   "va": 10355936,
+   "offset": 1248,
+   "en": "Park",
+   "source_nul_terminated_sha256": "fad2c1480ea522538bf85bb7bb5b6777e9f5f1b792401f99db74e91abd902d72",
+   "original_binary_sha256": "872f0dd54482d1973a8fe489df552933b7b6bdb87d81fa12d5a8061c025fea1d"
+  },
+  {
+   "id": "EVEMAP/00053:000004D8",
+   "va": 10355928,
+   "offset": 1240,
+   "en": "Park",
+   "source_nul_terminated_sha256": "fad2c1480ea522538bf85bb7bb5b6777e9f5f1b792401f99db74e91abd902d72",
+   "original_binary_sha256": "fb18599a4c98da37734cc4a390fea5af628d342208bbf8f8f8625b5301c8ff13"
+  }
+ ],
+ "references": [
+  {
+   "kind": "code",
+   "site": 1058776,
+   "lui": 1058772,
+   "target": 2229816,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612632120,
+   "adjacent": true
+  },
+  {
+   "kind": "code",
+   "site": 1059352,
+   "lui": 1059248,
+   "target": 2229832,
+   "register": 4,
+   "base_register": 7,
+   "lui_word": 1007091746,
+   "word": 618923592,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1059376,
+   "lui": 1059368,
+   "target": 2229896,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612632200,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1059420,
+   "lui": 1059412,
+   "target": 2229816,
+   "register": 4,
+   "base_register": 4,
+   "lui_word": 1006895138,
+   "word": 612632120,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1241816,
+   "lui": 1241812,
+   "target": 2234040,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614799032,
+   "adjacent": true
+  },
+  {
+   "kind": "code",
+   "site": 1242924,
+   "lui": 1242880,
+   "target": 2325128,
+   "register": 16,
+   "base_register": 16,
+   "lui_word": 1007681571,
+   "word": 638614152,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1330708,
+   "lui": 1330700,
+   "target": 2325560,
+   "register": 19,
+   "base_register": 3,
+   "lui_word": 1006829603,
+   "word": 611548216,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1330816,
+   "lui": 1330812,
+   "target": 2325576,
+   "register": 19,
+   "base_register": 2,
+   "lui_word": 1006764067,
+   "word": 609451080,
+   "adjacent": true
+  },
+  {
+   "kind": "code",
+   "site": 1330932,
+   "lui": 1330912,
+   "target": 2237296,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614802288,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1373980,
+   "lui": 1373956,
+   "target": 2247400,
+   "register": 4,
+   "base_register": 22,
+   "lui_word": 1008074786,
+   "word": 650398440,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374008,
+   "lui": 1373964,
+   "target": 2247432,
+   "register": 5,
+   "base_register": 21,
+   "lui_word": 1008009250,
+   "word": 648366856,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374252,
+   "lui": 1373968,
+   "target": 2247456,
+   "register": 5,
+   "base_register": 20,
+   "lui_word": 1007943714,
+   "word": 646269728,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374544,
+   "lui": 1374532,
+   "target": 2247504,
+   "register": 4,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608455504,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374576,
+   "lui": 1374568,
+   "target": 2247432,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608520968,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374784,
+   "lui": 1374776,
+   "target": 2247536,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608521072,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374832,
+   "lui": 1374824,
+   "target": 2247552,
+   "register": 5,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608521088,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1374864,
+   "lui": 1374528,
+   "target": 2247584,
+   "register": 5,
+   "base_register": 30,
+   "lui_word": 1008599074,
+   "word": 667241376,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375060,
+   "lui": 1375052,
+   "target": 2247616,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812608,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375120,
+   "lui": 1375112,
+   "target": 2247640,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812632,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375184,
+   "lui": 1375172,
+   "target": 2247664,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812656,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375328,
+   "lui": 1375316,
+   "target": 2247744,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812736,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375336,
+   "lui": 1375316,
+   "target": 2247768,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812760,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375364,
+   "lui": 1375300,
+   "target": 2247704,
+   "register": 4,
+   "base_register": 19,
+   "lui_word": 1007878178,
+   "word": 644107288,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375412,
+   "lui": 1375392,
+   "target": 2247432,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812424,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375552,
+   "lui": 1375544,
+   "target": 1874272,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960669,
+   "word": 614832480,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375576,
+   "lui": 1375568,
+   "target": 1874296,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960669,
+   "word": 614832504,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1375684,
+   "lui": 1375676,
+   "target": 2247704,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812696,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1377012,
+   "lui": 1377004,
+   "target": 2247792,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812784,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1377092,
+   "lui": 1377072,
+   "target": 2247832,
+   "register": 17,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 609307800,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1377128,
+   "lui": 1377108,
+   "target": 2247848,
+   "register": 2,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608324776,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1377188,
+   "lui": 1376956,
+   "target": 2247880,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812872,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1377364,
+   "lui": 1377360,
+   "target": 2247896,
+   "register": 3,
+   "base_register": 2,
+   "lui_word": 1006764066,
+   "word": 608390360,
+   "adjacent": true
+  },
+  {
+   "kind": "code",
+   "site": 1377408,
+   "lui": 1377404,
+   "target": 2247912,
+   "register": 2,
+   "base_register": 3,
+   "lui_word": 1006829602,
+   "word": 610421992,
+   "adjacent": true
+  },
+  {
+   "kind": "code",
+   "site": 1377424,
+   "lui": 1377420,
+   "target": 2247936,
+   "register": 2,
+   "base_register": 3,
+   "lui_word": 1006829602,
+   "word": 610422016,
+   "adjacent": true
+  },
+  {
+   "kind": "code",
+   "site": 1378040,
+   "lui": 1378032,
+   "target": 2247616,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812608,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1378100,
+   "lui": 1378092,
+   "target": 2247640,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812632,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1378772,
+   "lui": 1378764,
+   "target": 2247960,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812952,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1384956,
+   "lui": 1384948,
+   "target": 2247640,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960674,
+   "word": 614812632,
+   "adjacent": false
+  },
+  {
+   "kind": "pointer",
+   "site": 1837296,
+   "target": 2233728,
+   "word": 2233728
+  },
+  {
+   "kind": "pointer",
+   "site": 1839352,
+   "target": 2233992,
+   "word": 2233992
+  },
+  {
+   "kind": "pointer",
+   "site": 1839452,
+   "target": 2233992,
+   "word": 2233992
+  },
+  {
+   "kind": "pointer",
+   "site": 1888852,
+   "target": 1874160,
+   "word": 1874160
+  },
+  {
+   "kind": "pointer",
+   "site": 2324752,
+   "target": 2324736,
+   "word": 2324736
+  },
+  {
+   "kind": "pointer",
+   "site": 2324756,
+   "target": 2324744,
+   "word": 2324744
+  },
+  {
+   "kind": "pointer",
+   "site": 2325920,
+   "target": 1874272,
+   "word": 1874272
+  },
+  {
+   "kind": "pointer",
+   "site": 2325924,
+   "target": 1874296,
+   "word": 1874296
+  },
+  {
+   "kind": "pointer",
+   "site": 2325944,
+   "target": 2247368,
+   "word": 2247368
+  },
+  {
+   "kind": "pointer",
+   "site": 2229800,
+   "target": 2324504,
+   "word": 2324504
+  },
+  {
+   "kind": "pointer",
+   "site": 2229804,
+   "target": 2324512,
+   "word": 2324512
+  },
+  {
+   "kind": "pointer",
+   "site": 2229808,
+   "target": 2229784,
+   "word": 2229784
+  },
+  {
+   "kind": "pointer",
+   "site": 2229812,
+   "target": 2324520,
+   "word": 2324520
+  },
+  {
+   "kind": "pointer",
+   "site": 2234144,
+   "target": 2325136,
+   "word": 2325136
+  },
+  {
+   "kind": "pointer",
+   "site": 2234148,
+   "target": 2234064,
+   "word": 2234064
+  },
+  {
+   "kind": "pointer",
+   "site": 2234152,
+   "target": 2234080,
+   "word": 2234080
+  },
+  {
+   "kind": "pointer",
+   "site": 2234156,
+   "target": 2325144,
+   "word": 2325144
+  },
+  {
+   "kind": "pointer",
+   "site": 2234160,
+   "target": 2234096,
+   "word": 2234096
+  },
+  {
+   "kind": "pointer",
+   "site": 2234164,
+   "target": 2325152,
+   "word": 2325152
+  },
+  {
+   "kind": "pointer",
+   "site": 2234168,
+   "target": 2325160,
+   "word": 2325160
+  },
+  {
+   "kind": "pointer",
+   "site": 2234172,
+   "target": 2234112,
+   "word": 2234112
+  },
+  {
+   "kind": "pointer",
+   "site": 2234180,
+   "target": 2325168,
+   "word": 2325168
+  },
+  {
+   "kind": "pointer",
+   "site": 2235884,
+   "target": 2235616,
+   "word": 2235616
+  },
+  {
+   "kind": "pointer",
+   "site": 2235888,
+   "target": 2235632,
+   "word": 2235632
+  },
+  {
+   "kind": "pointer",
+   "site": 2235892,
+   "target": 2235648,
+   "word": 2235648
+  },
+  {
+   "kind": "pointer",
+   "site": 2235896,
+   "target": 2235664,
+   "word": 2235664
+  },
+  {
+   "kind": "pointer",
+   "site": 2235900,
+   "target": 2235680,
+   "word": 2235680
+  },
+  {
+   "kind": "pointer",
+   "site": 2235904,
+   "target": 2235696,
+   "word": 2235696
+  },
+  {
+   "kind": "pointer",
+   "site": 2235908,
+   "target": 2235712,
+   "word": 2235712
+  },
+  {
+   "kind": "pointer",
+   "site": 2235912,
+   "target": 2235728,
+   "word": 2235728
+  },
+  {
+   "kind": "pointer",
+   "site": 2235916,
+   "target": 2235744,
+   "word": 2235744
+  },
+  {
+   "kind": "pointer",
+   "site": 2235920,
+   "target": 2235760,
+   "word": 2235760
+  },
+  {
+   "kind": "pointer",
+   "site": 2235924,
+   "target": 2235776,
+   "word": 2235776
+  },
+  {
+   "kind": "pointer",
+   "site": 2235928,
+   "target": 2235792,
+   "word": 2235792
+  },
+  {
+   "kind": "pointer",
+   "site": 2235932,
+   "target": 2235808,
+   "word": 2235808
+  },
+  {
+   "kind": "pointer",
+   "site": 2235936,
+   "target": 2235824,
+   "word": 2235824
+  },
+  {
+   "kind": "pointer",
+   "site": 2235940,
+   "target": 2235840,
+   "word": 2235840
+  },
+  {
+   "kind": "pointer",
+   "site": 2235944,
+   "target": 2235856,
+   "word": 2235856
+  },
+  {
+   "kind": "pointer",
+   "site": 2236264,
+   "target": 2235960,
+   "word": 2235960
+  },
+  {
+   "kind": "pointer",
+   "site": 2236268,
+   "target": 2235976,
+   "word": 2235976
+  },
+  {
+   "kind": "code",
+   "site": 1377368,
+   "lui": 1377360,
+   "target": 2247896,
+   "lui_word": 1006764066,
+   "word": 3695463640
+  },
+  {
+   "kind": "code",
+   "site": 1377416,
+   "lui": 1377404,
+   "target": 2247912,
+   "lui_word": 1006829602,
+   "word": 3697626344
+  },
+  {
+   "kind": "code",
+   "site": 1377428,
+   "lui": 1377420,
+   "target": 2247936,
+   "lui_word": 1006829602,
+   "word": 3697626368
+  }
+ ],
+ "editorial": "Read all68 compiled entries,23 help rows and21 overlay occurrences in menu order. Retained clear reviewed wording; three native fixed-copy action captions use independently approved Load Game, New Save and Overwrite Save. Modify units matches the menu action. No narrative shortening.",
+ "glossary": {
+  "registered_variants": 24,
+  "occurrences_examined": 112,
+  "hits": []
+ },
+ "proofreading": "English-only labels, complete help bodies, placeholders, logical Yes/No lines and native control order checked after editorial. No unresolved wording issues; executed availability/layout remain separate checks."
+}

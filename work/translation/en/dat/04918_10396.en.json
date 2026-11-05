@@ -1,0 +1,135 @@
+{
+ "table": "04918_10396",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:81930100}{C:81958296B62700000000}Then let's depart.\n\n{C:81908400}{C:81958296B72700000000}I'm sorry to put you to the trouble\nof taking all of us back\nto our respective continents.\n\n{C:81900300}{C:81958296B82700000000}Not at all.\nWe've dragged you all over the place,\nso it's the least we can do.\n\n{C:81901A00}{C:81958296990000000000}Besides, unfortunately,\nwe can't cross the Cloud Sea on our own.\nWe're counting on you.\n\n{C:81900400}{C:81958296B92700000000}But are you sure it's all right?\nEven Daba and the others are coming along.\n\n{C:81905300}{C:81958296BA2700000000}People from Pentagona caused all this trouble.\nSurely we won't be punished\nfor at least seeing you off.\n\n\n{C:81958296BB2700000000}Oops.\nThat was off-limits, wasn't it?\n\n{C:81930100}{C:81958296BC2700000000}That's right, Daba.\n\n{C:81900A01}{C:81958296BD2700000000}But that's how\nwe all met.\n\n{C:8190B801}{C:819582969A0000000000}Right, it's all over now.\nLet's stop pointing fingers\nat one another.\n\n{C:8190A202}{C:81958296BE2700000000}Then let's depart.\n\n{C:8190C800}{C:81958296C02700000000}I hope it's really over.\n\n{C:8190A202}{C:81958296C12700000000}Did you say something, Chirico?\n\n{C:8190C800}{C:81958296C32700000000}No...\n\n{C:81900300}{C:81958296C42700000000}Then...\nThe Astante is departing!!\n\n\n\n\n{x00}",
+   "source_sha256": "56db667a122691ee282a7eb9f5dacbf4165cca74f8a6a07f271fce5c8be79d3b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296C52700000000}Hey, Rie.\nWhat are you doing?\n\n{C:81930300}{C:81958296C62700000000}Oh, sooorry!\nWe're heading to another continent, right?\n\n\n\n\n{x00}",
+   "source_sha256": "7eb4f8f4c8014e786b63056189fc01d892f21f6ec5cad095cb6196a768d663e0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930400}{C:81958296C72700000000}There's an object approaching at high speed.\nIt's incredibly fast!\nIt's right in front of us already!!\n\n\n\n{x00}",
+   "source_sha256": "1d388dc60354e561e29f2a71d376957122a2abd0d37e186bd39ad3c8d4337cd0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81932201}{C:81958296C92700000000}My name is\nAlbatro Null Eiji Asuka.\nI request permission to land.\n\n{C:81930300}{C:81958296CA2700000000}What's the status\nof the maintenance deck?\n\n{C:81938700}{C:81958296CC2700000000}The maintenance deck\nis ready whenever you are.\n\n{C:81930300}{C:81958296CD2700000000}You have permission to land\non the maintenance deck.\n\n{C:81932201}{C:81958296CF2700000000}Thank you.\n\n\n\n\n\n{x00}",
+   "source_sha256": "c7833d99d5b869829e8736b8be7ec839028d7c15d2a473d2b692223250fa31e0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81902201}{C:81958296D02700000000}Luckily, I escaped Posaydal's attacks\nthanks to the Cloud Sea.\n\n{C:81958296D22700000000}{C:819782830300}Grados{C:819782830000} plans to obtain the Cloud System\nand embark on\na campaign of continental conquest.\n\n{C:81930100}{C:81958296D32700000000}But the Cloud System...\nWho on earth could...?\n\n{C:81902201}{C:81958296D42700000000}I don't know that much.\nI could barely make it here in {C:819782830400}Layzner{C:819782830000}\nmyself.\n\n{C:81908200}{C:81958296D52700000000}Now we have no choice\nbut to go to Grados,\nright?\n\n\n{C:81930100}{C:81958296D62700000000}Let's go, Eiji.\nThere's nobody else anywhere\nwho can stop this fighting.\n\n{C:81902201}{C:81958296D72700000000}I'll help you\nin every way I can.\n\n\n\n\n{x00}",
+   "source_sha256": "954f0aad593b43050f1dddff8063d6b29a782c815432326186c7044a8035e799",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930400}{C:81958296D82700000000}Huh?\n\n{C:81930300}{C:81958296D92700000000}What is it, Nelfea?\n\n{C:8193A302}{C:81958296EE2700000000}There's abnormal movement\nin the Cloud Stream.\n\n\n{C:81930400}{C:81958296DC2700000000}Hey! That's what\nI was about to say!\n\n{C:81930100}{C:81958296DD2700000000}This isn't the time to fool around!\nSo what's... Oh.\n\n\n\n\n{x00}",
+   "source_sha256": "ffddb498eba6e518bcf23a7dcb010ee51a37c59ed5f68d63da86c66291dcdf43",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930600}{C:81958296DE2700000000}I'm sorry\nto call you away from your busy schedule.\n\n{C:81930B00}{C:819582969B0000000000}Don't worry about it.\nIf you've summoned me,\nsomething serious must have happened.\n\n{C:81930700}{C:81958296DF2700000000}We've identified the mastermind behind this incident.\nIt's that man.\nThe one who was our enemy during the civil war...\n\n{C:81930900}{C:819582969C0000000000}That man...\nIs that true, Kyo?!\n\n{C:81930600}{C:81958296E02700000000}That's why we asked you to come, Admiral.\nAgainst that man,\nthey stand virtually no chance.\n\n{C:81930A00}{C:81958296E12700000000}So that's why you had me check out\nAstante II and the new FT.\n\n\n{C:81930700}{C:81958296E22700000000}I'm asking you too, Admiral.\nPlease authorize the use of Astante II.\n\n\n{C:81930B00}{C:819582969D0000000000}Wind,\nyou're ready to sortie, then?\n\n{C:81930A00}{C:81958296E42700000000}Of course!\nI've got everything in perfect shape.\n\n{C:81930B00}{C:819582969E0000000000}Very well. I authorize the sortie.\nI'll handle all dealings\nwith the government myself.\n\n\n{x00}",
+   "source_sha256": "09b303be12336a9c9f2391b392071d4a1808aea0d261ec0c0028671222333cb1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81900600}{C:81958296E52700000000}Thank you very much!!\n\n{C:81900700}{C:81958296E62700000000}Time is of the essence.\nWe're launching at once.\nLet's go!!\n\n{C:81900600}{C:81958296E72700000000}Then, Admiral,\nwe'll take our leave.\n\n{C:81900B00}{C:819582969F0000000000}Very well. Take care.\n\n\n{x00}",
+   "source_sha256": "f123264d05fc48d1ed34c352f0c75eac9605eb534bfbc91193c2a64431536ee2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81900B00}{C:81958296A00000000000}What are you doing?\nYou two should go as well.\n\n{C:81900A00}{C:81958296E82700000000}Is that all right?\n\n{C:81900B00}{C:81958296A10000000000}Against that man,\neven Akatsuki and the others may be outmatched.\nGo and help them.\n\n{C:81900A00}{C:81958296E92700000000}Understood!\nI, Wind Shiga,\nwill gladly go!\n\n{C:81958296EA2700000000}Hey, let's go, Tail!\n\n{C:81900900}{C:81958296A20000000000}We're off, Admiral!!\n\n\n{x00}",
+   "source_sha256": "06ddaacffd37de9ff7bd486be64206e5942e47c3084548dba9a59e246c2390ae",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81930B00}{C:81958296A30000000000}What's that ghost of war...\nplanning after all this time...?\n\n\n{x00}",
+   "source_sha256": "c0cea2093a9146c84e9a7f7c8d7ec8bae9237a2ff201b16b21209775c9253c6e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all10 independent438 verdicts, shared qualifications and five actual author435 groups, both full repaired frames0/4. Restore finite departure and personal-arrival focus. Separately read all10 complete444English, then replaced awkward request6 after independent fresh full-source/current/proposed acceptance445. Opening personal escape inference and genuinely unfinished CloudSystem question retained; unnamed former civil-war enemy remains unnamed. Shared names/currentMAINproof pending; tests deferred until entire translation pipeline completes. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

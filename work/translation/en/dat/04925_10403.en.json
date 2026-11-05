@@ -1,0 +1,759 @@
+{
+ "table": "04925_10403",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n\n{C:81930100}{C:819582963E2D00000000}I'm hungry...\n\n{C:81900600}{C:819582963F2D00000000}You're showing no discipline.\nWhat sort of behavior is that on the bridge?\n\n{C:81930100}{C:81958296402D00000000}You can't help what your body does.\nI'm off to the mess hall.\nWhose turn is it to cook today?\n\n{C:81900400}{C:81958296412D00000000}Wataru and his friends, and the Ganba Team.\n\n{C:81930100}{C:81958296422D00000000}That makes me a little nervous...\n\n\n\n\n{x00}",
+   "source_sha256": "a707f8903de895bd8289d28fc2c1896f023d44e4143e8459bbb1084d3a410ee4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296432D00000000}I've got a bad feeling about this.\n\n\n\n{x00}",
+   "source_sha256": "f10d244bbaa721dd542720e23b59f873847e09fb0bcd9b1d4486fb6d433b77be",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8193A502}{C:81958296BF2A00000000}Waaah, it's g-going to spill!\n\n{C:81939202}{C:81958296442D00000000}I'll do something with ninjutsu!\n\n\n{C:8193A702}{C:81958296452D00000000}Nyahahahaha!\nTora-chan, this is yummy!\n\n{C:8193A602}{C:81958296462D00000000}Let's see... You're right!\nI'm gonna eat some more!\n\n{C:81939602}{C:81958296472D00000000}Hey, you two!\nNo sneaking bites!\n\n{C:81939402}{C:81958296482D00000000}Rikiya, is this all right?\nI think it tastes\na little bland.\n\n\n{x00}",
+   "source_sha256": "46be2c12b46e1b468c0b424d1dc64d4ee115a2e85cd96a35c852c7b39dfad87e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81930100}{C:81958296492D00000000}I think I'll come back later.\n\n\n\n\n\n{x00}",
+   "source_sha256": "9e2bfbdeadfbe13332b17eab5826b2767d26442e05ef982ee6e8b52ee414a454",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81930100}{C:819582964A2D00000000}R-R-R-Rie!\nWh-what's all this shaking?!\n\n{C:81930300}{C:819582964B2D00000000}I don't know!\nHuh? The Astante II's controls...\n\n{C:81930700}{C:819582964C2D00000000}Rie, I'll take the helm!\n\n{C:81930300}{C:819582964D2D00000000}Please do.\n\n\n{x00}",
+   "source_sha256": "c7b1abd7929d385e449be8f86b161c5bd90827318756f63ff261f65dfd7b18b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930700}{C:819582964E2D00000000}Is this a hacker's work?\nHeh... They're pretty good.\n\n{C:819582964F2D00000000}But I won't let them\ninto the main system!\n\n\n{x00}",
+   "source_sha256": "f3217f10307f60beda77d8c1c49f36daa519f6e067919a09117fca435e22142d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:8193CD02}{C:81958296512D00000000}Gyowawawaaaah!\n\n\n{x00}",
+   "source_sha256": "83612fdb373aca7299c40f6490c97c6ae588036844e7f72a98a2fca9ff54ad35",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81930700}{C:81958296522D00000000}That should do it.\nRie, take over the helm for me.\n\n{C:81930300}{C:81958296532D00000000}Yes.\n\n{C:81930400}{C:81958296542D00000000}During all that commotion,\nwe got a call from Chief Taiga.\n\n{C:81936101}{C:81958296562D00000000}I've finally got through...\nWelcome back, heroes!\nI imagine you've found new heroes to join you.\n\n{C:81958296572D00000000}While you were away,\nnew heroes appeared in Brave.\nCome to {C:819782830300}Tokio{C:819782830000} so I can introduce them.\n\n\n\n{x00}",
+   "source_sha256": "155026061717644af7ace9689d081b8525a9a9b5da6fd6c4cc8ddfc362ba167a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81935701}{C:81958296582D00000000}Guy!\nCan you hear me, Guy?!\n\n{C:81935401}{C:81958296592D00000000}I hear you, Mikoto.\nWhat's wrong? Has something happened?!\n\n{C:81935701}{C:819582965A2D00000000}Mamoru... Mamoru...\nGaoFi... Aaaah!\n\n\n{x00}",
+   "source_sha256": "bd1d7f530c39a21ce1ef8b624452b5f3db48c22aeb667f09f9ad707dcd7235a9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81930400}{C:819582965B2D00000000}I've confirmed an explosion in Tokio!\n\n{C:81935401}{C:819582965C2D00000000}Mikoto! Mikoto!\n\n\n{x00}",
+   "source_sha256": "598897ab2db22486ca797f0a9b36a17d3bef344c1f41472b55cdba2954cdc2e6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81935401}{C:819582965D2D00000000}Mamoru?!\nAnd those are the Gao-Machines!\n\n\n{x00}",
+   "source_sha256": "a620e7fae2a1d04816fa9b6228bc3256afee05cef4a3cb2096eb7bc1a4b0bc0c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930600}{C:819582965E2D00000000}Rie!\nGet down to Tokio, quickly!\n\n{C:81930300}{C:819582965F2D00000000}Yes, Dad!\n\n\n\n\n{x00}",
+   "source_sha256": "10bf5f930bae621daca1d0a952f5857185196ce100bf127458839194208eb8e4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81905401}{C:81958296612D00000000}Anyone going to the base, hurry!\n\n\n\n{x00}",
+   "source_sha256": "38f2e725a809cbe35e2c05ef2a3fe7d1f8ab89104ae679f63cc0779f77aae2e2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81905401}{C:81958296622D00000000}Mikoto! Is everyone safe?!\n\n{C:81935701}{C:81958296632D00000000}G... Guy...\n\n\n{x00}",
+   "source_sha256": "38c1da16573effc426958a3a5acf1b16d10d1abd28448f76e21e6f4f2f9b1d1c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81905701}{C:81958296642D00000000}If Renais hadn't been here,\nwe'd have been in serious trouble.\nThank you, Renais.\n\n{C:81905901}{C:81958296EE0000000000}I just protected this place.\nThere's no reason to thank me.\n\n{C:81930100}{C:81958296652D00000000}So what happened?\nThis place looks all right.\n\n{C:81905801}{C:81958296662D00000000}Mamoru suddenly came here\nand tried to steal\nthe GaoFighGar data.\n\n{C:81905901}{C:81958296EF0000000000}And when I tried to stop him,\nhe started glowing and went on a rampage.\n\n{C:81905401}{C:81958296672D00000000}Mamoru... I can't believe it.\n\n{C:81905901}{C:81958296F00000000000}Facts are facts.\nThere's been terrible damage.\n\n{C:81958296F10000000000}The GaoFighGar data was stolen.\nWhat are you going to do, Guy?\n\n{C:81906101}{C:81958296692D00000000}We must recover the GaoFighGar data\nno matter what.\nSwan!\n\n{C:81905801}{C:819582966A2D00000000}Yes!\nI'll track Mamoru's movements.\n\n{C:819582966B2D00000000}...I've found him!\n{C:819782830300}Kyoto{C:819782830000} is where he's heading!\n\n{C:81930100}{C:819582966C2D00000000}I'll get the Astante II\nready for launch first!\n\n{C:81905701}{C:819582966D2D00000000}Guy... Are you going to fight Mamoru?\n\n{C:81905401}{C:819582966E2D00000000}There must be a reason for this.\nIf we can find out what it is,\nwe shouldn't have to fight.\n\n{C:81905901}{C:81958296F20000000000}I'm coming too.\nWith you thinking like that, Guy,\nthere's no telling what might happen.\n\n\n{x00}",
+   "source_sha256": "4d7bfe3e6c9d9e4080f2533fd4301d8844e9f17844c4480552c2e304f27c67fa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81937B02}{C:819582966F2D00000000}In the end... we never\ngot introduced.\n\n\n\n\n{x00}",
+   "source_sha256": "74a9e606eb8a5f242276fff22cecca9f2084e6c192cbf50824fc4802da6cdc6b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81930400}{C:81958296702D00000000}The settings Uncle made\nare delicate, so I need\nto check them often.\n\n\n{x00}",
+   "source_sha256": "9e2992db085ac022b65e05d7987cfa2471428c25ab54c952dd12089f1b8d3105",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81930400}{C:81958296712D00000000}All right, perfect!\n...Huh?\n\n\n{x00}",
+   "source_sha256": "2411ee27bb571cc3b370c92536485827ae43b7f669d8999e787733335c22b314",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81900400}{C:81958296722D00000000}What's wrong? Why are you in such a hurry?\n\n{C:81930100}{C:81958296732D00000000}We're launching soon. Put \n{C:819782830400}Meisarge{C:819782830000} back in the hangar.\n\n\n\n\n{x00}",
+   "source_sha256": "02656b02a9b868a51378b8ae1d44e414fb54ae3bc677f2c94883e5a1868ac39b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81905401}{C:81958296742D00000000}We know where Mamoru's headed! Take us to \n{C:819782830300}Kyoto{C:819782830000}!\n\n{C:81900300}{C:81958296752D00000000}What happened?\n\n{C:81905901}{C:81958296F30000000000}Stop asking questions and launch!\n\n{C:81905401}{C:81958296762D00000000}Be quiet, Renais!\n\n{C:81958296792D00000000}I'll explain as we launch.\nJust hurry!\n\n{C:81900300}{C:819582967A2D00000000}Understood.\nAstante II, launching.\n\n\n\n{x00}",
+   "source_sha256": "11df52c18800179aaaecf27f47d84e677e25289aa08801d03a3a3b018d4a3dee",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81935401}{C:819582967B2D00000000}And that's what happened.\n\n{C:81930300}{C:819582967C2D00000000}Something like that happened...?\n\n{C:81935401}{C:819582967D2D00000000}I'm sorry, Rie, but please hurry!\n\n\n\n\n{x00}",
+   "source_sha256": "48296ad9ee2c980f5f44639a60d850e114e8874138a6616e58dc1bf23be855db",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81936401}{C:819582967E2D00000000}Stop, {C:819782830400}Latio{C:819782830000}!\nWhat's gotten into you?!\n\n\n{x00}",
+   "source_sha256": "8609a9c3644b378b2aaaa3495c30697ad583c67411c31591a113e4a30106f113",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81935501}{C:819582967F2D00000000}Heh heh heh...\nHa ha ha ha ha ha!\n\n\n{x00}",
+   "source_sha256": "9aa8ea16741182237d7d4bcd2e2511c04079343322c286740a95e2b1e2cfd3dd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81936401}{C:81958296802D00000000}Uwaaaaaah!\n\n\n\n{x00}",
+   "source_sha256": "5f310a930a7a2d98023829898832f5f37097c268dd20a78ca5607c8c06bc12d3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81935401}{C:81958296822D00000000}Why, Mamoru?!\n\n{x00}",
+   "source_sha256": "d17b93c1b6e001f8cfbf3492f74d5ba9bd7538e64c28bc1a1246dbd72b98c272",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81935501}{C:81958296832D00000000}Don't get in my way, big bro Guy!\nThere's no time left!\n\n{x00}",
+   "source_sha256": "6bc8a57d0a95ce20b19ef5a3f61856afc085b8dbd72cdce665169dd024a1a3ec",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81935401}{C:81958296842D00000000}Tell me why!\n\n{x00}",
+   "source_sha256": "934722009ab09af93f85a7fad5d0299adc867225942e454c27d8c6ee434f1489",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81935501}{C:81958296852D00000000}So you're going to get in my way.\nThen...!\nFinal Fusiooon!\n\n\n\n\n{x00}",
+   "source_sha256": "74436eaa871eb2a60c0a1f06f8dbe61cfd00f025b421a8715576f9feb82c78af",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81930400}{C:81958296862D00000000}GaoGaiGar is descending into {C:819782830300}Kyoto{C:819782830000}!\n\n{C:81935401}{C:81958296872D00000000}I'm sorry, everyone!\nLeave things to me from here!\n\n\n{C:81930100}{C:81958296882D00000000}Let's go down to Kyoto too!\n\n\n\n{x00}",
+   "source_sha256": "8fe6c0ad37e23dc3ff0e03b1a5f9c6f13d14a479b7ab4b589162d99e5dbc7117",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81900600}{C:81958296892D00000000}Let's watch Guy's battle to the end.\n\n\n\n{x00}",
+   "source_sha256": "271d7654c7479f841f4dfe7471ea801aea80363cec61e570d58a60e7e1c76be9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81900300}{C:819582968A2D00000000}Look!\n\n\n{x00}",
+   "source_sha256": "3d488a4d2844a649a55a45390ab0e961bbcc117515c13b3ceeab99e49a1569ed",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81935401}{C:819582968B2D00000000}Gemu giru gan go gufo...\nUwoooooooh!\n\n{C:81935501}{C:819582968C2D00000000}Uwaaaaaah!\n\n\n\n\n{x00}",
+   "source_sha256": "63e2dc054252cc80925e3117d1dc41131bab94072f835724985d700c1924ee3c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81935901}{C:81958296F40000000000}Two Hell and Heaven attacks\nclashing...\n\n{C:81930300}{C:819582968D2D00000000}What's going to happen,\nRenais?\n\n{C:81935901}{C:81958296F50000000000}How should...\n...I know?!\n\n\n{x00}",
+   "source_sha256": "1f16f85d5bed385aff902f03be580462c6091f6bac958108534a4c767f2266e8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81935501}{C:819582968E2D00000000}Now I'm going to surpass you,\nbig bro Guy!\n\n\n{x00}",
+   "source_sha256": "40b1b07992bfd41456a78c8bc870a08b19a1cf3967ffce02c07dbf1f375ac74e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81935401}{C:81958296902D00000000}Have you forgotten, Mamoru?\nThe ones who win...\n\n{C:81958296922D00000000}are those with couraaaage!\n\n\n\n{x00}",
+   "source_sha256": "456dba4e161e5ed98deace826715f9334bd39eb72dbf1d752d1e048f86c83f03",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81935501}{C:81958296932D00000000}Big bro... Guy...\nWhy...?\n\n{C:81905401}{C:81958296942D00000000}Why, Mamoru?\nWhy would you do this?\n\n{C:81906401}{C:81958296952D00000000}Watch out!\n\n\n{x00}",
+   "source_sha256": "7f45fad2e810b3310a26f8e75a901bf4dd533fca3df1f2c5762d68cf4ece807f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81905401}{C:81958296962D00000000}You?!\nDon't tell me you took\nthe GaoFighGar data?!\n\n{C:81958296972D00000000}Did you use Mamoru?\nAre you working with Grados too?!\n\n{C:81906401}{C:81958296982D00000000}That Latio is...\n\n\n\n{x00}",
+   "source_sha256": "e2cc5cb9f258dd02b83b27cdddad82674395c5df427f394752649c638743a844",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81936301}{C:819582969A2D00000000}You haven't changed,\n{C:819782830400}Evoluder Guy{C:819782830000}!\n\n{C:81905401}{C:819582969B2D00000000}{C:819782830400}Soldato-J{C:819782830000}!\n\n\n{x00}",
+   "source_sha256": "046d71cb5600af748d4d980b81fb522ef786a20698cbc53b3eb16dbadec91317",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81936301}{C:819582969D2D00000000}You have made three mistakes.\nFirst, it was not Arma\nwho wanted the GaoFighGar data.\n\n{C:819582969F2D00000000}Second, someone else\nwas using Latio.\n\n{C:81958296A12D00000000}Third, {C:819782830400}Arma{C:819782830000} is certainly not\na lackey of Grados or its like!\nIt is all connected.\n\n{C:81935401}{C:81958296A22D00000000}You know something!\n\n\n{x00}",
+   "source_sha256": "762cb62d2acd163331c05b76778649b935095f5850c9e2767d86e319344adbce",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81906301}{C:81958296A62D00000000}I do!\nBut helping Arma recover\ncomes first right now.\n\n{C:81958296AA2D00000000}Farewell, Evoluder Guy.\nI'm taking Arma with me.\n\n{C:81905401}{C:81958296AB2D00000000}Wait!\n\n\n{C:81930100}{C:81958296AC2D00000000}Are you all right, Guy?!\n\n{C:81905401}{C:81958296AD2D00000000}I'd like to say yes, but I can barely stand.\nCould you take me back to \n{C:819782830300}Tokio{C:819782830000}?\n\n{C:81900300}{C:81958296AE2D00000000}Understood.\nWe'll hurry back to Tokio.\n\n{C:81930100}{C:81958296AF2D00000000}All right.\nLet's carry Guy\nto the Astante II.\n\n{C:81958296B02D00000000}...Urgh!\nH-he's heavy...\n\n{C:8190A302}{C:81958296B32D00000000}I'll carry him for you.\n\n{C:81930100}{C:81958296B42D00000000}A girl couldn't do it.\n...Wait, how can you\nlift him so easily?\n\n{C:81900300}{C:81958296B52D00000000}Big brother!\nStop gawking and hurry!\n\n\n\n{x00}",
+   "source_sha256": "b6327ab570dc4ea3321ecdd15cfcd396bb36e04162e03c3be7ddc5d2211dc8d1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:8190A302}{C:81958296B62D00000000}We can't get to Tokio from here.\n\n\n\n{x00}",
+   "source_sha256": "f3bcf04376310b4d8dbf441413ec7e74a8b612fcf1d14731478ebdfe2291fdc0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81900400}{C:81958296B72D00000000}We can't use GaoFighGar.\nMake sure you take that into account\nwhen organizing the unit.\n\n{C:81930100}{C:81958296B82D00000000}You're right.\nI'd better check, just in case.\n\n\n\n{x00}",
+   "source_sha256": "ac2181ca1dad9e40b50a1c463d4f8017694257fe52d199c274221a16fd4f30da",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81935202}{C:81958296B92D00000000}Hey, {C:819782830400}Kaine{C:819782830000}.\nAre you sure this is all right?\n\n{C:81935102}{C:81958296F70000000000}We don't have a choice.\nThere's no other way.\n\n{C:81935302}{C:81958296BB2D00000000}But still...\nFollowing {C:819782830400}Meio Plato{C:819782830000}'s orders\ndoesn't sit right with me.\n\n{C:81935102}{C:81958296F80000000000}They're the ones in the wrong,\nso we've just gotta do it!\nLook, it's coming up.\n\n\n\n{x00}",
+   "source_sha256": "e10122796275de949f766c1987414fda21837a7f2cbfa06f2fb37f84b6a1850c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81935102}{C:81958296F90000000000}All right, here we go!\n\n\n{x00}",
+   "source_sha256": "519d18bd73562897eac7e126e1542aa75c4d380baab620980dffb91686053b9f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81935202}{C:81958296BC2D00000000}That's why\nI said I didn't want to do this!\n\n{C:81935102}{C:81958296FA0000000000}You never said that!\nRetreat! Retreat!\n\n\n\n\n{x00}",
+   "source_sha256": "907ae2a1d4b0d1da346ce2c6b860ff331a56364ce13313986a765e17c5e1edaa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81935A02}{C:81958296BD2D00000000}The people I had fight on your orders\nwere soundly defeated.\nAre you satisfied, Your Excellency Treize?\n\n{C:8193EC01}{C:81958296BE2D00000000}I've received word\nfrom the person I sent\naboard the Astante II.\n\n{C:81958296BF2D00000000}As I thought, justice\nappears to be on their side.\n\n{C:81958296C02D00000000}At this rate, all the continents\nwill be ruled by war...\nand eventually perish.\n\n{C:81958296C12D00000000}What will you do,\nMeio Plato?\n\n{C:81935A02}{C:81958296C22D00000000}You are a devious one, Your Excellency.\nYou and your friend\nhave long since made up your minds.\n\n{C:8193EC01}{C:81958296C42D00000000}Heh...\nBut if they cannot make it here,\nit is merely a theory on paper.\n\n{C:81935A02}{C:81958296C52D00000000}Indeed.\n\n\n\n\n\n{x00}",
+   "source_sha256": "c606d175bd76ffcd1af6b8460fec4e766c82431964f98a745579ee431dcf9056",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:81900600}{C:81958296C72D00000000}Losing fighting strength now is painful.\nBut I'm even more concerned about Guy.\nHe was utterly exhausted...\n\n{x00}",
+   "source_sha256": "883e25c8e2c07f4424bd2e5cc4978bf02533a385177d7c59f9aa9f74573bc04c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81937B02}{C:81958296C82D00000000}Chief! Chief!\nIntroduce us already!\nMake it flashy and cool!\n\n{C:81906101}{C:81958296C92D00000000}Everyone, while Guy is recovering,\nlet me introduce our new heroes:\nthree members of the Defense Class.\n\n{C:81907B02}{C:81958296CA2D00000000}Hey, I'm {C:819782830400}Jin Hyuga{C:819782830000}.\n{C:819782830400}Ken-Oh{C:819782830000} is the machine I pilot!\n\n{C:81907C02}{C:81958296CB2D00000000}I'm {C:819782830400}Asuka Tsukishiro{C:819782830000}.\n{C:819782830400}Ho-Oh{C:819782830000} is the machine I pilot.\nIt's nice to meet you all.\n\n{C:81907D02}{C:81958296CC2D00000000}I-I-I'm K-K-{C:819782830400}Koji Hoshiyama{C:819782830000}.\nJ-J-{C:819782830400}Ju-Oh{C:819782830000} is the machine I pilot.\nN-nice to meet you.\n\n\n{x00}",
+   "source_sha256": "f3dfa7ed794de5d555c79047bb00b108b78700cba06293ae261ee1ae48b0fc3f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:8190A602}{C:81958296CE2D00000000}Whaaat? You call yourselves the Defense Class,\nbut there are only three of you!\n\n{C:81909202}{C:81958296CF2D00000000}Even with only three members,\nthe Ganba Team\nhas Gambaruger, so it doesn't matter!\n\n{C:8190A602}{C:81958296D12D00000000}I wasn't asking you!\nWell, whatever.\nMy {C:819782830400}Jyakomaru{C:819782830000} is the best!\n\n{C:81907C02}{C:81958296D22D00000000}If our friends in the Defense Class\nget together,\nwe're absolutely invincible too!\n\n{C:81909202}{C:81958296D32D00000000}Then why don't you go find them?\n\n{C:81907B02}{C:81958296D42D00000000}Don't make it sound so easy.\nIf we could cross the Cloud Sea,\nwe wouldn't have this problem. Right, Koji?\n\n{C:81907D02}{C:81958296D52D00000000}Y-yeah.\nIt's a shame, because we'd be stronger\nif the Defense Class got together.\n\n{C:81907B02}{C:81958296D62D00000000}If only we could find\nour friends in the Defense Class...\n\n{C:81905401}{C:81958296D82D00000000}It certainly is lively in here.\n\n{C:81905701}{C:81958296D92D00000000}Guy!\nYou mustn't push yourself!\n\n{C:81905401}{C:81958296DA2D00000000}I'm sorry I worried you, Mikoto.\n\n{C:81930100}{C:81958296DB2D00000000}Guy!\nAre you all right already?\n\n{C:81905401}{C:81958296DC2D00000000}A powerful ally\nhas come back to us.\nRight, Mamoru?\n\n{C:81905501}{C:81958296DD2D00000000}Wahaa!\nI'm back, everyone!\n\n{C:81905801}{C:81958296DE2D00000000}Welcome back, Mamoru!\n\n{C:81906101}{C:81958296DF2D00000000}With Mamoru's power,\nGuy will be fully recovered!\n\n{C:81900700}{C:81958296E02D00000000}Chief Taiga, is that true?\n\n\n\n\n\n{x00}",
+   "source_sha256": "f4bce7bb4ebea6b19699974725f11c190ff3f5af97055d79905759cadbefced8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81905701}{C:81958296E92D00000000}A battleship that looks Gradosian\nis rapidly approaching the skies above Tokio.\n\n\n{C:81930100}{C:81958296F02D00000000}Everyone, launch!\n\n{C:81907B02}{C:81958296F12D00000000}Asuka, Koji, we're going too!\n\n\n\n{x00}",
+   "source_sha256": "70c4eb5448d285c5cf7c10cd5817c428a5d15d38bb63e6abc44faaab30907491",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:81900300}{C:81958296F22D00000000}Big brother,\nwe'll launch once you're ready,\nso hurry!\n\n{C:81930100}{C:81958296F32D00000000}All right, give me a little time!\n\n\n\n{x00}",
+   "source_sha256": "378ba209db4a717f6a06c14d62c8aadf419b2469557d453bc8bebb6940c6fd25",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:81930100}{C:81958296A13700000000}Oh, Renais.\nWhat's the matter?\n\n{C:81905901}{C:81958296570200000000}I'm coming too.\nThere's no telling what might happen.\n\n{C:81900300}{C:81958296A43700000000}Wow!\nWe'd be really happy to have you!\n\n{C:81930100}{C:81958296A53700000000}Welcome aboard, Renais.\n\n\n\n\n{x00}",
+   "source_sha256": "a8c5a2d889d7f35e29fdca7791807dcd95dd600388b70f71f069298c627af5b5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:81930400}{C:81958296093400000000}Are you always like that?\n\n{C:81935901}{C:819582966D0100000000}What are you talking about?\n\n{C:81930400}{C:819582960A3400000000}I was just wondering\nwhy you hide your true feelings.\nI used to be like that too.\n\n{C:81935901}{C:819582966E0100000000}You too?\n\n{C:81930400}{C:819582960B3400000000}Even a genius pilot\nhas worries.\n\n{C:81935901}{C:819582966F0100000000}It sounds like you've got your own problems,\nbut leave me alone.\nYou're a nuisance.\n\n{C:81930400}{C:819582960D3400000000}...I'm sorry.\n\n{C:819582960E3400000000}I just assumed\nthat you might understand\nhow I feel.\n\n{C:81935901}{C:81958296700100000000}Once I know you better,\nI'll have tea with you and hear you out.\nBut only after the fighting's over.\n\n{C:81930400}{C:819582960F3400000000}Thank you, Renais.\n\n\n\n{x00}",
+   "source_sha256": "5630c0a13e8afc7cf361fdbb38e933c3aafee0c01c1937db7d04911d668c8dc7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:81930100}{C:81958296103400000000}What were you talking to Renais about,\nNelfea?\n\n{C:81900400}{C:81958296113400000000}It's a secret between girls.\n\n{C:81930100}{C:81958296123400000000}Hmm.\n\n\n\n\n{x00}",
+   "source_sha256": "b0f53c3834acd3dffa8fa80af7ab51f59d0675b3704cf959e66d2ac20d054e3e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:81932C01}{C:81958296F42D00000000}I can sense it...\nEiji's scent!\n\n{x00}",
+   "source_sha256": "09f25868abed20c43c38ccc4d1dcfedd5ae376e15e8621042cd7d29ba48d54ae",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 55,
+   "en": "\n{C:81932D01}{C:81958296F52D00000000}A ship's coming up.\nIt's the one they call Astante II.\nWhat do we do, {C:819782830400}Manjero{C:819782830000}?\n\n{C:81932C01}{C:81958296F62D00000000}Isn't it obvious?\nWe fucking kill them!\n\n{C:81932E01}{C:81958296FB0000000000}Nobody asked you.\n\n{C:81932F01}{C:81958296F72D00000000}Once we sink that ship,\nit'll all be over. Let's go!\n\n\n\n\n{x00}",
+   "source_sha256": "cb7f1b81393d17272838e57cdf4d1475e094305d055311c901f758104d31ff0e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 56,
+   "en": "\n{C:81930400}{C:81958296F82D00000000}I'm picking up a reaction in the Cloud Sea.\n\n{C:81930600}{C:81958296F92D00000000}The Cloud Sea is opening...\nIt seems they really can\ncontrol it at will.\n\n{C:81930700}{C:81958296FA2D00000000}I don't know how it's done,\nbut it's a real nuisance.\n\n{C:81930100}{C:81958296FB2D00000000}I don't know what you're talking about,\nbut we're leaving for the next continent.\n\n{C:81930A00}{C:81958296FC2D00000000}Where are we going next?\n\n{C:81930400}{C:81958296FD2D00000000}{C:819782830300}Pentagona{C:819782830000} is our next destination.\nKyao contacted us\nand asked us to come.\n\n{C:81930300}{C:81958296FE2D00000000}Astante II,\nlaunching for Pentagona.\n\n\n\n\n\n{x00}",
+   "source_sha256": "b317e6762721bd2e22603561dac83112be260d6b10f0e93471bcea101090f43a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 57,
+   "en": "\n{C:81933001}{C:81958296FF2D00000000}Have you forgotten?\nI forbade you to return.\n\n{C:81932B01}{C:81958296002E00000000}Father!\nWhat has happened to you?!\nWhy am I not allowed to return?\n\n{C:81933001}{C:81958296012E00000000}There's no helping it now you're back.\nBut once you've cooled your head,\nyou will leave at once.\n\n{C:81930D00}{C:81958296022E00000000}Obey your father\nquietly, Lord {C:819782830400}Le Caine{C:819782830000}.\n\n{C:81958296032E00000000}{C:819782830300}Grados{C:819782830000}'s people must see\nyou set a proper example.\n\n{C:81958296042E00000000}{C:819782830400}Gresco{C:819782830000} is your commander.\nIf you cannot obey those orders,\nwe shall have to consider what to do with you.\n\n{C:81932B01}{C:81958296052E00000000}Why do you obey a man like this?\nFather, answer me!\n\n{C:81933001}{C:81958296062E00000000}Leave, {C:819782830400}Le Caine{C:819782830000}.\nI will not tell you again.\n\n{C:81932B01}{C:81958296072E00000000}Tch...!\n\n\n\n\n\n{x00}",
+   "source_sha256": "e7e548ceb480e1d88b3c3c47a668bcc2c78ea742d03f4d9f3920d9b77e5bd8fb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All58unique479verdicts,sevenqualifiers,fiveactualauthorgroups/assessmentsread;all58whole477retained489. Separateall58complete489English editorialsourceorderread,thenpurepunctuation42/47/57withfullJP/current/proposed491read. Other55whole489exact. Author102/independent103pertinent+1incidentalJP250prepsseparate. Author45context planned defeat is historical inference only, NOT source fact; spokenEnglishmakesno deliberate-defeatclaim. Actual1185; shared182names/finalCURRENTMAINprooffollow. Testsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy_review_sha256": "a014f1cfd56396d51eb068f5e6fd60636867fc121dbf870fe686c8a1d87fe9da",
+ "status": {
+  "id": "ELF/rodata:000021B8",
+  "source_sha256": "529d475c38666340b5fd81e3749fa700786e84202bd5ffb9cbc0687b9adfbe2e",
+  "en": "%%1Cannon%%0　%3d %s\n%%1Support%%0　%3d %s\nRepair　%3d％\nVs Ships(％)\n %%1AT%%0%03d %%2DF%%0%03d\nVs Units(％)\n %%1AT%%0%03d %%2DF%%0%03d",
+  "full_meanings": [
+   "Bombardment Power",
+   "Support Power",
+   "Repair Power",
+   "Anti-Ship Efficiency",
+   "Anti-Unit Efficiency"
+  ],
+  "abbreviation_context": "Cannon/Support/Repair identify the same three numeric power/capability statistics; Power is implicit in the numeric status context. Vs Ships/Vs Units preserve both target classes and the against relation; Efficiency is implicit in the explicitly retained percent heading and paired AT/DF values. These are compact UI captions, not standalone full translations or omitted effect clauses. All format placeholders, AT/DF, percent signs, spacing and six LFs remain."
+ },
+ "buttons": [
+  {
+   "member": 10059,
+   "en": "Unit"
+  },
+  {
+   "member": 10060,
+   "en": "Item"
+  },
+  {
+   "member": 10061,
+   "en": "Cannon"
+  },
+  {
+   "member": 10062,
+   "en": "Repair"
+  },
+  {
+   "member": 10063,
+   "en": "System"
+  },
+  {
+   "member": 10064,
+   "en": "Check"
+  },
+  {
+   "member": 10065,
+   "en": "End Turn"
+  }
+ ],
+ "editorial": "Read complete reviewed captions in status/button context; wording retained. Numeric context supports the reviewed compact labels.",
+ "glossary": "No proper-name terms in this bounded UI set; AT/DF and established Unit/Cannon/Repair kept. Run the project variant audit before integration.",
+ "proofreading": "Read saved English field values in order; capitalization, End Turn spacing, exact selectors/printf and six LF boundaries checked."
+}

@@ -1,0 +1,1240 @@
+{
+ "table": "04936_10414",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81903C02}{C:81958296F63500000000}Hey, I found a good shop.\nDo you want to check it out?\n\n\n{x00}",
+   "source_sha256": "59f2dffd58387f319e729d241d5c0a28286feb098b30930ea83c9f68f93a95c0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81903C02}{C:81958296F73500000000}You're not in the mood?\nWell, it can't be helped.\n\n\n\n{x00}",
+   "source_sha256": "9a205ad6c0ffe0fa2b423cce13aec07031f86d08f2ef49f154dcdb5d2b413940",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81903A02}{C:81958296F93500000000}Hey, mister.\nI know a good shop.\nDon't you feel like checking it out?\n\n\n{x00}",
+   "source_sha256": "77bbb54c9c83c45cdf6558407dc6fdae15272804da7fd3100be1badfcac94114",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81903A02}{C:81958296FA3500000000}Come by whenever\nyou feel like it.\n\n\n\n{x00}",
+   "source_sha256": "7c588657531a56b05afe7a56f149f85fd43157874feb125782628227dce10156",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81905502}{C:81958296FB3500000000}Listen! Listen!\nI found this really\namazing shop!\n\n{C:81958296FC3500000000}Hey, hey!\nDo you want to check it out?\n\n\n{x00}",
+   "source_sha256": "e49f761cdb99ff24d494fa95e278c9c35a4027944a710ae65c6e9835e0f070f3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81905502}{C:81958296FD3500000000}Really?\nThen maybe we can go another time.\n\n\n\n{x00}",
+   "source_sha256": "09c2759dd0951a7edca75f4e80bd7239657e5412162af2fce7c93f903daedf16",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81903902}{C:81958296FE3500000000}I know a good shop through my connections.\nTrust me. Do you want to give it a try?\n\n\n{x00}",
+   "source_sha256": "d52dada9950cdf9a2235b77c93f4477ac7d2c29c79cda7efd24fc293a57c7f08",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81903902}{C:81958296FF3500000000}Then we'll leave it for another time.\n\n\n\n{x00}",
+   "source_sha256": "84735658c3bc329984b7f456420f7e1f281b08a02bc6a5d2f57d384609dd90ab",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:8190CB02}{C:81958296003600000000}I know a good shop through my connections.\nTrust me. Do you want to give it a try?\n\n\n{x00}",
+   "source_sha256": "fa6619056deb61c2b29dd82322bd2b138e9ecf49348cb7bd2a501a00703980cd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:8190CB02}{C:81958296013600000000}Then we'll leave it for another time.\n\n\n\n{x00}",
+   "source_sha256": "15eed3f37778dbf1712d34dc0ae158ceadf735ba46a74b56439c32c0808d43d0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:8190D902}{C:81958296023600000000}Apparently, someone wants\nto do business with you.\nDo you want to meet them?\n\n\n{x00}",
+   "source_sha256": "5af7502c89270069635f969a5df372ac52c1cd56a216fd41c7e72062f08665f6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:8190D902}{C:81958296033600000000}See you around, then.\n\n\n\n{x00}",
+   "source_sha256": "ba10dbeb18581e9fc0538b857f2861695a11535ccfdea9e850f56b485c33e9fd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n\n{C:8190CA02}{C:81958296053600000000}I found a shop you all\nmight need...\nDo you want to check it out?\n\n\n{x00}",
+   "source_sha256": "4c4de8d632d1804d16e17619f6bde9f22823085d830ab142833d97e417c56358",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:8190CA02}{C:81958296063600000000}See you around, then.\n\n\n\n{x00}",
+   "source_sha256": "3324c631e9b5dd4a7be6d2a66ed966ffc8c4f3e908926afc7534e4aabd9282d6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81905801}{C:81958296073600000000}Oh!\nI know a good place!\nShall we go?\n\n\n{x00}",
+   "source_sha256": "4b2ba2245edaa4e83d4c3023c650b729ee0a76be9953ee54056680d7f8cfbe2f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81905801}{C:81958296083600000000}That's a terrible shame!\n\n\n\n{x00}",
+   "source_sha256": "aed22b51d8c24656fe2bbd30f8100716f79ef0ada25a9f45931606ab6659b975",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:8190CC00}{C:81958296093600000000}Good to see you.\nI've got all sorts of things ready.\nWhy don't you buy something?\n\n\n{x00}",
+   "source_sha256": "d567521700a6fa5036dc0f5be3aaa7cbc59e158a72208138de2671d6ac3a8542",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:8190CC00}{C:819582960A3600000000}I've got a good selection,\nso come back again.\n\n\n\n{x00}",
+   "source_sha256": "b7dbf465e6d92feec2e11d8623887f5c6bab550dfa872eea2d2c67ac9fc2458f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:8190B701}{C:819582960B3600000000}Hey, boy!\nI found a great shop.\nDo you want to check it out?\n\n\n{x00}",
+   "source_sha256": "72db7b1556344893d10a74aac761b2f79f27c1e8c374cedc7e83eddfed4324b3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:8190B701}{C:819582960C3600000000}Ouch!\nThen let's go next time.\n\n\n\n{x00}",
+   "source_sha256": "cf86586af33dbaf82a446455dae97f199b597ddcad32b8bc636266b7e43b1bea",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:8190A702}{C:819582960D3600000000}Hey, hey, I found something fun!\nI'll show you, so come along!\n\n\n{x00}",
+   "source_sha256": "9e75e001c58cebe4135e8cc4a8f232313e37c76969e44cc3abac711a6633b3dc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:8190A702}{C:819582960E3600000000}That's no fun, but I guess it can't be helped.\n\n\n\n{x00}",
+   "source_sha256": "48c3e977961c91e064fe9b0fe1c79b022f48414e68ad2dd00e20b596541ac202",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81903402}{C:819582960F3600000000}Hey, hey! Come over here a second.\n\n\n{x00}",
+   "source_sha256": "074476e95036ecc267e1f872e547540e41c0443056133e3a02a7810f518cf384",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81903402}{C:81958296103600000000}There's such a fun place to go.\nWhat a shame.\n\n\n\n{x00}",
+   "source_sha256": "353f8ef0ee8806e80fff6d36d5a4d4cf7d4f5111e9c33ff741b9185539e00082",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81900C01}{C:81958296113600000000}Hey, I got hold of\nsomething interesting.\nDo you want to trade?\n\n\n{x00}",
+   "source_sha256": "913c2e97e5fb572acc17819a5abd4424a25b4f5d2456ce25ea3e637d2f453586",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81900C01}{C:81958296123600000000}Then let's trade\nwhenever you feel like it.\n\n\n\n{x00}",
+   "source_sha256": "008c2cd31e85caa20602df3c11986b563ac29743ec62e1a15c5aff2e735a057f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:8190CC02}{C:81958296133600000000}Hmm-hmm!\nWouldn't you like something nice?\nI might just be willing to trade.\n\n\n{x00}",
+   "source_sha256": "b516698da113d1f0fc99cae4dec42d12dc08d6e28ec90ab00d5e1bb28c156bdc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:8190CC02}{C:81958296143600000000}Tch.\nWell, I guess it can't be helped.\n\n\n\n{x00}",
+   "source_sha256": "649793caac9b0f255282439286d12118fa6f4e5002fab3489f94621c44438a1b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:8190D202}{C:81958296163600000000}I've got something unusual.\nI'd be willing to trade it.\n\n\n{x00}",
+   "source_sha256": "3138c52d6d010afce0dfa715598cb188ddc9f54eff544e00a91a140b7953e504",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:8190D202}{C:81958296183600000000}I'll trade with you anytime\nyou feel like it.\n\n\n\n{x00}",
+   "source_sha256": "98a31a5619e04161b314f12049069d5d32cddd04044d20580a860aba957d28e4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:8190CB00}{C:81958296780100000000}I'll give you something good,\nso would you trade with me?\nI've got expenses to cover, too.\n\n\n{x00}",
+   "source_sha256": "d3b39c058e447ebab1f7db77bd3ee6d60c7409a7b91d506a96ff596b0ea94219",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:8190CB00}{C:81958296D90000000000}I'm counting on you to look after Chirico and the others.\nThey're really, really\nawkward, you know.\n\n\n\n{x00}",
+   "source_sha256": "f0f1c68214a06886a0f29d76a21734c1d75016220990116725ce0a42a431c76c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:8190B601}{C:819582961C3600000000}Do you want this?\nI can't use it myself,\nbut it's good stuff.\n\n\n{x00}",
+   "source_sha256": "7d0fb72a592db1e5ff16fca3d4928fb3848f9e059a967e05b6fdef11a24e96a4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:8190B601}{C:819582961D3600000000}Hee-hee-hee... What a shame.\n\n\n\n{x00}",
+   "source_sha256": "0458e3418501a4123cd5160f5d2c8fd5227133f73c718997e981f27cc3f930b6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:8190B901}{C:819582961F3600000000}Would you care to trade goods?\n\n\n{x00}",
+   "source_sha256": "691c45090ee9723bf7ec7063ecbd1d665de96fa6b343e14a7c733174939bcf53",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:8190B901}{C:81958296203600000000}If you'd like, let's trade next time.\n\n\n\n{x00}",
+   "source_sha256": "df61678b0bd5d8a25db4299a208edeaa24b93ed30dbea0a309eddd3bbadd30cd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:8190D601}{C:81958296213600000000}I have something that would be useful to you all.\nI would be willing to agree to a trade.\n\n\n{x00}",
+   "source_sha256": "b381afb20764ac68a3c614ec33dddb23f1cb54576f80f998cfbb0b79f5c9a108",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:8190D601}{C:81958296223600000000}Oh my, what a shame.\n\n\n\n{x00}",
+   "source_sha256": "8f65eda7b6baaf1d302b972c2e2af9257d9d2fa13b32eaee0e1ebfe00ed6f86b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:8190A802}{C:81958296233600000000}I'd hate to part with it,\nbut you all should be able to put it to good use.\n\n\n{x00}",
+   "source_sha256": "a05a85af5aa6a597afc28824988107f3888959f54c466596805b704d7e14e5f7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:8190A802}{C:81958296243600000000}I see. It wasn't something you needed.\nWell, look forward to next time.\n\n\n\n{x00}",
+   "source_sha256": "9cb8e5c19f8ae0cb17c7e5058dbb3dac629765d8941de93d9d776678fc713fb8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:8190D302}{C:81958296253600000000}What, you want this?\n\n\n{x00}",
+   "source_sha256": "24b9c3d1858e4b9cc5128695350546be4dd8a94b9eefbb25859c659ea4354563",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:8190D302}{C:81958296263600000000}Well, I'll trade with you\nwhenever you feel like it.\n\n\n\n\n{x00}",
+   "source_sha256": "38705d058c5abfdec5b352a0fcc8a62483e30058ed364ed242bc2c36d6590464",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:8190D502}{C:81958296DF0100000000}You'd feel bad taking it for free,\nwouldn't you?\nShall we trade?\n\n\n{x00}",
+   "source_sha256": "736bfd80ccdc0943b6f1a9740267aba43a89b7ab0e4adf9d5eb4f1cb63c6fed0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:8190D502}{C:81958296E00100000000}Give and take is\nthe basic rule, after all.\n\n\n\n{x00}",
+   "source_sha256": "24e090def0ac985305331e8331cba520cbbf6501d1456fc1bae3f9ae589fa58d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81900B00}{C:819582967C0100000000}You must have all sorts of expenses.\nTake this with you.\n\n\n\n{x00}",
+   "source_sha256": "7f56e5330e490da1b898b4782d9d7b3011ae4356a81328b1d1845cbe8c1ee68b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81900B00}{C:819582967D0100000000}I hope it comes in handy.\n\n\n\n{x00}",
+   "source_sha256": "aeb9af4bdd736d26dadce597eabe4cacff21aa395ba2ef75536b6b9fcaa57117",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:8190CD02}{C:81958296283600000000}Hey, here, you can have this.\n\n\n\n{x00}",
+   "source_sha256": "9a3995b861f1247c3494a330188283a6a24c4c106f23dd792446c3898cd98b24",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:8190CD02}{C:81958296293600000000}Bye-bye!\n\n\n\n{x00}",
+   "source_sha256": "10fd3e8568930d05b63dbd9dcf6187755cfecc3ecbc46dd99b3ecf44579de09f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81902400}{C:819582962A3600000000}Thank you for all your hard work.\nThere's nothing I can do, but\nplease take this with you.\n\n\n\n{x00}",
+   "source_sha256": "f1a5a1863f1d394a50de10e91ab8db9b77aaabda03e8030e45e4ac67c209b4a9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81902400}{C:819582962B3600000000}I'm sorry this is all\nI can do to help.\n\n\n\n{x00}",
+   "source_sha256": "54a9a67e1e974fc803f27a720944dafe6dc4d4221d7e84a397e359c764851e0f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:8190CA00}{C:819582962C3600000000}Heh-heh! Here, you can have this.\nIt's a present from yours truly!\n\n\n\n{x00}",
+   "source_sha256": "1ced3cdb5285cd0da1f6d216724d4c91cf6b88fe68820c29f1eed625c44c6d80",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:8190CA00}{C:819582962D3600000000}I'll keep an eye out for something else for you.\n\n\n\n\n{x00}",
+   "source_sha256": "30a089a6a153898780e2480fc74b708cbc44fdd3440e1ab59d99c013a8090395",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:8190DA00}{C:819582962E3600000000}You who touch the Untouchable,\nas a token of my respect,\nI'll give you this.\n\n\n\n{x00}",
+   "source_sha256": "e1d5a54949edcbc4dff7d05f82adbc4b51f8d36448c0a019a29d343294667e1f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:8190DA00}{C:819582962F3600000000}Go, then.\nMy business is finished.\n\n\n\n{x00}",
+   "source_sha256": "49efb81c204f10bdd5d620a08f2d6de107f6279f7cd0af1943971ab0f81779ef",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:81900B01}{C:81958296E10100000000}Aw, Jojo's not here.\nOh well. Here, you can have this.\n\n\n\n{x00}",
+   "source_sha256": "ddcba34d2a1a97ae331fa96c12b9e56ff0602ed20729408be7640995dbcbaf87",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 55,
+   "en": "\n{C:81900B01}{C:81958296E20100000000}Well, then,\nsay hi to Jojo for me!\n\n\n\n{x00}",
+   "source_sha256": "76a8fe7412ffaed97b95a7a1ac9cb963b369ac80774dc26ac725c17280295d2a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 56,
+   "en": "\n{C:81900D01}{C:81958296313600000000}You boys\nhave been working hard, I hear.\nHere's your reward.\n\n\n\n{x00}",
+   "source_sha256": "6d71ab11d1a6c3b1b746478c1c93ffcce7a40489a72f2ee3ce754f3a3250b825",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 57,
+   "en": "\n{C:81900D01}{C:81958296353600000000}Keep up the good work.\nThe world is counting\non all of you, after all.\n\n\n\n{x00}",
+   "source_sha256": "48b77ba1884957e3f3af1394fff7b14caaacc6442a12884cfe106ab2100f5695",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 58,
+   "en": "\n{C:81900E01}{C:81958296363600000000}I came by this item,\nbut I have no use for it.\nYou should be able to put it to good use.\n\n\n\n{x00}",
+   "source_sha256": "7e2d5cfd359100f4f30af2c8c9e27f9d2b90d3317f188ab455b33faca76e0d1b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 59,
+   "en": "\n{C:81900E01}{C:81958296373600000000}Please look after my prince.\n\n\n\n{x00}",
+   "source_sha256": "056840619f79d81f7370370f67bd438a0dde7391de60bc50b0ac560e36e5f18a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 60,
+   "en": "\n{C:81902301}{C:81958296383600000000}Um... I was entrusted with this\nby the Liberation Front.\n\n\n\n{x00}",
+   "source_sha256": "76cdf831eaa5248a80cb4ab70ce40da8157a4f494556b48472f07f707c5429a8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 61,
+   "en": "\n{C:81902301}{C:81958296393600000000}I know all this fighting must be hard,\nbut please keep doing your best.\n\n\n\n{x00}",
+   "source_sha256": "60673167f577eccfe0d08c123e29181a90170e7b45e6479fdbe1f5158af4b267",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 62,
+   "en": "\n{C:81902401}{C:819582963A3600000000}This is for you all.\n\n\n\n{x00}",
+   "source_sha256": "131b0635dbd4a14da5f73ca2659a22700a6ba5168d8f19bc9c3c77fdd39f9f56",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 63,
+   "en": "\n{C:81902401}{C:819582963B3600000000}See you around, then.\n\n\n\n{x00}",
+   "source_sha256": "8524f74434633b3b1c1e4b8aea2f93b6029a049994d4b58602cd0c754cac4585",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 64,
+   "en": "\n{C:81905701}{C:819582963C3600000000}Are you hard at work and full of energy again today?\nThen here's a present for you!\n\n\n\n{x00}",
+   "source_sha256": "43a22f136f9a57075ded3c298bff48dc4f99007a0354fb659f048b0d36d53e6a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 65,
+   "en": "\n{C:81905701}{C:819582963D3600000000}Do your best alongside Guy\nand protect the peace.\n\n\n\n{x00}",
+   "source_sha256": "0a0261e6f728756c48d289f91eb0c72f6675371931fc549a60184986acb56f45",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 66,
+   "en": "\n{C:81906101}{C:81958296443600000000}Heroes!\nYou fight for peace every day.\nHere's a gift from me!!\n\n\n\n{x00}",
+   "source_sha256": "1f7db1e97e9d9b2f87ad929ff27fe3cd860fa7cdb61df263fdd3e04d2cbb137f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 67,
+   "en": "\n{C:81906101}{C:819582963E3600000000}I'm leaving the world in your hands, heroes!!\n\n\n\n{x00}",
+   "source_sha256": "6659d1db7889dd711817810a79450a8b19aaf71aa120880bdd33e1d63777833e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 68,
+   "en": "\n{C:81906401}{C:819582963F3600000000}You should take this with you.\n\n\n\n{x00}",
+   "source_sha256": "15ca115f8000a08c6565d98f0c365521a970d9667862697ffa277623ec364fc7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 69,
+   "en": "\n{C:81906401}{C:81958296403600000000}I can't do anything else to help.\nI'm sorry about that.\n\n\n\n{x00}",
+   "source_sha256": "c51107cf1e72284b0691f22ab08d726f6e9c98358914fae25ab54ec3a687d332",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 70,
+   "en": "\n{C:8190B801}{C:81958296413600000000}I'm sorry it's just something I picked up,\nbut you can have it, bro.\n\n\n\n{x00}",
+   "source_sha256": "f98b13bd742682a0d557d8ed03ed3a43980c568dc984bbbc5366d3f33446ea1c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 71,
+   "en": "\n{C:8190B801}{C:81958296423600000000}If I pick up anything interesting,\nI'll give it to you again!\n\n\n\n{x00}",
+   "source_sha256": "ba80dfbd4f1f02bc4c98ca9f21677598a8ba5a26629ffca992dc5a4721a92214",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 72,
+   "en": "\n{C:8190D301}{C:81958296433600000000}I happened to come by this.\nI have no need of it,\nso please take it.\n\n\n\n{x00}",
+   "source_sha256": "02b303977305fd640fb41e5048a2419bfa4c85044cf9c9556d75a199cb33f72a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 73,
+   "en": "\n{C:8190D301}{C:81958296453600000000}Truthfully, I don't want you to fight,\nbut I suppose that can't\nbe helped right now.\n\n\n\n{x00}",
+   "source_sha256": "f132ea68dd02650205bd9cad2d5e31ed299c554535df638537b4f30620a29dbd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 74,
+   "en": "\n{C:8190D501}{C:81958296463600000000}I'm giving you a gift\nto help Trowa come back\nas soon as possible.\n\n\n\n{x00}",
+   "source_sha256": "9c341a8f9e9efb195a2c8043aa9fd4c22ecc0746d20ff7eada90f8c57447cf89",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 75,
+   "en": "\n{C:8190D501}{C:81958296473600000000}I hope this fighting ends\nas soon as possible.\nPlease take care of Trowa.\n\n\n\n{x00}",
+   "source_sha256": "539eb3129803ad9cfc799556dc9f356b90288b23d8871d01e0f5c6678431f293",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 76,
+   "en": "\n{C:8190D701}{C:81958296483600000000}Here's a present\nfor all of you working so hard.\n\n\n\n{x00}",
+   "source_sha256": "13a20f7c139b982efb2f2bb8eef9e259e9c081b618ac2b93f02c000b9c798dcc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 77,
+   "en": "\n{C:8190D701}{C:81958296493600000000}Let's bring this fighting to an end\nas soon as possible.\n\n\n\n{x00}",
+   "source_sha256": "6d2ea1599f0ea83e00a27367ad145b18fd728b9a5087185e5f353d9bff663c7e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 78,
+   "en": "\n{C:8190E701}{C:819582964A3600000000}Take this with you.\n\n\n\n{x00}",
+   "source_sha256": "4312bbf4ae5173ca38dbb2279724c7dd7a2a89778aed89e4f4440f44ed33c1d3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 79,
+   "en": "\n{C:8190E701}{C:819582964B3600000000}I'll have something ready for you.\nCome back again.\n\n\n\n{x00}",
+   "source_sha256": "01916779ef7d33aa905f0dbc7b5b25fc6c2ec845a78286ff62affec9664d1a2b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 80,
+   "en": "\n{C:81905402}{C:819582964C3600000000}Um, please take this.\n\n\n\n{x00}",
+   "source_sha256": "da1e2eacd649b2548f7a692e987a8970af6b1188071abdd535c37d3417116ce2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 81,
+   "en": "\n{C:81905402}{C:819582964D3600000000}I only happened to come by it,\nso don't worry about it.\n\n\n\n{x00}",
+   "source_sha256": "cc0085ffdafe7b7388202dc958550b8c03b53d58c0b4084b5f60429f501215e6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 82,
+   "en": "\n{C:8190A402}{C:819582964E3600000000}Master Roger\nentrusted this to me.\nPlease accept it.\n\n\n\n{x00}",
+   "source_sha256": "04d53aae12393a7e88c6b1a54d73b8be10f5906252fb2f19a9f59fb9af4487f4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 83,
+   "en": "\n{C:8190A402}{C:819582964F3600000000}If it's all right,\nplease thank Master Roger.\n\n\n\n{x00}",
+   "source_sha256": "c3fa271a4a1c6e99eec05212c8c7156a9feace490500c08183522301d147a5d6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 84,
+   "en": "\n{C:8190CF02}{C:81958296503600000000}Here's something for all your help.\n\n\n\n{x00}",
+   "source_sha256": "2964a350aa362733ad5d1d29b7eba7fabae33e9ba5342f3f1f251121eb96aea6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 85,
+   "en": "\n{C:8190CF02}{C:81958296513600000000}Was it any help, even a little?\n\n\n\n{x00}",
+   "source_sha256": "b8f917e7c36bc0227ea23e64006259f83b66e695ef359ccf712c0b3e01dbd360",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 86,
+   "en": "\n{C:8190D002}{C:81958296523600000000}This is to apologize for the trouble\nwe've been causing you over Hayato and other things.\n\n\n\n{x00}",
+   "source_sha256": "86e0f464439028e202bf248ec346ec8768d0b0f6cc43fdc5bb199e65302338d0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 87,
+   "en": "\n{C:8190D002}{C:81958296533600000000}I'm counting on you to keep helping out.\n\n\n\n{x00}",
+   "source_sha256": "b2b68d96c18534359d65fa9ad4440325baab622f0770d3051341ef5c1110444f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 88,
+   "en": "\n{C:8190D402}{C:81958296543600000000}Here, you can have this.\n\n\n\n{x00}",
+   "source_sha256": "28c66d00ab3357165b67afaa538200dfd4f80fc6ff092676e7e0bfb2f49359de",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 89,
+   "en": "\n{C:8190D402}{C:81958296553600000000}Hurry up and beat the hell\nout of them for me.\n\n\n\n{x00}",
+   "source_sha256": "86c342e3a8ff993b1c02dac5dae530c22b960af324230a8a3f29743cb4a2d16d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 90,
+   "en": "\n{C:8190D702}{C:81958296563600000000}Heh-heh!\nDo you want to buy this?\nIt's...\n\n{C:8190D802}{C:81958296573600000000}Don't be so stingy.\nCan't you just give it away for free?\n\n{C:8190D702}{C:81958296583600000000}Yeah, yeah. I get it.\n\n\n\n{x00}",
+   "source_sha256": "37d223d3e1f393695251e34234ccfd196f0b49f63f503998cbe4ed523d0d7fcd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 91,
+   "en": "\n{C:8190D702}{C:81958296593600000000}I gave it to you, so be grateful!\n\n{C:8190D802}{C:819582965A3600000000}I'm telling you, that remark is unnecessary!\n\n\n\n{x00}",
+   "source_sha256": "efa7d714c806ffe23729d9edd29652f98e7fd94545b1c64de8b70c1e4d5c760b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 92,
+   "en": "\n{C:8190DA02}{C:819582965B3600000000}Here you go!\n\n\n\n{x00}",
+   "source_sha256": "27a253dfe6646893ce2c11a161c3d12bea856d6f7626f1d5ea41784f85d465d5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 93,
+   "en": "\n{C:8190DA02}{C:819582965C3600000000}You helped out,\nso this is to thank you!\n\n\n\n{x00}",
+   "source_sha256": "f03064709030b91677b9fe7d0b6e0d8e85ead06421e1432c2c8db94c2b38546c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 94,
+   "en": "\n{C:819582860200010002000000}\n{C:81930100}{C:819782960100}'s proposal: will you go along with it?\nYes\nNo\n{x00}",
+   "source_sha256": "2dde79be2f1b09f91b8829eb89052fb6f1d016f9844b6550b29318e6ba68ab2f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "All95 independent377/379 unique accuracy verdicts/omissions/qualifications and full guarded86 proposal read, then separate80+15complete English editorial reads. Focused386 source recheck resolves row50 playful gift wording; full guarded proposal and qualifications read. Preserve every literal control/LF/within-row turn/native speaker/voice/function, ordinary complete subjects/predicates, gift/trade/care direction, emotional force, genuine interruptions and runtime names/choices. Actual glossary script follows meaning edits; separate full CURRENT MAIN proofreading follows glossary audit. Existing working translations/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

@@ -1,0 +1,616 @@
+{
+ "table": "04908_10386",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n\n{C:81900C00}{C:81958296E81F00000000}So this place is already caught up in conflict.\nJust what I need.\n\n\n{x00}",
+   "source_sha256": "ba9c40792980b9235f31bf7da8064abdb03759a826ae9dbd74d75099f12d9fb7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930200}{C:81958296EA1F00000000}Are you going to start a war on this continent too?\nPlease stop this already.\n\n{C:81930C00}{C:81958296EB1F00000000}Start a war? Don't be ridiculous.\nLook! There's already fighting\non this continent!\n\n{C:81930200}{C:81958296ED1F00000000}That doesn't mean you can spread Claudia's war\nto the other continents!\n\n{C:81930C00}{C:81958296EF1F00000000}...It's for the world, and for that person...\n\n{C:81930200}{C:81958296F01F00000000}That person?\n\n\n{C:81930C00}{C:81958296F21F00000000}It's none of your concern.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "289646ab52ce0097e3c207ef11c462baf2b020bc298840fa1ac4bda0598c2fdb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8190CC00}{C:81958296312000000000}Hey, young fellow!!\n\n{C:81930100}{C:81958296322000000000}...Who are you?\n\n{C:8190CC00}{C:81958296332000000000}I'm {C:819782830400}Bouleuse Gotho.{C:819782830000}\nYoung fellow, how'd you like\nto become an AT pilot?\n\n{C:81900300}{C:81958296342000000000}What's an AT pilot?\n\n{C:8190CC00}{C:81958296352000000000}You don't even know that?\nAnd here I thought I was a good judge of people.\nI sure got that wrong!\n\n{C:81958296362000000000}Honestly!\nAll these folks coming from other continents\nhave brought no end of strange characters lately.\n\n{C:81930100}{C:81958296372000000000}I'm sorry.\n\n{C:8190CC00}{C:81958296382000000000}Oh, I don't mean you folks.\nDon't worry about it.\n\n{C:81900400}{C:81958296392000000000}Since we're already troubling you,\ncould I ask you something?\nDo you know anyone who's good in a fight?\n\n\n{C:81900300}{C:819582963A2000000000}Nelfea?\n\n{C:81900400}{C:819582963B2000000000}We're bound to end up fighting here too,\nso we'd be better off with someone strong on our side.\n\n{C:81900300}{C:819582963D2000000000}That's true, but...\n\n{C:8190CC00}{C:819582963E2000000000}Oh, so there's a story behind this.\nFighting, eh...? In that case,\nhe's your best bet.\n\n{C:819582963F2000000000}Try this town's {C:819782830300}bar{C:819782830000} and ask for {C:819782830400}Chirico{C:819782830000}.\nHe's not very friendly,\nbut his skills are first-rate.\n\n{C:81930100}{C:81958296412000000000}Chirico... you said?\n\n{C:81900300}{C:81958296422000000000}What's wrong, big brother?\n\n{C:81930100}{C:81958296432000000000}I feel like I've heard that name somewhere...\nNo, I must be imagining it.\n\n{C:8190CC00}{C:81958296442000000000}Once you've met Chirico, come out to the \n{C:819782830300}outskirts{C:819782830000}.\nThat's where my shop is.\n\n{C:81958296452000000000}Maybe fate brought us together here.\nI'll help you out too.\n\n{C:81930100}{C:81958296462000000000}Thank you.\nIn any case, we'll try\nlooking for Chirico.\n\n{C:8190CC00}{C:81958296472000000000}He's at this town's bar.\nYou'll spot him right away.\nHe sticks out like a sore thumb.\n\n\n\n{x00}",
+   "source_sha256": "8d96db571b2a7df444f49893ca54f6430f18965483a221387b190a51a846111b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81900400}{C:819582965C2000000000}Someone who looks out of place here...\nMaybe it's that man.\n\n{C:81900300}{C:819582965D2000000000}Big brother, go ask him.\n\n{C:81930100}{C:819582965E2000000000}Excuse me...\nUm, are you Chirico?\n\n{C:8190C800}{C:819582965F2000000000}I am.\n\n{C:81930100}{C:81958296602000000000}Well, we'd like you\nto help us in our fight.\n\n{C:8190C800}{C:81958296622000000000}I refuse.\nYou can't fight with women and children in tow.\n\n{C:81930100}{C:81958296632000000000}Gotho told us about you.\nCould you at least come with us\nto the outskirts?\n\n{C:8190C800}{C:81958296642000000000}Gotho did...?\nAll right. I'll go with you.\n\n\n\n{x00}",
+   "source_sha256": "85b36fc9befd08d0d9b65c96cfcd435167ee944ad905b13ae8b461c5602389c6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:8193C900}{C:81958296662000000000}Wake up...\nWake up, {C:819782830400}Epsilon.{C:819782830000}\n\n{C:8190C900}{C:81958296672000000000}Come on, wake up, Epsilon.\n\n{C:8193D400}{C:81958296682000000000}Ah... hah...\n\n{C:8190C900}{C:81958296692000000000}You were born into this world\njust now.\n\n\n{C:8190D400}{C:819582966A2000000000}Born...?\n\n{C:8190C900}{C:819582966B2000000000}You are Epsilon.\n\n{C:8190D400}{C:819582966C2000000000}Epsi...\n\n{C:8190C900}{C:819582966D2000000000}lon.\nThat's your name.\n\n{C:819582966E2000000000}And I'm Fy...\nProto One.\n\n{C:819582966F2000000000}Come with me.\nI'll show you the world.\n\n\n\n\n{x00}",
+   "source_sha256": "56fe9747c7c2feecbbcac66884588f75a57a7cbd7af76915510f224e16fcab4f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930100}{C:81958296702000000000}...And that's why\nwe followed the Norstan here.\n\n{C:8190C800}{C:81958296722000000000}I see.\n\n{C:8190CC00}{C:81958296732000000000}I see? Is that all you've got to say?\nCan't you give them an answer,\nlike whether you'll help or not?\n\n{C:8190C800}{C:81958296742000000000}{C:819782830400}Fyana{C:819782830000} comes first. I have to get her back...\n\n{C:8190CC00}{C:81958296752000000000}What, you're still hung up on {C:819782830400}Phantom Lady{C:819782830000}?\nHey, hey, don't glare at me,\nChirico.\n\n{C:81930100}{C:81958296762000000000}There's someone on the Norstan\nthat I want to get back too.\n\n{C:81958296772000000000}To do that, we need people on this continent\nwho'll help us as well.\n\n{C:81900300}{C:81958296782000000000}Big brother...\n\n{C:8190C800}{C:81958296792000000000}...All right. I'll help you.\nBut you'll help me first.\nThat's my condition.\n\n\n{x00}",
+   "source_sha256": "5607bfeb362b8f4d439584d92c3b333a8dd5f975e2a61d222374aa7786e832ed",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81900400}{C:819582967B2000000000}In our position,\nwe have no choice but to accept his condition.\n\n\n{x00}",
+   "source_sha256": "e73beddb0064f6b0cb774b09e1d9ad29426b9c01db65e3b8d8528a1c7abd5312",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:8190CA00}{C:819582967C2000000000}Hey, old man!\nThat sounds like an interesting conversation.\nLet me in on it too!\n\n{C:8190CB00}{C:81958296150000000000}Oh, me too, me too!\nOf course I'm joining in!\n\n{C:8190C800}{C:819582967D2000000000}{C:819782830400}Coconna{C:819782830000}, {C:819782830400}Vanilla{C:819782830000}...\n\n{C:8190CB00}{C:81958296160000000000}You're treating us like strangers,\nChirico, my boy.\n\n{C:8190CA00}{C:819582967E2000000000}That's right, Chirico.\nWe're your friends, aren't we?\n\n{C:8190CC00}{C:819582967F2000000000}There you have it.\nShow a little gratitude, Chirico.\n\n{C:81930100}{C:81958296802000000000}So, what should we do?\n\n{C:8190C800}{C:81958296822000000000}First, there are two men: {C:819782830400}Murza{C:819782830000} and {C:819782830400}Byman.{C:819782830000}\nFind them in the towns.\nBy then, {C:819782830400}Gregore{C:819782830000} should be back too.\n\n{C:81930100}{C:81958296832000000000}{C:819782830300}Gilgamesh{C:819782830000} and {C:819782830300}Kummen{C:819782830000}, right?\nLet's set out right away!\n\n\n\n\n{x00}",
+   "source_sha256": "7c31cac00b0d524689589da850e0647cca1d728c4326bf227c31d5edc2a53fd1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:8190CA00}{C:81958296862000000000}I've been asking around!\nIt sounds like that Murza fellow\nis on the outskirts.\n\n{C:8190C800}{C:81958296872000000000}I see.\n\n{C:8190CA00}{C:81958296882000000000}Well, well!\nYou're as cold as ever.\nDon't I even get a thank-you?\n\n\n{C:81930100}{C:819582968A2000000000}Thank you, {C:819782830400}Coconna.{C:819782830000}\n\n{C:8190CA00}{C:819582968C2000000000}It's all right.\nYou don't have to be so considerate.\n\n{C:81930100}{C:819582968D2000000000}I'm really impressed.\nWe have such a hard time\ngetting even a scrap of information.\n\n{C:8190CA00}{C:819582968E2000000000}Well, I'm from this continent,\nafter all.\nYou know what they say: to know a snake's ways, ask...\n\n{C:81900400}{C:819582968F2000000000}A snake.\n\n{C:8190CA00}{C:81958296912000000000}That's right, a snake.\nYou're a clever one.\n\n{C:81958296922000000000}As long as you're on this continent,\nleave information to me and supplies to the old man\nor Vanilla, and you'll be fine.\n\n{C:81930100}{C:81958296942000000000}I see.\nThen I'm counting on you when we're in trouble.\n\n{C:8190CA00}{C:81958296952000000000}Oh, honestly!\nYou're so sweet and straightforward!\n\n{C:8190C800}{C:81958296962000000000}We're going.\n\n{C:81930100}{C:81958296972000000000}Y-yes!\n\n\n\n\n{x00}",
+   "source_sha256": "d7eb5353306a9141c2a58402ea3d426663fc4b3f73396e4f5abe5282843d16d2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:8190DD00}{C:819582969E2000000000}Tch, this place has ended up like this too.\nWhat a pitiful sight.\n\n{C:8190C800}{C:819582969F2000000000}Murza...\n\n{C:8190DD00}{C:81958296A02000000000}So that's it. The time has come.\nAre you the only one here?\n\n{C:8190C800}{C:81958296A12000000000}Byman and Gregore are coming too.\n\n{C:8190DD00}{C:81958296A22000000000}Tch, that bastard's coming too?\nWell, fine.\nSo how are we getting around?\n\n{C:8190C800}{C:81958296A32000000000}Someone with a ship\nhas joined us.\nGetting around will be easy.\n\n\n\n\n\n{x00}",
+   "source_sha256": "126e02a86ce8c829c04556a06db96e7318958d942df2c9d1ced73fb8e1bbff07",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:8190CB00}{C:81958296180000000000}I got here first and asked around.\nThat Byman guy's on \n{C:819782830300}Main Street{C:819782830000}.\n\n{C:81958296190000000000}He's so full of himself.\nHe really rubs me the wrong way!\n\n{C:81900300}{C:81958296A52000000000}Now, now, calm down.\n\n{C:8190CB00}{C:819582961A0000000000}Oh, Rie!\nAre you trying to comfort me?\nYou're so kind!\n\n{C:819582961B0000000000}Maybe I ought to give you a kiss!\n\n{C:81900300}{C:81958296A62000000000}Big brooother!\n\n{C:81930100}{C:81958296A72000000000}Vanilla!\nRie's still a child.\nPlease don't tease her!\n\n{C:8190CB00}{C:819582961C0000000000}Ahahahaha!\nSorry, sorry!\n\n{C:81900400}{C:81958296A82000000000}Come on, everyone, quit fooling around.\nLet's go.\nChirico's already left!\n\n{C:81930100}{C:81958296A92000000000}But I wasn't fooling around...\n\n\n{x00}",
+   "source_sha256": "d4f3045cbfac938d8e644603a10796ff059280902f78bfd9d4c7355ec937c704",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:8190C800}{C:81958296AA2000000000}Byman.\n\n{C:8190DE00}{C:81958296AC2000000000}And here I was enjoying my vacation.\nI guess that's over now.\n\n{C:8190C800}{C:81958296AE2000000000}If you want out, suit yourself.\nWhat's it going to be?\n\n{C:8190DE00}{C:81958296AF2000000000}You still can't take a joke,\ncan you?\n\n{C:8190C800}{C:81958296B02000000000}We're going.\n\n{C:8190DE00}{C:81958296B12000000000}Yeah, yeah, I'm coming.\nEven if it's straight to hell.\n\n\n\n\n{x00}",
+   "source_sha256": "0c2a42bcb76f1075183b3097c27268a82fe9335d35171686a45999c3f5ab9921",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:8193C800}{C:81958296B32000000000}It's about time Gregore got back.\nGo straight back to {C:819782830300}Uoodo{C:819782830000}.\n\n\n{x00}",
+   "source_sha256": "45e8fee8eb9be330060fce63ddf5fa01e032711428ec149640d16c27dc7d7dc4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:8193C800}{C:81958296B52000000000}I thought I told you\nto head straight for Uoodo.\n\n\n{x00}",
+   "source_sha256": "ae0a67ad56f3841df3b447245d1da88be69f46c13ec8cf427d16964769ea2657",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:8190E100}{C:81958296B62000000000}Can we really rely on\nthis man, {C:819782830400}Roger Smith{C:819782830000}?\n\n{C:81906500}{C:81958296B72000000000}Hah!\nApparently he calls himself a renowned negotiator.\nWhat do I care?\n\n{C:8190E100}{C:81958296B92000000000}Posaydal's army shows poor judgment, too,\nletting someone like that negotiate.\n\n{C:81906500}{C:81958296BA2000000000}Shut up!\nIt's obvious he'll fail.\nThat's when my job starts.\n\n{C:8190E100}{C:81958296BC2000000000}A hostage, eh...? What a sneaky tactic.\nI seem to recall that woman Nei\nsaying something similar.\n\n{C:81906500}{C:81958296BD2000000000}Don't lump me in\nwith that vixen!\nI don't like you, old man.\n\n{C:8190E100}{C:81958296BE2000000000}The feeling is mutual. It can't be helped.\nWe're only working together\nbecause our interests coincide.\n\n{C:81906500}{C:81958296BF2000000000}Hmph!\n\n\n\n\n\n{x00}",
+   "source_sha256": "7e5e5b247fb6e0072dfb0c3d8635548106aa45a08a062f7543c0782d488f6226",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:8190C800}{C:81958296C02000000000}I want to get moving.\nLet's go straight to the {C:819782830300}bar{C:819782830000}.\n\n{C:8190DE00}{C:81958296C22000000000}That's where Gregore is, right?\n\n{C:8190C800}{C:81958296C32000000000}Yes.\n\n{C:8190DD00}{C:81958296C42000000000}Then I've got no objections.\n\n\n\n{x00}",
+   "source_sha256": "77e8a9a31046dcddb1cfb03beaac16692f4d53438f497c1caa90733e9a29182a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:8190C800}{C:81958296C52000000000}Gregore.\n\n{C:8190DC00}{C:81958296C92000000000}Hey, is everyone here?\nStill, every last one of you\nhas such a sour look on his face.\n\n{C:8190DD00}{C:81958296CB2000000000}Look who's talking.\n\n{C:8190DE00}{C:81958296CC2000000000}You look no different yourself.\n\n{C:8190DC00}{C:81958296CF2000000000}Keep running your mouths!\nChirico, are you ready?\n\n{C:8190C800}{C:81958296D12000000000}Our friends are getting everything ready\nat the junk shop on the edge of town.\n\n{C:8190DE00}{C:81958296D22000000000}Then shall we get going?\n\n\n\n\n{x00}",
+   "source_sha256": "a18a9583ed2380126e50d3ef199d1c741abab24fba57892d627a370220353a09",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:8190CC00}{C:81958296D32000000000}You're back.\nI got everything ready,\njust as Chirico asked.\n\n\n{x00}",
+   "source_sha256": "c8cc203ec103404bf346c3f75d005bfa2e7f438a549db6749edb2c6f70ac5000",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:8190C800}{C:81958296D42000000000}Thanks.\n\n{C:8190CC00}{C:81958296D52000000000}Don't mention it.\nNot with the history you and I have.\n\n{C:8190C800}{C:81958296D72000000000}The others will probably make\nthe adjustments themselves.\n\n{C:81958296D82000000000}And another thing...\n\n\n{C:81930100}{C:81958296D92000000000}What is it, Chirico?\n\n{C:8190C800}{C:81958296DB2000000000}We'll need some time to get ready.\nPlease wait until then.\n\n{C:81930100}{C:81958296DC2000000000}I understand.\n\n\n{x00}",
+   "source_sha256": "a6c74c49e8379de7d95ef1cc7bf12c40b43b99233b506eb976c0545d3b3414b1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930300}{C:81958296DD2000000000}Big brother,\ncould you come back to the Astante?\n\n{C:81930100}{C:81958296DF2000000000}Rie?\nDid something happen?\n\n{C:81930300}{C:81958296E02000000000}There's someone here\nwho calls himself a negotiator...?\n\n{C:81930100}{C:81958296E12000000000}A negotiator?\nI'll be right there.\n\n\n\n{x00}",
+   "source_sha256": "f2442a74b2c4234e0dc5f9e79d53d2f1728333c9a2e57d317b89e30c76bad6e9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81900400}{C:81958296E22000000000}I've asked the negotiator\nto wait in another room.\nCan I join in too?\n\n{C:81930100}{C:81958296E32000000000}Of course.\nCome on, let's go.\n\n\n\n\n\n{x00}",
+   "source_sha256": "e1050ac095a89a4997ef6461af006a7eefd7a3292017608e39b9b2491a90b939",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:8190A202}{C:81958296E42000000000}I'll get straight to the point.\nThe terms from Posaydal's army\nare as follows.\n\n{C:81958296E52000000000}Cease attacks on Posaydal's army.\nSurrender the Astante, GTs and FTs.\n\n{C:81958296E62000000000}In return,\nthey will cease attacks on Claudia\nand hand over Lun Forest. That's all.\n\n{C:81900300}{C:81958296E72000000000}That's so one-sided!\n\n{C:81900400}{C:81958296E82000000000}If we only consider Claudia,\nthose terms might be reasonable.\nThat doesn't mean I intend to accept them.\n\n{C:81900300}{C:81958296E92000000000}But is it all right for us\nto decide something this important?\n\n{C:81930100}{C:81958296EA2000000000}...Let's refuse.\nMaybe this really isn't\nour decision to make.\n\n{C:81958296EB2000000000}But just because it would save Claudia,\nthat's no reason for us\nto abandon the other continents.\n\n{C:8190A202}{C:81958296EC2000000000}Hahahahahahaha!\n\n{C:81900400}{C:81958296ED2000000000}What's so funny?!\n\n{C:8190A202}{C:81958296EE2000000000}Hahaha... My apologies.\nYou're more decent than I expected,\nand that made me happy.\n\n{C:81958296EF2000000000}Anyone who'd accept terms like these\ncan't be a decent person.\n\n{C:81900400}{C:81958296F12000000000}Then why did you\ntake this job?\n\n{C:8190A202}{C:81958296F22000000000}Because I'm a negotiator.\nI accept any request.\n\n{C:81900400}{C:81958296F32000000000}I can't believe you...\n\n{C:8190A202}{C:81958296F42000000000}Well, negotiations have broken down.\nSorry to trouble you, but when it's convenient, could you take me to \n{C:819782830300}Gilgamesh{C:819782830000}?\n\n{C:81900400}{C:81958296F52000000000}And you've got some nerve, too.\n\n{C:81930100}{C:81958296F62000000000}Ahahaha... Sure.\nBut we've got something to do first,\nso it'll have to be after that.\n\n{C:8190A202}{C:81958296F72000000000}Thank you. That helps.\n\n\n\n{x00}",
+   "source_sha256": "c457fe692dd1650e9d7dc81ffb6ed28cfb1a8f9814fa2184f9d090a316f795c9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81900300}{C:81958296F82000000000}...Was that really all right?\nAbout Lun...\n\n{C:81930100}{C:81958296F92000000000}We don't have a choice!\n\n{C:81900300}{C:81958296FA2000000000}...Big brother.\n\n{C:81930100}{C:81958296FB2000000000}Sorry. Could you leave me alone?\n\n{C:81900300}{C:81958296FC2000000000}Okay...\n\n{C:81930100}{C:81958296FD2000000000}Lun...\n\n\n{x00}",
+   "source_sha256": "1d06cccfbf2c139c34a5d4ddddc640827c0e64f3b687b4a8fe284c19e201f620",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81930200}{C:81958296FF2000000000}I thought being up this high\nwould be frightening, but...\n\n{C:81930100}{C:81958296002100000000}It isn't, is it?\n\n{C:81930200}{C:81958296022100000000}No. I'm glad I trusted you.\nThe view's lovely, and the breeze feels good.\n\n{C:81930100}{C:81958296032100000000}If you like it,\nshall we stay here a little longer?\n\n{C:81930200}{C:81958296042100000000}Yes!\n\n\n\n{x00}",
+   "source_sha256": "d9c5086435e0a06a8e0e31d6691a6f049e7fcd6e35bd630e6a1d27af40aaff80",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81930100}{C:81958296062100000000}In any case,\nI have to help Chirico\nfirst.\n\n\n\n\n{x00}",
+   "source_sha256": "b94ed3e510879f645e322072587801bb06d5cf75bc713c3407b80a11bdd575a1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:8190C800}{C:81958296072100000000}We're ready.\nI'd like you to take us close to {C:819782830300}Gilgamesh{C:819782830000}.\nPlease transport us there.\n\n{C:81958296082100000000}From there, we'll use the {C:819782830400}LCT{C:819782830000}\nto enter the enemy headquarters.\n\n{C:81930100}{C:81958296092100000000}In that case, we'll come with you.\n\n{C:8190DD00}{C:819582960B2100000000}We came together for a reason.\nAnyone who's got nothing to do with it can butt out!\n\n{C:81930100}{C:819582960C2100000000}What did you say?!\n\n{C:8190DC00}{C:81958296112100000000}I'd rather not say this,\nbut we mean to settle an old score.\nWe don't want outsiders coming along.\n\n{C:81958296132100000000}Sorry, kid.\n\n{C:81930100}{C:81958296172100000000}If that's how it is...\nI'm sorry I butted in.\n\n{C:8190DC00}{C:81958296192100000000}We appreciate the thought.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "d9d331a7cbe79f71947644716f9268a125836f8c63021d784751c03450048de5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:8193C800}{C:819582961B2100000000}We'll get off here.\n\n{C:81930300}{C:819582961C2100000000}We'll land in Gilgamesh.\nContact us if anything happens.\n\n{C:8193C800}{C:819582961D2100000000}Understood.\n\n\n\n{x00}",
+   "source_sha256": "22c689981142b4d8a5fdd3606ddd2b5d6d0b17daf458384abbf02c5b304d18c0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:8193DE00}{C:819582961E2100000000}I'll handle things here!\n\n\n{x00}",
+   "source_sha256": "26525921b3e18529559c41d36b50df27fa78bddd224009f2fbbd13f25dc7a79a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:8190C900}{C:819582961F2100000000}Wait, Epsilon!\nThere's something you need to learn\nbefore you fight.\n\n{C:8190C900}{C:81958296202100000000}How to love.\nTo love other people, insects and living things.\n\n{C:8190D400}{C:81958296212100000000}I don't understand...\n\n{C:8190C900}{C:81958296222100000000}Ah, Epsilon!\n\n\n{x00}",
+   "source_sha256": "19c27fa8372cf3609a9b4fde36e99e23502f113ad216fdc085094cf32c12c9ee",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:8193DD00}{C:81958296232100000000}Run while you have the chance!\nSergeant Major, get going!!\n\n{C:8193C800}{C:81958296242100000000}(Those movements... It's her!)\n\n\n{x00}",
+   "source_sha256": "9ab58d7da3d22e9187871ac7c9968d7b1b3b404a17052a5b046d00aaf1d362aa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:8193DC00}{C:81958296262100000000}Run, Chirico!\n\n{C:8193C800}{C:81958296282100000000}Stop!\nStop it, Fyana!!\n\n\n\n\n{x00}",
+   "source_sha256": "a99645218eb4a39080150e299d0f88c1d58276b19b8ddc4ebe63be0b824bb07b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:8190A202}{C:819582962A2100000000}Thank you.\nI'm grateful you brought me this far.\n\n{C:81900300}{C:819582962B2100000000}But was it all right\nfor you to travel with us?\n\n{C:8190A202}{C:819582962D2100000000}Yes. A negotiator\nis neutral toward both sides.\n\n\n{x00}",
+   "source_sha256": "5a964e27efe9126947f7b9c08beba92d49a15bd857431037e15a540386d1e4a3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n\n{C:81936500}{C:819582962E2100000000}You've got to be kidding me!!\nYou came back here with the enemy!\n\n\n{C:8193A302}{C:81958296302100000000}Oh, heeelp! Save me, Roger!\n\n{C:8193A202}{C:81958296312100000000}I was wondering where you'd gone...\nR. Dorothy!\nWhat are you doing over there?!\n\n{C:8193A302}{C:81958296342100000000}I'm being held captive, Roger.\nCan't you tell?\n\n\n{C:8193A202}{C:81958296362100000000}Honestly...\n\n{C:81930100}{C:81958296372100000000}Roger!\nYou know her, don't you?\nAren't you going to save her?!\n\n{C:8193A202}{C:81958296392100000000}She'll be fine.\nJust watch.\n\n{C:8193A302}{C:819582963B2100000000}Roger, save meee!\n\n{C:8193A202}{C:819582963C2100000000}R. Dorothy!\nYou can wait all you like. I'm not rescuing you.\nHurry up and come back here!\n\n\n\n{x00}",
+   "source_sha256": "56fafb1a343c261912a19a9fba0dd67c911c8fcd203fa73da2b7a4a3760bd845",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:8190A302}{C:819582963E2100000000}You're so cold, Roger.\n\n{C:81936500}{C:819582963F2100000000}She tore the rope apart?!\nWhat kind of woman does that?!\n\n{C:8190A202}{C:81958296412100000000}Just as I told you.\nShe's an android.\nShe let herself be captured on purpose.\n\n{C:81900300}{C:81958296432100000000}On purpose...\n\n\n{C:81936500}{C:81958296442100000000}Damn it!\nThen I'll crush you with an HM!\n\n\n{C:8190A202}{C:81958296462100000000}What a hopeless client.\nI'd like your help.\nWould you mind?\n\n{C:81930100}{C:81958296482100000000}If we're fighting Posaydal's army,\nwe'll help!\n\n\n\n\n{x00}",
+   "source_sha256": "9d4b84b38384456f7b53abce62a3d9834239901903fa83e5d1ca96cd76297616",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81930300}{C:819582964B2100000000}We made a promise to Chirico, so we have to go back to \n{C:819782830300}Gilgamesh{C:819782830000}.\n\n\n\n{x00}",
+   "source_sha256": "b1d8b6b2a1372aafde946b930f4df0250992c6d871a61fefd53a4ab38c52a9cf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:8190C800}{C:81958296522100000000}Ugh...\n\n\n{x00}",
+   "source_sha256": "9268f9051032c85b41d406f5450ff8b202273e33920347decf92f6d6da4709f1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:8190E100}{C:819582964D2100000000}Chirico's still alive.\nCome forth, Epsilon!\nFinish him off with your own hands!!\n\n{C:8190C900}{C:819582964E2100000000}Epsilon!\nStop, Epsilon!!\n\n{C:8190E100}{C:819582964F2100000000}Kill him!\nKill Chirico!!\n\n{C:8190C900}{C:81958296502100000000}Epsilon!\nI'll teach you about love.\n\n\n\n\n{x00}",
+   "source_sha256": "34841d6dbf05e9b70cb936bef41e964b8dcc613d594b723e7a30ab445d23b436",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:8193E100}{C:81958296512100000000}What are you doing, Proto One?!\nGet away! Get away!!\n\n\n{C:8193C800}{C:81958296522100000000}Ugh... uuh...\n\n\n\n{x00}",
+   "source_sha256": "f5573bc329f6cb7fce13aed01c69eb8f899d8c6f36ff91ba85cfa4b185148ae6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:8190E100}{C:81958296532100000000}Then I'll finish him off myself.\nI can't allow Chirico to live.\n\n\n{x00}",
+   "source_sha256": "8f89020dcbe45bcf35e19338b524bf9d50047d78ee853e40ed01795e74924a5e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:8190E100}{C:81958296542100000000}Guaaah!!\n\n\n{C:8193DE00}{C:81958296552100000000}I did it...\n\n{C:8190C900}{C:81958296562100000000}Chirico...\n\n\n{x00}",
+   "source_sha256": "15931da0580b42fbe6e4f7c6c1cfc9d9f0535f7a86b52fed3180d932314fdcec",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:8190C900}{C:81958296572100000000}Epsilon, come here!\n\n{C:8190C800}{C:81958296592100000000}F-Fyana?!\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "470b2c3728a33fef28eda3fa1733156e515c80faf40eff55b44fd2ca36194042",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:8190A202}{C:819582965C2100000000}Posaydal's army owes me now,\nand I owe you.\n\n{C:819582965D2100000000}What do you say?\nI'll come with you.\nI'd like to repay my debt that way.\n\n{C:81930100}{C:819582965E2100000000}I appreciate the offer,\nbut is that all right?\n\n{C:8190A202}{C:819582965F2100000000}You mean Posaydal's army?\nThere's no need to worry about them.\n\n{C:81958296602100000000}By taking R. Dorothy hostage\nand attacking us,\nthey've rendered our contract void.\n\n{C:81900300}{C:81958296612100000000}In that case,\nwe're glad to have you, Roger.\n\n{C:8190A302}{C:81958296632100000000}I suppose there's no helping it, Roger.\nI'll come along too.\n\n\n\n\n\n{x00}",
+   "source_sha256": "e9f61499afc491488ef3befafe3c6b828e1a7333680dc18593771c328f4347d5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81930300}{C:81958296642100000000}The Cloud Sea has finally opened up.\n\n{C:81930400}{C:81958296652100000000}But we haven't heard from Chirico,\nso we're not setting off.\n\n{C:81930300}{C:81958296662100000000}Hey, Nelfea!\nDon't butt in!\n\n{C:81930100}{C:81958296672100000000}Stop arguing over the ship's intercom!\n\n{x00}",
+   "source_sha256": "7c11227cd19bf0d5e49cb9425b6648c50701ac940106aae8b3042e68bd567d1f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81930400}{C:81958296682100000000}Oh, we're getting a transmission from Chirico.\n\n{C:81958296692100000000}...It looks like he's injured.\nI'll hurry us into the airspace over Gilgamesh!\n\n{C:81930100}{C:819582966A2100000000}I understand!\nI'll be up on the bridge right away!!\n\n\n\n{x00}",
+   "source_sha256": "62f2c7600c56022a5b0a22a9aa534ff04d11b560f4ab7a4175ad688b984d22ac",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81930400}{C:819582966B2100000000}The Norstan?!\n\n{C:81930100}{C:819582966C2100000000}Getting Chirico aboard comes first.\n\n\n\n{x00}",
+   "source_sha256": "52a1b9c777402473d7db05093186761538e0c30f7e602fc2a3f87eb4bd123ff6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:8190CF01}{C:819582966D2100000000}I've brought the injured man.\n\n{C:81900300}{C:819582966E2100000000}You're...\n\n{C:8190CF01}{C:819582966F2100000000}Never mind me.\nPlease take care of Chirico.\n\n\n\n{x00}",
+   "source_sha256": "a9ae6f87ddc7412d7b02dfca0a6a49b1aaf63f7c46a218662c38d77aed79013a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:81930100}{C:81958296702100000000}Chirico! Chirico!\n\n{C:8193C800}{C:81958296742100000000}I'm all right.\n\n{C:81900300}{C:81958296752100000000}Gre...gore\nand the others?\n\n{C:8193C800}{C:81958296782100000000}They're dead...\n\n{C:819582967B2100000000}More importantly... the ship you're pursuing\nhas left the continent, hasn't it...?\nDon't worry about me... Go after it!\n\n{C:81900400}{C:819582967C2100000000}Leave Chirico's treatment\nto me.\n\n{C:8193C800}{C:819582967D2100000000}Go after it.\n\n{C:81930100}{C:819582967F2100000000}Rie.\n\n{C:81900300}{C:81958296802100000000}Yes!\nAstante, launching!!\n\n\n{x00}",
+   "source_sha256": "acb0bcaa736e98b8044346ccfaab812fa37d90669c7a9fcaed6e390eb912e14d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all47unique400verdicts/omissions and8shared qualifications, all9actual395 and6binding402groups. All47retained406, then separate full47English source-order editorial; punctuation-only408at4/7/8,other44full402records exact. Preserve290literal spans,413calls249bodies/voices0functions20raw0continuations,allcontrols/LFs/rawheaders. PhantomLady/LCT actual396registration qualified, localhumanATpilot2; fullbargain/proverb/rankonly/lethalforce/directionaldebts/explicitdeath retained. One shared178glossary audit after14+47edits then separate actual CURRENT MAIN proofreading. No tests until entirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

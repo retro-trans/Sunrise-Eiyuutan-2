@@ -1,0 +1,1308 @@
+{
+ "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "rows": [
+  {
+   "va": 2328616,
+   "source_size": 5,
+   "source_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1",
+   "en": "None",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 0,
+     "field_index": 0,
+     "pointer_site": "0x1e2f10"
+    },
+    {
+     "record": 0,
+     "field_index": 1,
+     "pointer_site": "0x1e2f14"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2328608,
+   "source_size": 5,
+   "source_sha256": "37df53fd8a4aa5f7a8189ee54db2ec6a9cb3af0058a85135a031d9970c4c857a",
+   "en": "NULL",
+   "translation_required": false,
+   "sites": [
+    {
+     "record": 0,
+     "field_index": 2,
+     "pointer_site": "0x1e2f18"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2328600,
+   "source_size": 1,
+   "source_sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+   "en": "",
+   "translation_required": false,
+   "sites": [
+    {
+     "record": 0,
+     "field_index": 3,
+     "pointer_site": "0x1e2f1c"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2274136,
+   "source_size": 23,
+   "source_sha256": "259549d3900c9f4726fa98c9f871103a7cf9dc9e615121d6626272c24612fc17",
+   "en": "Carried Unit HP Recovery Disruption",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 1,
+     "field_index": 0,
+     "pointer_site": "0x1e2f20"
+    },
+    {
+     "record": 1,
+     "field_index": 1,
+     "pointer_site": "0x1e2f24"
+    },
+    {
+     "record": 1,
+     "field_index": 2,
+     "pointer_site": "0x1e2f28"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2274096,
+   "source_size": 36,
+   "source_sha256": "add458243238a17e8928b7699aba269fd4de55818658390fe1a530d16fb514ee",
+   "en": "Attacking an enemy ship sets the next HP recovery for units aboard it to 0.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 1,
+     "field_index": 3,
+     "pointer_site": "0x1e2f2c"
+    }
+   ],
+   "provenance": "qualified703/713 proposal; freshly source-rechecked"
+  },
+  {
+   "va": 2274072,
+   "source_size": 23,
+   "source_sha256": "6b2c544ac6f6f2174311be644ceec4faabd92550faeb16e4ac7cc1d5e395c474",
+   "en": "Deployed Unit EN Recovery Disruption",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 2,
+     "field_index": 0,
+     "pointer_site": "0x1e2f30"
+    },
+    {
+     "record": 2,
+     "field_index": 1,
+     "pointer_site": "0x1e2f34"
+    },
+    {
+     "record": 2,
+     "field_index": 2,
+     "pointer_site": "0x1e2f38"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2274032,
+   "source_size": 36,
+   "source_sha256": "3d06133537a07838b47a517777b3d3209969ff3cc4d59105cae514b944bfa2b7",
+   "en": "Attacking an enemy ship sets the next EN recovery for its deployed units to 0.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 2,
+     "field_index": 3,
+     "pointer_site": "0x1e2f3c"
+    }
+   ],
+   "provenance": "qualified703/713 proposal; freshly source-rechecked"
+  },
+  {
+   "va": 2274008,
+   "source_size": 21,
+   "source_sha256": "e4d66a1f0018b38fa924949c9a9f4ec08184552f9abecc33f3af5f2881bd4846",
+   "en": "Carried Unit Recovery Disruption",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 3,
+     "field_index": 0,
+     "pointer_site": "0x1e2f40"
+    },
+    {
+     "record": 3,
+     "field_index": 1,
+     "pointer_site": "0x1e2f44"
+    },
+    {
+     "record": 3,
+     "field_index": 2,
+     "pointer_site": "0x1e2f48"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273968,
+   "source_size": 34,
+   "source_sha256": "b2b13b84f054fa5c2a2b7f2659b27e5a4c01835adfe1ad8213e33180bab54d1a",
+   "en": "Attacking an enemy ship sets the next recovery for units aboard it to 0.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 3,
+     "field_index": 3,
+     "pointer_site": "0x1e2f4c"
+    }
+   ],
+   "provenance": "qualified703/713 proposal; freshly source-rechecked"
+  },
+  {
+   "va": 2273952,
+   "source_size": 11,
+   "source_sha256": "3260f204bda5cd528e4b289e1cd3cffc7c1acc8afd86a1fd0f749cc011de5343",
+   "en": "EN Recovery Disabled",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 4,
+     "field_index": 0,
+     "pointer_site": "0x1e2f50"
+    },
+    {
+     "record": 4,
+     "field_index": 1,
+     "pointer_site": "0x1e2f54"
+    },
+    {
+     "record": 4,
+     "field_index": 2,
+     "pointer_site": "0x1e2f58"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273928,
+   "source_size": 24,
+   "source_sha256": "948742e2ff189ffeef673aae5b3a456def2893b2daffb735e3073c6344312b75",
+   "en": "While deployed, there is no EN recovery/TURN.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 4,
+     "field_index": 3,
+     "pointer_site": "0x1e2f5c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273912,
+   "source_size": 9,
+   "source_sha256": "8619ff947cecc58ad4d5867641b118d29d131eab018c9797790f7740b9f90faf",
+   "en": "Full EN Recovery",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 5,
+     "field_index": 0,
+     "pointer_site": "0x1e2f60"
+    },
+    {
+     "record": 5,
+     "field_index": 1,
+     "pointer_site": "0x1e2f64"
+    },
+    {
+     "record": 5,
+     "field_index": 2,
+     "pointer_site": "0x1e2f68"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273888,
+   "source_size": 24,
+   "source_sha256": "7710896ed3d4242c68ef7761846f62a2570949c32e1168c20afed305a6086553",
+   "en": "While deployed, EN is fully recovered/TURN.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 5,
+     "field_index": 3,
+     "pointer_site": "0x1e2f6c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273872,
+   "source_size": 11,
+   "source_sha256": "57fb15a026650119bd50b39630a72e21c2b966a339ea46f721a67e79c74f1185",
+   "en": "EN Recovery \uff0b5",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 6,
+     "field_index": 0,
+     "pointer_site": "0x1e2f70"
+    },
+    {
+     "record": 6,
+     "field_index": 1,
+     "pointer_site": "0x1e2f74"
+    },
+    {
+     "record": 6,
+     "field_index": 2,
+     "pointer_site": "0x1e2f78"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273848,
+   "source_size": 23,
+   "source_sha256": "6b60b519cdf4be1aee8d06a653946ef6e469c9896bd3747bde8891a5ed6c1719",
+   "en": "While deployed, EN recovery is +5/TURN.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 6,
+     "field_index": 3,
+     "pointer_site": "0x1e2f7c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273832,
+   "source_size": 13,
+   "source_sha256": "54a9345858177b544987ab7b53e23e3b16b35d1a84967b4883eb5f480be4babf",
+   "en": "EN Recovery \uff0b10",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 7,
+     "field_index": 0,
+     "pointer_site": "0x1e2f80"
+    },
+    {
+     "record": 7,
+     "field_index": 1,
+     "pointer_site": "0x1e2f84"
+    },
+    {
+     "record": 7,
+     "field_index": 2,
+     "pointer_site": "0x1e2f88"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273808,
+   "source_size": 23,
+   "source_sha256": "a047a24541b3e7338931fbc48877c271ee9600f6a0591c27fe335d4a3c3be389",
+   "en": "While deployed, EN recovery is +10/TURN.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 7,
+     "field_index": 3,
+     "pointer_site": "0x1e2f8c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273792,
+   "source_size": 11,
+   "source_sha256": "2785ef4484e6961d4e33da30c62b5e693159a5a925aad55b8500c7cd1fee5c74",
+   "en": "No-Cost Movement",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 8,
+     "field_index": 0,
+     "pointer_site": "0x1e2f90"
+    },
+    {
+     "record": 8,
+     "field_index": 1,
+     "pointer_site": "0x1e2f94"
+    },
+    {
+     "record": 8,
+     "field_index": 2,
+     "pointer_site": "0x1e2f98"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273752,
+   "source_size": 35,
+   "source_sha256": "8f737890a93c345ef57342f1dd5b1af6d04fc3bc7755d257e18b0297b011f509",
+   "en": "The unit can move without consuming EN.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 8,
+     "field_index": 3,
+     "pointer_site": "0x1e2f9c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273736,
+   "source_size": 11,
+   "source_sha256": "3c9c38f9b661504c94dc2e0d6c1b177aacf5695c13defdf14666912d5ac23913",
+   "en": "No-Cost Return",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 9,
+     "field_index": 0,
+     "pointer_site": "0x1e2fa0"
+    },
+    {
+     "record": 9,
+     "field_index": 1,
+     "pointer_site": "0x1e2fa4"
+    },
+    {
+     "record": 9,
+     "field_index": 2,
+     "pointer_site": "0x1e2fa8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273696,
+   "source_size": 35,
+   "source_sha256": "9307eddcba9a622b5d9e9302800512b0406f8eaf40ddc6fc351ace84c766b4bb",
+   "en": "The unit can return without consuming EN.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 9,
+     "field_index": 3,
+     "pointer_site": "0x1e2fac"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273680,
+   "source_size": 13,
+   "source_sha256": "b4e6552f2be73d9e1de69a8d9c35b1433cca5827154ac11b9becc37fa524596e",
+   "en": "No Special Effects",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 10,
+     "field_index": 0,
+     "pointer_site": "0x1e2fb0"
+    },
+    {
+     "record": 10,
+     "field_index": 1,
+     "pointer_site": "0x1e2fb4"
+    },
+    {
+     "record": 10,
+     "field_index": 2,
+     "pointer_site": "0x1e2fb8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273648,
+   "source_size": 31,
+   "source_sha256": "cbe87a56de274067e30cc3a8ac8ab1a29d946f7346bbf4d8781d30f2b5363e77",
+   "en": "The unit acts with its own special abilities disabled.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 10,
+     "field_index": 3,
+     "pointer_site": "0x1e2fbc"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273632,
+   "source_size": 9,
+   "source_sha256": "386bd7d0f65983ce4b64c94faff3b13b2af6340303986bbf83fff70c6de31a1c",
+   "en": "Cannot Advance",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 11,
+     "field_index": 0,
+     "pointer_site": "0x1e2fc0"
+    },
+    {
+     "record": 11,
+     "field_index": 1,
+     "pointer_site": "0x1e2fc4"
+    },
+    {
+     "record": 11,
+     "field_index": 2,
+     "pointer_site": "0x1e2fc8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273608,
+   "source_size": 23,
+   "source_sha256": "84d13b3ff130eb7960d9ab83fd0d69f6ead41d76922b69fa39193d4bc39aec93",
+   "en": "The unit does not advance when attacking.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 11,
+     "field_index": 3,
+     "pointer_site": "0x1e2fcc"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273592,
+   "source_size": 15,
+   "source_sha256": "141b5cf9461013fc682ba5c44d5e656d51f663345640ddf1f6f431b9d549cafc",
+   "en": "All Support Nullified",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 12,
+     "field_index": 0,
+     "pointer_site": "0x1e2fd0"
+    },
+    {
+     "record": 12,
+     "field_index": 1,
+     "pointer_site": "0x1e2fd4"
+    },
+    {
+     "record": 12,
+     "field_index": 2,
+     "pointer_site": "0x1e2fd8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273560,
+   "source_size": 29,
+   "source_sha256": "ab221cf1f5b3f48723787378fde9c6640097b5db03f50bdd0637d80d8a7fdffa",
+   "en": "The unit is unaffected by interference of any kind, including support.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 12,
+     "field_index": 3,
+     "pointer_site": "0x1e2fdc"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273544,
+   "source_size": 9,
+   "source_sha256": "0806fa1e7b4f2bbbc09667f8f4b663d49ae77a74e885e0e7c689aaa3722afa4d",
+   "en": "Toss",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 13,
+     "field_index": 0,
+     "pointer_site": "0x1e2fe0"
+    },
+    {
+     "record": 13,
+     "field_index": 1,
+     "pointer_site": "0x1e2fe4"
+    },
+    {
+     "record": 13,
+     "field_index": 2,
+     "pointer_site": "0x1e2fe8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273512,
+   "source_size": 25,
+   "source_sha256": "2e485540d21b90244a184773a6b91ebc39e4a443d7e438dca9c069996cbcbfce",
+   "en": "The opponent is turned into a flying unit.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 13,
+     "field_index": 3,
+     "pointer_site": "0x1e2fec"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273496,
+   "source_size": 11,
+   "source_sha256": "b86753ff2b3b39c4344cb9bb2380b3a88a83862110c516dc5310673db0c74726",
+   "en": "Feint",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 14,
+     "field_index": 0,
+     "pointer_site": "0x1e2ff0"
+    },
+    {
+     "record": 14,
+     "field_index": 1,
+     "pointer_site": "0x1e2ff4"
+    },
+    {
+     "record": 14,
+     "field_index": 2,
+     "pointer_site": "0x1e2ff8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273464,
+   "source_size": 25,
+   "source_sha256": "32fa6fff3ef73ef9e0378aaa40103179c577a50899789c31a3d00a2c84d85a7c",
+   "en": "The opponent is turned into an anti-air unit.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 14,
+     "field_index": 3,
+     "pointer_site": "0x1e2ffc"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273448,
+   "source_size": 11,
+   "source_sha256": "827bc35d29abe32367e4f84a433cf58dcf7ebeb8b54df0f66fe90af78af3e66d",
+   "en": "Knockdown",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 15,
+     "field_index": 0,
+     "pointer_site": "0x1e3000"
+    },
+    {
+     "record": 15,
+     "field_index": 1,
+     "pointer_site": "0x1e3004"
+    },
+    {
+     "record": 15,
+     "field_index": 2,
+     "pointer_site": "0x1e3008"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273416,
+   "source_size": 25,
+   "source_sha256": "1dcf75821264b61e5c9712cdbb09628e3965e0bce10c10b913f83241bd13f395",
+   "en": "The opponent is turned into a ground unit.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 15,
+     "field_index": 3,
+     "pointer_site": "0x1e300c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273400,
+   "source_size": 13,
+   "source_sha256": "28e0bcadd4e8d7b1870cf24b0ce1916900cd7d3ae78bcb8285ff0811b53a0c5f",
+   "en": "Critical",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 16,
+     "field_index": 0,
+     "pointer_site": "0x1e3010"
+    },
+    {
+     "record": 16,
+     "field_index": 1,
+     "pointer_site": "0x1e3014"
+    },
+    {
+     "record": 16,
+     "field_index": 2,
+     "pointer_site": "0x1e3018"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273360,
+   "source_size": 33,
+   "source_sha256": "3b3db325d5ae9dba75529d1f3f5d372549ce9500c447218b4b22b4c50cb29f34",
+   "en": "The unit attacks at maximum attack power, without randomness.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 16,
+     "field_index": 3,
+     "pointer_site": "0x1e301c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2328592,
+   "source_size": 5,
+   "source_sha256": "0046bc3ecc77c71b955ad0847d5883b324f91054af56d36c707010fef1a07897",
+   "en": "Good Fortune",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 17,
+     "field_index": 0,
+     "pointer_site": "0x1e3020"
+    },
+    {
+     "record": 17,
+     "field_index": 1,
+     "pointer_site": "0x1e3024"
+    },
+    {
+     "record": 17,
+     "field_index": 2,
+     "pointer_site": "0x1e3028"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2273320,
+   "source_size": 33,
+   "source_sha256": "894b4779705a46b5a206cde303a4fc58027bd0d86ccbb2569124687c07e3ca9d",
+   "en": "The unit defends at maximum defense power, without randomness.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 17,
+     "field_index": 3,
+     "pointer_site": "0x1e302c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273304,
+   "source_size": 9,
+   "source_sha256": "b9cc2f7180ab1d90323059d532bfdee4e2bcd3ead2dfa4402bab81c1c9128b23",
+   "en": "Poor at Attacking",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 18,
+     "field_index": 0,
+     "pointer_site": "0x1e3030"
+    },
+    {
+     "record": 18,
+     "field_index": 1,
+     "pointer_site": "0x1e3034"
+    },
+    {
+     "record": 18,
+     "field_index": 2,
+     "pointer_site": "0x1e3038"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273272,
+   "source_size": 27,
+   "source_sha256": "ad0241de8f4775b5456c5fe16a185b29ddb37239ed3b3128b2516b6e957f59bb",
+   "en": "Attack phase: AT=10\uff05 DF=10\uff05",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 18,
+     "field_index": 3,
+     "pointer_site": "0x1e303c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273256,
+   "source_size": 9,
+   "source_sha256": "ebf617a9b269168631141d68c1638112f739a248fb0dd3c2b16d47080743d976",
+   "en": "Poor at Defense",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 19,
+     "field_index": 0,
+     "pointer_site": "0x1e3040"
+    },
+    {
+     "record": 19,
+     "field_index": 1,
+     "pointer_site": "0x1e3044"
+    },
+    {
+     "record": 19,
+     "field_index": 2,
+     "pointer_site": "0x1e3048"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273224,
+   "source_size": 27,
+   "source_sha256": "cff15a9a94ebcd6e26f5b67b1a9da28d04a79b031405127f077ea54403301e98",
+   "en": "Defense phase: AT=10\uff05 DF=10\uff05",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 19,
+     "field_index": 3,
+     "pointer_site": "0x1e304c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273208,
+   "source_size": 9,
+   "source_sha256": "8b8bcbb98abc3c686a6cd60645c5a24b494f779478fd31f7d07df5698baa4994",
+   "en": "Attack Priority",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 20,
+     "field_index": 0,
+     "pointer_site": "0x1e3050"
+    },
+    {
+     "record": 20,
+     "field_index": 1,
+     "pointer_site": "0x1e3054"
+    },
+    {
+     "record": 20,
+     "field_index": 2,
+     "pointer_site": "0x1e3058"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273168,
+   "source_size": 37,
+   "source_sha256": "6220fee973b0274085fe1304a72618b4d184903c84d57b23a6db066bdc3aecf3",
+   "en": "In the attack phase, damage taken is 75\uff05; in the defense phase, attack is 75\uff05.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 20,
+     "field_index": 3,
+     "pointer_site": "0x1e305c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273152,
+   "source_size": 9,
+   "source_sha256": "2adfd15d9e67d7b56a75b2b19f12ffb080b0a4343fb37eeb89f3d694edeb1829",
+   "en": "Defense Priority",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 21,
+     "field_index": 0,
+     "pointer_site": "0x1e3060"
+    },
+    {
+     "record": 21,
+     "field_index": 1,
+     "pointer_site": "0x1e3064"
+    },
+    {
+     "record": 21,
+     "field_index": 2,
+     "pointer_site": "0x1e3068"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273112,
+   "source_size": 37,
+   "source_sha256": "f4600eca69076e6372283bbdef53f49356ad1a246e821f2b607bdd4b61cdffbc",
+   "en": "In the defense phase, damage taken is 75\uff05; in the attack phase, attack is 75\uff05.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 21,
+     "field_index": 3,
+     "pointer_site": "0x1e306c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2328584,
+   "source_size": 5,
+   "source_sha256": "67da6a14929f2b51e05d96838060abc42156ba2193c2a0a550e368e22778481c",
+   "en": "Reversal",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 22,
+     "field_index": 0,
+     "pointer_site": "0x1e3070"
+    },
+    {
+     "record": 22,
+     "field_index": 1,
+     "pointer_site": "0x1e3074"
+    },
+    {
+     "record": 22,
+     "field_index": 2,
+     "pointer_site": "0x1e3078"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2273072,
+   "source_size": 35,
+   "source_sha256": "94302319cad14bf33824b03e2e2a61776c6ff057569818f92ba38dc397287d1c",
+   "en": "When 50\u2266Mental Strength and HP<5\uff05, damage against units is doubled.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 22,
+     "field_index": 3,
+     "pointer_site": "0x1e307c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273056,
+   "source_size": 9,
+   "source_sha256": "572a76e1470b8ff26254dc4ac1929cde7b80e95d32bcfb825c2e7538b626589f",
+   "en": "Crisis Evasion",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 23,
+     "field_index": 0,
+     "pointer_site": "0x1e3080"
+    },
+    {
+     "record": 23,
+     "field_index": 1,
+     "pointer_site": "0x1e3084"
+    },
+    {
+     "record": 23,
+     "field_index": 2,
+     "pointer_site": "0x1e3088"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273024,
+   "source_size": 29,
+   "source_sha256": "b63a14b0746367ebeb963e1d522461f53df5186dde00c1f280ca82c18e774448",
+   "en": "When 50\u2266Mental Strength and HP<5\uff05, damage taken is 50\uff05.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 23,
+     "field_index": 3,
+     "pointer_site": "0x1e308c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2273008,
+   "source_size": 9,
+   "source_sha256": "36e1f82bc5860fb0a07499e3e2b973af4eb56ab9b69103678e87a7311ffd50f2",
+   "en": "Offensive Advance Prevention",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 24,
+     "field_index": 0,
+     "pointer_site": "0x1e3090"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272992,
+   "source_size": 9,
+   "source_sha256": "9eab665701a4019ccee32ccab9b82abdbdd5511c79ee14623dab16daf407efc6",
+   "en": "Advance Prevention",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 24,
+     "field_index": 1,
+     "pointer_site": "0x1e3094"
+    },
+    {
+     "record": 24,
+     "field_index": 2,
+     "pointer_site": "0x1e3098"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272968,
+   "source_size": 23,
+   "source_sha256": "8a65f8215bebefcd44556b666671ff9344230a38dba69b02a32166e04a3b88db",
+   "en": "Excess damage is reduced to 0.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 24,
+     "field_index": 3,
+     "pointer_site": "0x1e309c"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2328576,
+   "source_size": 5,
+   "source_sha256": "90d0387809b062d8f79fce94beac2c32c879cb2c68bd382ea3990ece3d323719",
+   "en": "Self-Destruct",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 25,
+     "field_index": 0,
+     "pointer_site": "0x1e30a0"
+    },
+    {
+     "record": 25,
+     "field_index": 1,
+     "pointer_site": "0x1e30a4"
+    },
+    {
+     "record": 25,
+     "field_index": 2,
+     "pointer_site": "0x1e30a8"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2272928,
+   "source_size": 37,
+   "source_sha256": "3cda5f704f307c0042e43e60149936d06e10a35dae42ed8b166d9b54db6b04b3",
+   "en": "At maximum Mental Strength, the unit takes its opponent down with it (the unit cannot be revived).",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 25,
+     "field_index": 3,
+     "pointer_site": "0x1e30ac"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2328568,
+   "source_size": 5,
+   "source_sha256": "80ce2174c4bb09fa8da31bdd45bdc438bbadaeeb33250a174ffa7c5aaf18f879",
+   "en": "Charge",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 26,
+     "field_index": 0,
+     "pointer_site": "0x1e30b0"
+    },
+    {
+     "record": 26,
+     "field_index": 1,
+     "pointer_site": "0x1e30b4"
+    },
+    {
+     "record": 26,
+     "field_index": 2,
+     "pointer_site": "0x1e30b8"
+    }
+   ],
+   "provenance": "ordinary auxiliary label; independently source-reviewed"
+  },
+  {
+   "va": 2272888,
+   "source_size": 35,
+   "source_sha256": "c25e7899fa0321b016fabcc946076d1d3e6f435d838f3f1a5009ffb510604050",
+   "en": "Destroyed units cannot revive; your own unit can never revive.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 26,
+     "field_index": 3,
+     "pointer_site": "0x1e30bc"
+    }
+   ],
+   "provenance": "qualified703/713 proposal; freshly source-rechecked"
+  },
+  {
+   "va": 2272872,
+   "source_size": 9,
+   "source_sha256": "5397d39b467a026b468afa158f0a887af77fb28db793abd84e098d0bc6465401",
+   "en": "One-Hit Kill",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 27,
+     "field_index": 0,
+     "pointer_site": "0x1e30c0"
+    },
+    {
+     "record": 27,
+     "field_index": 1,
+     "pointer_site": "0x1e30c4"
+    },
+    {
+     "record": 27,
+     "field_index": 2,
+     "pointer_site": "0x1e30c8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272832,
+   "source_size": 35,
+   "source_sha256": "2ed1b88b3bb9f15cbe7a1e6d3457e867485207609e4d8773a32502d3dcabd8c8",
+   "en": "The opponent can be destroyed without reducing its HP to 0.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 27,
+     "field_index": 3,
+     "pointer_site": "0x1e30cc"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272808,
+   "source_size": 17,
+   "source_sha256": "85c74a43ca3fd5eda9b3f75ddc14eab4e951c92d22dfb82234be57a5cb399195",
+   "en": "Active Item Destruction",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 28,
+     "field_index": 0,
+     "pointer_site": "0x1e30d0"
+    },
+    {
+     "record": 28,
+     "field_index": 1,
+     "pointer_site": "0x1e30d4"
+    },
+    {
+     "record": 28,
+     "field_index": 2,
+     "pointer_site": "0x1e30d8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272768,
+   "source_size": 35,
+   "source_sha256": "3ce33d2e458a21b55948e8c4826ac6fbccc83bcd90e1d1a56ca045769e84b56b",
+   "en": "An attack on an enemy ship destroys one item currently in use.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 28,
+     "field_index": 3,
+     "pointer_site": "0x1e30dc"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272744,
+   "source_size": 17,
+   "source_sha256": "f213959b710f4233e8eab6e0ac5189a6b73c7a82498cd7bd0b8e461da2f721fa",
+   "en": "Carried Item Destruction",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 29,
+     "field_index": 0,
+     "pointer_site": "0x1e30e0"
+    },
+    {
+     "record": 29,
+     "field_index": 1,
+     "pointer_site": "0x1e30e4"
+    },
+    {
+     "record": 29,
+     "field_index": 2,
+     "pointer_site": "0x1e30e8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272704,
+   "source_size": 33,
+   "source_sha256": "13b455703f28290850223a028e4b6552c0084f8e08eff69c8ed17b06f4efbbfb",
+   "en": "An attack on an enemy ship destroys one item carried aboard it.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 29,
+     "field_index": 3,
+     "pointer_site": "0x1e30ec"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272680,
+   "source_size": 17,
+   "source_sha256": "8ad84c13ae18d9a346ed4059380f98bfa1417fe63014f263b3ae7d12f9746e8b",
+   "en": "Carried Unit Destruction",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 30,
+     "field_index": 0,
+     "pointer_site": "0x1e30f0"
+    },
+    {
+     "record": 30,
+     "field_index": 1,
+     "pointer_site": "0x1e30f4"
+    },
+    {
+     "record": 30,
+     "field_index": 2,
+     "pointer_site": "0x1e30f8"
+    }
+   ],
+   "provenance": "599 complete English retained after full native-field/source comparison"
+  },
+  {
+   "va": 2272640,
+   "source_size": 33,
+   "source_sha256": "055000681dc239caa2a97979f707b7d4ec5df4277750521fa231af130e7e17ad",
+   "en": "An attack on an enemy ship destroys one unit carried aboard it.",
+   "translation_required": true,
+   "sites": [
+    {
+     "record": 30,
+     "field_index": 3,
+     "pointer_site": "0x1e30fc"
+    }
+   ],
+   "provenance": "599 isolated suffix; native record30 directly references suffix start"
+  },
+  {
+   "va": 2302856,
+   "source_size": 13,
+   "source_sha256": "6a044bf7d14e1a8e511e1eb3e093bf2055fea13074d49464aec0aeb347e05946",
+   "en": "Acquired Items",
+   "translation_required": true,
+   "sites": [],
+   "provenance": "688 isolated suffix; lexical title reviewed"
+  }
+ ],
+ "qualifications": [
+  "All31 whole16-byte records and all124 pointer fields were read from original ELF before599 English; 64 distinct NUL-terminated native strings plus Acquired Items heading =65 guarded objects. Repeated pointers were checked as repeated references, not counted as new semantic strings.",
+  "52 non-null599 whole English objects retained; four historicalNULL comments receive the exact703/713 qualified language, and the native30 comment directly confirms the existing599 isolated suffix boundary.",
+  "Record0's empty comment and literalNULL short field are sentinels preserved as original bytes. Only its Japanese\u306a\u3057 full/display name is rendered None; no sentinel becomes an on-screen English claim.",
+  "\u6b21\u306e is read conventionally as the next recovery occasion in these compressed disruption descriptions. The next qualifying carried/deployed unit is grammatically possible. No next turn, specific phase, hit prerequisite, universal all-unit target or depletion of currentHP/EN is added.",
+  "Charge's first destruction patient is not uniquely specified. The generic destroyed-units sentence is local to this ability, not a global revival rule; its own-unit prohibition is separately categorical. No automatic destruction or Self-Destruct identity is inferred.",
+  "The directly paired headings distinguish generic carried recovery, deployedEN recovery and carriedHP recovery. Do not supply HP or EN in the generic description.",
+  "Screenshot Attack Priority states attack-phase damage taken75% and defense-phase attack75%, not a75% reduction or swapped phase order. Defense Priority has the opposite phase assignments; all inequalities, percentages and /TURN formulas remain as written.",
+  "Record24 fullname\u9032\u653b\u963b\u6b62 and display/short\u9032\u884c\u963b\u6b62 are distinct source objects; their two English labels retain the written difference without alleging different mechanics.",
+  "0x22AD80 begins exactly at the native record30 comment pointer; preceding16 bytes remain untouched. 0x232388 Acquired Items is separately guarded as the existing688 lexical suffix, not a whole mixed-object replacement.",
+  "Auxiliary Self-Destruct, Charge, Reversal, Good Fortune and None are ordinaryUI translations, not claims of uniquely official English or imported attack rules. Current full HP/EN and Flying/Anti-Air/Ground glossary entries read; no corresponding dedicated ordinary ability-name entries were found by exact-key check.",
+  "Parent's reported batlRecoverUnit flag findings are disclosed context only; no independent code-mechanics audit, runtime behavior, font/layout fit, test or build is claimed here."
+ ],
+ "accuracy_report_sha256": "8bd7d72312b31efaff8fcab1cd00d8f2b21ace0d88b3b612dc7040b9d238c80c",
+ "editorial": {
+  "examined_objects": 65,
+  "changed": []
+ },
+ "name_audit": {
+  "entries": 1705,
+  "registered_variants": 24,
+  "changes": 0,
+  "sha256": "f5ef15f4d4fbf01b7571371e80935ec8fee0f52e6e77b430a2673062b65690fe"
+ },
+ "proofreading": {
+  "examined_objects": 65,
+  "changed": []
+ }
+}

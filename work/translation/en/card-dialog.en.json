@@ -1,0 +1,35 @@
+{
+ "version": "0.2.24",
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "review_scope": "Three target rows; independent reviewer examined15 adjacent corpus rows187..201. Separately drawn title label removes dangling possessive; absent/corrupt complete sentences retained from reviewed proposals.",
+ "reviewer": "memory_card_language",
+ "uncertainty": "Both title references confirmed in memcPutWarningMes no-save/corrupt branches; no inline title consumer found.",
+ "rows": [
+  {
+   "id": "ELF/rodata:00004998",
+   "va": 2248344,
+   "source_size": 20,
+   "source_sha256": "0bddb8112f80f1f7f7fa4410521124460f43e781febc8fc6e4689404ea21f12d",
+   "en": "Sunrise Eiyuutan 2"
+  },
+  {
+   "id": "ELF/rodata:000049B0",
+   "va": 2248368,
+   "source_size": 24,
+   "source_sha256": "283a33df485e1111fede2cac9dc3168496ab55f3f03dd60ebf1326f0ff14b780",
+   "en": "There is no save data."
+  },
+  {
+   "id": "ELF/rodata:000049D0",
+   "va": 2248400,
+   "source_size": 26,
+   "source_sha256": "f47897498cd93e97d2540cc8977426982e334dbf801b5fba19c63d142522d4ca",
+   "en": "The save data is corrupted."
+  }
+ ]
+}

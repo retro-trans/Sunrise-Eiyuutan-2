@@ -1,0 +1,18 @@
+{
+ "schema_version": 1,
+ "base_entries": 1705,
+ "base_glossary_unchanged": true,
+ "entries": [
+  {
+   "jp": "登龍剣",
+   "en": "Toryuken",
+   "kind": "weapon_and_finishing_move",
+   "status": "scoped_project_romanization",
+   "notes": "Original-series primary Japanese sources identify the weapon; English is project romanization, not an official English claim.",
+   "sources": [
+    "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=5325&prd_id=4573102654236000",
+    "https://www.mashin-eiyuuden-wataru.net/news/detail.php?id=18472"
+   ]
+  }
+ ]
+}

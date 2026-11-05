@@ -1,0 +1,31 @@
+{
+ "table": "04911_10389",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:8190D001}{C:819582962D0000000000}...You'd better be careful.\n\n\n{C:81930100}{C:81958296AE2100000000}Whoa!\n\n{C:81958296AF2100000000}You startled me.\n...Who were you again?\n\n{C:8190D001}{C:819582962E0000000000}You're being targeted.\nYou'd better be careful.\n\n\n{C:81900300}{C:81958296B02100000000}What's wrong, big brother?\nDo you know him?\n\n{C:81930100}{C:81958296B12100000000}He warned me that we're being targeted\nand told us to be careful.\n\n{C:81900400}{C:81958296B22100000000}I don't know who he is, but it's good advice.\nLet's be grateful for the warning and take it to heart.\n\n{C:81958296B32100000000}In a place where we don't know our way around,\nwe'd better be careful.\n\n{C:81900300}{C:81958296B52100000000}Big brother!\nI'm counting on you.\n\n\n\n\n{x00}",
+   "source_sha256": "2cc2f9ce4a6e50a8ee83084457eee96842a11cbe7915895a66e238acc9667df3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read both410uniqueverdicts/omissions/all5shared andall4author409groups;412retains2whole409records. Separately read bothcompleteEnglish frames, then idiomatic gratitude/acceptance edit418at0. Independent410reviewer separately rereadfull0JP/current/proposed and acceptedexactphrase beforeROOTwrite. Full0JP/current/proposed editorialDRYactuallyread;row1wholeexact. Preserve29calls17voices17literalspans3raw0continuations/allcontrols/LFs. Shared179namesfollowsallmeaning/editorialedits thenactualCURRENTMAINproof. Alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81902A00}{C:81958296693600000000}You children there, wait.\n\n{C:81900400}{C:819582966B3600000000}Children? Are you talking about me?\n\n{C:81930100}{C:819582966C3600000000}Do you mean me too?\n\n{C:81902A00}{C:819582966D3600000000}Both of you.\nI haven't seen you before. Where are you from?\n\n{C:81930100}{C:819582966E3600000000}W-well...\n\n{C:81902A00}{C:81958296703600000000}Never mind.\n\n{C:81958296723600000000}This country is at war right now.\nStrangers face strict questioning.\nAvoid going out as much as possible.\n\n{C:81900300}{C:81958296733600000000}Oh, yes.\nThank you for being so helpful.\nWe'll be careful.\n\n\n\n\n{x00}",
+   "source_sha256": "efb8d2051366eed4f3990a47312e4a8f3adcfc4c5242d4f7b4ce81114f51b1cf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read both410uniqueverdicts/omissions/all5shared andall4author409groups;412retains2whole409records. Separately read bothcompleteEnglish frames, then idiomatic gratitude/acceptance edit418at0. Independent410reviewer separately rereadfull0JP/current/proposed and acceptedexactphrase beforeROOTwrite. Full0JP/current/proposed editorialDRYactuallyread;row1wholeexact. Preserve29calls17voices17literalspans3raw0continuations/allcontrols/LFs. Shared179namesfollowsallmeaning/editorialedits thenactualCURRENTMAINproof. Alltestsdeferreduntilwholepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

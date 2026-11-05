@@ -1,0 +1,551 @@
+{
+ "table": "04948_10471",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n{C:81930100}{C:81958296393400000000}What do you mean, enemies?\nThere shouldn't be anyone for us to fight.\n\n{C:81930600}{C:819582963A3400000000}Calm down!\nYou're a man! Don't panic!\n\n{C:81930100}{C:819582963B3400000000}Dad?\n\n{C:81930600}{C:819582963C3400000000}Good, you can hear me?\nWithout a ship,\nwe can't get to you.\n\n{C:819582963D3400000000}I'll give you instructions from the ground.\nJust do what you can to hold out.\n\n{C:81930300}{C:819582963E3400000000}No way...\nWe can't do this, Dad!\n\n{C:81930600}{C:819582963F3400000000}It's all right. You two can do it.\nI'll give you a brief explanation of combat.\n\n{C:81958296403400000000}If you fight as I explain, at least\nwe should be able to keep the city from harm.\nPlease, do your best.\n\n{C:81930100}{C:81958296413400000000}Okay, I'll try!\n\n{C:81930600}{C:81958296423400000000}First, calm down and look at the top of the monitor.\n\n{C:81958296433400000000}You should see data labeled HP and EN\nup there.\nDo you see it?\n\n{C:81930100}{C:81958296443400000000}The top of the screen? ...Oh, this?\nI found it, Dad.\n\n{C:81930600}{C:81958296453400000000}Good. I'll explain HP first.\nThis {C:819782830400}HP{C:819782830000} reading\nshows the Norstan's durability.\n\n{C:81958296463400000000}In other words,\nwhen the Norstan's HP reaches zero,\nwe lose--\n\n{C:81958296473400000000}Conversely,\nwe win by reducing the enemy's HP to zero.\n...Do you understand?\n\n{C:81930100}{C:81958296483400000000}Yeah.\nBasically, before the Norstan runs out of HP,\n\n{C:81958296493400000000}we just have to get their ship's HP\ndown to zero, right?\n\n{C:81930600}{C:819582964A3400000000}Exactly.\n\n{C:819582964B3400000000}Next is the {C:819782830400}EN{C:819782830000} reading.\nThis value\nshows the Norstan's energy.\n\n{C:819582964C3400000000}Whenever the ship takes action,\nsuch as deploying a unit,\nit almost always consumes EN.\n\n{C:819582964D3400000000}If you run short of EN in a crisis,\nit could get you killed in the worst case.\nNever waste it.\n\n{C:819582964E3400000000}Now, I'll explain attacking.\n\n\n{x00}",
+   "source_sha256": "0bd9655b663ee8349d2baeb27474a92ebc30b6f13eed2ecf46927b705442df20",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930600}{C:819582964F3400000000}In combat, both sides take turns.\nEach turn is divided into a defense phase\nand an attack phase.\n\n{C:81958296503400000000}We attack, and the enemy defends.\nThe enemy attacks, and we defend.\nCombat consists of repeating this cycle.\n\n{C:81958296513400000000}Since we have the initiative,\nthis battle begins with the attack phase\nof our turn.\n\n{C:81958296523400000000}Now,\nI'll explain the battlefield.\n\n{C:81958296533400000000}The places where units can deploy are marked\nby {C:819782830400}lanes{C:819782830000} connecting our side to the enemy's.\n\n\n{x00}",
+   "source_sha256": "067d9caf34e2f9c7d7ea17b2ca0ab8aad4a9f0bf7e6463ff521a12d76548659d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930600}{C:81958296543400000000}There are six lanes.\nDeployed units take up space\naccording to their width.\n\n{C:81958296553400000000}For FT and GT units,\nthe standard unit width is two.\n\n{C:81958296563400000000}Therefore,\na maximum of three machines\ncan stand side by side.\n\n\n{x00}",
+   "source_sha256": "b871b0846e54786f008a7b768b1d028a9ea859c1758fd62ffac088334937927c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81930600}{C:81958296573400000000}After lanes, I'll explain \n{C:819782830400}Forward{C:819782830000} and {C:819782830400}Back{C:819782830000}.\n\n\n{x00}",
+   "source_sha256": "f71df65a7cf2e100d2e2477c0a672c33589426baa4e984c2396eaa1d66457303",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81930100}{C:81958296583400000000}So there's a front and a back?\nWhat's the difference?\n\n{C:81930600}{C:81958296593400000000}The drawback of the Forward position is\nthat it's easier to take damage,\nbut it also makes attacking easier.\n\n{C:819582965A3400000000}Conversely, the Back position makes it\nharder to take damage,\nbut it also makes attacking harder.\n\n{C:819582965B3400000000}Choose the more suitable position\nbased on the enemy's situation\nand the units you can deploy.\n\n\n{x00}",
+   "source_sha256": "84ad6df146489d64e482b5fa28c47c550cc186f50cfb7d4c1a078376a5a8bacd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930100}{C:819582965C3400000000}I see...\n\n{C:81930600}{C:819582965D3400000000}Next,\nI'll explain units.\n\n{C:819582965E3400000000}Like ships,\nunits have HP and EN.\n\n\n{x00}",
+   "source_sha256": "9b435b8128908bbee817c4fe38b940b242572463292ea17d45d190a6ec4b02f4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930600}{C:819582965F3400000000}When a unit runs out of HP, it is damaged.\nIt can't deploy from the ship\nuntil it receives the minimum repairs.\n\n{C:81958296603400000000}However, units are repaired\nevery turn.\n\n{C:81958296613400000000}If several units have been destroyed,\nyou can't choose which one\nwill be repaired that turn.\n\n{C:81958296623400000000}To fight reliably,\ntry to avoid having units damaged\nas much as possible.\n\n{C:81930100}{C:81958296633400000000}Okay, I'll try.\n\n{C:81930600}{C:81958296643400000000}As for EN,\nyou can basically think of it\njust as you would a ship's.\n\n{C:81958296653400000000}Next are unit attributes.\n\n{C:81958296663400000000}First, units have location attributes: \n{C:819782830400}Ground{C:819782830000}, {C:819782830400}Anti-Air{C:819782830000}, and {C:819782830400}Flying{C:819782830000}.\nThese indicate their position.\n\n\n{x00}",
+   "source_sha256": "af3289abd9990800a2a452e3130a07904646d8e05983438da6bfa8d4afdbadc4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81958296673400000000}For example, this GT-B\nhas the Anti-Air location attribute.\n\n\n{x00}",
+   "source_sha256": "dcc105a2db158b29a9c1c508e57f82cdb279cb0bd077ac017138663e371176dc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81930600}{C:81958296683400000000}And GT-A\nhas the Ground location attribute.\n\n{C:81958296693400000000}When units have the same location attribute,\nthere's no change, but...\n\n{C:819582966A3400000000}when units with different attributes\nfight, the effect is substantial.\n\n{C:819582966B3400000000}Basically, Ground has an advantage over Anti-Air,\nFlying has an advantage over Ground,\nand Ground has an advantage over Anti-Air.\n\n{C:819582966C3400000000}Remembering this three-way relationship\nshould prove useful.\n\n\n{x00}",
+   "source_sha256": "c430aa215a8a0741b1c9a4f242ffbb844fa9d62d01abaee8285407d79387394d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81930600}{C:819582966D3400000000}Next, I'll explain another attribute.\n\n{C:819582966E3400000000}Each unit has a range\nat which it can attack.\n\n{C:819582966F3400000000}{C:819782830400}Long Range{C:819782830000}, {C:819782830400}Short Range{C:819782830000},\nand there are also \n{C:819782830400}Piercing units{C:819782830000} that attack at both short and long range simultaneously.\n\n\n{x00}",
+   "source_sha256": "7cd39d0f6a683992906a566f065ae9dd439e1c81cf9178d9a67a9022cca90637",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81930600}{C:81958296703400000000}Generally, GT-B and similar \n{C:819782830400}Long Range attack units{C:819782830000}\nare suited to fighting from the rear.\n\n\n{x00}",
+   "source_sha256": "906b80af9fe65b38825df41e123852bc05a22a32bcb37636e4fc4d2b8ef8033b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930600}{C:81958296713400000000}And Short Range attack units\nlike GT-A\nare probably better suited to the front.\n\n{C:81958296723400000000}These Short Range, Long Range and Piercing types are called \n{C:819782830400}range attributes{C:819782830000}.\nMake sure you remember them.\n\n{C:81958296733400000000}Now, I'll get back to explaining the combat procedure.\n\n{C:81958296743400000000}You need to give action orders\nto the units you've deployed.\n\n\n{x00}",
+   "source_sha256": "9a79e3576acc57c96029f180b52a15d1bdab1f5e215452c7adccd4fe068ef341",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81930600}{C:81958296753400000000}Deployed units won't act\nunless you give them orders like this.\nDon't forget.\n\n\n{x00}",
+   "source_sha256": "dfabe26cd1cc1d56813cb060bdec22a92610dfb35e729a683e0ddb60fd39921b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81930600}{C:81958296763400000000}Giving a unit an action order\nconsumes that unit's EN.\n\n{C:81958296773400000000}Like the ship, it can't move if it runs short of EN,\nso be careful.\n\n{C:81958296783400000000}Once you've finished all actions and orders,\nselect Turn End,\nand your units will advance on the enemy.\n\n\n{x00}",
+   "source_sha256": "d50fe4de01c88b2c5a1a5f516c8e20447b345827efd97dd2f421a956666edafb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81930C00}{C:819582967A3400000000}So they're receiving instructions from the ground.\nAn opponent with no combat experience at all...\nThey pose no problem.\n\n\n{x00}",
+   "source_sha256": "a76abdfe78946729bd76b424db1c3cbba54aba1d18d2926e3f32d077398ba415",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81930600}{C:819582967B3400000000}It looks as though the enemy that appeared\nis a Ground unit.\n\n\n{x00}",
+   "source_sha256": "e729c1fc94a026b7bd8d3e793483778cc3a9df1d80d495e1f2ec348505ce1ace",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81930600}{C:819582967C3400000000}The enemy unit\nseems to have chosen to defend.\n\n{C:819582967D3400000000}An enemy that chooses to defend\ncan spend its defense power\nto reduce our attack power.\n\n{C:819582967E3400000000}What's more, that defense power value\nonly applies for one turn,\nand is fully restored the next turn.\n\n{C:819582967F3400000000}But that also means its defense power\ndoesn't recover during the turn.\nIt only decreases with each attack it takes.\n\n{C:81958296803400000000}If we can deplete its defense power\nall the way to zero,\nwe'll be able to damage it.\n\n{C:81958296813400000000}Against a defending enemy, what matters is\nwhether you can attack with enough power\nto exceed its defense within a single turn.\n\n\n{x00}",
+   "source_sha256": "9a192e185b9eb492cda021350344f6051a6381fc06af9c68844a9e0f43d8785b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81930600}{C:81958296823400000000}Once the enemy finishes its actions,\neach unit begins carrying out its action.\n\n\n{x00}",
+   "source_sha256": "c8a68075e6b1ce48dd86b5af5f991250fcce01ef7f021021712faf209bd9c887",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81930600}{C:81958296833400000000}Units act in order,\nstarting with the fastest.\n\n{C:81958296843400000000}Basically, units taking action\nadvance toward the enemy ship\nin order to attack it.\n\n{C:81958296853400000000}And when units from both sides\nare in the same lane,\nthey fight.\n\n\n{x00}",
+   "source_sha256": "bce0672ce83ba2a221e1d2d3c07cff9ec6e8e78d009a4d05f91b90457f6b59bf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930600}{C:81958296863400000000}As I thought, a defending unit\nisn't easy to take down...\n\n{C:81930100}{C:81958296873400000000}Damn it.\n\n{C:81930600}{C:81958296883400000000}...But GT-B is next.\n\n{C:81930100}{C:81958296893400000000}Huh?\n\n{C:81930600}{C:819582968A3400000000}As I'm sure you know,\nGT-B is a Long Range unit.\n\n{C:819582968B3400000000}Normally, when other Ground units\nare in the same lane, you can't pass them,\nwhether they're allies or enemies.\n\n{C:819582968C3400000000}But GT-B, a Long Range unit,\ncan attack one space farther\nthan the normal attack range.\n\n{C:819582968D3400000000}In other words, it can attack\nthe enemy in front of GT-A.\n\n\n{x00}",
+   "source_sha256": "0eaf8017eff38cc61c7f1410bd007f9a9afe27e730a9f4deed8dd073188eba0e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81930600}{C:819582968E3400000000}By using Long Range\nand Short Range units this way,\nyou can attack in succession.\n\n{C:81930100}{C:819582968F3400000000}Oh, I get it.\n\n{C:81930600}{C:81958296903400000000}However!\nThere's something you must watch out for\nwhen planning successive attacks.\n\n{C:81958296913400000000}Even if, as before,\nyou put a Short Range unit in Forward\nand a Long Range unit in Back,\n\n{C:81958296923400000000}if the Short Range unit in Forward\nis slower than the Long Range unit\nyou've placed in Back,\n\n{C:81958296933400000000}the Long Range unit can't advance,\nand its turn will end\nbefore it reaches the enemy's position.\n\n{C:81958296943400000000}Speed can easily lead to mistakes\nin various other situations as well.\n...Be careful.\n\n\n{x00}",
+   "source_sha256": "3ce4a7e9496ea04b539f7371e596dbd5b482faae7452231c81770bed76216e7d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81930C00}{C:81958296953400000000}For a first battle,\nthey're doing rather well...\n\n\n{C:81930100}{C:81958296963400000000}Dad, it looks like they're going to attack.\n\n{C:81930600}{C:81958296973400000000}Don't panic!\nFirst, take a good look around\nand understand the situation.\n\n{C:81930100}{C:81958296983400000000}I got it!\n\n{C:81930600}{C:81958296993400000000}Listen. When you switch from defense to attack,\nships and units recover.\n\n{C:819582969A3400000000}Specifically,\nships and units replenish their EN.\n\n{C:819582969B3400000000}And units aboard ships\nrecover\ntheir HP.\n\n{C:819582969C3400000000}What's more, one damaged unit\nfinishes its repairs and can deploy again.\n\n\n\n{x00}",
+   "source_sha256": "7c358ed10140c463b82cb02d9b72d5045ffb1a50f251c06664b3dfaa63f143e9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81930100}{C:819582969D3400000000}What?\nThat unit's back in action?!\n\n{C:81930600}{C:819582969E3400000000}Relax. It may be repaired,\nbut its HP shouldn't have recovered yet.\nEven if it deploys now, it's no match for us.\n\n{C:819582969F3400000000}More importantly...\nit looks like another unit is coming.\n\n\n{x00}",
+   "source_sha256": "48a8042690938540a4f45a7028ba527ae9938ce11bd8325adce363c1bced4998",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81930100}{C:81958296A03400000000}Another unit?\n...Huh?\n\n\n{x00}",
+   "source_sha256": "6665144eb5c2760b1b6d20a417b235f0c4ecea3b3118f648e7341995ac5b3b64",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81930100}{C:81958296A13400000000}That one in the back...\nDidn't it just change lanes?\n\n{C:81930600}{C:81958296A23400000000}Yes, it definitely moved.\n...Right.\nI'd better explain that too.\n\n{C:81958296A33400000000}Deployed units can spend EN\nto move to an adjacent lane,\nor to Forward or Back.\n\n{C:81958296A43400000000}Of course, a unit can't move if its action\nhas already been decided, or if other units\nsurround it and leave it no room to move.\n\n\n\n{x00}",
+   "source_sha256": "b526c83666c1e9f75a0fe808566c6a51563d24665097d1de5b46d5fa146277ae",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81930100}{C:81958296A53400000000}Here they come!\n\n{C:81930600}{C:81958296A63400000000}They're coming with two units.\n\n\n{x00}",
+   "source_sha256": "18bed50981f1e2ae310b30bb1a9d382d20f79ce26e337422307dd5c3022ff3ef",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81930600}{C:81958296A73400000000}You can still attack\neven when you're the defending side.\n\n{C:81958296A83400000000}The only difference is\nthat you don't advance when attacking.\n\n\n{x00}",
+   "source_sha256": "9f6a0fec8c46264a1f55ed3bc7f84f7970378d54d1c161a63a343a5855b8562b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81930600}{C:81958296A93400000000}All right, you deploy too!\n\n{C:81930100}{C:81958296AA3400000000}...Huh?\nOh, right!\n\n{C:81930600}{C:81958296AB3400000000}Their units have the Ground attribute.\nSo Impulse 7, a Flying unit,\nshould have the advantage.\n\n{C:81930100}{C:81958296AC3400000000}All right, leave it to me!\n\n\n{x00}",
+   "source_sha256": "2bcef861278c466d7f3e64525591252230d5cea416d475694ba0814b7dd99ff1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81930100}{C:81958296AD3400000000}Whoa!\n\n{C:81958296AE3400000000}Dad!\nEven if I have the advantage,\nI can't take on two units!\n\n{C:81930600}{C:81958296B03400000000}Don't panic. Listen carefully!\n\n{C:81958296B13400000000}When fighting several units,\nattack power, defense power and damage\nare distributed according to the area of contact across their widths.\n\n\n{x00}",
+   "source_sha256": "790356c9cf9c390a37eaa5125400c4735512805221fafd462c7dc849ded990fa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81930600}{C:81958296B23400000000}In this situation, GT-A takes\ntwo-thirds of the damage\nit would take fighting alone.\n\n\n{x00}",
+   "source_sha256": "be3ae1bacdeb16291dd004082fe6a95415281c78674aabeb85225f7ab4409c5d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81930600}{C:81958296B33400000000}The upper GT-A also takes\ntwo-thirds of the damage it would take alone.\n\n\n{x00}",
+   "source_sha256": "d0a54cae22c1ba26800f3086fb014acbdb8dd414b8111398983f0ea04234f188",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81930600}{C:81958296B43400000000}And Impulse 7 takes one-third\nof the damage from each of them,\nfor a total of two-thirds as well.\n\n\n{x00}",
+   "source_sha256": "8a9237f8f5984078b199f5e25f4c00d90f8b1350e9dfc5193598603e98cbc990",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81930600}{C:81958296B53400000000}That example\nwas about the damage our side takes.\n\n{C:81958296B63400000000}Conversely, consider our attacks.\nEach of them has to fight GT-A,\nand on top of that...\n\n{C:81958296B73400000000}each has to take half\nof Impulse 7's attack.\n\n{C:81958296B83400000000}Do you understand?\nThen get out there!\n\n\n\n\n\n{x00}",
+   "source_sha256": "8d7d1ff4c9143e35b2348d671c1c7bb07edc975b80c734cfec7a7905793d3231",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81930C00}{C:81958296B93400000000}So the instructions from the ground are sound.\nThis may take a little longer...\n\n\n\n{x00}",
+   "source_sha256": "e295a117ee6a64b38f24806c1ffb336c91a3ecc9bfe4c6c820b842a54fd45e7d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81930600}{C:81958296BA3400000000}A unit that has spent its EN\ncan't act.\n\n{C:81958296BB3400000000}In that case, it's better to have it {C:819782830400}Return{C:819782830000} to the ship\nand replenish its EN.\n\n\n{x00}",
+   "source_sha256": "0f73887a576806df7b738dc61a7ff3c2848d99ff75dfc4705ae95ab5317c96c0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81930600}{C:81958296BC3400000000}There's something\nyou need to watch out for here.\n\n{C:81958296BD3400000000}First, returning to the ship\ninstantly replenishes EN,\nbut it doesn't replenish HP.\n\n\n{x00}",
+   "source_sha256": "57020cf6dc30e082d10f33c5bd863ff24f995af59d101144e458258b347227a6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81930600}{C:81958296BE3400000000}Also, you can't return\nduring the defense phase.\n\n{C:81958296BF3400000000}Make sure you get that into your head\nwhile you have the chance.\n\n{C:81958296C03400000000}Now, let's finish this in one go.\n\n\n\n\n{x00}",
+   "source_sha256": "d51e290f7d2cd92d228d7f678e4927d5a58a95a7785f8d58ff346304669caf83",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81930C00}{C:81958296C13400000000}It seems all the units\nhave launched from the Norstan.\n\n\n{x00}",
+   "source_sha256": "e86a980247ac508d9598dc3d4eda4f44979a37b422eea96c5e52ff3cf4b22227",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81930100}{C:81958296C23400000000}What is it...? I've got a bad feeling.\n\n\n{x00}",
+   "source_sha256": "2457dafdf23571e5373f918053bc22fcfc0de073ba53dc93d3d20cde266b2c6f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81930300}{C:81958296C33400000000}What's wrong, big brother?\n\n\n{x00}",
+   "source_sha256": "13ec38133234d68136e6cddb8aca4a8d0a5a229dab9d6e3079198d35cc9a2ade",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81930100}{C:81958296C43400000000}No, it's nothing.\nAnyway, let's go!\n\n{C:81930300}{C:81958296C53400000000}Yeah!\n\n\n\n{x00}",
+   "source_sha256": "fa66d2cf73f4c0d2c869b07196ac6c45df530788768b541943739070e7629c67",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81930100}{C:81958296C63400000000}What's going on?\nThey're not moving to intercept us?!\n{x00}",
+   "source_sha256": "1e5c2329f3ea1ed14984fc5e5df090ea6d370185e7809dd96ec71766b618fdbf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all42 independent385 unique accuracy verdicts/omissions/all11 common qualifications, all8author383 groups and all6complete source/current/proposed frames with full seven-field updates and qualifications. Then separately read all42complete English frames in continuous scene order. Adopt6source-reviewed repairs restoring ordinary grammar, contact-area allocation and preparatory timing, preserving all167literal text segments/140voices/234calls and original controls/LFs/rawheaders. Raw duplicate relation8 and malformed34 remain explicitly qualified; no silent parallel-source or runtime-mechanics repair. Actual glossary audit follows meaning edits, then separate complete CURRENT MAIN proofreading. All earlier full records/aliases remain exact. All builds/tests deferred until entire translation pipeline completion. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

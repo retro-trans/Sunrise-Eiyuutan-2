@@ -1,0 +1,51 @@
+{
+  "version": "0.8.0",
+  "game": "Sunrise Eiyuutan 2",
+  "edition": "Japanese original, SLPS-25070",
+  "baseline": "0.2.31",
+  "game_bytes_unchanged_from_baseline": true,
+  "source": {
+    "name": "Sunrise Eiyuutan 2 (Japan).iso",
+    "size": 2622685184,
+    "sha256": "5d6f96c972ac65bb5dddbadc832dc749a59b86b8c4507408231bed725b8524e8",
+    "sha1": "599f231a70a33692c80cae9bbad79dc8c92576a3",
+    "md5": "8d78fbad987edeeb37d63e4d21db81b2"
+  },
+  "target": {
+    "name": "Sunrise Eiyuutan 2 EN v0.8.0.iso",
+    "size": 2627004416,
+    "sha256": "8fa9f17a838b4c22c591467ad343b7130d159efcd00b5cbb413c43175b8e2f7f",
+    "sha1": "2e74d9e7711abca1806aa5bb6d2400eea255550b",
+    "md5": "21e9187411ad70d1d9b2fe92521454fb"
+  },
+  "patch": {
+    "name": "Sunrise-Eiyuutan-2-English-v0.8.0.xdelta",
+    "size": 366335745,
+    "sha256": "4676e3558584621dd4d55227d7a7e245945cea757f1f0e686bc5853fbd082443",
+    "sha1": "89755a2bee8b533eac2e6bdcc89f376e66d49334",
+    "md5": "3da6d7867a0232a6f7b3db2267f0b77f"
+  },
+  "xdelta": {
+    "version": "3.1.0",
+    "executable_sha256": "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a",
+    "options": [
+      "-e",
+      "-9",
+      "-B",
+      "67108864",
+      "-S",
+      "djw"
+    ]
+  },
+  "validation": {
+    "round_trip": "passed: decoded size, SHA-256, SHA-1 and MD5 equal verified target",
+    "files_verified": 20,
+    "resource_packs_verified": 5614,
+    "event_members_verified": 80,
+    "movie_members_verified": 489,
+    "original_audio_preserved": true,
+    "full_playthrough": false,
+    "battle_dialogue_holds": 56
+  },
+  "source_code_note": "Repository snapshot includes tools and English exports. Historical build inputs and local media caches are not distributed; the repository alone is not a one-command rebuild kit."
+}

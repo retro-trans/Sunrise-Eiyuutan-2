@@ -1,0 +1,187 @@
+{
+ "table": "04909_10387",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:8190E200}{C:81958296F31F00000000}You there! What are you doing?\nGet on with the escort!\n\n{C:8190E400}{C:81958296F61F00000000}Get moving,\nyou sluggish oaf!\n\n{C:8190BA01}{C:81958296F71F00000000}Hmph...\n\n{C:81900400}{C:81958296F81F00000000}He's quite a big man.\n\n{C:8190E400}{C:81958296F91F00000000}Civilians!\nStop staring!\n\n{C:81930100}{C:81958296FA1F00000000}Let's go.\nThey're liable to pick a fight with us.\n\n\n\n\n\n{x00}",
+   "source_sha256": "173fcc17f1904e8b601c051d22cb4141be028c43e49c47292eb1acf8ba362593",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81900300}{C:81958296FB1F00000000}Ah!\n\n{C:8190A202}{C:81958296FC1F00000000}Forgive me, my lady.\nAre you hurt?\n\n{C:81900300}{C:81958296FD1F00000000}Oh, no.\nI'm all right.\n\n{C:8190A202}{C:81958296FE1F00000000}Dor... No, I was looking for someone.\nMy apologies.\n\n{C:81900300}{C:81958296FF1F00000000}We just bumped into each other.\nPlease don't worry about it.\n\n{C:8190A202}{C:81958296002000000000}I'm {C:819782830400}Roger Smith.{C:819782830000}\nIf we have the chance,\nlet's meet again.\n\n\n{C:81900400}{C:81958296022000000000}He has funny eyebrows.\n\n{C:81900300}{C:81958296032000000000}But he's a gentleman, isn't he?\n\n{C:81900400}{C:81958296042000000000}I'll give him that.\nHe doesn't seem to be from this continent.\nI wonder what he does for a living.\n\n{C:81930100}{C:81958296052000000000}What are you two doing?\nI'll leave you behind.\n\n{C:81900300}{C:81958296062000000000}I'm coming!\n\n\n\n{x00}",
+   "source_sha256": "3b528a8515effdb7938bc3167e566dfe55306a0a17c19779b5acbcddd0c002c5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81900300}{C:81958296072000000000}Wow, somehow\nthis reminds me of Claudia!\n\n{C:81900400}{C:81958296082000000000}It really does!\nYou'd hardly believe there's fighting\non this continent, too.\n\n\n{x00}",
+   "source_sha256": "a30eb2701d38392ed2e0af5037ec5f0ac4d19d8d03bfc3c219c7ee73ac5c2946",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n\n{C:8193AB02}{C:81958296092000000000}I see.\nSo people really are coming here\nfrom other continents as well.\n\n{C:81930100}{C:819582960A2000000000}Whoa! You're upside down!\n\n{C:8193AB02}{C:819582960C2000000000}My apologies.\nHah!\n\n\n\n\n{x00}",
+   "source_sha256": "6f8fafb10f9297be567434ea9c7d726376f724057c39ac2e634287f4dd459cf7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:8190AB02}{C:819582960D2000000000}I was looking for someone.\nI apologize for startling you.\nNow, if you'll excuse me.\n\n\n{C:81900400}{C:819582960F2000000000}I wonder what he was hanging from...\n\n\n\n\n\n{x00}",
+   "source_sha256": "f16cb80c98b2b235ee23c27253929070a1b73bb4d6148c3a1cb3739df115aaba",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930100}{C:81958296102000000000}We've ended up somewhere strange.\nHow do we get back to town?\n\n{C:81900300}{C:81958296112000000000}Oh, big brother!\nSo much for 'Leave it to me!'\n\n{C:81900400}{C:81958296122000000000}There's someone over there.\nLet's ask.\n\n{C:8190CA00}{C:81958296132000000000}Ahh... I came all the way to Gilgamesh,\nbut I couldn't get anything.\nI'm sorry, Chirico...\n\n{C:81900400}{C:81958296142000000000}Excuse me.\nUm, how do we\nget back to town?\n\n{C:8190CA00}{C:81958296152000000000}Oh, in that case,\njust take that road out of here\nand you'll be right back...\n\n{C:81958296162000000000}Hey, you!\n\n{C:81930100}{C:81958296172000000000}M-me?\nWhat is it?\n\n{C:8190CA00}{C:81958296182000000000}You've got a nice build, don't you?\nDo you want to be an AT pilot?\n\n{C:81930100}{C:81958296192000000000}An AT pilot?\nNo thanks, I'm an FT pilot.\n\n\n{C:8190CA00}{C:819582961A2000000000}Oh, don't say that.\nCome and enter\nBattling with me!\n\n{C:81930100}{C:819582961C2000000000}No, thank you!\nLet's get out of here, Rie, Nelfea!\n\n{C:8190CA00}{C:819582961D2000000000}Aww, wait for me!\n\n\n\n\n{x00}",
+   "source_sha256": "378768b33339fe7d7553b9f5570e0e3efc69c7f6b6919d66d2572ae46254df2c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930100}{C:81958296482000000000}Is this a junk shop?\n\n{C:8190CF01}{C:81958296492000000000}Whoa there, you lot!\nI haven't seen you around before.\nYou just got to Astragius, right?\n\n{C:819582964A2000000000}You'd better watch out.\nThis continent's a scary place.\nPeople will rob you blind.\n\n{C:81900400}{C:819582964B2000000000}Don't scare us like that!\n\n{C:8190CF01}{C:819582964C2000000000}There are plenty of people after\nthe technology to cross the Cloud Sea.\nYou'd better be careful.\n\n{C:81900300}{C:819582964D2000000000}Who are you, anyway?\n\n{C:8190CF01}{C:819582964E2000000000}I'm {C:819782830400}Duo.{C:819782830000}\n{C:819782830400}Duo Maxwell{C:819782830000}, that's my name.\nYou won't regret remembering it.\n\n{C:81958296652000000000}I'll give you a hand before long,\nso make sure you remember me!\nSee you around!\n\n{C:81930100}{C:819582964F2000000000}Hey, wait!\nHe's fast. He's gone already.\n\n{C:81900400}{C:81958296502000000000}The way he moves shows he's trained.\nHe may seem like a joker,\nbut we can't let our guard down around him.\n\n\n\n\n{x00}",
+   "source_sha256": "3e6b66144e5a177faa80965b230ba5f52193b1450d6f2c5413716afdb7078680",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81930100}{C:81958296512000000000}I'm tired. Let's take a short break.\n\n{C:81900300}{C:81958296522000000000}I vote yes!\nI'm completely worn out.\n\n{C:81900400}{C:81958296532000000000}You two have no stamina.\nThough I have to admit,\nI'm a little tired myself...\n\n{C:8190DC00}{C:81958296552000000000}I'm sorry, girls.\nWe've only got drinks for grown-ups here.\nYou'd better try somewhere else.\n\n{C:81900300}{C:81958296562000000000}Oh, I see. I'm sorry.\n\n{C:8193C800}{C:81958296572000000000}Cough! Cough!\n\n{C:8190DC00}{C:81958296592000000000}What's wrong, Chirico?\nCan't you even drink beer?\n\n{C:8190C800}{C:819582965A2000000000}Why does everyone drink\nsomething this foul?\n\n\n{C:81900400}{C:819582965B2000000000}It looks like we're not the only ones\nwho don't belong here.\n\n\n\n\n{x00}",
+   "source_sha256": "d6fa4852b1215917be6ee8fb565bff36ab2a1a564d0a32905d7d1969db83a18d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:8190CB00}{C:819582960F0000000000}Hey there, you lot!\nThis is your first time here, right?\n\n{C:81958296100000000000}The great {C:819782830400}Vanilla{C:819782830000} will show you around\ncheap.\n\n{C:81900400}{C:819582961E2000000000}No, thank you.\n\n{C:8190CB00}{C:81958296110000000000}Aw, don't say that.\nIf you like, I could even\ntake you to Battling.\n\n{C:81930100}{C:819582961F2000000000}We're not interested in this\nBattling thing either, so no thanks.\n\n{C:8190CB00}{C:81958296120000000000}All right, all right, I get it!\nI don't want customers like you anyway!\n\n\n\n{x00}",
+   "source_sha256": "4f12337ce6f07187f3c327b2e398afbd22d86ed347eb77927424c5eaf1f84e3a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:8190AC02}{C:81958296202000000000}This is a mess.\nI got separated from Seiji, who came with me,\nand Ryo and the others aren't here either.\n\n{C:81958296212000000000}And on top of that,\nI can't see Natsumi anywhere...\nNow I'm in trouble.\n\n{C:81930100}{C:81958296222000000000}He's looking for people, too?\nIt must be hard in a place this big.\n\n\n\n\n{x00}",
+   "source_sha256": "0d8ccd7660a99718e455aeed79be0e0a7f98c8d2bdeebd94e72184d52bd8f568",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:8190CD00}{C:81958296130000000000}Are you a mercenary, too?\nTake my advice.\nWomen and children shouldn't take part.\n\n{C:81930100}{C:81958296232000000000}We're not mercenaries,\nbut is something going to happen here?\n\n{C:8190CD00}{C:81958296140000000000}There'll be a war here before long.\nYou should leave quickly.\n\n{C:81900300}{C:81958296242000000000}Thank you for the warning.\nWe'll leave right away.\n\n\n\n\n{x00}",
+   "source_sha256": "8943e1c340e0fac2f4f990f6bda6b22969be46352b642f7e32819ae27350e929",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930100}{C:81958296252000000000}Huh, so there's a place like this, too.\n\n{C:81900400}{C:81958296262000000000}It's an unusual design. I like it.\nOh, it looks like someone's here.\n\n{C:8190D300}{C:81958296272000000000}Tell me, Pota.\nWhat do you make of the current situation?\n\n{C:8190CF00}{C:81958296282000000000}The situation?\nI certainly wouldn't call it good.\n\n{C:8190D300}{C:819582962A2000000000}Ha ha ha ha ha!\nYou still don't mince words,\ndo you?\n\n{C:8190CF00}{C:819582962B2000000000}Forgive me.\nI can't help worrying about the movements\nof Gilgamesh and Balarant.\n\n{C:8190D300}{C:819582962D2000000000}So you think so, too?\nAt this rate, the Holy Kingdom of Kummen\nmay have no future...\n\n{C:81900300}{C:819582962F2000000000}That sounds serious.\nIt's rude of us to listen in.\nLet's move on.\n\n{C:81930100}{C:81958296302000000000}Yeah.\nLet's do that.\n\n\n\n\n{x00}",
+   "source_sha256": "3badc44b3263b1a54bc1f26300271e95c9a41a74ca0133f9ab71bf9597b21688",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:8190DA00}{C:81958296842000000000}The Astante...\nSo Chirico's been brought here,\njust as that person said.\n\n{C:81958296852000000000}Heh heh heh heh...\nNow then, Chirico.\nWhat will you do?\n\n\n\n\n{x00}",
+   "source_sha256": "c21fc0d18e10adbf88010462fa20622f87777e7ae71ed68cfd41aa4f21ce0227",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:8190AB02}{C:81958296982000000000}It seems neither Natsumi nor\nRyo and the others are on this continent.\n\n{C:8190AC02}{C:81958296992000000000}Then there's no point staying here.\nLet's find some way to get to another continent.\n\n{C:8190AB02}{C:819582969A2000000000}I agree.\nLet's do something about it as soon as possible.\n\n\n{C:81900400}{C:819582969B2000000000}Hey, they seem to be in trouble.\nAren't you going to help them?\n\n{C:81930100}{C:819582969C2000000000}I don't really want too many people to know\nwe can go out into the Cloud Sea.\nWhat should we do?\n\n{C:81900300}{C:819582969D2000000000}...It looks like we're too late.\nThey disappeared incredibly fast.\nAre those people even human...?\n\n\n{x00}",
+   "source_sha256": "e6c8f4aa52657df00b305a01ad87f2916c34d5ca60e892d0bde14818f2a06293",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all14 unique398 verdicts/omissions/uncertainties,4shared groups and4actual397 groups, all2full source/current/proposed corrections0/6. Combined401 then separate14English editorial, punctuation-only403 at1/6. All11 other initial full397 records exact. Preserve93literal segments,147calls86voices, allcontrols/LFs/rawheaders. Source5 local human ATpilot decision,10advisory prohibition,12unknowncarrier/informant retained. One shared178glossary audit after both14+47edits then separate actual CURRENT MAIN proofreading. No tests until entire pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

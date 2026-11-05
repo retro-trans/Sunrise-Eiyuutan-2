@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-04",
+ "scope": "Focused title-menu and name-entry integration requested by user.",
+ "rows": [
+  {
+   "id": "title-0",
+   "en": "New Game"
+  },
+  {
+   "id": "title-1",
+   "en": "Continue"
+  },
+  {
+   "id": "title-2",
+   "en": "Versus"
+  },
+  {
+   "id": "title-3",
+   "en": "Extras"
+  },
+  {
+   "id": "title-4",
+   "en": "Options"
+  },
+  {
+   "id": "name-0",
+   "en": "ABC/123"
+  },
+  {
+   "id": "name-1",
+   "en": "Symbols"
+  },
+  {
+   "id": "name-2",
+   "en": "Delete"
+  },
+  {
+   "id": "name-3",
+   "en": "OK"
+  },
+  {
+   "id": "name-4",
+   "en": "Kanji"
+  },
+  {
+   "id": "name-5",
+   "en": "Kanji Akatsuki"
+  }
+ ],
+ "review": {
+  "accuracy": "Independent748 nine mappings; Extras follows reviewed626, full name fixed glossary0.",
+  "editorial": "Separate full11 English label/name editorial read after accuracy; no changes.",
+  "name_audit": "Actual11 labels/names against24 registered variants; zero changes.",
+  "proofread": "Separate complete final saved11 English labels/names read after actual glossary audit; zero changes."
+ },
+ "source_artwork": "Original title logo and arrows retained.",
+ "name_storage": "Two-byte fullwidth CP932 Latin retains native cursor/delete/name-slot handling; default seed only, editable name remains dynamic.",
+ "alphabet": "Initial50-cell Latin/digit/punctuation grid. Each letter opens upper/lower choices. Full62-character ABC/123 picker and complete original Symbols picker retained.",
+ "voices": "Original Japanese; no new subtitles for uncaptioned speech.",
+ "build_scope": "0.2.0 derives from integrated0.1.139; later reviewed dialogue proposals remain outside this focused image.",
+ "testing": "Focused native/byte validation and8 safety regressions passed; see docs/menu_name_ui_0.2.0.json."
+}

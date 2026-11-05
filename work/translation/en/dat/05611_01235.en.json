@@ -1,0 +1,57 @@
+{
+ "table": "05611_01235",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81900300}{C:81958296833200000000}Huh? The Cloud Sea...\n\n{C:81930100}{C:81958296843200000000}What's wrong, Rie?\n\n{C:81900300}{C:81958296853200000000}Something about the Cloud Sea looks strange.\n\n{C:81900400}{C:81958296863200000000}The Cloud Stream's concentration has increased.\nIt's exceeded the Astante's tolerance.\n\n{C:81930100}{C:81958296873200000000}Exceeded its tolerance?\nDoes that mean we...\n\n{C:81900400}{C:81958296883200000000}Yes. We can't leave\nthis continent anymore.\n\n{C:81900300}{C:81958296893200000000}What do we do, big brother?!\n\n{C:81930100}{C:819582968A3200000000}It might be a natural phenomenon,\nso there's nothing we can do.\n\n{C:819582968B3200000000}We'll just have to wait\nfor the Cloud Stream's concentration to fall.\n\n{C:81900300}{C:819582968C3200000000}Yeah...\n\n{C:81930100}{C:819582968D3200000000}Meanwhile, let's gather information on the Norstan\nand learn about this continent.\nWe can't do anything else, anyway.\n\n{C:81900300}{C:819582968E3200000000}You're right!\nThere's no point worrying about it.\n\n{C:819582968F3200000000}That's my big brother!\nYou're so positive.\n\n{C:81930100}{C:81958296913200000000}Flattery won't\nget you anything, you know.\n\n\n\n\n{x00}",
+   "source_sha256": "fe3a36779c3d5f2333b023b5a4262e5a0357601bee1e6aba4c6c0b89563de250",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296B63200000000}All right! We're finally here!!\nI'm going to have a good look around!\n\n{C:81900400}{C:81958296B73200000000}Wait a minute.\nI'm coming with you.\n\n{C:81930100}{C:81958296B83200000000}What is it, Nelfea?\n\n{C:81900400}{C:81958296B93200000000}Professor Rondo asked me to come, too.\nI can't leave the scouting\nto someone as carefree as you.\n\n{C:81958296BA3200000000}That's why I'm coming.\nGot it?\n\n\n{C:81900300}{C:81958296BB3200000000}Hmph...\n\n{C:81930100}{C:81958296BC3200000000}What's wrong, Rie?\n\n{C:81900300}{C:81958296BD3200000000}If Nelfea's going,\nthen I'm going too!!\n\n{C:81930100}{C:81958296BE3200000000}Oh, fine! Do whatever you want!\n\n{C:81958296BF3200000000}(What on earth\n is Rie so angry about?)\n\n\n{x00}",
+   "source_sha256": "c75f99177d40360e79b53e1456da50ef02164f60c21369df4ab016869eff3a39",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930100}{C:81958296C03200000000}Hey, Rie,\nhave you seen Nelfea?\n\n{C:81900300}{C:81958296C13200000000}I don't know.\nIsn't she in the hangar?\n\n{C:81930100}{C:81958296C23200000000}No, she isn't.\nI wanted to see her about something.\n\n{C:81900300}{C:81958296C33200000000}Do you want to check the ship's monitors?\n\n{C:81930100}{C:81958296C43200000000}Hmm, no.\nI'll look for her myself.\n\n\n\n{x00}",
+   "source_sha256": "d13681dd063206e252fbe0be625b61f7297ace59c0e31492bae7ce385aa8a663",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81900400}{C:81958296C53200000000}Claudia...\nI can't see it anymore.\n\n{C:81930100}{C:81958296C63200000000}(Nelfea... Of course.\n She may act tough, but she's still a child.)\n\n{C:81900400}{C:81958296C73200000000}Professor... I wonder how you're doing.\n\n{C:81930100}{C:81958296C83200000000}Are you lonely?\n\n{C:81900400}{C:81958296C93200000000}O-of course not!\nWhat are you talking about?!\n\n{C:81958296CA3200000000}Of course I'm worried.\nUnc... the Professor isn't here.\n\n{C:81930100}{C:81958296CB3200000000}I know you can't rely on me\nas much as Professor Rondo, but...\n\n{C:81958296CC3200000000}I'll work hard too.\nI'll get stronger, so you can count on me.\n\n{C:81900400}{C:81958296CD3200000000}Is something wrong with your head?\n\n{C:81930100}{C:81958296CE3200000000}That's harsh, Nelfea!\n\n{C:81900400}{C:81958296CF3200000000}Well, do your best.\n\n{C:81958296D03200000000}(Thank you.)\n\n{C:81930100}{C:81958296D13200000000}(That's right. Unless I get stronger,\n I won't be able to get Lun back.)\n\n{x00}",
+   "source_sha256": "e4656c6c4a1bf001393bc39ae70ed3e05d9206103c3d1443902dd1c2bab0a1d3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent all14unique table+id468verdicts/omissions/fourshared/fiveactualown466groups read; all14whole466records retained across4finite tables. Then separateall14complete475English sourceordereditorial,nochanges. Own28includesmechapair;independent28includesrelatedLunpair; scopesnotinherited. Actual1181preserves1180/1178history. Shared181names/currentMAINprooffollow; no tests. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

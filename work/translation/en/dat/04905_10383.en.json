@@ -1,0 +1,768 @@
+{
+ "table": "04905_10383",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n{C:81900600}{C:81958296871D00000000}Honestly, what's he doing...? Ah, there you are.\n\n\n{x00}",
+   "source_sha256": "851953e1d49b0a833c03faf11a126b5270a238c489074fcd6c182e7e8f5fada9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence.",
+   "rendered_evidence": {
+    "build": "0.1.70",
+    "draft_sha256": "53994a9b39ba3e9d703b07b01f619e9581e57c3e365523bd4d4e9be0d6dcab3d",
+    "built_row_sha256": "93d63ce25e925d1d60b4a45dd850b8f831ba1a149765ab87627030a9cbf05433",
+    "native_sha256": "bbe02aba54260e5e842440967f0141304d10d6798b00147d3007ecf3811daff0",
+    "pages": 1,
+    "audit": "work/ui/message-audits/v0.1.70_20261031T182848106712Z/audit.json",
+    "build_elf_sha256": "0025a90ae957324dde82e82180a567b891223b970d90442a34388df774fef8b4"
+   }
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296881D00000000}Dad!!\n\n{C:81900600}{C:81958296891D00000000}You're late! What were you doing?\n\n{C:81900100}{C:819582968A1D00000000}Sorry. I was thinking about a few things, and I lost track of time.\n\n{C:81900600}{C:819582968B1D00000000}What am I going to do with you?\n\n{C:819582968C1D00000000}Now, once again. {C:819782830400}{C:819782960000} Akatsuki{C:819782830000}!\n\n{C:81900100}{C:819582968D1D00000000}What is it, Dad?\n\n{C:81900600}{C:819582968E1D00000000}Never mind that. Get serious and answer properly!\n\n{C:81900100}{C:819582968F1D00000000}Y-Yes, sir! (What's gotten into Dad?)\n\n{C:81900600}{C:81958296901D00000000}You understand the mission, don't you?\n\n{C:81900100}{C:81958296921D00000000}Yes, sir.\n\n\n\n{x00}",
+   "source_sha256": "840e5babfc9a08a7ad3032e952ffd1fae8a808eb34f545e5d31e5171aca02090",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence.",
+   "rendered_evidence": {
+    "build": "0.1.70",
+    "draft_sha256": "5c7e4537f7b3eb61d031cdc4c1626d1c5e26429ea094e2a2c229aba8754de5ee",
+    "built_row_sha256": "fe2315da0914140c4ae87ac3f1f8369dafc73980246038d855c08e27fff5d665",
+    "native_sha256": "a85a217016794537e807e9035dd97a1161379e80b58b74a4e56c404b8bd623d2",
+    "pages": 10,
+    "audit": "work/ui/message-audits/v0.1.70_20261031T182848106712Z/audit.json",
+    "build_elf_sha256": "0025a90ae957324dde82e82180a567b891223b970d90442a34388df774fef8b4"
+   }
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930100}{C:81958296931D00000000}All right, there's nobody around.\n\n{C:81900100}{C:81958296941D00000000}{C:819782830400}Lun{C:819782830000}, over here!\n\n{C:81930200}{C:81958296961D00000000}Hey, wait for me!\n\n\n\n{x00}",
+   "source_sha256": "6745e96b85d4d9e1338972c3092b2eb13635720d1b365263e81c7f4301cdd3b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence.",
+   "rendered_evidence": {
+    "build": "0.1.70",
+    "draft_sha256": "752ad0dbe561694d5ae4b0b125eb3e14ee78616ae09bcceed2c05aaf39ca7076",
+    "built_row_sha256": "5a6abc411f52b1f5b8d5e52a7e1f417d68b6244473d030fcab18fffc1ae6844b",
+    "native_sha256": "9203ed72d1065d8bb16733a822d4a1fc5fcf321d1b1412ff3f5520dbb8dba36b",
+    "pages": 3,
+    "audit": "work/ui/message-audits/v0.1.70_20261031T182848106712Z/audit.json",
+    "build_elf_sha256": "0025a90ae957324dde82e82180a567b891223b970d90442a34388df774fef8b4"
+   }
+  },
+  {
+   "id": 3,
+   "en": "\n\n{C:81900200}{C:81958296991D00000000}Hey, are you sure this is okay? Boarding without permission?\n\n{C:81900100}{C:819582969A1D00000000}I'm telling you, it's fine.\n\n{C:819582969B1D00000000}I'll be aboard Norstan too. Nobody's going to notice one extra person.\n\n{C:81900200}{C:819582969C1D00000000}But...\n\n{C:81900100}{C:819582969E1D00000000}You said you wanted a closer look at Norstan, didn't you, Lun?\n\n{C:81900200}{C:819582969F1D00000000}Well... yes, I did, but...\n\n{C:81900100}{C:81958296A11D00000000}I'll be with you. There's nothing to worry about!\n\n\n{C:81900200}{C:81958296A21D00000000}Yeah, you're right! You'll be with me, after all.\n\n{C:81958296A41D00000000}Come on, then. Let's hurry!\n\n\n\n\n{x00}",
+   "source_sha256": "223ef85cdc65035f08a47d87970d74e9abae3509656b2f41de93649264762562",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence.",
+   "rendered_evidence": {
+    "build": "0.1.70",
+    "draft_sha256": "366e1d6fb549c6bcf157adf47e409c5fffdd7c8a8c9a95a3916c49e370e1248f",
+    "built_row_sha256": "6c1cd12b768b0d0ebc043a8886b370e31a9fce25ffc2eb86975e5956326ee01f",
+    "native_sha256": "a67f1af537f22c66bc9838ada4d06e23d48afc6b54771f3ae0f766bd3bcad265",
+    "pages": 9,
+    "audit": "work/ui/message-audits/v0.1.70_20261031T182848106712Z/audit.json",
+    "build_elf_sha256": "0025a90ae957324dde82e82180a567b891223b970d90442a34388df774fef8b4"
+   }
+  },
+  {
+   "id": 4,
+   "en": "\n\n{C:81900100}{C:81958296A61D00000000}All right, Lun, you...\n\n\n{x00}",
+   "source_sha256": "f7bcc11d8daa1808c45a2e5325b97a963349df5073255b7a61307a9af9d5141f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence.",
+   "rendered_evidence": {
+    "build": "0.1.70",
+    "draft_sha256": "ec7f772adbcbf6747c56407a0626894b6fd5b1a381d580bab99fa7f8f9b39e94",
+    "built_row_sha256": "12ddb2a10d2da5ed93c16ecb9af6bc318c9cce067794bf619ca5df67e365f7c3",
+    "native_sha256": "97deb6b848b924c0df10c9f32d7375400019834f84c3a5b30e82c3e3ef40e75f",
+    "pages": 1,
+    "audit": "work/ui/message-audits/v0.1.70_20261031T182848106712Z/audit.json",
+    "build_elf_sha256": "0025a90ae957324dde82e82180a567b891223b970d90442a34388df774fef8b4"
+   }
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930300}{C:81958296A71D00000000}Unidentified flying object approaching. We're going to alert status.\n\n{C:81958296A91D00000000}All MT pilots, prepare to launch.\n\n{C:81900100}{C:81958296AA1D00000000}The enemy? But the war's over!\n\n{C:81958296AB1D00000000}Sorry, Lun. I have to go. Wait here for me.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "4026c73631a6adb3dd55cf8dd1bdc5d56d67948b3285ca24123b30713db62544",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native English row checked on fresh standard72 with original Kanji name. Body, exact cues/cursor and continuation margin pass. Earlier widest-name scope remains in versioned70 evidence; no unseen-page approval.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "ac96431c63b4d4fa33d9cdf7d03f3cdcdc9dc77af3cd3f81ca9719a97116a868",
+    "built_row_sha256": "d4293d23741e41892bc65530e95126b7cbf410a4a8768a8f3de84b0af0d08866",
+    "native_sha256": "c51e1e6d425bfc6da937612308dd2071722f9e7c3ab4bc47188939d6e6ea5fa4",
+    "pages": 4,
+    "audit": "docs/rendered_fit_v0.1.72.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930C00}{C:81958296AC1D00000000}Norstan is mine!!\n\n{x00}",
+   "source_sha256": "c3fd8dc0fc4a33a7f978704a9fdcf1906487ecbd17e95854e95aecb6a4d2b127",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "08225fcf2c325e521ceddd5bd8c2c4ce9cb1162ef4c1d4ca9582275522192bbe",
+    "built_row_sha256": "b95377905f666daa510a8585c7fb993f2be9749be4e92a028ea617c775921d6a",
+    "native_sha256": "1a60c317cd3134c19ace8bb51751a4160c836ab2a95e5e394a8e737bee5b872c",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81930100}{C:81958296AD1D00000000}When did that happen?!\n\n{x00}",
+   "source_sha256": "414db159dd527ea97c68a4b15aa1db4eae6373db09271dcd712c164e2f6512ed",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "6ab127a21bf182a5fe1c35f2dc152d4b7a52e375b1a676c70c16d3c953e2d595",
+    "built_row_sha256": "b79cb93054549ef5098dd4de3a0b2af2ec653b4bcea55ec9de2c07830d1f70b3",
+    "native_sha256": "d65b9f7aeff7798344511c70822f66a7d28e7d80e247a5af8cb34de473adbb6b",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81930C00}{C:81958296AE1D00000000}You really don't know a thing.\n\n\n{x00}",
+   "source_sha256": "7a0aac3c123c1e81ea2574a0574314001343a322d54727d82d7489992979e66e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "1d3e701604e14107fe48c42158692dbc73b1a06ee4ec420d11ea7b45a665a42d",
+    "built_row_sha256": "b156bb62d5cea75f6766639fa39dd233632b5f6ae63ea9a06a2d86e5bb233563",
+    "native_sha256": "89a1fc30763b03d701b7387994161cdc4c5a65ec9a03ad2387852a58fc7e7cbc",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81930100}{C:81958296B41D00000000}No! In there... Aboard Norstan, there's...\n\n{x00}",
+   "source_sha256": "7732032510c1b8022f2369409806dbfb5efd38d35790672eb96808771cf2c353",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "7479aea2f001036358090bcdb785bd90d862151eb3b6ed5821adeacad024076f",
+    "built_row_sha256": "56ce77861e72779477736257c606f01496b4bf5e6852dc8e15c7a17f0713b421",
+    "native_sha256": "0ff01a3462e75516d30853e080f61a3772506681cbff8abefb995ac5c858bfa5",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81930600}{C:81958296B11D00000000}Where are you going? You can't do it in Impulse 7!\n\n{x00}",
+   "source_sha256": "6df05fecb73c7fcfd73e10e565b977d66cc75ce0d1d3035551b223df5fa7e8d1",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "f8a663741f08b21fdb30c72f2d0b122f3182e97fe6878ae9bf1e75bcc625907a",
+    "built_row_sha256": "8a58b0b7ae71e627fd782b6e5dad71fffe600dd40c0245d5780883ae4c4b423f",
+    "native_sha256": "85001b9ad11bcb61859923b203c51f7c9666d2ad6c1de43790c9c63462319b40",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81930300}{C:81958296B31D00000000}Big brother, don't do anything reckless! Listen to Dad!\n\n\n\n\n{x00}",
+   "source_sha256": "3b6a4ad209eecff452d62e1a9d00faadf805487139125350a31a717569c3ce5f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "f01a4e8c31e18d2519e9623f41aa64b4a4cc1f384fd3fcfa3377264abbe031f2",
+    "built_row_sha256": "e6e6a7ca9a3c0d0a41fa7c1a16f768b892782137456f2d72408252adcede537f",
+    "native_sha256": "6242d900870db59fbf5fc6b3e98fe591f3dfc67336a795ec40bd26193686b573",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81900600}{C:81958296B51D00000000}...And that's the situation. Understood? Hey, are you listening?!\n\n{x00}",
+   "source_sha256": "533a6e72ea140855bfb5b7a0ebe9b052ea77c441138064c632d3f35495102f04",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "58872f12054dba5c341d791fd3bcb77b44ea8d4c025d19dd8119fb7d9f7327fb",
+    "built_row_sha256": "be7453328e1292452d31cf4c78d1d30e0e37f13283b01ee10af3f1b705783c1d",
+    "native_sha256": "3f863d7a89c803cce447f351451b81dd502389030680d44dcb4ae97b04048cb0",
+    "pages": 1,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81900100}{C:81958296B61D00000000}Hm? Oh, yeah. I'm listening.\n\n{C:81900600}{C:81958296B71D00000000}I'll say it once more. Your mission is to recapture Norstan, or destroy it.\n\n{C:81900100}{C:81958296B81D00000000}Yeah, I know.\n\n{C:81900600}{C:81958296B91D00000000}As long as you understand.\n\n{C:81958296BA1D00000000}There's still time before departure. Why not take a look around town? You won't be back for a while.\n\n{C:81900100}{C:81958296BB1D00000000}(He's right... Maybe I'll take a look around.)\n\n{C:81958296BC1D00000000}All right, I'll go out for a bit. See you later, Dad.\n\n{C:81900600}{C:81958296BD1D00000000}Yes. Off you go.\n\n\n\n{x00}",
+   "source_sha256": "68079f714a047d95d82def277e5bb2cbc777cfc0df3b2a3b932a055a4894d979",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "passed"
+   },
+   "notes": "Complete native body, source cues, cursor, portrait and continuation margin checked at original Kanji name. Ordinary standard72 story progression.",
+   "rendered_evidence": {
+    "build": "0.1.72",
+    "draft_sha256": "f5121f2a345cee2bbb5bd5d1b09a372f62abe879c827e237980ccd0719bbc8ab",
+    "built_row_sha256": "8308e6d18f0fc778762e13091a92d44a8b720df0d4401eb735bca75b87c39360",
+    "native_sha256": "65b99001ce76f606792a5c70b962659d3998edbef9ec60c5a3627d6439fea751",
+    "pages": 8,
+    "audit": "docs/rendered_fit_v0.1.73.json",
+    "build_elf_sha256": "e4f16daea89524f374e2d82285abc551c9b736c02975d1af49c77151c944ad37"
+   }
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81900600}{C:81958296BE1D00000000}Astante won't sail without you. Don't worry. Take your time.\n\n\n\n\n{x00}",
+   "source_sha256": "b389a4219f62146973f725077defd927633a52724870721273c04e2fa8ac16b2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 15,
+   "en": "\n\n{x00}",
+   "source_sha256": "c1c91a7d882700051cb22bf907cfedf13b133deac2aa913eb68f5690146a9317",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81901900}{C:81958296C01D00000000}I wonder if another war's going to start.\n\n{C:81958296C11D00000000}The last great war only ended twenty years ago...\n\n{x00}",
+   "source_sha256": "5d0056330dbf6748dcaaeaa85619c7104835a16d10b81a348456f50cc1ec606a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 17,
+   "en": "\n\n{x00}",
+   "source_sha256": "c1c91a7d882700051cb22bf907cfedf13b133deac2aa913eb68f5690146a9317",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81901900}{C:81958296C21D00000000}Even after something like that happens, ordinary people can go on living normally. Claudia really is a good place.\n\n{x00}",
+   "source_sha256": "eba4f71834cd6c14bfa06038aed7acb0be9808cd013810aa5273c5c41d89f4c3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 19,
+   "en": "\n\n{x00}",
+   "source_sha256": "c1c91a7d882700051cb22bf907cfedf13b133deac2aa913eb68f5690146a9317",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81901900}{C:81958296C31D00000000}I hear they're sending a Cloud Ship to take back the stolen ship.\n\n{C:81958296C41D00000000}They're going out into the Cloud Sea for the first time, where nobody's ever crossed before. That's brave of them!\n\n\n\n\n{x00}",
+   "source_sha256": "a2d14f0551de18fcef1d2cb84d9e22c91736ff9ca6d79aede24c2af64b75ccee",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81930100}{C:81958296C51D00000000}(What's Rie up to?)\n\n{C:81900300}{C:81958296C61D00000000}Let's see... I haven't forgotten anything, and I've checked everything... Right! Now I just need to lock up.\n\n{C:81930100}{C:81958296C71D00000000}(Oh, she's locking up. Unlike me, Rie always does things properly.\n\n{C:81958296C81D00000000}Still, I'm proud of my little sister. She earned her doctorate at sixteen!)\n\n{C:81900300}{C:81958296CA1D00000000}Big brother?\n\n{C:81900100}{C:81958296CB1D00000000}Whoa, you startled me! ...What is it, Rie?\n\n{C:81900300}{C:81958296CC1D00000000}What do you mean, what is it? Why are you standing around in a daze?\n\n{C:81958296CD1D00000000}Aren't you about to leave? Should you really be taking it easy?\n\n{C:81900100}{C:81958296CE1D00000000}Sure I should. Dad ordered me to go and relax before we leave.\n\n{C:81900300}{C:81958296CF1D00000000}Oh... I guess you won't be home for a while.\n\n{C:81900100}{C:81958296D01D00000000}Exactly! So, Rie, what do you want me to bring back for you?\n\n{C:81900300}{C:81958296D11D00000000}Honestly, you're not taking this seriously at all!\n\n{C:81900100}{C:81958296D21D00000000}Well, I'll bring something back. Norstan, for instance.\n\n{C:81958296D31D00000000}Look after Dad while I'm away, okay?\n\n{C:81900300}{C:81958296D41D00000000}Oh, big brother!\n\n{C:81900100}{C:81958296D51D00000000}Hm? What is it?\n\n\n{C:81900300}{C:81958296D61D00000000}Well, Lu... No, never mind.\n\n{C:81900100}{C:81958296D71D00000000}You're acting weird.\n\n{C:81900300}{C:81958296D81D00000000}I'll see you at the {C:819782830300}airport{C:819782830000} later, okay?\n\n\n{C:81900100}{C:81958296D91D00000000}The airport...? You're coming to see me off? Aw, you're the best little sister!\n\n{C:81958296DA1D00000000}...Well, I'd better get going too.\n\n\n\n{x00}",
+   "source_sha256": "caca0df9c19ca52a9dfa48525437315776ab18a45c3ce6f349e9584dd764bba2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence. Current72 layout changed to reserve native prompt margin; earlier native evidence remains in versioned reports, current layout requires observation."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81900100}{C:81958296DB1D00000000}There's no point standing around wishing I didn't have to leave. ...Let's go.\n\n\n\n{x00}",
+   "source_sha256": "b107e4998545626b5a0b51ccbf25cec0748903df86088ee7873577d6ec74a52c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81900100}{C:81958296DC1D00000000}Come to think of it, Lun and I used to come here a lot.\n\n\n\n{x00}",
+   "source_sha256": "c69fd8402601161515cae40aad2f69af3ec295fa01a59714dd028b465b939c89",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 24,
+   "en": "\n\n\n{C:81930200}{C:81958296DE1D00000000}Look, look! Isn't the view beautiful at night?\n\n{C:81930100}{C:81958296DF1D00000000}Yeah, it is.\n\n{C:81930200}{C:81958296E01D00000000}What's wrong? Aren't you having fun with me? Oh, I get it!\n\n{C:81958296E31D00000000}You're thinking something naughty, aren't you?\n\n{C:81930100}{C:81958296E41D00000000}I-I wasn't thinking anything like that!!\n\n{C:81930200}{C:81958296E61D00000000}Ah, you're blushing! You're blushing!\n\n\n\n{x00}",
+   "source_sha256": "7e3665aa2cb099b8ff2d6ae0f0268e7d1f6fda4ee5ce7e0d338715953a5e2486",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 25,
+   "en": "\n\n{C:81900100}{C:81958296E71D00000000}Lun... Is she safe...? No! Of course she's safe. She has to be!\n\n{C:81958296E81D00000000}All right! Hang on, Lun!! I'm going to get you out of there!!\n\n\n{x00}",
+   "source_sha256": "7c490e63965816225698d6290feaf3deedd5d0d7c6fd16832897e7d7aa2e12ce",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81900100}{C:81958296E91D00000000}I've got nothing else to do here.\n\n\n\n{x00}",
+   "source_sha256": "18d136554945de95d7abdf1c89493606156cc2c0839e049f2d02f4b7b5e954df",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81900600}{C:81958296EA1D00000000}You're back at just the right time.\n\n{C:81958296EB1D00000000}Astante's captain has arrived too. As soon as you get to the bridge, Astante will launch.\n\n{C:81958296EC1D00000000}Your first destination is {C:819782830300}Deon Town{C:819782830000}. You'll take on the rest of your supplies there, then head out into the Cloud Sea.\n\n{C:81900100}{C:81958296ED1D00000000}Got it...\n\n{C:81958296EE1D00000000}Well, Dad, I'm off!\n\n{C:81900600}{C:81958296EF1D00000000}Yes. Off you go!\n\n\n{x00}",
+   "source_sha256": "5bcc71b42c52d5a7bfd26d2824dc63bfed8f99ed2570aecf6da2bb14262a5ec9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81900600}{C:81958296F01D00000000}Pursuing Norstan is... a heavy burden. As your father, I don't want to send you. I could have stopped you.\n\n{C:81958296F11D00000000}But when someone admits their mistake and wants to put it right, who can stop them?\n\n{C:81958296F21D00000000}Go! And come back safely, together with Lun. I'll be waiting...\n\n\n\n{x00}",
+   "source_sha256": "e4567d0f0cfb70e095db11d84ec76818dfb746ac0a06d7b05b7bda81a2690d3e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81900100}{C:81958296F31D00000000}The captain isn't here. Nobody's here!\n\n{x00}",
+   "source_sha256": "d969b716220ee24010baec85f5c1c00ac5b8a497dcde82540ed40c38c84113ac",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 30,
+   "en": "\n\n{C:81900100}{C:81958296F41D00000000}...Whoa!\n\n\n{x00}",
+   "source_sha256": "2c6afe461b78c6354fa46deb4d11385df8396047396c587af6aef5c1280b2561",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81930300}{C:81958296F51D00000000}Hee hee... Guess who!\n\n{C:81930100}{C:81958296F61D00000000}Riiie... Don't fool around here.\n\n{C:81900300}{C:81958296F81D00000000}How did you know? That's no fun.\n\n{x00}",
+   "source_sha256": "a71dd27fb2a48e4f507a2e93a3e74988ec4b861d1be5a0c0f2c428c3d297e86d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 32,
+   "en": "\n\n{C:81900100}{C:81958296F91D00000000}Never mind whether it's fun...\n\n{C:81958296FA1D00000000}Where's the captain? Don't tell me they haven't arrived yet.\n\n{C:81900300}{C:81958296FB1D00000000}Mm-hm-hmm!\n\n{C:81900100}{C:81958296FD1D00000000}What's with that weird laugh, Rie?\n\n{C:81900300}{C:81958296FE1D00000000}Allow me to introduce the captain! Captain Rie Akatsuki, at your service! Nice to work with you, big brother!\n\n{C:81900100}{C:81958296FF1D00000000}Nice to... What?\n\n{C:81900300}{C:81958296001E00000000}Yep, it's true!\n\n{C:81958296011E00000000}Now that you're here, big brother, we can launch.\n\n{C:81958296021E00000000}First destination, Deon Town!! Astante, launch!!\n\n{C:81900100}{C:81958296031E00000000}Are you serious?!!\n\n\n\n{x00}",
+   "source_sha256": "48cdc4b78a2ea864a9d9b437fa69dce64d6bad6fe454ae3e384fa114b7ac2ce8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81930300}{C:81958296041E00000000}Our destination is Deon Town. That's east of here.\n\n\n{C:81930000}{C:819782830300}Moving Your Battleship\n\nUse the left stick to control your battleship.\n\nLeft and right change your heading. Up moves you forward in the direction you're facing.\n\nA circular radar is displayed at the bottom left of the screen.\n\nThis radar shows towns whose ports you've entered before and enemy ships you've discovered.\n\nIf your next destination is known, a blue guidance marker will appear.\n\nTravel with the blue marker aligned at the top of the radar to reach your destination easily.\n\nFirst, follow the blue marker to Deon Town.{C:819782830000}\n\n\n\n\n{x00}",
+   "source_sha256": "0b23dd444788992401ef9d4db53d434f95bad8f9a952f3bb7894d648948b39f0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81930300}{C:81958296061E00000000}We need to get to Deon Town first.\n\n\n{x00}",
+   "source_sha256": "d9f96ff180934ea9ca4f0c68ef33a7761caed21036c45486127dd63dfb846fe4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81900300}{C:81958296071E00000000}Wait, big brother! I'm coming with you.\n\n{C:81900100}{C:81958296081E00000000}Have you got something to do?\n\n{C:81900300}{C:81958296091E00000000}Checking the deliveries. {C:819782830400}Tail{C:819782830000} should be waiting for us.\n\n{C:81900100}{C:819582960A1E00000000}(Tail... She was Dad's partner during the war, wasn't she?\n\n{C:819582960B1E00000000}People call Dad and Tail heroes, but it's hard to picture them that way.)\n\n\n\n{x00}",
+   "source_sha256": "be3e454c369bf8dc6ec4ddf269d8855a690e3938297e6ac4207f7aa06792a535",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81900300}{C:819582960C1E00000000}Hello, Tail!\n\n{C:81900900}{C:81958296010000000000}Hello, Rie. You're almost right on time.\n\n{C:81958296020000000000}Here's the list of supplies being brought aboard. Check it for me, will you?\n\n{C:81900300}{C:819582960D1E00000000}Yes!\n\n{C:81900100}{C:819582960E1E00000000}You're handling the supply deliveries too, Tail?\n\n{C:81900900}{C:81958296030000000000}Oh, hello. Thank you for escorting Rie.\n\n{C:81900100}{C:819582960F1E00000000}T-Tail! What are you saying?!\n\n{C:81900900}{C:81958296040000000000}Hee hee... I'm only joking.\n\n{C:81958296050000000000}Anyway, I hear you volunteered to pursue Norstan.\n\n{C:81958296060000000000}You usually hate anything troublesome. What's brought this on?\n\n{C:81900100}{C:81958296101E00000000}Well...\n\n{C:81900900}{C:81958296070000000000}That look tells me there's a reason. All right, I won't pry. But...\n\n{C:81958296080000000000}Following Norstan is certain to mean combat.\n\n{C:81958296090000000000}You two aren't used to fighting. You'll have to be very careful.\n\n{C:81900100}{C:81958296111E00000000}I know, Tail.\n\n{C:81900900}{C:819582960A0000000000}Well, Rie and I need to discuss the deliveries. Excuse us.\n\n\n\n{x00}",
+   "source_sha256": "97717af45273d3a6b04e869268f7d42fdbd344644e984bc6bcaf584f42f3ca93",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81900A00}{C:81958296121E00000000}Hey, it's been a while. How have you been?\n\n{C:81900100}{C:81958296131E00000000}{C:819782830400}Wind{C:819782830000}! It's good to see you! Where have you been all this time? Dad was worried about you.\n\n{C:81900A00}{C:81958296141E00000000}Kyo, worried about me? Get out of here. I've always been a wanderer.\n\n{C:81958296151E00000000}Anyway, enough greetings. I hear you're chasing after Norstan. Be careful out there.\n\n{C:81900100}{C:81958296161E00000000}It'll be my first time really leaving the continent.\n\n{C:81900A00}{C:81958296171E00000000}You're the son of Kyo, the ace pilot. That's not what worries me.\n\n{C:81958296181E00000000}I'm worried there might be other enemies besides whoever stole Norstan.\n\n{C:81900100}{C:81958296191E00000000}Other enemies? Is there some reason you think that?\n\n{C:81900A00}{C:819582961A1E00000000}Right now... all I can call it is a hunch. Just be careful.\n\n{C:819582961B1E00000000}See you around.\n\n\n{C:81900100}{C:819582961C1E00000000}Wind... He's easy to talk to, isn't he?\n\n{C:819582961D1E00000000}His name's in the history books, but he doesn't act important at all.\n\n{C:819582961E1E00000000}...Well, I'd better get going too.\n\n\n\n{x00}",
+   "source_sha256": "fd7a8d0680232f0b289d56c241f762c80b7fd593e717925e5762f185d726302e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence. Current72 layout changed to reserve native prompt margin; earlier native evidence remains in versioned reports, current layout requires observation."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81900300}{C:819582961F1E00000000}Oh, big brother! Sorry to keep you waiting. All the cargo's aboard!\n\n\n{x00}",
+   "source_sha256": "d96043fff8956f511cfa69c882b81e0f3efb4d2cacedc6fe5fff493340f83b90",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81900100}{C:81958296201E00000000}Now we're finally off to the Cloud Sea!\n\n{C:81900900}{C:819582960B0000000000}Yes, yes. Don't rush. There's somewhere else you need to go first.\n\n{C:819582960C0000000000}This time, head for the {C:819782830300}Astante Fortress Ruins{C:819782830000}. A new companion is waiting for you there.\n\n{C:81900100}{C:81958296211E00000000}The Astante Fortress Ruins...? Why would they be in such an old place?\n\n{C:81900900}{C:819582960D0000000000}Professor {C:819782830400}Rondo{C:819782830000} is there doing some research. I think they went along with the professor.\n\n{C:81900300}{C:81958296221E00000000}So our new companion knows Professor Rondo? What are they like?\n\n{C:81900900}{C:819582960E0000000000}Hee hee... You'll find out when you meet. Off you go, now.\n\n{C:81900300}{C:81958296231E00000000}Yes, we're off! Come on, big brother. Let's go!\n\n\n\n{x00}",
+   "source_sha256": "7bac415eba32ffae0765a4d51cc71c11473e3628029a8ca1976cd53cb0b34507",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81930000}{C:819782830300}Previously Visited Towns\n\nOnce you've entered a town's port, a town marker will appear on the radar.\n\nFor towns with these markers, open the menu with the Circle button and select the place name under 'Target Selection'.\n\nA yellow target marker will then appear, showing that location.\n\nUse the yellow target marker together with the blue guidance marker to help you navigate.{C:819782830000}\n\n\n\n{x00}",
+   "source_sha256": "9dd596433d64a29348c1f52af54868cd351ae1d49dfdd45656cc3950c7e85ddf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81930300}{C:81958296241E00000000}Astante's our next stop.\n\n\n{x00}",
+   "source_sha256": "f099183a774b20567eb2363b2385afb5db1c73867a2b3008bcba576893d3ae79",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81900300}{C:81958296251E00000000}Someone who knows Professor Rondo, huh? What do you think they'll be like, big brother?\n\n{C:81900100}{C:81958296261E00000000}You mean our new companion?\n\n{C:81958296271E00000000}The professor's a hero from the history books, just like Dad and the others.\n\n{C:81958296281E00000000}Thinking about that, I doubt they'll be young...\n\n{C:81958296291E00000000}Maybe they'll be some scrawny, unpleasant type.\n\n{C:81900300}{C:819582962B1E00000000}What? No way!\n\n{C:81900100}{C:819582962C1E00000000}Well, we'll find out when we meet.\n\n\n\n{x00}",
+   "source_sha256": "f376f8e7d8eec9dc07cc6f307d5ef475b0e1b87253b3c099798b543a55069600",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81900300}{C:819582962D1E00000000}Professor Rondo!\n\n{C:81900700}{C:819582962E1E00000000}Oh, Rie. It's been a while. Have you been well?\n\n{C:81900300}{C:819582962F1E00000000}Yes, Professor.\n\n{C:81900100}{C:81958296301E00000000}Hello, Professor!\n\n{C:81900700}{C:81958296311E00000000}What, you're here too? What brings the two of you here? A tour of Astante?\n\n{C:81900100}{C:81958296321E00000000}'What'?! That's harsh, Professor! We came all this way because we heard someone would be joining us.\n\n\n{C:81930400}{C:81958296331E00000000}He developed the GT and distinguished himself in the Third Claudian War.\n\n{C:81958296341E00000000}And on top of that, Uncle developed the Cloud System! Aren't you being too familiar with such a distinguished man?\n\n{C:81900100}{C:81958296351E00000000}(Who's telling me all about the professor?)\n\n\n\n\n{C:81900400}{C:81958296361E00000000}I'm {C:819782830400}Nelfea{C:819782830000}, {C:819782830400}Nelfea Northrock{C:819782830000}. I'm your guardian, since you two are so unreliable.\n\n\n{C:81900100}{C:81958296371E00000000}What did you say?!\n\n\n{C:81900700}{C:81958296381E00000000}That's enough, Nelfea.\n\n{C:81900400}{C:81958296391E00000000}But Uncle, the way he spoke to you...\n\n{C:81900700}{C:819582963A1E00000000}I've told you time and again not to call me Uncle.\n\n{C:819582963B1E00000000}Sorry about that. This is Nelfea. She'll be joining you.\n\n{C:819582963C1E00000000}She's an exceptional pilot, but as you can see, she's still a child. I'm counting on you to look after her.\n\n{C:81900100}{C:819582963D1E00000000}Uh...\n\n{C:81900400}{C:819582963E1E00000000}Oh, Uncle! You always treat me like a child.\n\n\n{C:819582860100010056000000}\n{C:81930700}{C:819582963F1E00000000}Ha ha ha... I'll think about that when you stop calling me Uncle.\n\n{C:81930400}{C:81958296401E00000000}You're so mean, Uncle...\n\n\n\n\n{C:819582860100010000000000}\n\n\n\n{x00}",
+   "source_sha256": "2354d811800530e9f46c395a658e497f7b33170e8be00d05cd50f3862216f5eb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence. Current72 layout changed to reserve native prompt margin; earlier native evidence remains in versioned reports, current layout requires observation."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81900100}{C:81958296411E00000000}We're finally off. My heart's pounding!\n\n{C:81900400}{C:81958296421E00000000}You're such a child.\n\n{C:81900100}{C:81958296431E00000000}Ghh! Nelfea, you...!\n\n{C:81900400}{C:81958296441E00000000}It's Miss Nelfea to you! Only Uncle gets to call me just Nelfea.\n\n\n{C:81900300}{C:81958296451E00000000}Oh, enough already! Astante, launching!\n\n\n{x00}",
+   "source_sha256": "c892482a47e58fb297d3943557347c470ae29ed5aa573a4fc254f7925d789658",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81900300}{C:81958296461E00000000}(Sigh... Is this voyage really going to be all right with us like this?)\n\n\n\n{x00}",
+   "source_sha256": "cccdd743c5bf485400ed9b9cdb29ca2ba74a27df181578c8f1e2ea5ec27beab3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 46,
+   "en": "\n\n{C:81930400}{C:81958296471E00000000}Enemy contact on radar.\n\n{C:81930300}{C:81958296481E00000000}Battle stations!\n\n\n\n{x00}",
+   "source_sha256": "cdb35bedd540ef81c84a7b7df5d68e4a9b42c836a0748c71f1a2178e5f3423a6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81930300}{C:81958296491E00000000}Big brother, we've got a message from Dad.\n\n{C:81930100}{C:819582964A1E00000000}From Dad? Put him through.\n\n{C:81930300}{C:819582964C1E00000000}Right.\n\n{C:81930600}{C:819582964D1E00000000}You're finally setting off. There's no telling what lies ahead. Be careful out there.\n\n{C:81930100}{C:819582964E1E00000000}You don't have to keep telling me. I know we're not going on a pleasure trip.\n\n{C:81930600}{C:819582964F1E00000000}Hmm... Fortunately, we've confirmed that other continents are scattered across the Cloud Sea.\n\n{C:81958296501E00000000}If you can, ask the people on those continents for help. You may find someone willing to lend you a hand.\n\n{C:81930100}{C:81958296511E00000000}Got it, Dad. Well, we're off!\n\n{C:81930600}{C:81958296531E00000000}Yes. Off you go!\n\n\n\n\n{x00}",
+   "source_sha256": "561095ef9afa0ed077f583d027232fde8e9287fb9e4a5c66fab448b29e76e251",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81930100}{C:819582967A3200000000}Well? Have you found anything out?\n\n{C:81930400}{C:819582967B3200000000}Yes. So far, we know there are six continents besides {C:819782830300}Claudia{C:819782830000}.\n\n{C:819582967C3200000000}The Cloud Stream is too dense around one of them for us to go there.\n\n{C:81930300}{C:819582967D3200000000}You don't know where Norstan went?\n\n{C:81930400}{C:819582967E3200000000}We haven't got a single clue. Don't ask the impossible.\n\n{C:81930100}{C:819582967F3200000000}So all we can do is visit the continents one by one, huh?\n\n{C:81930400}{C:81958296803200000000}That's right. Let's do our best.\n\n\n{x00}",
+   "source_sha256": "a3d26095806af40c5f28f5b9a53ef25ae4a946d9152f92185932ab62f1668950",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Independent full-row accuracy; parent editorial and final proofreading. All native call/voice/function boundaries preserved. Row44 editorial independently rechecked. Native fit remains pending until exact-build evidence."
+  }
+ ]
+}

@@ -1,0 +1,2455 @@
+{
+ "version": "0.2.26",
+ "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+ "table": {
+  "va": 2086376,
+  "records": 118,
+  "stride": 60,
+  "fields": [
+   4,
+   8,
+   12
+  ]
+ },
+ "review": {
+  "accuracy": "existing-independent-plus-026-audit",
+  "editorial": "existing-plus-026-complete-read",
+  "glossary": "registered-spellings-and-V-MAX-typography",
+  "proofreading": "existing-plus-026-complete-read"
+ },
+ "abbreviation": {
+  "field": "omit only",
+  "source_va": 2302568,
+  "full": "Omnidirectional Mega-Particle Cannon",
+  "short": "Omni. Mega-Particle Cannon",
+  "meaning": "Omni. expands to Omnidirectional; complete full/display name retained."
+ },
+ "inputs": {
+  "work\\translation\\en\\compiled-proposals.en.json": "4adb2360349ce338e5d95e30fe72a3c17dc44da8d47ee407c4cd8702c9fe9677",
+  "work\\source\\special_names_audit_026.json": "db1be3c632f96efdc9e961cfca3c13f90e1f1b0afb04107513e10551de280873",
+  "work/translation/en/pending/compiled_rodata_ui_weapons72_language688.json": "296f519706eba02d701857dc62d38095ac7354c998156d9d864e61fe19d6bdbe",
+  "work/translation/en/pending/compiled_elf433_language567.json": "5a7ce3e75907f017c0c0a63e9b86cf69d8900ef790b67f1a08597c927973f02f"
+ },
+ "rows": [
+  {
+   "id": "ELF/sdata:000018B0",
+   "va": 2330800,
+   "source_size": 5,
+   "source_sha256": "d00ed112a00788d7ddacfb733ee3b6475d21d8df31ac36b33699519caa24f0ee",
+   "source_with_nul_sha256": "3f6db0c05933c656d11b1c06b08379bbcd2601e84e358f5989e0b053fcc4c0d1",
+   "en": "None",
+   "omit_en": "None",
+   "refs": [
+    {
+     "row": 0,
+     "field": 4,
+     "site": 2086380
+    },
+    {
+     "row": 0,
+     "field": 8,
+     "site": 2086384
+    },
+    {
+     "row": 0,
+     "field": 12,
+     "site": 2086388
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011E60",
+   "va": 2302816,
+   "source_size": 19,
+   "source_sha256": "f232f564bb96fe3f51690576920a1432e0cefc1982542dd6103218055324cd49",
+   "source_with_nul_sha256": "716cd52712efc018beee35ad8d608c6ca8fcda54b934b690408d2e87d4ab305a",
+   "en": "Pile Bunker Surprise Attack",
+   "omit_en": "Pile Bunker Surprise Attack",
+   "refs": [
+    {
+     "row": 1,
+     "field": 4,
+     "site": 2086440
+    },
+    {
+     "row": 1,
+     "field": 8,
+     "site": 2086444
+    },
+    {
+     "row": 1,
+     "field": 12,
+     "site": 2086448
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011E48",
+   "va": 2302792,
+   "source_size": 17,
+   "source_sha256": "d9eea1f47643ce9d3bef013a23c159ad6a4d5e62ed8c27567e20b9e081b05dd9",
+   "source_with_nul_sha256": "765822a27ee5f878143495f860ff66daa1dfa9c1413e8c4ab33e63542fb48697",
+   "en": "Attack Using Leg Equipment",
+   "omit_en": "Attack Using Leg Equipment",
+   "refs": [
+    {
+     "row": 2,
+     "field": 4,
+     "site": 2086500
+    },
+    {
+     "row": 2,
+     "field": 8,
+     "site": 2086504
+    },
+    {
+     "row": 2,
+     "field": 12,
+     "site": 2086508
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011E38",
+   "va": 2302776,
+   "source_size": 11,
+   "source_sha256": "bd2c3b12cb4921bc00f5237d481a567ceef97cf56cc7ff83e60fe2e6a88a7eee",
+   "source_with_nul_sha256": "707d32f1015fdb717f0ad7418356b18be13c8bdacf8ec5e4d1afb9ee11c95ba3",
+   "en": "Jamming",
+   "omit_en": "Jamming",
+   "refs": [
+    {
+     "row": 3,
+     "field": 4,
+     "site": 2086560
+    },
+    {
+     "row": 3,
+     "field": 8,
+     "site": 2086564
+    },
+    {
+     "row": 3,
+     "field": 12,
+     "site": 2086568
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011E28",
+   "va": 2302760,
+   "source_size": 15,
+   "source_sha256": "662d2416027e2dbcd34a70804f5f301b918bbb4413c621e3f8d80b421c5445a5",
+   "source_with_nul_sha256": "3c6cdc4e982fa601fba1b5987ccb449c7a52eb8f759646c557b3293646b521ac",
+   "en": "Cart Gunner",
+   "omit_en": "Cart Gunner",
+   "refs": [
+    {
+     "row": 4,
+     "field": 4,
+     "site": 2086620
+    },
+    {
+     "row": 4,
+     "field": 8,
+     "site": 2086624
+    },
+    {
+     "row": 4,
+     "field": 12,
+     "site": 2086628
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011E18",
+   "va": 2302744,
+   "source_size": 9,
+   "source_sha256": "90eaf5998bdb556fd4cdeebdeec3468bc43b47fca87438bf55c9949b715526a6",
+   "source_with_nul_sha256": "93c4f8a5608030fc8bc18d5df536d9bfaa0b830dd8476d6ab9a38d793929e32a",
+   "en": "Special Attack",
+   "omit_en": "Special Attack",
+   "refs": [
+    {
+     "row": 5,
+     "field": 4,
+     "site": 2086680
+    },
+    {
+     "row": 5,
+     "field": 8,
+     "site": 2086684
+    },
+    {
+     "row": 5,
+     "field": 12,
+     "site": 2086688
+    },
+    {
+     "row": 6,
+     "field": 4,
+     "site": 2086740
+    },
+    {
+     "row": 6,
+     "field": 8,
+     "site": 2086744
+    },
+    {
+     "row": 6,
+     "field": 12,
+     "site": 2086748
+    },
+    {
+     "row": 7,
+     "field": 4,
+     "site": 2086800
+    },
+    {
+     "row": 7,
+     "field": 8,
+     "site": 2086804
+    },
+    {
+     "row": 7,
+     "field": 12,
+     "site": 2086808
+    },
+    {
+     "row": 8,
+     "field": 4,
+     "site": 2086860
+    },
+    {
+     "row": 8,
+     "field": 8,
+     "site": 2086864
+    },
+    {
+     "row": 8,
+     "field": 12,
+     "site": 2086868
+    },
+    {
+     "row": 9,
+     "field": 4,
+     "site": 2086920
+    },
+    {
+     "row": 9,
+     "field": 8,
+     "site": 2086924
+    },
+    {
+     "row": 9,
+     "field": 12,
+     "site": 2086928
+    },
+    {
+     "row": 10,
+     "field": 4,
+     "site": 2086980
+    },
+    {
+     "row": 10,
+     "field": 8,
+     "site": 2086984
+    },
+    {
+     "row": 10,
+     "field": 12,
+     "site": 2086988
+    },
+    {
+     "row": 11,
+     "field": 4,
+     "site": 2087040
+    },
+    {
+     "row": 11,
+     "field": 8,
+     "site": 2087044
+    },
+    {
+     "row": 11,
+     "field": 12,
+     "site": 2087048
+    },
+    {
+     "row": 12,
+     "field": 4,
+     "site": 2087100
+    },
+    {
+     "row": 12,
+     "field": 8,
+     "site": 2087104
+    },
+    {
+     "row": 12,
+     "field": 12,
+     "site": 2087108
+    },
+    {
+     "row": 13,
+     "field": 4,
+     "site": 2087160
+    },
+    {
+     "row": 13,
+     "field": 8,
+     "site": 2087164
+    },
+    {
+     "row": 13,
+     "field": 12,
+     "site": 2087168
+    },
+    {
+     "row": 14,
+     "field": 4,
+     "site": 2087220
+    },
+    {
+     "row": 14,
+     "field": 8,
+     "site": 2087224
+    },
+    {
+     "row": 14,
+     "field": 12,
+     "site": 2087228
+    },
+    {
+     "row": 15,
+     "field": 4,
+     "site": 2087280
+    },
+    {
+     "row": 15,
+     "field": 8,
+     "site": 2087284
+    },
+    {
+     "row": 15,
+     "field": 12,
+     "site": 2087288
+    },
+    {
+     "row": 16,
+     "field": 4,
+     "site": 2087340
+    },
+    {
+     "row": 16,
+     "field": 8,
+     "site": 2087344
+    },
+    {
+     "row": 16,
+     "field": 12,
+     "site": 2087348
+    },
+    {
+     "row": 17,
+     "field": 4,
+     "site": 2087400
+    },
+    {
+     "row": 17,
+     "field": 8,
+     "site": 2087404
+    },
+    {
+     "row": 17,
+     "field": 12,
+     "site": 2087408
+    },
+    {
+     "row": 18,
+     "field": 4,
+     "site": 2087460
+    },
+    {
+     "row": 18,
+     "field": 8,
+     "site": 2087464
+    },
+    {
+     "row": 18,
+     "field": 12,
+     "site": 2087468
+    },
+    {
+     "row": 19,
+     "field": 4,
+     "site": 2087520
+    },
+    {
+     "row": 19,
+     "field": 8,
+     "site": 2087524
+    },
+    {
+     "row": 19,
+     "field": 12,
+     "site": 2087528
+    },
+    {
+     "row": 20,
+     "field": 4,
+     "site": 2087580
+    },
+    {
+     "row": 20,
+     "field": 8,
+     "site": 2087584
+    },
+    {
+     "row": 20,
+     "field": 12,
+     "site": 2087588
+    },
+    {
+     "row": 21,
+     "field": 4,
+     "site": 2087640
+    },
+    {
+     "row": 21,
+     "field": 8,
+     "site": 2087644
+    },
+    {
+     "row": 21,
+     "field": 12,
+     "site": 2087648
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011E00",
+   "va": 2302720,
+   "source_size": 19,
+   "source_sha256": "c7e0b3eb25f03ad3452c50e69f56248391989dad2b6df446d584e5e1562da183",
+   "source_with_nul_sha256": "8c766e7a7a8ffc25b754a9dbe62b34838af44b28c9485a391b6ae01d14b4386f",
+   "en": "Wing Caliber",
+   "omit_en": "Wing Caliber",
+   "refs": [
+    {
+     "row": 22,
+     "field": 4,
+     "site": 2087700
+    },
+    {
+     "row": 22,
+     "field": 8,
+     "site": 2087704
+    },
+    {
+     "row": 22,
+     "field": 12,
+     "site": 2087708
+    },
+    {
+     "row": 23,
+     "field": 4,
+     "site": 2087760
+    },
+    {
+     "row": 23,
+     "field": 8,
+     "site": 2087764
+    },
+    {
+     "row": 23,
+     "field": 12,
+     "site": 2087768
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:000018A8",
+   "va": 2330792,
+   "source_size": 5,
+   "source_sha256": "c954e2c65e775cb7855ec32a27ed8e7bfb271afa5b36dd779497b1cacc75b659",
+   "source_with_nul_sha256": "b0f7ff8f87841029d2572c3f8258e6df34ab2498a4c1d57ef35ff184e9d9e22c",
+   "en": "Mighty Sword",
+   "omit_en": "Mighty Sword",
+   "refs": [
+    {
+     "row": 24,
+     "field": 4,
+     "site": 2087820
+    },
+    {
+     "row": 24,
+     "field": 8,
+     "site": 2087824
+    },
+    {
+     "row": 24,
+     "field": 12,
+     "site": 2087828
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011DF0",
+   "va": 2302704,
+   "source_size": 15,
+   "source_sha256": "97c659469514058a3bb766b0d9a0ae7ed0cbf5fb222f814ca2690a98ebde51d1",
+   "source_with_nul_sha256": "22826a94f4e13671b9a87fb53f7be612c244c464d4fb8243e7b549ed81403678",
+   "en": "Energy Absorption",
+   "omit_en": "Energy Absorption",
+   "refs": [
+    {
+     "row": 25,
+     "field": 4,
+     "site": 2087880
+    },
+    {
+     "row": 25,
+     "field": 8,
+     "site": 2087884
+    },
+    {
+     "row": 25,
+     "field": 12,
+     "site": 2087888
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011DE0",
+   "va": 2302688,
+   "source_size": 9,
+   "source_sha256": "bf003e3d78e2d54fdce5f72961f7e8e2cd703d82e28d6820420dd5ce8fb567ea",
+   "source_with_nul_sha256": "bbc9a86e6cd8539c3857b680c35c0cf55b6b75fae72fc373be69f46d17b6de6c",
+   "en": "Piercing Attack",
+   "omit_en": "Piercing Attack",
+   "refs": [
+    {
+     "row": 26,
+     "field": 4,
+     "site": 2087940
+    },
+    {
+     "row": 26,
+     "field": 8,
+     "site": 2087944
+    },
+    {
+     "row": 26,
+     "field": 12,
+     "site": 2087948
+    },
+    {
+     "row": 27,
+     "field": 4,
+     "site": 2088000
+    },
+    {
+     "row": 27,
+     "field": 8,
+     "site": 2088004
+    },
+    {
+     "row": 27,
+     "field": 12,
+     "site": 2088008
+    },
+    {
+     "row": 28,
+     "field": 4,
+     "site": 2088060
+    },
+    {
+     "row": 28,
+     "field": 8,
+     "site": 2088064
+    },
+    {
+     "row": 28,
+     "field": 12,
+     "site": 2088068
+    },
+    {
+     "row": 29,
+     "field": 4,
+     "site": 2088120
+    },
+    {
+     "row": 29,
+     "field": 8,
+     "site": 2088124
+    },
+    {
+     "row": 29,
+     "field": 12,
+     "site": 2088128
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:000018A0",
+   "va": 2330784,
+   "source_size": 5,
+   "source_sha256": "5fe8cc78a16c64abe2509816377b19ab6b026b4f1516908fb490b51717975f1d",
+   "source_with_nul_sha256": "99916a8c3b4118df4a8d0a3958741ac2703afc4027a69fdc5aa14e337d3e1838",
+   "en": "Large Scythe",
+   "omit_en": "Large Scythe",
+   "refs": [
+    {
+     "row": 30,
+     "field": 4,
+     "site": 2088180
+    },
+    {
+     "row": 30,
+     "field": 8,
+     "site": 2088184
+    },
+    {
+     "row": 30,
+     "field": 12,
+     "site": 2088188
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/va:002322D0",
+   "va": 2302672,
+   "source_size": 11,
+   "source_sha256": "86ef285e9282f250bd408688d81df218e0588f7d719175de373037616fa97fa8",
+   "source_with_nul_sha256": "6ec5c3938deda5b10078d9169a67d54a2892131a4508bdb9e372167141dec059",
+   "en": "V-MAX",
+   "omit_en": "V-MAX",
+   "refs": [
+    {
+     "row": 31,
+     "field": 4,
+     "site": 2088240
+    },
+    {
+     "row": 31,
+     "field": 8,
+     "site": 2088244
+    },
+    {
+     "row": 31,
+     "field": 12,
+     "site": 2088248
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011DB8",
+   "va": 2302648,
+   "source_size": 23,
+   "source_sha256": "1c7693b42f8d5d1eb8814a8b3556a93192d8a2f51ac7ce5e06dde7768f541f32",
+   "source_with_nul_sha256": "0cdf72866f279ce6f7ba10251e7bc9ce17fa691ca6ed2e5a7ce37322af6050ec",
+   "en": "V-MAX Red Zone",
+   "omit_en": "V-MAX Red Zone",
+   "refs": [
+    {
+     "row": 32,
+     "field": 4,
+     "site": 2088300
+    },
+    {
+     "row": 32,
+     "field": 8,
+     "site": 2088304
+    },
+    {
+     "row": 32,
+     "field": 12,
+     "site": 2088308
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": "Registered V-MAX ASCII typography applied after language review."
+  },
+  {
+   "id": "ELF/rodata:00011DA0",
+   "va": 2302624,
+   "source_size": 21,
+   "source_sha256": "478d51083a9dd21071942ac15cd1dd8ec51ed726bf336dae25a9a2182fb460ab",
+   "source_with_nul_sha256": "4d18935f3932a9c2b6ed8ac2aa2c8b62f89fb3f0d8292e7f7c0f622cc0482ee2",
+   "en": "Goldion Hammer",
+   "omit_en": "Goldion Hammer",
+   "refs": [
+    {
+     "row": 33,
+     "field": 4,
+     "site": 2088360
+    },
+    {
+     "row": 33,
+     "field": 8,
+     "site": 2088364
+    },
+    {
+     "row": 33,
+     "field": 12,
+     "site": 2088368
+    },
+    {
+     "row": 34,
+     "field": 4,
+     "site": 2088420
+    },
+    {
+     "row": 34,
+     "field": 8,
+     "site": 2088424
+    },
+    {
+     "row": 34,
+     "field": 12,
+     "site": 2088428
+    },
+    {
+     "row": 35,
+     "field": 4,
+     "site": 2088480
+    },
+    {
+     "row": 35,
+     "field": 8,
+     "site": 2088484
+    },
+    {
+     "row": 35,
+     "field": 12,
+     "site": 2088488
+    },
+    {
+     "row": 36,
+     "field": 4,
+     "site": 2088540
+    },
+    {
+     "row": 36,
+     "field": 8,
+     "site": 2088544
+    },
+    {
+     "row": 36,
+     "field": 12,
+     "site": 2088548
+    },
+    {
+     "row": 37,
+     "field": 4,
+     "site": 2088600
+    },
+    {
+     "row": 37,
+     "field": 8,
+     "site": 2088604
+    },
+    {
+     "row": 37,
+     "field": 12,
+     "site": 2088608
+    },
+    {
+     "row": 38,
+     "field": 4,
+     "site": 2088660
+    },
+    {
+     "row": 38,
+     "field": 8,
+     "site": 2088664
+    },
+    {
+     "row": 38,
+     "field": 12,
+     "site": 2088668
+    },
+    {
+     "row": 39,
+     "field": 4,
+     "site": 2088720
+    },
+    {
+     "row": 39,
+     "field": 8,
+     "site": 2088724
+    },
+    {
+     "row": 39,
+     "field": 12,
+     "site": 2088728
+    },
+    {
+     "row": 40,
+     "field": 4,
+     "site": 2088780
+    },
+    {
+     "row": 40,
+     "field": 8,
+     "site": 2088784
+    },
+    {
+     "row": 40,
+     "field": 12,
+     "site": 2088788
+    },
+    {
+     "row": 41,
+     "field": 4,
+     "site": 2088840
+    },
+    {
+     "row": 41,
+     "field": 8,
+     "site": 2088844
+    },
+    {
+     "row": 41,
+     "field": 12,
+     "site": 2088848
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D90",
+   "va": 2302608,
+   "source_size": 15,
+   "source_sha256": "e49307b5e0bbde718d3d05d848b57c24a156e704d940b403f5fe4fa4edb10df6",
+   "source_with_nul_sha256": "1d8441596dea105e16ee32b71c7180b980961e40da2e5d57409ed1fd38139136",
+   "en": "Beam Saber",
+   "omit_en": "Beam Saber",
+   "refs": [
+    {
+     "row": 42,
+     "field": 4,
+     "site": 2088900
+    },
+    {
+     "row": 42,
+     "field": 8,
+     "site": 2088904
+    },
+    {
+     "row": 42,
+     "field": 12,
+     "site": 2088908
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D80",
+   "va": 2302592,
+   "source_size": 9,
+   "source_sha256": "d11ff54923d696f8a31d1654f8e5777264e3de13653f21208b91aed6e5b300f6",
+   "source_with_nul_sha256": "f73290f08c2406e289e14797d0428b0bf9706754f87accee8bf0cdb30a721ed7",
+   "en": "Bazooka",
+   "omit_en": "Bazooka",
+   "refs": [
+    {
+     "row": 43,
+     "field": 4,
+     "site": 2088960
+    },
+    {
+     "row": 43,
+     "field": 8,
+     "site": 2088964
+    },
+    {
+     "row": 43,
+     "field": 12,
+     "site": 2088968
+    },
+    {
+     "row": 44,
+     "field": 4,
+     "site": 2089020
+    },
+    {
+     "row": 44,
+     "field": 8,
+     "site": 2089024
+    },
+    {
+     "row": 44,
+     "field": 12,
+     "site": 2089028
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D68",
+   "va": 2302568,
+   "source_size": 17,
+   "source_sha256": "139d8cab033c6735ec26192fe2ac8e271cafda57466cf7caf5c98e387b8ea725",
+   "source_with_nul_sha256": "3ec6b75091d730b598fa2a2b59979dc39b9eed0f374d4f7d0f02023550da8a09",
+   "en": "Omnidirectional Mega-Particle Cannon",
+   "omit_en": "Omni. Mega-Particle Cannon",
+   "refs": [
+    {
+     "row": 45,
+     "field": 4,
+     "site": 2089080
+    },
+    {
+     "row": 45,
+     "field": 8,
+     "site": 2089084
+    },
+    {
+     "row": 45,
+     "field": 12,
+     "site": 2089088
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D58",
+   "va": 2302552,
+   "source_size": 11,
+   "source_sha256": "e952f69c8bce7f0c563b7d1ffef28cfaba23800b170b19c9100e381d937cc524",
+   "source_with_nul_sha256": "b0fe85234df07b8e4faec6efd3340f1389760d4ec457f40672b4e7de646b121b",
+   "en": "Sekiha Tenkyouken",
+   "omit_en": "Sekiha Tenkyouken",
+   "refs": [
+    {
+     "row": 46,
+     "field": 4,
+     "site": 2089140
+    },
+    {
+     "row": 46,
+     "field": 8,
+     "site": 2089144
+    },
+    {
+     "row": 46,
+     "field": 12,
+     "site": 2089148
+    },
+    {
+     "row": 47,
+     "field": 4,
+     "site": 2089200
+    },
+    {
+     "row": 47,
+     "field": 8,
+     "site": 2089204
+    },
+    {
+     "row": 47,
+     "field": 12,
+     "site": 2089208
+    },
+    {
+     "row": 48,
+     "field": 4,
+     "site": 2089260
+    },
+    {
+     "row": 48,
+     "field": 8,
+     "site": 2089264
+    },
+    {
+     "row": 48,
+     "field": 12,
+     "site": 2089268
+    },
+    {
+     "row": 49,
+     "field": 4,
+     "site": 2089320
+    },
+    {
+     "row": 49,
+     "field": 8,
+     "site": 2089324
+    },
+    {
+     "row": 49,
+     "field": 12,
+     "site": 2089328
+    },
+    {
+     "row": 115,
+     "field": 4,
+     "site": 2093280
+    },
+    {
+     "row": 115,
+     "field": 8,
+     "site": 2093284
+    },
+    {
+     "row": 115,
+     "field": 12,
+     "site": 2093288
+    },
+    {
+     "row": 117,
+     "field": 4,
+     "site": 2093400
+    },
+    {
+     "row": 117,
+     "field": 8,
+     "site": 2093404
+    },
+    {
+     "row": 117,
+     "field": 12,
+     "site": 2093408
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D40",
+   "va": 2302528,
+   "source_size": 17,
+   "source_sha256": "407c13598d8c48457d1662a172de11f97a8b09389ab527d3d1a9fda080f4eaae",
+   "source_with_nul_sha256": "f36d513c4021d1140ea84493507e788b05bb9988169258ccafd7a79a3d55250b",
+   "en": "God Finger",
+   "omit_en": "God Finger",
+   "refs": [
+    {
+     "row": 50,
+     "field": 4,
+     "site": 2089380
+    },
+    {
+     "row": 50,
+     "field": 8,
+     "site": 2089384
+    },
+    {
+     "row": 50,
+     "field": 12,
+     "site": 2089388
+    },
+    {
+     "row": 51,
+     "field": 4,
+     "site": 2089440
+    },
+    {
+     "row": 51,
+     "field": 8,
+     "site": 2089444
+    },
+    {
+     "row": 51,
+     "field": 12,
+     "site": 2089448
+    },
+    {
+     "row": 53,
+     "field": 4,
+     "site": 2089560
+    },
+    {
+     "row": 53,
+     "field": 8,
+     "site": 2089564
+    },
+    {
+     "row": 53,
+     "field": 12,
+     "site": 2089568
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D28",
+   "va": 2302504,
+   "source_size": 21,
+   "source_sha256": "7a647778c446a7780be8c9829561571fd2ae7442edae948adafec2b1b9e74dc0",
+   "source_with_nul_sha256": "1bce808a2f8c975e0520e33c61d5c7b37a5bc1b5c978917f4e961f411b7cb049",
+   "en": "Darkness Finger",
+   "omit_en": "Darkness Finger",
+   "refs": [
+    {
+     "row": 52,
+     "field": 4,
+     "site": 2089500
+    },
+    {
+     "row": 52,
+     "field": 8,
+     "site": 2089504
+    },
+    {
+     "row": 52,
+     "field": 12,
+     "site": 2089508
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D10",
+   "va": 2302480,
+   "source_size": 23,
+   "source_sha256": "0bba1221e4d9fce78acd4e55320ad38be4127cd67ea2b703c7aeb266635f8f9b",
+   "source_with_nul_sha256": "21ed27f456dc4b5c6c1ea1e656c9536c84b63ac61ddea1131ffd2beed6a87fc0",
+   "en": "Twin Buster Rifle",
+   "omit_en": "Twin Buster Rifle",
+   "refs": [
+    {
+     "row": 54,
+     "field": 4,
+     "site": 2089620
+    },
+    {
+     "row": 54,
+     "field": 8,
+     "site": 2089624
+    },
+    {
+     "row": 54,
+     "field": 12,
+     "site": 2089628
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001898",
+   "va": 2330776,
+   "source_size": 5,
+   "source_sha256": "97129f346e375de92c7c014a28987954b004bec21e0ffda63776ea1ae39b3495",
+   "source_with_nul_sha256": "893d54c38fda74047ca658a3eb81f0e313602b2bf8aaf17190ffd56424456025",
+   "en": "Surprise Attack",
+   "omit_en": "Surprise Attack",
+   "refs": [
+    {
+     "row": 55,
+     "field": 4,
+     "site": 2089680
+    },
+    {
+     "row": 55,
+     "field": 8,
+     "site": 2089684
+    },
+    {
+     "row": 55,
+     "field": 12,
+     "site": 2089688
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011D00",
+   "va": 2302464,
+   "source_size": 9,
+   "source_sha256": "ee0a81a9fcba8e2ac51e3e9d1eb245c40676f3c978a89b520f7bdd86c1f72ea0",
+   "source_with_nul_sha256": "fc93f576fe1f32d5de5bbea5f613d88827e749788be153e7cf66a408de7c5f19",
+   "en": "Attack with All Ammunition",
+   "omit_en": "Attack with All Ammunition",
+   "refs": [
+    {
+     "row": 56,
+     "field": 4,
+     "site": 2089740
+    },
+    {
+     "row": 56,
+     "field": 8,
+     "site": 2089744
+    },
+    {
+     "row": 56,
+     "field": 12,
+     "site": 2089748
+    },
+    {
+     "row": 61,
+     "field": 4,
+     "site": 2090040
+    },
+    {
+     "row": 61,
+     "field": 8,
+     "site": 2090044
+    },
+    {
+     "row": 61,
+     "field": 12,
+     "site": 2090048
+    },
+    {
+     "row": 62,
+     "field": 4,
+     "site": 2090100
+    },
+    {
+     "row": 62,
+     "field": 8,
+     "site": 2090104
+    },
+    {
+     "row": 62,
+     "field": 12,
+     "site": 2090108
+    },
+    {
+     "row": 63,
+     "field": 4,
+     "site": 2090160
+    },
+    {
+     "row": 63,
+     "field": 8,
+     "site": 2090164
+    },
+    {
+     "row": 63,
+     "field": 12,
+     "site": 2090168
+    },
+    {
+     "row": 64,
+     "field": 4,
+     "site": 2090220
+    },
+    {
+     "row": 64,
+     "field": 8,
+     "site": 2090224
+    },
+    {
+     "row": 64,
+     "field": 12,
+     "site": 2090228
+    },
+    {
+     "row": 65,
+     "field": 4,
+     "site": 2090280
+    },
+    {
+     "row": 65,
+     "field": 8,
+     "site": 2090284
+    },
+    {
+     "row": 65,
+     "field": 12,
+     "site": 2090288
+    },
+    {
+     "row": 105,
+     "field": 4,
+     "site": 2092680
+    },
+    {
+     "row": 105,
+     "field": 8,
+     "site": 2092684
+    },
+    {
+     "row": 105,
+     "field": 12,
+     "site": 2092688
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011CE8",
+   "va": 2302440,
+   "source_size": 17,
+   "source_sha256": "cd22ffca73239aacbe8ce8f41831db1fc5e0eb0f81a5c7ce354e190a8d28e031",
+   "source_with_nul_sha256": "2ae54f65e4e334af8840fbe35b1c7e10228247e41780c8d33b25fb7a05e0ec2a",
+   "en": "Heat Shotel",
+   "omit_en": "Heat Shotel",
+   "refs": [
+    {
+     "row": 57,
+     "field": 4,
+     "site": 2089800
+    },
+    {
+     "row": 57,
+     "field": 8,
+     "site": 2089804
+    },
+    {
+     "row": 57,
+     "field": 12,
+     "site": 2089808
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011CD8",
+   "va": 2302424,
+   "source_size": 15,
+   "source_sha256": "d9f31be42e94ab17e11f5af45ef8ac6eca3df0b48af23ebcd6ebf5f1cad81526",
+   "source_with_nul_sha256": "4178551d2198aef1fd44eca6adbf04b789a5f55164fc5f3074cb5e7f4fbbd530",
+   "en": "Dragon Fang",
+   "omit_en": "Dragon Fang",
+   "refs": [
+    {
+     "row": 58,
+     "field": 4,
+     "site": 2089860
+    },
+    {
+     "row": 58,
+     "field": 8,
+     "site": 2089864
+    },
+    {
+     "row": 58,
+     "field": 12,
+     "site": 2089868
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011CC8",
+   "va": 2302408,
+   "source_size": 13,
+   "source_sha256": "cadc8b6d302192ee67f0ef8797f6d396a40c76984a264e11bf921905512cbe3c",
+   "source_with_nul_sha256": "73b73c7872dd48aa8d1b8b28d221533921b6ca29e89b5280b843662dafea8ee3",
+   "en": "Linear Cannon",
+   "omit_en": "Linear Cannon",
+   "refs": [
+    {
+     "row": 59,
+     "field": 4,
+     "site": 2089920
+    },
+    {
+     "row": 59,
+     "field": 8,
+     "site": 2089924
+    },
+    {
+     "row": 59,
+     "field": 12,
+     "site": 2089928
+    },
+    {
+     "row": 60,
+     "field": 4,
+     "site": 2089980
+    },
+    {
+     "row": 60,
+     "field": 8,
+     "site": 2089984
+    },
+    {
+     "row": 60,
+     "field": 12,
+     "site": 2089988
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011CA8",
+   "va": 2302376,
+   "source_size": 25,
+   "source_sha256": "bf22b3b3ed78faa1ac04b0d4cac1b92d3af247eb50273690afc5c36224ef10db",
+   "source_with_nul_sha256": "1471ec00326005491862626ece494a706a50e16195025cbf9e847a1aa4bb4fd1",
+   "en": "God Thunder Crash",
+   "omit_en": "God Thunder Crash",
+   "refs": [
+    {
+     "row": 66,
+     "field": 4,
+     "site": 2090340
+    },
+    {
+     "row": 66,
+     "field": 8,
+     "site": 2090344
+    },
+    {
+     "row": 66,
+     "field": 12,
+     "site": 2090348
+    },
+    {
+     "row": 67,
+     "field": 4,
+     "site": 2090400
+    },
+    {
+     "row": 67,
+     "field": 8,
+     "site": 2090404
+    },
+    {
+     "row": 67,
+     "field": 12,
+     "site": 2090408
+    },
+    {
+     "row": 68,
+     "field": 4,
+     "site": 2090460
+    },
+    {
+     "row": 68,
+     "field": 8,
+     "site": 2090464
+    },
+    {
+     "row": 68,
+     "field": 12,
+     "site": 2090468
+    },
+    {
+     "row": 69,
+     "field": 4,
+     "site": 2090520
+    },
+    {
+     "row": 69,
+     "field": 8,
+     "site": 2090524
+    },
+    {
+     "row": 69,
+     "field": 12,
+     "site": 2090528
+    },
+    {
+     "row": 70,
+     "field": 4,
+     "site": 2090580
+    },
+    {
+     "row": 70,
+     "field": 8,
+     "site": 2090584
+    },
+    {
+     "row": 70,
+     "field": 12,
+     "site": 2090588
+    },
+    {
+     "row": 71,
+     "field": 4,
+     "site": 2090640
+    },
+    {
+     "row": 71,
+     "field": 8,
+     "site": 2090644
+    },
+    {
+     "row": 71,
+     "field": 12,
+     "site": 2090648
+    },
+    {
+     "row": 72,
+     "field": 4,
+     "site": 2090700
+    },
+    {
+     "row": 72,
+     "field": 8,
+     "site": 2090704
+    },
+    {
+     "row": 72,
+     "field": 12,
+     "site": 2090708
+    },
+    {
+     "row": 73,
+     "field": 4,
+     "site": 2090760
+    },
+    {
+     "row": 73,
+     "field": 8,
+     "site": 2090764
+    },
+    {
+     "row": 73,
+     "field": 12,
+     "site": 2090768
+    },
+    {
+     "row": 74,
+     "field": 4,
+     "site": 2090820
+    },
+    {
+     "row": 74,
+     "field": 8,
+     "site": 2090824
+    },
+    {
+     "row": 74,
+     "field": 12,
+     "site": 2090828
+    },
+    {
+     "row": 75,
+     "field": 4,
+     "site": 2090880
+    },
+    {
+     "row": 75,
+     "field": 8,
+     "site": 2090884
+    },
+    {
+     "row": 75,
+     "field": 12,
+     "site": 2090888
+    },
+    {
+     "row": 76,
+     "field": 4,
+     "site": 2090940
+    },
+    {
+     "row": 76,
+     "field": 8,
+     "site": 2090944
+    },
+    {
+     "row": 76,
+     "field": 12,
+     "site": 2090948
+    },
+    {
+     "row": 77,
+     "field": 4,
+     "site": 2091000
+    },
+    {
+     "row": 77,
+     "field": 8,
+     "site": 2091004
+    },
+    {
+     "row": 77,
+     "field": 12,
+     "site": 2091008
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C90",
+   "va": 2302352,
+   "source_size": 19,
+   "source_sha256": "417a7727952995351562b696d671325e8487f22067a6ae2d6da5e25731fe5932",
+   "source_with_nul_sha256": "ccb906816d029fa8c98c6c0efba688f423620acf5635698e77f86702438a4595",
+   "en": "Final Attack",
+   "omit_en": "Final Attack",
+   "refs": [
+    {
+     "row": 78,
+     "field": 4,
+     "site": 2091060
+    },
+    {
+     "row": 78,
+     "field": 8,
+     "site": 2091064
+    },
+    {
+     "row": 78,
+     "field": 12,
+     "site": 2091068
+    },
+    {
+     "row": 79,
+     "field": 4,
+     "site": 2091120
+    },
+    {
+     "row": 79,
+     "field": 8,
+     "site": 2091124
+    },
+    {
+     "row": 79,
+     "field": 12,
+     "site": 2091128
+    },
+    {
+     "row": 80,
+     "field": 4,
+     "site": 2091180
+    },
+    {
+     "row": 80,
+     "field": 8,
+     "site": 2091184
+    },
+    {
+     "row": 80,
+     "field": 12,
+     "site": 2091188
+    },
+    {
+     "row": 81,
+     "field": 4,
+     "site": 2091240
+    },
+    {
+     "row": 81,
+     "field": 8,
+     "site": 2091244
+    },
+    {
+     "row": 81,
+     "field": 12,
+     "site": 2091248
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001890",
+   "va": 2330768,
+   "source_size": 7,
+   "source_sha256": "3b1350b90a1b6f2f681e6b721a665761ba1803d6ab4725390a905f77c45b8722",
+   "source_with_nul_sha256": "4a864a1f3e00b969da7ca37a7458219805bbe92a6cf5950398468f732aaee235",
+   "en": "Toryuken",
+   "omit_en": "Toryuken",
+   "refs": [
+    {
+     "row": 82,
+     "field": 4,
+     "site": 2091300
+    },
+    {
+     "row": 82,
+     "field": 8,
+     "site": 2091304
+    },
+    {
+     "row": 82,
+     "field": 12,
+     "site": 2091308
+    },
+    {
+     "row": 83,
+     "field": 4,
+     "site": 2091360
+    },
+    {
+     "row": 83,
+     "field": 8,
+     "site": 2091364
+    },
+    {
+     "row": 83,
+     "field": 12,
+     "site": 2091368
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001888",
+   "va": 2330760,
+   "source_size": 7,
+   "source_sha256": "c01e8523efeea4bbf00abba4de2c899c0584731bd08f5c75bcc628d27e7cc7b8",
+   "source_with_nul_sha256": "9d3a2d5c365214d618765983f8dce1af32f67969a7f767e8d283af809784df6c",
+   "en": "Sou En Zan",
+   "omit_en": "Sou En Zan",
+   "refs": [
+    {
+     "row": 84,
+     "field": 4,
+     "site": 2091420
+    },
+    {
+     "row": 84,
+     "field": 8,
+     "site": 2091424
+    },
+    {
+     "row": 84,
+     "field": 12,
+     "site": 2091428
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001880",
+   "va": 2330752,
+   "source_size": 7,
+   "source_sha256": "a618d61b93b53e8d7633a3352767981a454613a831942648b2436533a26acd3d",
+   "source_with_nul_sha256": "a8f310b88b776dfe0bda479f97151917656b1b2a38df8b1f05d77eec0d6afe7d",
+   "en": "Rai Ko Zan",
+   "omit_en": "Rai Ko Zan",
+   "refs": [
+    {
+     "row": 85,
+     "field": 4,
+     "site": 2091480
+    },
+    {
+     "row": 85,
+     "field": 8,
+     "site": 2091484
+    },
+    {
+     "row": 85,
+     "field": 12,
+     "site": 2091488
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001878",
+   "va": 2330744,
+   "source_size": 7,
+   "source_sha256": "50be4a3a2694e4e42585db0da18632aad06e42f65eef77429f7e11be2b447353",
+   "source_with_nul_sha256": "fe3ae82e375dadb9f988e98304b93cf2a6b3d5ad0800f757fc991cec334dfc7c",
+   "en": "Gantessai",
+   "omit_en": "Gantessai",
+   "refs": [
+    {
+     "row": 86,
+     "field": 4,
+     "site": 2091540
+    },
+    {
+     "row": 86,
+     "field": 8,
+     "site": 2091544
+    },
+    {
+     "row": 86,
+     "field": 12,
+     "site": 2091548
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001870",
+   "va": 2330736,
+   "source_size": 7,
+   "source_sha256": "b4033d869795903cc6c35304ed958d7e077036dad3d0bcc2f0a12d46d2e05858",
+   "source_with_nul_sha256": "2fcea5f5a9e081c223182fbe09c6639f33797194a022c6abc1c7fb2bf9278e11",
+   "en": "Chou Ryuu Ha",
+   "omit_en": "Chou Ryuu Ha",
+   "refs": [
+    {
+     "row": 87,
+     "field": 4,
+     "site": 2091600
+    },
+    {
+     "row": 87,
+     "field": 8,
+     "site": 2091604
+    },
+    {
+     "row": 87,
+     "field": 12,
+     "site": 2091608
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001868",
+   "va": 2330728,
+   "source_size": 7,
+   "source_sha256": "9328656e56bd68ed6f62028e084822dc0cb9edcb1666fa97ae6091f254e6ae6c",
+   "source_with_nul_sha256": "878f8ad8ed81c573f0aefd0a087d5f4fc617d4cadf9025e51a55d29c1542d2aa",
+   "en": "Shin Ku Ha",
+   "omit_en": "Shin Ku Ha",
+   "refs": [
+    {
+     "row": 88,
+     "field": 4,
+     "site": 2091660
+    },
+    {
+     "row": 88,
+     "field": 8,
+     "site": 2091664
+    },
+    {
+     "row": 88,
+     "field": 12,
+     "site": 2091668
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001860",
+   "va": 2330720,
+   "source_size": 7,
+   "source_sha256": "1675c3287c1c4d573265b85c5b0f38f75dcefb6653e8337973b21614ef9f8146",
+   "source_with_nul_sha256": "718df10c2a57134ff8c87dea96b72d5dbc1c3780f4519230f52c7b5a1573895a",
+   "en": "Ko Rai Sen",
+   "omit_en": "Ko Rai Sen",
+   "refs": [
+    {
+     "row": 89,
+     "field": 4,
+     "site": 2091720
+    },
+    {
+     "row": 89,
+     "field": 8,
+     "site": 2091724
+    },
+    {
+     "row": 89,
+     "field": 12,
+     "site": 2091728
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C80",
+   "va": 2302336,
+   "source_size": 13,
+   "source_sha256": "ef8e3fb357b99ca8730182ec684fcfb394f56622baff606bf42851f9c89a770e",
+   "source_with_nul_sha256": "f43a9c9e63514358f785072d796668e4633b9a95448eb59f643e6b7f1b35f4d6",
+   "en": "Ankoku Chohigiri",
+   "omit_en": "Ankoku Chohigiri",
+   "refs": [
+    {
+     "row": 90,
+     "field": 4,
+     "site": 2091780
+    },
+    {
+     "row": 90,
+     "field": 8,
+     "site": 2091784
+    },
+    {
+     "row": 90,
+     "field": 12,
+     "site": 2091788
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001858",
+   "va": 2330712,
+   "source_size": 7,
+   "source_sha256": "18d00de75069b74c420ee0a6a8db2ca23cb40ffe0465a5b92b68bb4ce966d51c",
+   "source_with_nul_sha256": "ac2354eeb78fa53a6dfdd3de8889b7db14500dc43378c860455412a6f0105ca2",
+   "en": "Jaga Ken",
+   "omit_en": "Jaga Ken",
+   "refs": [
+    {
+     "row": 91,
+     "field": 4,
+     "site": 2091840
+    },
+    {
+     "row": 91,
+     "field": 8,
+     "site": 2091844
+    },
+    {
+     "row": 91,
+     "field": 12,
+     "site": 2091848
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001850",
+   "va": 2330704,
+   "source_size": 7,
+   "source_sha256": "bc6b09e48f1de1949ca4c365c768544cb00a487039a0f796ab57b6277dd2d87e",
+   "source_with_nul_sha256": "7f760327f436947bd7e5e7a76a0931ae55a3b8586b68bc9aeefe4014d5610df8",
+   "en": "Touchimou",
+   "omit_en": "Touchimou",
+   "refs": [
+    {
+     "row": 92,
+     "field": 4,
+     "site": 2091900
+    },
+    {
+     "row": 92,
+     "field": 8,
+     "site": 2091904
+    },
+    {
+     "row": 92,
+     "field": 12,
+     "site": 2091908
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001848",
+   "va": 2330696,
+   "source_size": 7,
+   "source_sha256": "9413a9b5cd9a37f5cc6fe99abd6753e8ce0b3d65e5eeeca101335740a8869ddd",
+   "source_with_nul_sha256": "69f84cb21e5c68afdf90a9c1b448a4ea9e338875556b1b6d424b97c07536703b",
+   "en": "Sen Ko Zan",
+   "omit_en": "Sen Ko Zan",
+   "refs": [
+    {
+     "row": 93,
+     "field": 4,
+     "site": 2091960
+    },
+    {
+     "row": 93,
+     "field": 8,
+     "site": 2091964
+    },
+    {
+     "row": 93,
+     "field": 12,
+     "site": 2091968
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001840",
+   "va": 2330688,
+   "source_size": 7,
+   "source_sha256": "198d34d9d433862955ff35db47a70e14ccd8f89b49554730ce566136c0fac0bc",
+   "source_with_nul_sha256": "500c6668463c1069e92c332f2061f3664daa5a91b2c1371ad6ad55ec88cb7714",
+   "en": "Arago",
+   "omit_en": "Arago",
+   "refs": [
+    {
+     "row": 94,
+     "field": 4,
+     "site": 2092020
+    },
+    {
+     "row": 94,
+     "field": 8,
+     "site": 2092024
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001838",
+   "va": 2330680,
+   "source_size": 5,
+   "source_sha256": "99a1742180680dd2f6a3778a5170065769b8c9f228a756cef7b0ed622acd67e5",
+   "source_with_nul_sha256": "8f09e0fbec28742badf744ac3dea51cdd2a49b0a50612af9451b1223dabaaeb7",
+   "en": "Full Power",
+   "omit_en": "Full Power",
+   "refs": [
+    {
+     "row": 94,
+     "field": 12,
+     "site": 2092028
+    },
+    {
+     "row": 95,
+     "field": 12,
+     "site": 2092088
+    },
+    {
+     "row": 96,
+     "field": 12,
+     "site": 2092148
+    },
+    {
+     "row": 97,
+     "field": 12,
+     "site": 2092208
+    },
+    {
+     "row": 98,
+     "field": 12,
+     "site": 2092268
+    },
+    {
+     "row": 99,
+     "field": 12,
+     "site": 2092328
+    },
+    {
+     "row": 100,
+     "field": 12,
+     "site": 2092388
+    },
+    {
+     "row": 101,
+     "field": 12,
+     "site": 2092448
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001830",
+   "va": 2330672,
+   "source_size": 7,
+   "source_sha256": "dadbf9e1b7c3682d8ec234810dd1cceb0868cb8a8f7f677289deea2d2618fa76",
+   "source_with_nul_sha256": "9a5ae504dc370f6d06968196d6e7e2d5c01de7179a1c1ae156739e746a3f4c95",
+   "en": "Yoja Soldier",
+   "omit_en": "Yoja Soldier",
+   "refs": [
+    {
+     "row": 95,
+     "field": 4,
+     "site": 2092080
+    },
+    {
+     "row": 95,
+     "field": 8,
+     "site": 2092084
+    },
+    {
+     "row": 96,
+     "field": 4,
+     "site": 2092140
+    },
+    {
+     "row": 96,
+     "field": 8,
+     "site": 2092144
+    },
+    {
+     "row": 97,
+     "field": 4,
+     "site": 2092200
+    },
+    {
+     "row": 97,
+     "field": 8,
+     "site": 2092204
+    },
+    {
+     "row": 98,
+     "field": 4,
+     "site": 2092260
+    },
+    {
+     "row": 98,
+     "field": 8,
+     "site": 2092264
+    },
+    {
+     "row": 99,
+     "field": 4,
+     "site": 2092320
+    },
+    {
+     "row": 99,
+     "field": 8,
+     "site": 2092324
+    },
+    {
+     "row": 100,
+     "field": 4,
+     "site": 2092380
+    },
+    {
+     "row": 100,
+     "field": 8,
+     "site": 2092384
+    },
+    {
+     "row": 101,
+     "field": 4,
+     "site": 2092440
+    },
+    {
+     "row": 101,
+     "field": 8,
+     "site": 2092444
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C60",
+   "va": 2302304,
+   "source_size": 25,
+   "source_sha256": "0422e448428eb72c14d6dec253aca8fb1ffb4f8117d3b2bced5f14963dfa0bed",
+   "source_with_nul_sha256": "057eed5361211f2dda9eaa75446f70dbbc9b19cadb2af7e3664817f207686583",
+   "en": "Fire Bird Attack",
+   "omit_en": "Fire Bird Attack",
+   "refs": [
+    {
+     "row": 102,
+     "field": 4,
+     "site": 2092500
+    },
+    {
+     "row": 102,
+     "field": 8,
+     "site": 2092504
+    },
+    {
+     "row": 102,
+     "field": 12,
+     "site": 2092508
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C48",
+   "va": 2302280,
+   "source_size": 23,
+   "source_sha256": "6b6b59ca6947791aa00d740c36fa43f224a8a55262f5515cd03594272b6bde61",
+   "source_with_nul_sha256": "505b42f8535ba93d64a3fdc52fb1c8306977a33af336446c4131bfa71eaec99d",
+   "en": "Turbo Wheel Attack",
+   "omit_en": "Turbo Wheel Attack",
+   "refs": [
+    {
+     "row": 103,
+     "field": 4,
+     "site": 2092560
+    },
+    {
+     "row": 103,
+     "field": 8,
+     "site": 2092564
+    },
+    {
+     "row": 103,
+     "field": 12,
+     "site": 2092568
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C30",
+   "va": 2302256,
+   "source_size": 21,
+   "source_sha256": "166b2ba71baebe4c8c0be4ba806406269f43d8b010da3a229d7aad16536e1247",
+   "source_with_nul_sha256": "65e0fea188fe6415f1cfc3e112f52cd9a510739d8c2e747cd1057f90bf6d0ed8",
+   "en": "Crystal Boomerang",
+   "omit_en": "Crystal Boomerang",
+   "refs": [
+    {
+     "row": 104,
+     "field": 4,
+     "site": 2092620
+    },
+    {
+     "row": 104,
+     "field": 8,
+     "site": 2092624
+    },
+    {
+     "row": 104,
+     "field": 12,
+     "site": 2092628
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C20",
+   "va": 2302240,
+   "source_size": 9,
+   "source_sha256": "b6cbdc29ac63236590a8ae10bf5469a3e45e5c70d7e2190f743381602d2cece5",
+   "source_with_nul_sha256": "6f8c307e11926684a66ef9ead1da902d0453e1a98ae56e561cc15cda35e926de",
+   "en": "Fighting Spirit Attack",
+   "omit_en": "Fighting Spirit Attack",
+   "refs": [
+    {
+     "row": 106,
+     "field": 4,
+     "site": 2092740
+    },
+    {
+     "row": 106,
+     "field": 8,
+     "site": 2092744
+    },
+    {
+     "row": 106,
+     "field": 12,
+     "site": 2092748
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C10",
+   "va": 2302224,
+   "source_size": 9,
+   "source_sha256": "53841ba7b8bfc8e873e8530e4af22f4e711b0f36b27792f4d3e54f0b855b1a54",
+   "source_with_nul_sha256": "2182dfa173d6cb4e3d01d1f824fe8ab514176f9beb17e6521fa530e3b059ce11",
+   "en": "Surprise Attack",
+   "omit_en": "Surprise Attack",
+   "refs": [
+    {
+     "row": 107,
+     "field": 4,
+     "site": 2092800
+    },
+    {
+     "row": 107,
+     "field": 8,
+     "site": 2092804
+    },
+    {
+     "row": 107,
+     "field": 12,
+     "site": 2092808
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/sdata:00001828",
+   "va": 2330664,
+   "source_size": 5,
+   "source_sha256": "529e8896acafbe18acada5934ffd2eeeb7ce098ca95e868a27fccae13b9de05b",
+   "source_with_nul_sha256": "623fac842da10a59947e91609d8c642ffdf32ed12b7797b20d91cd53988f0442",
+   "en": "Gunfire",
+   "omit_en": "Gunfire",
+   "refs": [
+    {
+     "row": 108,
+     "field": 4,
+     "site": 2092860
+    },
+    {
+     "row": 108,
+     "field": 8,
+     "site": 2092864
+    },
+    {
+     "row": 108,
+     "field": 12,
+     "site": 2092868
+    }
+   ],
+   "review": "Independent 026 source accuracy, editorial and proofreading audit.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011C00",
+   "va": 2302208,
+   "source_size": 13,
+   "source_sha256": "7a4b8f05fc804a6f21d2b1fc3fe80fa1b7b50e7b1b48ea960581bc5ee2e192ac",
+   "source_with_nul_sha256": "124cc9d433d9953b829827d9b1cf04ec42882fe0a42f90fcdb9cc4a5257f230f",
+   "en": "Combined Attack and Defense",
+   "omit_en": "Combined Attack and Defense",
+   "refs": [
+    {
+     "row": 109,
+     "field": 4,
+     "site": 2092920
+    },
+    {
+     "row": 109,
+     "field": 8,
+     "site": 2092924
+    },
+    {
+     "row": 109,
+     "field": 12,
+     "site": 2092928
+    },
+    {
+     "row": 110,
+     "field": 4,
+     "site": 2092980
+    },
+    {
+     "row": 110,
+     "field": 8,
+     "site": 2092984
+    },
+    {
+     "row": 110,
+     "field": 12,
+     "site": 2092988
+    },
+    {
+     "row": 111,
+     "field": 4,
+     "site": 2093040
+    },
+    {
+     "row": 111,
+     "field": 8,
+     "site": 2093044
+    },
+    {
+     "row": 111,
+     "field": 12,
+     "site": 2093048
+    },
+    {
+     "row": 112,
+     "field": 4,
+     "site": 2093100
+    },
+    {
+     "row": 112,
+     "field": 8,
+     "site": 2093104
+    },
+    {
+     "row": 112,
+     "field": 12,
+     "site": 2093108
+    },
+    {
+     "row": 113,
+     "field": 4,
+     "site": 2093160
+    },
+    {
+     "row": 113,
+     "field": 8,
+     "site": 2093164
+    },
+    {
+     "row": 113,
+     "field": 12,
+     "site": 2093168
+    },
+    {
+     "row": 114,
+     "field": 4,
+     "site": 2093220
+    },
+    {
+     "row": 114,
+     "field": 8,
+     "site": 2093224
+    },
+    {
+     "row": 114,
+     "field": 12,
+     "site": 2093228
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  },
+  {
+   "id": "ELF/rodata:00011BF0",
+   "va": 2302192,
+   "source_size": 15,
+   "source_sha256": "981328af4b9cf6ef2574c99c46d4a81df1719fe8c61d88369d7fced2c1fbea68",
+   "source_with_nul_sha256": "3f4e07f2b2262b4fa92011fb607d76f840c3ded121eb3fbf93c0103698ee64b1",
+   "en": "Houka Kyouten - Juuzetsuchin",
+   "omit_en": "Houka Kyouten - Juuzetsuchin",
+   "refs": [
+    {
+     "row": 116,
+     "field": 4,
+     "site": 2093340
+    },
+    {
+     "row": 116,
+     "field": 8,
+     "site": 2093344
+    },
+    {
+     "row": 116,
+     "field": 12,
+     "site": 2093348
+    }
+   ],
+   "review": "Existing complete compiled accuracy/editorial/proof review.",
+   "normalization": null
+  }
+ ]
+}

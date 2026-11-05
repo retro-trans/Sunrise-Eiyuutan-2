@@ -1,0 +1,902 @@
+{
+ "table": "04906_10384",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n\n\n{C:81939B00}{C:81958296541E00000000}It looks like the Astante has arrived.\n\n{C:81930C00}{C:81958296561E00000000}So it seems.\nDoes this mean\nhistory can be changed now?\n\n{C:81939B00}{C:81958296571E00000000}I am merely a witness to history.\nBut... things are about to get interesting.\nHeh heh heh heh... Ha ha ha ha ha ha!\n\n\n\n\n\n{x00}",
+   "source_sha256": "576df67500200316582b7dc61561586d3da5fc85c92a6b82ff198539a809a916",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:8193B200}{C:81958296581E00000000}This is the Titans.\nTo the unidentified ship: this is a warning.\nDo not approach any closer.\n\n{C:81958296591E00000000}If you fail to obey this warning,\nwe will remove you by force.\n\n{C:819582965A1E00000000}I repeat.\nThis is the Titans...\n\n\n\n\n{x00}",
+   "source_sha256": "19f140d5f47a6f59b4187494f57544fb616b5ec0bfe5ab5dbc533e197c0583ff",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81938400}{C:819582965B1E00000000}Unidentified ship, do you read me?\nI am AEUG's {C:819782830400}Quattro Bajeena.{C:819782830000}\nWe welcome your ship into port.\n\n{C:819582965D1E00000000}I repeat.\nWe welcome your ship into port.\n\n\n{x00}",
+   "source_sha256": "11c2d797798ab2deb6a0dcac7b5ac5115bc951bd0262afc4352fb10bdda9272c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81908400}{C:819582965F1E00000000}Welcome to Von Braun.\n\n{C:81900300}{C:81958296601E00000000}Thank you\nfor allowing us to dock.\nI'm Captain Rie Akatsuki.\n\n\n{C:81908400}{C:81958296611E00000000}You're the captain?!\n...No, forgive me.\n\n{C:81958296621E00000000}I am Captain Quattro Bajeena\nof AEUG.\nWe welcome your ship into port.\n\n{C:81958296631E00000000}Please, make yourselves comfortable for now.\nI have some business to attend to,\nso let's talk later.\n\n{C:81900300}{C:81958296641E00000000}Yes.\nThank you very much.\n\n{C:81930100}{C:81958296651E00000000}That Quattro fellow...\nI feel like I've seen him before.\n\n{C:81900400}{C:81958296661E00000000}So, what are we going to do?\nSince we're here, why don't we find out\nwhat's going on in this city?\n\n{C:81930100}{C:81958296671E00000000}Good idea.\nLet's do that.\n\n{C:81900300}{C:81958296681E00000000}Hmph! I'm coming too, you know.\n\n\n\n{x00}",
+   "source_sha256": "23822c67410222435daed9c28278519686e0ff70b151aeb4364ba8e1f357d4b7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81908200}{C:81958296691E00000000}Hey, you lot!\nYou're the crew of that battleship that just docked, right?\n\n{C:819582966A1E00000000}Since you've docked at Von Braun,\nyou're going to help AEUG, of course, right?!\n\n{C:81930100}{C:819582966B1E00000000}No, we're...\n\n{C:81908200}{C:819582966C1E00000000}You're not?! I see!\nYou're going to help the Titans,\njust like Posaydal's army!\n\n{C:81930100}{C:819582966D1E00000000}Help them? We don't even know\nwhat the Titans are.\n\n{C:81908200}{C:819582966E1E00000000}Shut up!\nDon't lie to me!\n\n{C:81900300}{C:819582966F1E00000000}Big brother...\nThis guy seems dangerous.\n\n{C:81958296701E00000000}Aaah!\nHe's coming at us!\n\n{C:81900400}{C:81958296711E00000000}Move!\n\n\n\n{x00}",
+   "source_sha256": "ec44c5955478c060c7a6e421cecb534584a084949ade1746581767b6bcd0d424",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81908200}{C:81958296721E00000000}Gah! You'll pay for this!\n\n\n{C:81900400}{C:81958296731E00000000}What a brute.\n\n{x00}",
+   "source_sha256": "10d1f506d23fb3466f2183536430668b615bdaf01fe29839b30ecd3a9864de3a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81900300}{C:81958296741E00000000}Nelfea, you're amazing!\n\n{C:81900400}{C:81958296751E00000000}D-don't get the wrong idea.\nI was only protecting the captain\nand a certain unreliable person.\n\n{C:81930100}{C:81958296761E00000000}Well, whatever the reason, you saved us.\nThanks, Nelfea.\n\n\n{C:81900400}{C:81958296771E00000000}I-it's fine.\nHe might come back,\nso let's go somewhere else.\n\n{C:81900300}{C:81958296781E00000000}Yeah!\n\n\n\n\n{x00}",
+   "source_sha256": "98ec46ae999f0c56333340df722fb9a1f0459c270a5210312b9174ab684f1c0a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81908400}{C:81958296801E00000000}It seems {C:819782830400}Kamille{C:819782830000} behaved rudely earlier.\nI'm sorry.\n\n{C:81930100}{C:81958296811E00000000}Kamille?\n\n{C:81900300}{C:81958296821E00000000}He must mean that guy from before.\nYou know, the one who tried to punch us.\n\n{C:81930100}{C:81958296831E00000000}Oh.\nIs he someone you know,\nCaptain Quattro?\n\n\n{C:81908400}{C:81958296841E00000000}He's a talented pilot,\nbut rather headstrong.\nEven we have trouble handling him.\n\n{C:81958296851E00000000}I've set him straight.\nIn light of that, would you be willing\nto hear me out?\n\n{C:81900400}{C:81958296861E00000000}With all due respect,\nsomeone who resorts to violence\nagainst people he's just met...\n\n\n{C:81930100}{C:81958296871E00000000}Stop it, Nelfea.\n\n{C:81900400}{C:81958296881E00000000}But...\n\n{C:81930100}{C:81958296891E00000000}Captain Quattro's apologizing, too.\nBesides, we don't know the situation\non this continent, do we?\n\n{C:81900300}{C:819582968A1E00000000}Right, right.\nBig brother's right.\n\n{C:81900400}{C:819582968B1E00000000}Oh, you're just obsessed with your brother.\n\n{C:81900300}{C:819582968C1E00000000}What was that?!\n\n{C:81930100}{C:819582968D1E00000000}Both of you, stop it.\nYou're embarrassing yourselves.\n\n{C:819582968E1E00000000}Sorry, Captain Quattro.\nCould you tell us what you wanted to say?\n\n{C:81908400}{C:819582968F1E00000000}Thank you.\nLet's go somewhere else so we can talk at leisure.\nCome along.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "886d8ba52977d1abd0979832b7732dfc450948948b8f7155f40d12855cb0ec1f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81908400}{C:81958296901E00000000}So the Titans have joined forces with Posaydal's army,\nand we in AEUG\nare being driven into a corner.\n\n{C:81930100}{C:81958296911E00000000}I see.\nSo you need all the fighting strength\nyou can get?\n\n{C:81908400}{C:81958296931E00000000}That is part of it...\nbut I'm concerned about a presence I sense\nbehind this conflict.\n\n{C:81900300}{C:81958296941E00000000}What do you think it is,\nCaptain Quattro?\n\n{C:81908400}{C:81958296951E00000000}...An enemy other than Posaydal\nor the Titans.\n\n{C:81958296961E00000000}I see it as a third force,\nso to speak.\n\n{C:81930100}{C:81958296971E00000000}A third force...?\n\n{C:81908400}{C:81958296981E00000000}I suspect that the enemy we must fight\nis that presence\nbehind the scenes.\n\n{C:81958296991E00000000}It's only a hunch, though.\n\n{C:81930100}{C:819582969A1E00000000}Captain Quattro, have you ever seen\na ship with the same shape\nas ours?\n\n{C:81908400}{C:819582969B1E00000000}A ship of the same type...\nI've heard reports that one landed in another city.\n\n{C:819582969C1E00000000}I understand they're hostile to you.\nAm I wrong?\n\n{C:81900300}{C:819582969D1E00000000}You're quite right.\nWe crossed the Cloud Sea\nin pursuit of that ship.\n\n{C:81908400}{C:819582969E1E00000000}Then I would like your help.\nNo, rather, I'd like you to let us help you.\nWhat do you say?\n\n\n{C:81900400}{C:819582969F1E00000000}What do we do, Rie?\n\n{C:81900300}{C:81958296A21E00000000}Well... Wait,\nwhat?! I have to decide?!\n\n{C:81900400}{C:81958296A31E00000000}Of course. You're the captain.\n\n{C:81900300}{C:81958296A41E00000000}...All right, Captain Quattro.\nWe'll help you.\n\n\n{x00}",
+   "source_sha256": "0f851c96680a01245c7d759df048cff4b5b85c859a013cf4527ccca22c8ea676",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81908400}{C:81958296A51E00000000}Thank you, Rie.\nTo get straight to the point, there's something\nI'd like to provide you with. Please accept it.\n\n{C:81958296A61E00000000}I'll go on ahead and wait for you at the {C:819782830300}airport{C:819782830000}.\nI'll see you\nthere later.\n\n\n{C:81900300}{C:81958296A71E00000000}What do you think he wants to give us?\n\n{C:81930100}{C:81958296A81E00000000}Maybe it's their equivalent\nof a GT or FT.\nWhat do you think, Nelfea?\n\n{C:81900400}{C:81958296A91E00000000}I think it might be a ship\nto replace the Astante.\nThis continent's ships are more convenient.\n\n{C:81930100}{C:81958296AA1E00000000}Whatever it is,\nwe'll find out at the airport.\n\n\n\n\n{x00}",
+   "source_sha256": "146557d356487979f72c65c46abb2feca98dc697d5c43cac100ceb9bcad13973",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81908400}{C:81958296A03600000000}You're here.\nFirst, let me introduce someone.\nThis is Kamille Bidan.\n\n{C:81908200}{C:81958296A13600000000}I'm sorry about earlier.\nI'm Kamille Bidan.\nI'll be traveling with you from now on.\n\n{C:81958296A23600000000}You can just\ncall me Kamille.\n\n{C:81900400}{C:81958296A33600000000}Whaaaaat?!\n\n{C:81908400}{C:81958296A43600000000}Now, don't say that.\nI'll be accompanying you as well.\n\n{C:81900400}{C:81958296A53600000000}Well, that's fine, then...\n\n{C:81908300}{C:81958296A63600000000}Captain Quattro,\nplease introduce me too.\nHow could you forget me?\n\n{C:81908400}{C:81958296A73600000000}Ah, yes. I'm sorry. This is \n{C:819782830400}Fa Yuiry{C:819782830000}.\n\n{C:81908300}{C:81958296A83600000000}I'm Fa Yuiry.\nNice to meet you.\n\n{C:81930100}{C:81958296A93600000000}Oh, nice to meet you too.\n\n{C:81908400}{C:81958296AA3600000000}Now, as for what I wanted to give you, I've arranged for the \n{C:819782830400}Audhumla{C:819782830000} aircraft.\nIt's ready for you.\n\n{C:81958296AB3600000000}The Audhumla\ncan dock anywhere.\nFeel free to use it.\n\n{C:81930100}{C:81958296AC3600000000}Thank you,\nCaptain Quattro!\n\n{C:81908400}{C:81958296AD3600000000}I'm counting on you, too.\n\n\n\n{x00}",
+   "source_sha256": "e747f5830ae0731d725b391223ec7272f42f9a6103c921462866282e10d8dd60",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81908400}{C:81958296AE3600000000}First, you should go to {C:819782830300}Green Noa{C:819782830000}.\nThe Titans' influence there\nis still weak.\n\n\n\n\n{x00}",
+   "source_sha256": "e2fc8533f78c44cdfbe856395f2c17ada1f2f018c12b8960418706bcf7b4e3c2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81938700}{C:81958296261F00000000}This is a Titans garrison.\nCivilians are not allowed inside.\nLeave immediately.\n\n\n\n\n\n{x00}",
+   "source_sha256": "18ee33d8600c7f6c6163add83eac3e4b1f7c94b25bd088bb3938a175bc0a80cc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81938F00}{C:81958296B81E00000000}You! What do you think you're doing\nto a Titans uniform?!\nYou've got the baby's drool all over it!\n\n{C:8193DA02}{C:81958296B91E00000000}Oh, I'm so sorry!\nShe's only a baby.\nShe doesn't understand.\n\n{C:81908200}{C:81958296BA1E00000000}That bastard!\n\n{C:81930100}{C:81958296BB1E00000000}K-Kamille!\nWhat are you going to do?!\n\n\n\n{x00}",
+   "source_sha256": "7ea701f5c0b1711c634144997906f0fa72f7497c88315a259ba3d50bc9333afc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81908200}{C:81958296BC1E00000000}You think being in the Titans\nmakes you that important?!\n\n{C:81908F00}{C:81958296BE1E00000000}You bastard! Kamille!\n\n\n{x00}",
+   "source_sha256": "a06c42fa7b7e7f3d3d450260ec3f0f11ddca8668891f965158e7cfcec0b6d0a0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81938200}{C:81958296BF1E00000000}You, hurry! Run!\n\n{C:8193DA02}{C:81958296C01E00000000}Huh? What?\n\n{C:81938200}{C:81958296C11E00000000}Do you want him to punch you?!\nI said, run!\n\n{C:8193DA02}{C:81958296C21E00000000}R-right!\n\n\n{x00}",
+   "source_sha256": "e25c42f1cf783dc4667e7bd20197afbfb85c8d32a579b47cdc77a72e0372fc25",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:81908200}{C:81958296C31E00000000}We're getting out of here too!\n\n{C:81900300}{C:81958296C41E00000000}What?!\nWhy do we have to run too?\n\n{C:81908200}{C:81958296C51E00000000}AEUG and the Titans\nare enemies!\nDo you want to get arrested?!\n\n{C:81900400}{C:81958296C61E00000000}That was pretty cool, Kamille.\nA little too sudden, though.\n\n{C:81908200}{C:81958296C71E00000000}Thanks.\n\n\n\n\n{x00}",
+   "source_sha256": "8b95a8bafadc65dcbddad3fb648be39b82f144ef53171fb33f568c94dfabfb37",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81930100}{C:81958296C81E00000000}We got away,\nbut I lost everyone.\n\n{C:81958296C91E00000000}Oh, well.\nI've got a car. I'll look around on my own.\n\n\n\n\n{x00}",
+   "source_sha256": "a08ce6a45fce33afaa0ccd1aecb4a295549612708d3e3fdede1b8c5aa34f752c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n\n{C:8190A102}{C:819582964C1F00000000}Excuse me.\nHave you seen a boy around here\nabout my age?\n\n{C:81930100}{C:819582964D1F00000000}A boy about your age?\nHmm... I see boys like that\nall over the place.\n\n{C:8190A102}{C:819582964E1F00000000}Right...\nHe doesn't exactly stand out.\n\n{C:81930100}{C:819582964F1F00000000}Sorry\nI couldn't help.\n\n{C:8190A102}{C:81958296501F00000000}It's fine, it's fine.\nThanks anyway.\n\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "1ec4edf66a8eba492070626649a6b29660455df06cfec027501a3dffd9b93a1e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930100}{C:81958296CA1E00000000}Huh? It stopped.\n\n\n{x00}",
+   "source_sha256": "ea6a9f58c63a01a9d540e83c80da103eb95c6cd6a40c5776589db5c0c9f0e87d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81930100}{C:81958296CB1E00000000}...Ah, it's no good.\nI don't understand machines from other continents.\n\n{x00}",
+   "source_sha256": "4fc93982d5cdd158ecf81717512e7b9954d577f14b194ffdab32655b96eeaeea",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81938A00}{C:81958296CC1E00000000}Has it broken down?\nI'll take a look for you.\n\n\n\n\n{x00}",
+   "source_sha256": "ad290e8dcd5d4f20ce7a2f28f348da8b99f0c75c8377f67553c0a9c8f9bac1f3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81930100}{C:81958296CD1E00000000}...{C:819782830400}Amuro{C:819782830000}?\n\n{C:81938A00}{C:81958296CE1E00000000}Yes, I'm Amuro Ray.\nAnd you are...\nNo, we've never met before, have we?\n\n{C:81930100}{C:81958296CF1E00000000}No.\nIt's strange, when we've only just met.\n\n{C:81938A00}{C:81958296D01E00000000}Yes.\nIt feels as though I've known you for years.\n\n{C:81930100}{C:81958296D11E00000000}I feel the same way, Mr. Amuro.\n\n{C:81938A00}{C:81958296D21E00000000}Just Amuro is fine.\nSomehow that feels more natural.\n\n{C:81930100}{C:81958296D31E00000000}All right.\n\n{C:81938A00}{C:81958296D41E00000000}{C:819782830400}The elecar{C:819782830000} isn't running, right?\nI'll take a look for you.\n\n\n\n{x00}",
+   "source_sha256": "433ccb6817ad292a9b979e213cc9ef2c762a8459e62cc902d828c8f821f1c700",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81908A00}{C:81958296D51E00000000}There, it's fixed.\nThat should do it.\n\n\n{x00}",
+   "source_sha256": "9ecd7d76cbfc0d9045054046d6a71f019c77beae27a789a1156f6f25092775bd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81930100}{C:81958296D61E00000000}Thank you very much.\n\n{C:81908A00}{C:81958296D71E00000000}Well, take care.\n\n\n\n{x00}",
+   "source_sha256": "a2c141568aa84a2ca430a1ad708579fc28aac1e136fe3364f6d6b4e7f1ffcb6f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81900400}{C:81958296E11E00000000}Oh, you're back!\n\n{C:81900300}{C:81958296E21E00000000}Where have you been wandering off to?!\nWe had a terrible time\nin a city we don't even know!\n\n{C:81930100}{C:81958296E31E00000000}Sorry, sorry.\nI was running so desperately\nthat I ended up back at the airport.\n\n{C:81958296E41E00000000}I couldn't help it,\nso I went around on my own.\n\n\n{C:81900300}{C:81958296E51E00000000}No fair!\n\n{C:81900400}{C:81958296E61E00000000}No fair!\n\n{C:81930100}{C:81958296E71E00000000}I'll be more careful next time.\nPlease forgive me.\n\n{C:81900400}{C:81958296E81E00000000}Very well.\nIn that case, I shall forgive you.\n\n{C:81900300}{C:81958296E91E00000000}Oh, all right.\nI forgive you.\n\n\n\n{x00}",
+   "source_sha256": "7b5cbce6ab235d4d2c026047af8ecffe68c516fd3eeb12f6b38c51eb984b4517",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81939500}{C:81958296EA1E00000000}What's this rough, grating sensation?\nIs there an enemy with a presence like this...?\nIt's disgusting!\n\n\n{x00}",
+   "source_sha256": "fe3dbb9902e218b099e51ffcb8d19df7a21f5c13c70dff9e3671f75af315e7f7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81908200}{C:81958296EB1E00000000}You're going into Hong Kong, right?\nI'll give you a ride in the elecar.\n\n{C:81930100}{C:81958296EC1E00000000}Thanks. That'd be a big help.\n\n{C:81900300}{C:81958296ED1E00000000}What about us?\n\n{C:81900400}{C:81958296EE1E00000000}We can come along too, of course, right?\n\n{C:81908200}{C:81958296EF1E00000000}You're going to stick together anyway, aren't you?\nI don't mind.\nThen let's go to {C:819782830300}Main Street{C:819782830000}.\n\n\n\n\n{x00}",
+   "source_sha256": "e456feb1818672f5ead42f7a8f7592121c049d7de85f4188fe9761d26e894a88",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:81908200}{C:81958296F01E00000000}Is somewhere around here all right?\n\n{C:81900300}{C:81958296F11E00000000}Thanks, Kamille.\nSee you later.\n\n\n{x00}",
+   "source_sha256": "34fbf3ed5b5288d0a261890cac870aa668ad4b43e8e10331414ab73bef1bd31c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:81930100}{C:81958296F21E00000000}Right, let's go.\n\n{C:81958296F31E00000000}...Huh? A girl's walking over\nto Kamille's elecar.\n\n\n{C:81909500}{C:81958296F41E00000000}Hey, could you give me a ride to the airport?\n\n{C:81938200}{C:81958296F51E00000000}Sure, no problem.\n\n{C:81909500}{C:81958296F61E00000000}That helps. Thanks.\n\n\n{x00}",
+   "source_sha256": "5a3bc6a77aae4fa80039dfe06ce708d19c4957148bd4de5e59d5cbe021da6416",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81900400}{C:81958296F71E00000000}Oh, they've gone.\nI wonder if they know each other.\n\n{C:81930100}{C:81958296F81E00000000}Well, never mind.\nLet's get going too.\n\n\n\n\n{x00}",
+   "source_sha256": "f069e7924dbbc1b6e5ce6d4f3b9821765c1f4716775bd935cb959916efbf513c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:81909500}{C:81958296F91E00000000}Thanks.\nHey, can you tell me your name?\n\n{C:81908200}{C:81958296FA1E00000000}I'm Kamille.\nNice to meet you.\n\n{C:81909500}{C:81958296FB1E00000000}Kamille, huh?\nThat's a gentle name.\n\n{C:81908200}......\n\n{C:81909500}{C:81958296FC1E00000000}Ha ha ha ha ha!\nYou don't like your name, do you?\n\n{C:81908200}{C:81958296FD1E00000000}How can you tell?\n\n{C:81909500}{C:81958296FE1E00000000}It's written all over your face.\n\n{C:81908200}{C:81958296FF1E00000000}We'll see each other again, won't we?\n\n{C:81909500}{C:81958296001F00000000}Again... I'd like that.\nBye.\n\n\n\n{x00}",
+   "source_sha256": "34a3aedff74e36140ae635f2fbb905248a13bc7ef6989885a4da113e93a79aa4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:81908200}{C:81958296271F00000000}...So it seems AEUG\nis short on fighting strength, Captain.\n\n{C:81908400}{C:81958296281F00000000}I see...\nIf only we had Amuro Ray.\n\n{C:81930100}{C:81958296291F00000000}(Did Captain Quattro\njust say Amuro?)\n\n{C:819582962A1F00000000}Sorry to interrupt, Captain Quattro.\nDid you just mention Amuro?\n\n{C:81908400}{C:819582962B1F00000000}Oh, it's you.\nYes, I did.\nDoes that mean something to you?\n\n{C:81930100}{C:819582962C1F00000000}Yes, if the person I met\nwasn't lying to me.\nIt's just...\n\n{C:81908400}{C:819582962D1F00000000}Just what?\n\n{C:81930100}{C:819582962E1F00000000}He didn't seem\nlike someone who fights.\n\n{C:81908400}{C:819582962F1F00000000}He didn't seem\nlike a fighter...?\nI see... Perhaps you're right.\n\n{C:81908200}{C:81958296301F00000000}Captain Quattro, why don't you\nat least try meeting him?\n\n{C:81958296311F00000000}I'm interested in meeting\nthe hero of the One Year War myself.\n\n{C:81908400}{C:81958296321F00000000}You're right.\nSorry to ask, but could you go to {C:819782830300}Green Noa{C:819782830000}\nfor me?\n\n{C:81900300}{C:81958296331F00000000}All right.\nYou want us to head\nto Green Noa, then.\n\n\n\n{x00}",
+   "source_sha256": "46b5adb96de974db32e3f3c3f087bd459e2da11a291f121a991474d9c87e4971",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81908400}{C:81958296341F00000000}It would be better not to visit Amuro\nwith a large group.\nCould I ask you to go?\n\n{C:81930100}{C:81958296351F00000000}I don't mind,\nbut I'm not confident\nI can persuade him.\n\n{C:81900300}{C:81958296361F00000000}Would it be better\nif we didn't go either?\n\n{C:81908400}{C:81958296371F00000000}Yes.\nI think one person would be best.\n\n{C:81900300}{C:81958296381F00000000}You heard him.\nThat means you can't go either,\nNelfea!\n\n{C:81900400}{C:819582963B1F00000000}(She beat me to it...)\n\n{C:81930100}{C:819582963C1F00000000}Well, I'll be off.\n\n\n\n\n\n{x00}",
+   "source_sha256": "c8f61de2135b33e0712bf8b7352137c8b449e99d1f30c01971e8b2c511fe0e88",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81938800}{C:81958296B03600000000}Why, Amuro?!\n\n{C:81930100}{C:81958296B13600000000}Huh?\nAmuro has a visitor.\nI'll wait a bit.\n\n{C:81908800}{C:81958296B33600000000}I'm asking you\nwhy you won't fight!\n\n{C:81908A00}{C:81958296B43600000000}...I fought enough in the One Year War.\n\n{C:81908800}{C:81958296B63600000000}Don't say that!\nTell me you've got even a single MS\nhidden underground!\n\n{C:81908A00}{C:81958296B73600000000}{C:819782830400}Katz{C:819782830000}...\n\n{C:81908800}{C:81958296B83600000000}Amuro, to think you'd act like this...!!\n\n{C:81908A00}{C:81958296BA3600000000}Katz!\nHe's gone...\n\n{C:81930100}{C:81958296BB3600000000}Um... Amuro?\n\n{C:81908A00}{C:81958296BD3600000000}Oh, it's you.\nWhat brings you here today?\n\n{C:81930100}{C:81958296BE3600000000}Actually, I've come to ask you a favor.\nI'm from another continent\ncalled Claudia.\n\n\n{C:81908A00}{C:81958296BF3600000000}Hm?\n\n{C:81930100}{C:81958296C03600000000}I'm helping AEUG now,\nfighting the Titans.\n\n\n{C:81908A00}{C:81958296C13600000000}You are?!\n...So,\nwhat do you want me to do?\n\n{C:81930100}{C:81958296C33600000000}I heard you're a hero\nof the One Year War seven years ago.\nI'd really like your help.\n\n{C:81958296C43600000000}Please.\nWould you help us?\n\n{C:81908A00}{C:81958296C63600000000}You heard what I said earlier, didn't you?\nI think I fought enough\nin the One Year War.\n\n{C:81930100}{C:81958296471F00000000}I see.\n...That's a shame.\n\n{C:81958296C83600000000}Well, I'll come again.\nJust to visit next time.\n\n{C:81908A00}{C:81958296C93600000000}Thank you for understanding.\nYou're always welcome.\n\n{C:81930100}{C:81958296CA3600000000}Thank you.\n\n\n\n\n{x00}",
+   "source_sha256": "0876363e166cb2b6e030ed97d9afe95a5a41e249e8177cef155a5f09fb7d263b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81900100}{C:81958296C33600000000}I heard you're a hero\nof the One Year War seven years ago.\nI'd really like your help.\n\n{C:81958296C43600000000}Please.\nWould you help us?\n\n{x00}",
+   "source_sha256": "649798f0bd14a38238a77cb978be54442d5c48716f7479db320ce7fa150cf1bc",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81908A00}{C:81958296571F00000000}He had such honest eyes...\n\n{C:81958296581F00000000}Maybe I'll give it another try...\n\n\n\n{x00}",
+   "source_sha256": "061988136520e0c488ceb8ab32e907eb84872cde7fd9b91100e192ab2bf97ca7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81930100}{C:81958296591F00000000}Sigh... Amuro...\nI couldn't bring him along...\n\n{C:81905700}{C:819582965A1F00000000}You're late!\n\n{C:81930100}{C:819582965B1F00000000}Whoa!\nW-what?!\n\n{C:81905700}{C:819582965C1F00000000}Get moving!\nDawdling on the battlefield is dangerous!\n\n{C:81930100}{C:819582965D1F00000000}Y-yes!\nWait, who are you?\n\n{C:81905700}{C:819582965E1F00000000}I'm {C:819782830400}Gaw Ha Leccee.{C:819782830000}\nI've just joined the group.\nNice to meet you!\n\n{C:81900300}{C:819582965F1F00000000}Oh, welcome back, big brother.\nThis is Leccee. She's just joined us.\n\n{C:81958296601F00000000}And this is my older brother.\n\n{C:81930100}{C:81958296611F00000000}Nice to meet you.\nI'm looking forward to working with you.\n\n\n\n\n{x00}",
+   "source_sha256": "1101bbd275d33c5d9ceb0e752a82e742244d7a186af836c27970627233b4ad0c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81900300}{C:81958296631F00000000}Captain Quattro spoke to us.\nWe're transferring back to the Astante,\nso get ready too, big brother.\n\n{C:81930100}{C:81958296641F00000000}That's sudden again.\nDid something happen?\n\n{C:81900400}{C:81958296661F00000000}Apparently, the Titans\nhave stepped up their activity.\n\n{C:81958296681F00000000}So AEUG seems\nto need more fighting strength.\n\n{C:81905700}{C:81958296691F00000000}That's how it is,\nso hurry up and get ready!\nUnderstood?!\n\n{C:81930100}{C:819582966A1F00000000}Y-yes, I understand.\n\n{C:819582966B1F00000000}(Leccee sure is\nan energetic person.)\n\n\n\n\n\n{x00}",
+   "source_sha256": "3b3a70b60632972bed9fe2b238b9d14314fec9d8a12794bcc918190f1f41699b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81938A00}{C:81958296CB3600000000}Hey!\n\n{C:81930100}{C:81958296CD3600000000}Amuro, you came?!\n\n{C:81908A00}{C:81958296CE3600000000}...I...\n\n{C:81930100}{C:81958296CF3600000000}You don't need to say anything.\nI'm just glad\nyou came!\n\n{C:81938A00}{C:81958296D03600000000}Thank you.\nI'm counting on you from now on.\n\n\n{x00}",
+   "source_sha256": "65ddbebd6ef2a2e8891280e258fbb780bf07c56f8969e2a1eba9de1dcc0834a0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81930100}{C:81958296D13600000000}Yes!\n\n\n{x00}",
+   "source_sha256": "4b6db1ae71defd6c749356c2ffbe016f5456ff65f788615e3f25d9a3cc9abe59",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81908800}{C:81958296D23600000000}Amuro, you're here?!\n\n{C:81908A00}{C:81958296D53600000000}Katz...\n\n{C:81908800}{C:81958296D63600000000}I wasn't sure what to do either.\nBut if you're going, Amuro,\nI'm coming with you.\n\n{C:81908A00}{C:81958296D93600000000}{C:819782830400}Fraw{C:819782830000} will object.\nWhat mother wants to send her child into battle?\n\n{C:81908800}{C:81958296DB3600000000}I persuaded my mother.\n\n{C:81908A00}{C:81958296DD3600000000}In that case, I won't say anything.\n\n{C:81958296DF3600000000}Then please take Katz along too.\nIs that all right?\n\n{C:81930100}{C:81958296E03600000000}All right.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "643db847d50b4595861129d4a23257a594e4cb793202333ae16e1f71e0f5cf9d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81938400}{C:81958296731F00000000}...That's the situation.\nThe greatest threat to us\nis Hong Kong City's {C:819782830400}Psyco Gundam{C:819782830000}.\n\n{C:81958296741F00000000}Unless we do something about it,\nour operations will...\n\n\n{x00}",
+   "source_sha256": "361c9f05d73da5b0092f4c6f43fd714f56d7f1606750274720d0beefef533a56",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81930400}{C:81958296761F00000000}Captain Quattro, a woman calling herself \n{C:819782830400}Emma Sheen{C:819782830000}\nis on the line.\n\n{C:81938400}{C:81958296771F00000000}Lieutenant Emma?\nPut her through.\n\n{C:81938700}{C:81958296781F00000000}I have a report.\n\n{C:81958296791F00000000}A machine from another continent has flown over \n{C:819782830300}Kilimanjaro{C:819782830000}.\nIt's in the air above it.\n\n{C:81938400}{C:819582967A1F00000000}Can you identify the type, Lieutenant Emma?\n\n{C:81938700}{C:819582967B1F00000000}Apparently, it's called a {C:819782830400}Brain{C:819782830000}.\nIt seems to be connected to a man and a woman\ncaptured by the Titans.\n\n{C:819582967D1F00000000}If possible, please rescue them\nfrom the Titans.\n\n{C:81938400}{C:819582967E1F00000000}Understood.\nWe'll watch for the right opportunity\nto head to Kilimanjaro.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "976df9e555cc078554cf805ab79ce315c77f2be6da29a6f837de378b7e76ab52",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81938F00}{C:81958296881F00000000}Kamille!\nI won't let you get away!\n\n\n\n{x00}",
+   "source_sha256": "fe0d38055d8175c2396d193103916bb1f7dfcc08c8ba0ca2156c4ec5119e221c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81908700}{C:81958296891F00000000}Thank you for your efforts, Captain Quattro.\n\n{C:81908400}{C:819582968A1F00000000}It wasn't my doing, Lieutenant Emma.\nIt's all thanks to them.\n\n{C:81930100}{C:819582968C1F00000000}That's not true.\nWe couldn't have done anything\nwith just our own strength.\n\n{C:81908700}{C:819582968D1F00000000}You're being modest.\nI like that.\n\n{C:81908200}{C:81958296901F00000000}Someone's calling me... I'll step out for a bit!\n\n\n\n\n{x00}",
+   "source_sha256": "550fd2e75ba8621adba5d18cb7cb2f584592f55237115adfebb0fe8cb421f71a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:81900400}{C:81958296911F00000000}Kamille?!\nOh, he's gone...\n\n{C:81908A00}{C:81958296921F00000000}Is something drawing him in...? That's dangerous.\n\n{C:81908400}{C:81958296931F00000000}It should be all right for now.\nLet's investigate inside.\n\n\n\n{x00}",
+   "source_sha256": "7ab355c454c0670d9e7fecb6966d74b17b70e115e14926514c32e80a03db34bd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81900300}{C:81958296941F00000000}Oh, big brother.\nWe can't leave yet.\n\n{C:81958296951F00000000}We're in the middle of moving\nKilimanjaro's supplies,\nso wait until we're done.\n\n\n{x00}",
+   "source_sha256": "38ed6cf9166a5deccb3c0b4bfe929a75a9153292b6a3d0bb682195e0366a6ceb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:8190A102}{C:81958296991F00000000}I'm looking for {C:819782830400}You{C:819782830000},\nso I'll see you later.\n\n\n\n{x00}",
+   "source_sha256": "f6877bab7e22935cf0ee4e30754c48d474278bc72facfdf132e7e27c3dcf518b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:8190A002}{C:819582969A1F00000000}{C:819782830400}Hime{C:819782830000}...No, wait.\nHave you seen a girl\nabout my age?\n\n{C:81930100}{C:819582969C1F00000000}I think she was over toward the {C:819782830300}Titans fortress{C:819782830000},\nif I remember right.\n\n{C:8190A002}{C:819582969D1F00000000}I see. Thanks for your help.\n\n\n{x00}",
+   "source_sha256": "5751bcddf6fc7d3b78a1b1e33ad1858e4c5ca3d9b7251e02306a9aca3d891167",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:81930100}{C:819582969E1F00000000}Lun...\nAre you still aboard the Norstan?\n\n{C:819582969F1F00000000}Battleships and fighting\nare the last things you're suited to...\n\n\n\n{x00}",
+   "source_sha256": "f2e8de5886d2fde7a554ffc7c53308a86d6360506e626c6dc13f7476d16d4745",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:81930200}{C:81958296A11F00000000}Being out in nature really is better\nthan being in the city.\n\n{C:81930100}{C:81958296A21F00000000}Sorry, Lun.\n\n{C:81930200}{C:81958296A31F00000000}What is it?\n\n{C:81930100}{C:81958296A41F00000000}I've been so busy training\nthat I haven't been able to bring you here.\n\n{C:81930200}{C:81958296A51F00000000}Don't worry. Even though you're busy,\nyou still brought me, didn't you?\n\n{C:81930100}{C:81958296A71F00000000}Well, I promised...\n\n{C:81930200}{C:81958296AA1F00000000}Ah, this feels wonderful.\nBring me here again, okay?\n\n\n{x00}",
+   "source_sha256": "0b1c4170566deaca0838f8fc512f1008f4ac942bee906f9feaa55fba076a5c50",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:81930100}{C:81958296AB1F00000000}Of course, Lun...\nOf course I will.\n\n{C:81958296AC1F00000000}To keep my promise,\nI've got to hurry after the Norstan.\n\n\n\n{x00}",
+   "source_sha256": "304208e95ed39178fe926c0aa4cb3c192b13d819fca3c4c572589ef027910dfd",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:8190A002}{C:81958296AD1F00000000}Hi.\n\n{C:8190A102}{C:81958296AE1F00000000}Hello!\n\n{C:81930100}{C:81958296AF1F00000000}You finally found each other.\n\n{C:8190A002}{C:81958296B01F00000000}Yeah.\nI was looking for Hime,\nbut she kept running around...\n\n{C:8190A102}{C:81958296B11F00000000}That's not right.\nYou were the one wandering around, You.\n\n{C:81958296B21F00000000}Do you have any idea\nhow much trouble I went to?\n\n{C:81958296B31F00000000}And what were you thinking,\ntaking my Brain\nalong with you too?!\n\n{C:8190A002}{C:81958296B41F00000000}What a noisy chatterbox you are.\n\n\n{x00}",
+   "source_sha256": "69a795f97e97e62e9eb55e2cd2980f9608039f7d862a36bfb9efefcb72c9eb61",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:8193A102}{C:81958296B51F00000000}Mmmph!\n\n{C:81930100}{C:81958296B61F00000000}Whoa!\n\n\n{x00}",
+   "source_sha256": "a3d1fda2c1aee8d9e69de39524fed279186b6af313f3f88471dc73c4f9dc719f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 55,
+   "en": "\n{C:8190A102}{C:81958296B71F00000000}Phew!\nWh-what are you doing?!\n\n{C:8190A002}{C:81958296B81F00000000}Hime's too noisy.\nNow we can talk.\n\n{C:81958296B91F00000000}I'm You Isami.\nSince I've been caught up in this mess,\nI'll help you, along with the Brain.\n\n{C:8190A102}{C:81958296BA1F00000000}Honestly, you're always doing as you please.\nFine. It's not like we have any other choice.\nI'm Hime. Hime Utsumiya.\n\n{C:81958296BB1F00000000}The Titans and\nthis Posaydal\nare the bad guys, so I'll help you.\n\n\n\n{x00}",
+   "source_sha256": "b8153962c2ef96cc3e57dc59fb366fcd85479379e54a977a2892edf885efbc3d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 56,
+   "en": "\n{C:8190A002}{C:81958296BC1F00000000}Well, I've got to go\ncheck how the Brain's feeling,\nso see you.\n\n{C:81930100}{C:81958296BD1F00000000}Oh, right.\n\n\n{x00}",
+   "source_sha256": "3133a6a8d977db34c814560c982ccb66a5fcbab4a5f858c5123bd782d2b183cf",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 57,
+   "en": "\n{C:81908400}{C:81958296BE1F00000000}You're back at just the right time.\nNow that Rie's given her consent, \n{C:819782830300}Hong Kong City{C:819782830000} is where I intend to head.\n\n{C:81930100}{C:81958296BF1F00000000}Are we going to fight the Psyco Gundam?\n\n{C:81908A00}{C:81958296C01F00000000}Yes.\nKamille isn't here,\nbut we intend to do it without him.\n\n{C:81930100}{C:81958296C11F00000000}All right.\nI'll get ready too.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "6b53987f0b36540f7e0b52be51a26c5411010056a4188a592bccffc9525fb1ed",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 58,
+   "en": "\n{C:81908200}{C:81958296C21F00000000}{C:819782830400}Four{C:819782830000}!\n\n{C:81909500}{C:81958296C31F00000000}Kamille?!\nWhy are you here?\n\n{C:81908200}{C:81958296C41F00000000}I thought I might get to see you again.\n\n{C:81909500}{C:81958296C51F00000000}Hee hee hee...\n\n{C:81908200}{C:81958296C61F00000000}What is it?\n\n{C:81909500}{C:81958296C71F00000000}Even though we seem to be enemies.\n\n{C:81908200}{C:81958296C81F00000000}That's just what the adults want, isn't it?\n\n{C:81909500}{C:81958296C91F00000000}Yes.\nHey, could you do something for me?\n\n{C:81908200}{C:81958296CA1F00000000}What?\n\n{C:81909500}{C:81958296CB1F00000000}Kiss me...\n\n{C:81908200}{C:81958296CC1F00000000}Okay.\n\n\n\n{x00}",
+   "source_sha256": "94abcfc5f8b07e11757bff16bc6c7ba3e4f08e5b3e4f2e017cd92e19614119ef",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 59,
+   "en": "\n{C:81939500}{C:81958296CD1F00000000}You're so kind.\n\n\n\n{x00}",
+   "source_sha256": "0bd72987045d423f790c999c43e45f59af75fa84fa3167112ce062c5fd759219",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 60,
+   "en": "\n{C:81909500}{C:81958296CE1F00000000}...I've got to go.\n\n{C:81908200}{C:81958296CF1F00000000}Four?\n\n\n{x00}",
+   "source_sha256": "b9909070badb63f423fd40d1f442a1b0e5f39b359f1de047ef5dbc47d670baf0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 61,
+   "en": "\n{C:81908200}{C:81958296D01F00000000}Fouuur!\n\n\n\n\n\n{x00}",
+   "source_sha256": "1654ef2e293bde7e5cca9c931b120bc3a7724d0fb69369487ca2b96d3a547cf0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 62,
+   "en": "\n{C:81939500}{C:81958296D11F00000000}Were you made\nto torment me? I hate you!\n\n\n\n\n{x00}",
+   "source_sha256": "6289e185fc939cdd45d326e7aabcdba15bc5f7a0ac2393adb031b17e11523790",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 63,
+   "en": "\n{C:81938200}{C:81958296D21F00000000}Four, can you hear me?\n\n{C:81939500}{C:81958296D31F00000000}If you're going to come out here,\nyou could at least take me down right away!\n\n{C:81938200}{C:81958296D51F00000000}I'm coming over there now.\nOpen the hatch!\n\n{C:81939500}{C:81958296D61F00000000}Stop, Kamille!\n\n\n\n{x00}",
+   "source_sha256": "5915f23655379e596be6ae78d088a432a18a9207d110273ef9f115a107550495",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 64,
+   "en": "\n{C:81938200}{C:81958296D71F00000000}There's something I want to tell you.\nYou asked me before\nif I hated my name, remember?\n\n{C:81939500}{C:81958296D81F00000000}Yes...\n\n{C:81938200}{C:81958296D91F00000000}Kamille is a girl's name.\nI hated it.\n\n{C:81958296DA1F00000000}So I did all sorts of things\nto prove I was a man.\n\n{C:81939500}{C:81958296DB1F00000000}Kamille...\n\n{C:81938200}{C:81958296DC1F00000000}What am I talking about?\nWhy am I saying all this...?\n\n{C:81939500}{C:81958296DD1F00000000}Kamille, Kamille...\nCan I ask you just once more?\nDo you still hate the name Kamille?\n\n{C:81938200}{C:81958296DE1F00000000}I like it. It's my own name, after all.\n\n{C:81939500}{C:81958296DF1F00000000}I see...\n\n{C:81938200}{C:81958296E01F00000000}Four... Why do you have a gun?\n\n{C:81939500}{C:81958296E11F00000000}Let's each go back where we belong.\nThis isn't the place for you.\nGet out! That's enough!\n\n\n{x00}",
+   "source_sha256": "79b5ddaf0dcae7ecefdd252af002cc649600818756586ccf76f8b30bb3d9cb9c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 65,
+   "en": "\n{C:81939500}{C:81958296E21F00000000}Kamille... Kamille...\nDoes this mean I won't have to forget?\n\n\n{x00}",
+   "source_sha256": "ae171076c72e6179261c0b628de16cfb6d6c6de597cbd9d967e0138f94b949a0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 66,
+   "en": "\n{C:81938A00}{C:81958296E41F00000000}Did you two hear that?\nShe's saying she'll open the Cloud Sea,\nso get off this continent.\n\n{C:81938200}{C:81958296E51F00000000}Four is?! But...\n\n\n{x00}",
+   "source_sha256": "a6d7cc3b2249196e0a66622309e115d2975ae35e929b3d42690e319fc8212141",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 67,
+   "en": "\n{C:81938A00}{C:81958296E61F00000000}If you throw away someone's kindness,\nyou'll suffer for the rest of your life!\nGo, everyone!\n\n\n{x00}",
+   "source_sha256": "f7f1fee95b9f94606ca6cda7568119572a44111a804e430999f39c2d634808e4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 68,
+   "en": "\n{C:81938200}{C:81958296E71F00000000}Four...\nWas this really the right thing...? Fouuur!\n\n\n\n\n{x00}",
+   "source_sha256": "7eb3199a6e882531c33696ad140b0583b25a5b39210625ccf4124e5b6e814a2c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all69independent388unique verdicts/omissions/uncertainties,4shared uncertainties,11author qualification assessments,all11actual387author groups and8fullsource/current/proposed frames with all7field updates/reasons/qualifications. Then separately read all69complete English frames in continuous source order; no further edits. Apply8source-reviewed repairs at0/8/9/10/20/21/34/45,retain other61initial fullrecords. Preserve366literal segments/327bodies326voices563calls and allcontrols/LFs/rawheaders. Shared177glossary audit follows both69+15meaning/editorial edits, then separate complete CURRENT MAIN proofreading. Source63 me-patient is a qualified locally salient self-side/opponent inference, not grammar-proven; unintroduced third-party target remains possible, no killing/vehicle/plot/trigger assertion. All tests deferred until entire translation pipeline complete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

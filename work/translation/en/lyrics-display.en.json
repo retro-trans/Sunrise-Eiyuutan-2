@@ -1,0 +1,455 @@
+{
+ "version": "0.2.23",
+ "based_on": "0.2.22",
+ "display_languages": [
+  "romaji",
+  "English"
+ ],
+ "japanese_lyric_tier": false,
+ "wording_and_timing_unchanged": true,
+ "language_sha256": "ed1b1e0b975a51838a62e999478372f1e3886bf44dc8bd57b3bd28ad68e0f959",
+ "opening": [
+  {
+   "id": "OP488-001",
+   "start": 0,
+   "end": 0.74,
+   "en": "Fighter!",
+   "romaji": "FIGHTER!",
+   "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+  },
+  {
+   "id": "OP488-002",
+   "start": 3.5,
+   "end": 5.16,
+   "en": "Fighter!",
+   "romaji": "FIGHTER!",
+   "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+  },
+  {
+   "id": "OP488-003",
+   "start": 8.82,
+   "end": 12.84,
+   "en": "Tearing through the silence\u2014",
+   "romaji": "Shizukesa o hikisaite",
+   "jp_sha256": "eecd6b0fdfa541c5c5bf4bbef8809e8e634ebf1a0f7b2778383b5b91235a922c"
+  },
+  {
+   "id": "OP488-004",
+   "start": 12.9,
+   "end": 15.84,
+   "en": "The killer, hungry for blood!",
+   "romaji": "Chi ni ueta The Killer!!",
+   "jp_sha256": "31f6894db14f1e160124e7c651267cea2500b6ae08d5b8022e589c250ef90139"
+  },
+  {
+   "id": "OP488-005",
+   "start": 15.84,
+   "end": 20.42,
+   "en": "Dangerous war!",
+   "romaji": "Dangerous war!!",
+   "jp_sha256": "4519b354e4ff1d51b33e896a2562b7c0d1aa268584b7fdcf169c30e4f45ad984"
+  },
+  {
+   "id": "OP488-006",
+   "start": 21.84,
+   "end": 25.8,
+   "en": "Stir your soul\u2014",
+   "romaji": "Tamashii o yusabutte",
+   "jp_sha256": "44a632428ef71b80d1e04d314f69789e949a90cdcb5c5431765bd8aca8d66218"
+  },
+  {
+   "id": "OP488-007",
+   "start": 25.98,
+   "end": 28.06,
+   "en": "Stand and fight!",
+   "romaji": "Tachimukae",
+   "jp_sha256": "b3c658e1d236a0d54dba0804281f8a40e509c2ca59a93d04b79056c0e2d27b64"
+  },
+  {
+   "id": "OP488-008",
+   "start": 28.06,
+   "end": 28.94,
+   "en": "Oh, get it!",
+   "romaji": "OH Get it!",
+   "jp_sha256": "fc10819e47e3c3b9ba028582a2fa96267338e90d732f1ee16e0f07038ea414f3"
+  },
+  {
+   "id": "OP488-009",
+   "start": 28.94,
+   "end": 32.82,
+   "en": "Power war!",
+   "romaji": "Power war!!",
+   "jp_sha256": "a785226332dfdbbff8db62bc5e0b8ba288154a75771bbb11e724af546e3219df"
+  },
+  {
+   "id": "OP488-010",
+   "start": 33.88,
+   "end": 37.32,
+   "en": "(Final war)",
+   "romaji": "(Final war)",
+   "jp_sha256": "7b3ac5b5f9e4c1ab7ee270e1ddca8abcaaf16ac900e3bfdc230e85e402940634"
+  },
+  {
+   "id": "OP488-011",
+   "start": 38.12,
+   "end": 42.02,
+   "en": "Break through the darkness!",
+   "romaji": "Yami o tsukinukete yuke",
+   "jp_sha256": "91b1dd61bc7a4b610e1395c08955cfb530341191f687b3d5821dca60e4b055d0"
+  },
+  {
+   "id": "OP488-012",
+   "start": 42.72,
+   "end": 46.32,
+   "en": "If there is love there,",
+   "romaji": "Soko ni ai ga aru nara",
+   "jp_sha256": "1bcb717a1c2728c987880fbb730d189f90345a4fb0da028e8c7f4110a13931fe"
+  },
+  {
+   "id": "OP488-013",
+   "start": 47.34,
+   "end": 51.62,
+   "en": "there's nothing to fear.",
+   "romaji": "Nani mo osoreru mono nado nai sa",
+   "jp_sha256": "eb7d45a2f9f4abac0c1b0fb744f363288e51235fde1ca725f0bc9ff4fb7b9c6b"
+  },
+  {
+   "id": "OP488-014",
+   "start": 51.62,
+   "end": 54.66,
+   "en": "Go on without hesitation!",
+   "romaji": "Mayowazu ni susume!",
+   "jp_sha256": "a77fe23eaedb59e67e7b470af94faa3a37b06fb56387d53cc5fbf3b92d28421c"
+  },
+  {
+   "id": "OP488-015",
+   "start": 58.16,
+   "end": 60.28,
+   "en": "Going in my way",
+   "romaji": "Going in my way",
+   "jp_sha256": "80ed20da6804ffc127541fe4f30b0fb10258b2be72fdc1476ceefbaf14eb75a4"
+  },
+  {
+   "id": "OP488-016",
+   "start": 60.28,
+   "end": 62.28,
+   "en": "Toward the one",
+   "romaji": "Kakegae no nai",
+   "jp_sha256": "1be45f425ff8f616210a8941db9af96cb52f82a7db266d73f106a41f111c198c"
+  },
+  {
+   "id": "OP488-017",
+   "start": 62.82,
+   "end": 66.24,
+   "en": "I love, whom no one can replace.",
+   "romaji": "Itoshii hito ni mukatte",
+   "jp_sha256": "71c70f851be1ae2f99da565db4cb5f879c5bc9e0f8287bb7f9fc257b4ce6ad8a"
+  },
+  {
+   "id": "OP488-018",
+   "start": 66.94,
+   "end": 70.18,
+   "en": "Take it to your heart",
+   "romaji": "Take it to your heart",
+   "jp_sha256": "c327cd7335ddf98ea5e724ee36a304356c0d240dee3f18c292e955f254e46b29"
+  },
+  {
+   "id": "OP488-019",
+   "start": 70.48,
+   "end": 75.24,
+   "en": "Hold the light close.",
+   "romaji": "Hikari o dakishime",
+   "jp_sha256": "cf08847e7a1c5c415518fdfa7fdf06bbc48d2e851b6b6c538fd25ddf6346af22"
+  },
+  {
+   "id": "OP488-020",
+   "start": 76.03,
+   "end": 78.8,
+   "en": "Fighter!",
+   "romaji": "FIGHTER!",
+   "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+  },
+  {
+   "id": "OP488-021",
+   "start": 78.8,
+   "end": 81.42,
+   "en": "Fighter!",
+   "romaji": "FIGHTER!",
+   "jp_sha256": "1a0af5603e5d910e282cf0fadd5f56c23410bf36719a49b6db90044c061db2ef"
+  }
+ ],
+ "ending": [
+  {
+   "id": "ED0-001",
+   "start": 0.0,
+   "end": 3.74,
+   "en": "There may still be time, right now.",
+   "romaji": "Mada maniau kamo shirenai, ima nara",
+   "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+  },
+  {
+   "id": "ED0-002",
+   "start": 3.74,
+   "end": 9.84,
+   "en": "Before time tears us apart,",
+   "romaji": "Toki ga futari o hikisaku mae ni",
+   "jp_sha256": "253020252ee6861c1b1918e15b98fc0bede0c58a141c11ece07d556d59af6b77"
+  },
+  {
+   "id": "ED0-003",
+   "start": 9.84,
+   "end": 14.02,
+   "en": "drawing the thread of fate closer,",
+   "romaji": "Unmei no ito o hikiyosete",
+   "jp_sha256": "e280ea320b7b9de70d85ea9cea55e91c9a7634c99caa6e4d830d690474936e27"
+  },
+  {
+   "id": "ED0-004",
+   "start": 14.02,
+   "end": 17.94,
+   "en": "I want to reach you\u2026",
+   "romaji": "Anata ni tadoritsukitai\u2026",
+   "jp_sha256": "1eda19e86652797de17545653d766e5cb0976c7bd858f0bca99d49e7b6b5e6c4"
+  },
+  {
+   "id": "ED0-005",
+   "start": 30.0,
+   "end": 38.6,
+   "en": "Alone, I ask myself:\nWhat have I been protecting?",
+   "romaji": "Hitori toikakete miru\nNani o mamotte kita no?",
+   "jp_sha256": "9c909fd8aef2e411b714fb80420e57b2956f4f512ac1c77bc47256776de7a67d"
+  },
+  {
+   "id": "ED0-006",
+   "start": 40.0,
+   "end": 46.78,
+   "en": "I locked away the past of my weaker self.",
+   "romaji": "Yowai jibun no kako ni kagi o kaketa",
+   "jp_sha256": "d413c1ccc59a5c3c2feb74b3598c207e3c6593613dfeaeeee48ab9164f45192e"
+  },
+  {
+   "id": "ED0-007",
+   "start": 48.66,
+   "end": 55.64,
+   "en": "Crossing the night, linking the stars\u2014",
+   "romaji": "Yoru o koe, hoshi o tsunagi",
+   "jp_sha256": "49f0e1d0f9d1eee55825e11478eebf6929de514cbcd0d25b5ddd2f97d8c6ed15"
+  },
+  {
+   "id": "ED0-008",
+   "start": 58.42,
+   "end": 66.58,
+   "en": "I want to keep dreaming the same dream forever.",
+   "romaji": "Itsumademo onaji yume mite itai",
+   "jp_sha256": "55e7ff913f8cf049c23f1ea3383cf7cb31e64775ab3e4cc79de7c0ead5554255"
+  },
+  {
+   "id": "ED0-009",
+   "start": 68.58,
+   "end": 72.28,
+   "en": "There may still be time, right now.",
+   "romaji": "Mada maniau kamo shirenai, ima nara",
+   "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+  },
+  {
+   "id": "ED0-010",
+   "start": 72.28,
+   "end": 78.46,
+   "en": "Before time carries us away,",
+   "romaji": "Toki ga futari o tsuresaru mae ni",
+   "jp_sha256": "290116c31130151cf400741ce17d0bbe3854022b8c595ea0ffa7480ef8a4e014"
+  },
+  {
+   "id": "ED0-011",
+   "start": 78.46,
+   "end": 82.7,
+   "en": "returning to that day, once more,",
+   "romaji": "Ano hi ni kaette, mou ichido",
+   "jp_sha256": "2696a8c28f9c4cade7bb8d624468f69f56bfe125bc5db67606e13982c03d1ba6"
+  },
+  {
+   "id": "ED0-012",
+   "start": 82.7,
+   "end": 87.02,
+   "en": "I want to find you again.",
+   "romaji": "Anata ni meguriaitai",
+   "jp_sha256": "bdaa1771f0d6fdfb203bab3f3031dd6a0326849ec93960e6350ad925f4d35fd7"
+  },
+  {
+   "id": "ED0-013",
+   "start": 98.64,
+   "end": 107.1,
+   "en": "Even our tangled hearts\ncan surely be tied together again.",
+   "romaji": "Karamiatta kokoro mo, kitto musubinaoseru",
+   "jp_sha256": "89aa3237d3ad98344c5691d9ad8b15e59a7c2cb53135f042645459f6eaea7556"
+  },
+  {
+   "id": "ED0-014",
+   "start": 108.5,
+   "end": 115.52,
+   "en": "Just looking into your eyes\nmade my heart tremble.",
+   "romaji": "Hitomi mitsumeru dake de, mune ga furueta",
+   "jp_sha256": "bd884edc56a5f2c66078f1435f8751271b42d139698e182027fb7cd8bf56cbe2"
+  },
+  {
+   "id": "ED0-015",
+   "start": 117.38,
+   "end": 120.24,
+   "en": "That tenderness,",
+   "romaji": "Yasashisa ga",
+   "jp_sha256": "8f7fdc2154ddcf06589e568745ce22652aa76c8fb1c4d398edacfc31c39b1baf"
+  },
+  {
+   "id": "ED0-016",
+   "start": 120.24,
+   "end": 124.22,
+   "en": "that warmth",
+   "romaji": "Nukumori ga",
+   "jp_sha256": "60e59e084645ee0bfee43f8a6ee9e69e2d00be7d2ee1d8b570b9cb6324b2b16e"
+  },
+  {
+   "id": "ED0-017",
+   "start": 124.22,
+   "end": 129.06,
+   "en": "will always",
+   "romaji": "Itsumademo",
+   "jp_sha256": "b7c9841525033095eae60ec966e46e20fa5e9492307e8cd2fcba3abdafcaea7c"
+  },
+  {
+   "id": "ED0-018",
+   "start": 129.06,
+   "end": 135.0,
+   "en": "remember you.",
+   "romaji": "Anata o oboeteru",
+   "jp_sha256": "38f0dd5fc0b13dde614effa11c42e4f416ba3cade35f9c113fe3becf96983950"
+  },
+  {
+   "id": "ED0-019",
+   "start": 136.72,
+   "end": 141.02,
+   "en": "There may still be time, right now.",
+   "romaji": "Mada maniau kamo shirenai, ima nara",
+   "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+  },
+  {
+   "id": "ED0-020",
+   "start": 141.02,
+   "end": 147.0,
+   "en": "Before time tears us apart,",
+   "romaji": "Toki ga futari o hikisaku mae ni",
+   "jp_sha256": "253020252ee6861c1b1918e15b98fc0bede0c58a141c11ece07d556d59af6b77"
+  },
+  {
+   "id": "ED0-021",
+   "start": 147.0,
+   "end": 151.08,
+   "en": "drawing the thread of fate closer,",
+   "romaji": "Unmei no ito o hikiyosete",
+   "jp_sha256": "e280ea320b7b9de70d85ea9cea55e91c9a7634c99caa6e4d830d690474936e27"
+  },
+  {
+   "id": "ED0-022",
+   "start": 151.08,
+   "end": 154.86,
+   "en": "I want to reach you\u2026",
+   "romaji": "Anata ni tadoritsukitai\u2026",
+   "jp_sha256": "1eda19e86652797de17545653d766e5cb0976c7bd858f0bca99d49e7b6b5e6c4"
+  },
+  {
+   "id": "ED0-023",
+   "start": 156.26,
+   "end": 160.66,
+   "en": "There may still be time, right now.",
+   "romaji": "Mada maniau kamo shirenai, ima nara",
+   "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+  },
+  {
+   "id": "ED0-024",
+   "start": 160.66,
+   "end": 166.66,
+   "en": "Before time carries us away,",
+   "romaji": "Toki ga futari o tsuresaru mae ni",
+   "jp_sha256": "290116c31130151cf400741ce17d0bbe3854022b8c595ea0ffa7480ef8a4e014"
+  },
+  {
+   "id": "ED0-025",
+   "start": 166.66,
+   "end": 170.88,
+   "en": "returning to that day, once more,",
+   "romaji": "Ano hi ni kaette, mou ichido",
+   "jp_sha256": "2696a8c28f9c4cade7bb8d624468f69f56bfe125bc5db67606e13982c03d1ba6"
+  },
+  {
+   "id": "ED0-026",
+   "start": 170.88,
+   "end": 174.74,
+   "en": "I want to find you again.",
+   "romaji": "Anata ni meguriaitai",
+   "jp_sha256": "bdaa1771f0d6fdfb203bab3f3031dd6a0326849ec93960e6350ad925f4d35fd7"
+  },
+  {
+   "id": "ED0-027",
+   "start": 215.22,
+   "end": 219.22,
+   "en": "There may still be time, right now.",
+   "romaji": "Mada maniau kamo shirenai, ima nara",
+   "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+  },
+  {
+   "id": "ED0-028",
+   "start": 220.1,
+   "end": 225.4,
+   "en": "Before that radiance becomes a memory,",
+   "romaji": "Kagayaki ga omoide ni kawaru mae ni",
+   "jp_sha256": "fbb7bde1bb8b303b1ff7e846e9f8dadd63d24e11753e5dd67a35a76a8b3f63c2"
+  },
+  {
+   "id": "ED0-029",
+   "start": 225.4,
+   "end": 229.62,
+   "en": "with eternity at stake, once more,",
+   "romaji": "Eien o kakete, mou ichido",
+   "jp_sha256": "24d9be809a5082d5c8c9b48ee2c488677250bf1162fed1afa3d1ba9f556b1b5f"
+  },
+  {
+   "id": "ED0-030",
+   "start": 229.62,
+   "end": 233.2,
+   "en": "tie the threads between us.",
+   "romaji": "Futari no ito o tsunaide",
+   "jp_sha256": "6584c141a86d724a82322fe5f48828a1d14a4986c22608ea2adcd84921443089"
+  },
+  {
+   "id": "ED0-031",
+   "start": 234.62,
+   "end": 239.04,
+   "en": "There may still be time, right now.",
+   "romaji": "Mada maniau kamo shirenai, ima nara",
+   "jp_sha256": "0bb0ed491e95a3666383e69328a8c8a4bd11e1ace210ba59780e71c63cf3122b"
+  },
+  {
+   "id": "ED0-032",
+   "start": 239.04,
+   "end": 244.92,
+   "en": "Before time tears us apart,",
+   "romaji": "Toki ga futari o hikisaku mae ni",
+   "jp_sha256": "253020252ee6861c1b1918e15b98fc0bede0c58a141c11ece07d556d59af6b77"
+  },
+  {
+   "id": "ED0-033",
+   "start": 244.92,
+   "end": 249.1,
+   "en": "drawing the thread of fate closer,",
+   "romaji": "Unmei no ito o hikiyosete",
+   "jp_sha256": "e280ea320b7b9de70d85ea9cea55e91c9a7634c99caa6e4d830d690474936e27"
+  },
+  {
+   "id": "ED0-034",
+   "start": 249.1,
+   "end": 252.8,
+   "en": "I want to reach you\u2026",
+   "romaji": "Anata ni tadoritsukitai\u2026",
+   "jp_sha256": "1eda19e86652797de17545653d766e5cb0976c7bd858f0bca99d49e7b6b5e6c4"
+  }
+ ]
+}

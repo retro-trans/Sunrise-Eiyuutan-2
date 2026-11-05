@@ -1,0 +1,720 @@
+{
+ "table": "04921_10399",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:81902201}{C:819582969A2900000000}Nelfea,\nwhat's this next continent called?\n\n{C:8190C800}{C:819582969C2900000000}The Astragius continent.\n\n{C:81902201}{C:819582969D2900000000}Oh, Chirico.\nAstragius?\nCould that be your...?\n\n{C:8190C800}{C:819582969E2900000000}That's right...\n\n{C:819582969F2900000000}(Fyana...)\n\n{C:81900300}{C:81958296A12900000000}The Astante is\nentering the Astragius continent.\n\n\n\n\n{x00}",
+   "source_sha256": "e46d022c9b77b7a8b3d8c60a75a8de6beec6e596a5a80a1f3dc5f307c7dd17f0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930D00}{C:81958296A22900000000}I entrusted you with FT units and let you act.\n...I commend you for drawing\nthe continents into war.\n\n{C:81958296A32900000000}But...\nI must say that merely seizing Norstan\nfalls short of my expectations.\n\n{C:81930C00}{C:81958296A52900000000}I am sorry...\n\n{C:81930D00}{C:81958296A72900000000}If you feel that way,\nthen sink the Astante.\nBy any means necessary.\n\n{C:81930C00}{C:81958296A92900000000}Understood.\n\n\n\n\n{x00}",
+   "source_sha256": "6114b99e47ee97f95de0cdaabbdbaef489f2edec8f9d3fd8bf4f87610310f955",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8193CC00}{C:81958296AA2900000000}Ah, Astante, do you read me?\n\n{C:8193CA00}{C:81958296AB2900000000}Hiii, everyone!\nIt's me, Coconna!\nYou remember me, right?!\n\n{C:8193CB00}{C:81958296BE0000000000}No fair, Coconna!\nLet me talk too!\n\n{C:8193CC00}{C:81958296AC2900000000}Quit getting in the way, both of you!\nAnyway, it's {C:819782830300}Kummen{C:819782830000} where\nyou'll find us.\n\n{C:81958296AD2900000000}Now that you're back,\nmake sure you come see us!\nThat goes for you too, Duo!\n\n{C:8193CF01}{C:81958296AE2900000000}Yeah, yeah, I know.\n\n{C:8193CB00}{C:81958296BF0000000000}Then we'll be waitin' for you!\n\n\n\n{x00}",
+   "source_sha256": "b4addea596feab340caea6c651082d5116ffcce155577b9d20d76f977e98768a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:8190CC00}{C:81958296AF2900000000}Oh! You're all back!\nMm-hmm, mm-hmm, mm-hmm, you look well!\n\n{C:81958296B02900000000}I knew you'd make fine VOTOMS riders.\nI was right about you!\n\n{C:8190CA00}{C:81958296B22900000000}Boss!\nYou got it wrong again!\n\n{C:81958296B42900000000}AT riders are called VOTOMS, right?\n'VOTOMS riders' makes it sound like\n'AT rider riders,' doesn't it?\n\n{C:8190CC00}{C:81958296B52900000000}Was that it?\nWell, whatever you call it,\nI'm just glad you're safe!\n\n{C:8190CB00}{C:81958296C00000000000}We've got ourselves a place!\nAnd the name is... ta-da!\n{C:819782830300}Phantom Lady{C:819782830000}!\n\n{C:8190C800}{C:81958296B72900000000}...I don't like the name.\n\n{C:8190CB00}{C:81958296C10000000000}Chirico, baby!\nWe've had it rough!\n\n{C:81958296C20000000000}We wanted to make a place\nwhere you could rest when you came back.\n\n{C:8190CA00}{C:81958296BA2900000000}Kummen's in a civil war, you know.\nThere were plenty of ways to make money.\n\n{C:81930100}{C:81958296BB2900000000}Thank you!\n\n{C:8190A702}{C:81958296BC2900000000}Himiko's first!\n\n\n{x00}",
+   "source_sha256": "b3704723a9c35033188d68187ebae4280d34b0858010ce50303d1594a16e22a4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:8190A502}{C:81958296BD2900000000}Himikooo!\nIt's always something like this!\nI'm getting so sick of it.\n\n{C:81900300}{C:81958296BE2900000000}You're good at looking after others, Wataru.\n\n{C:8190A502}{C:81958296BF2900000000}Heh heh heh!\nTo put it plainly, you're absolutely right!\n\n{C:81900400}{C:81958296C02900000000}Oh, aren't you pleased with yourself.\n\n{C:8190A802}{C:81958296C12900000000}Since they've been so kind,\nlet us have a rest as well.\nWhat say you, Wataru?\n\n{C:8190A502}{C:81958296C22900000000}Yes, Teacher!\nWhat should I eat?\n\n{C:81901B00}{C:81958296C32900000000}Lilis, let's go too!\n\n{C:81905400}{C:81958296C42900000000}Okaaay!\nAmm, Leccee, come with us!\n\n{C:81905600}{C:81958296C52900000000}I'm going to have them feed me\nlots and lots of good stuff!\n\n{C:81905700}{C:81958296C62900000000}You'll get fat.\nOh, you could stand to put on some weight.\nEspecially around the chest.\n\n{C:81905600}{C:81958296C72900000000}I'm fine the way I am!\nUnlike you, I'm still young!\n\n{C:81900400}{C:81958296C82900000000}My chest...\n\n{C:81900300}{C:81958296C92900000000}What's wrong, Nelfea?\n\n{C:81900400}{C:81958296CB2900000000}N-Nothing at all.\n\n{C:81900300}{C:81958296CE2900000000}Really?\nThen let's go too!\n\n{C:8190CC00}{C:81958296CF2900000000}Let's have a proper celebration\nto mark our reunion!\nEat and drink anything you like!\n\n{C:81930100}{C:81958296D02900000000}Huh?\nAren't you coming, Coconna?\n\n{C:8190CA00}{C:81958296D12900000000}Mm... I've got\nsomething to tell Chirico.\n\n{C:8190C800}{C:81958296D32900000000}Me?\n\n{C:81930100}{C:81958296D42900000000}Then I'll go on ahead too.\n\n\n{x00}",
+   "source_sha256": "01aa5809cbe80a928d0a1d6669c931e05509b3f014b870e6443f62a2518beab6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:8190CA00}{C:81958296D52900000000}We haven't just been\nsitting around here, you know.\nWe've been gathering information.\n\n{C:81958296D62900000000}We've found out that Fyana\nis somewhere in Kummen.\n\n{C:8190C800}{C:81958296D82900000000}Fyana's in {C:819782830300}Kummen{C:819782830000}?!\nWhere in Kummen?!\nTell me, Coconna!\n\n{C:8190CA00}{C:81958296D92900000000}Sorry, that's all\nwe've found out so far.\n\n{C:8190C800}{C:81958296DC2900000000}I see.\nSorry about that.\n\n\n\n\n{x00}",
+   "source_sha256": "b46d732296d3700e6b5b98e4ba33717d72359d93baebaad2c381a02d916e6fc7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:8190CF00}{C:81958296DD2900000000}Excuse me,\nare you {C:819782830400}Akatsuki{C:819782830000}?\n\n{C:81930100}{C:81958296DE2900000000}I am. Who are you?\n\n{C:8190CF00}{C:81958296DF2900000000}I'm {C:819782830400}Pol Potaria{C:819782830000}.\nThis is {C:819782830400}Ru Shako{C:819782830000}.\nWe're both friends of Gotho's.\n\n{C:8190CD00}{C:81958296C40000000000}Gotho asked us.\nHe said to help you.\nWe'll work with you.\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "5df82d934727c109e8955ce1224c88408c24b2d3b8353bd47f3550d31106f6f7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:8190A202}{C:81958296F42900000000}You're back.\nWe were discussing what to do next.\n\n{C:81902201}{C:81958296F52900000000}Apparently, we can't go any farther\ninto the Cloud Sea.\n\n{C:81930100}{C:81958296F62900000000}Is that right, Nelfea?\n\n{C:81900400}{C:81958296F72900000000}It's hopeless.\n\n{C:8190CF00}{C:81958296F82900000000}So I was asking them\nto hear my request.\n\n{C:81930100}{C:81958296F92900000000}What do you want us to do?\n\n{C:8190CF00}{C:81958296FA2900000000}Kummen's civil war will end once\n{C:819782830400}Heloram Kanjelman III{C:819782830000} is\ndefeated.\n\n{C:81958296FB2900000000}His Highness should be above this continent.\nI want you to find him and defeat him.\n\n{C:81901A00}{C:81958296C50000000000}We were saying that, if we did that,\nwe might also find Fyana,\nthe woman Chirico's looking for.\n\n{C:81905401}{C:81958296FC2900000000}We went ahead and discussed it without you,\nbut can we have your approval?\nRie's already given us permission.\n\n{C:81930100}{C:81958296FD2900000000}I don't have\nany reason to object.\nLet's do it!\n\n\n\n{x00}",
+   "source_sha256": "998b867cc4032c0ca8dbea2564f8e7c4b8ab4c138c5517e6d0fffd1453364fdb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:8193CB00}{C:81958296C60000000000}Workin' hard, Chirico, baby?\n\n{C:8193C800}{C:81958296FF2900000000}Vanilla? What is it?\n\n{C:8193CA00}{C:81958296002A00000000}I'm here too.\n\n{C:8193C800}{C:81958296032A00000000}So, what do you two want?\n\n{C:8193CB00}{C:81958296C70000000000}Well, see...\nYou tell him, Coconna.\n\n{C:8193CA00}{C:81958296042A00000000}Huh? Me?\nYou tell him, Vanilla!\n\n{C:8193C800}{C:81958296062A00000000}I'm busy.\nWould you leave me alone?\n\n\n{x00}",
+   "source_sha256": "c3204db352f5994262ae412c77c9056eee223878aa7ce9775610eb3c3e3da972",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:8190CB00}{C:81958296C80000000000}Ah, fine, I'll get right to it.\nWhy don't you stop looking\nfor the Phantom Lady?\n\n{C:8190C800}{C:81958296082A00000000}What?!\n\n{C:8190CA00}{C:819582960C2A00000000}Please don't get angry.\nWe can't bear to see\nyou looking so miserable.\n\n{C:8190CB00}{C:81958296C90000000000}We don't know what happened,\nbut we can't think of any reason\nexcept the Phantom Lady.\n\n{C:8190C800}{C:819582960E2A00000000}I see... I'm sorry.\nBut I appreciate your concern.\nThank you.\n\n{C:8190CB00}{C:81958296CA0000000000}Huh?\nWhat did Chirico just say?\n\n{C:8190CA00}{C:81958296102A00000000}He said thank you.\n\n{C:8190CB00}{C:81958296CB0000000000}Chirico said thank you!\nNow that's somethin' else!\n\n{C:8190C800}{C:81958296122A00000000}If I've changed,\nit's thanks to my companions.\nThey're the ones who changed me.\n\n{C:8190CA00}{C:81958296142A00000000}In that case,\nforget what we just said.\n\n{C:8190CB00}{C:81958296CC0000000000}Yeah, that's right.\nIf you've found more good friends,\nwe've got nothin' more to say.\n\n\n\n{x00}",
+   "source_sha256": "840459cbfdb8376e68ae45ba5f179aaeac69aa40619b31dc20e33fe85a1d170b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n\n{C:8193D400}{C:81958296152A00000000}You're not getting away, Astante!\n\n\n{x00}",
+   "source_sha256": "99d8b2c22b956ade80be3fb4cc6986ba46b55ee8e88bd509a03a095de1d3863b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:8193CF00}{C:81958296C80100000000}Remember, His Highness is\nabove the Astragius continent.\nMake a sweep of the skies over the continent.\n\n\n\n{x00}",
+   "source_sha256": "2fd2ed034a77a4ccec4590db2f2f8e0c1ee0130618b3d2f8dab531422f074159",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:8193A602}{C:819582961E2A00000000}Wataru's being held\non that ship, right?\n\n{C:8193F200}{C:819582961F2A00000000}So it would seem.\nThat's what Arago's\nsubordinates said.\n\n{C:8193A602}{C:81958296202A00000000}All right! I'll beat them!\n\n{C:8193F200}{C:81958296212A00000000}(Will this really work?\n Using a kid with that look in his eyes,\n like he's been brainwashed...?)\n\n\n\n\n{x00}",
+   "source_sha256": "3fd54356be8afa2dc3d115b25f3ee9f182481a372222d7868b84fa0180e9f740",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81938F00}{C:81958296162A00000000}I've found you, Astante.\n\n{C:81939200}{C:81958296172A00000000}Jerid,\nare you really going to attack?\n\n{C:81938F00}{C:81958296182A00000000}Of course.\nWhy else would we have come\nall the way out here?\n\n{C:81939200}{C:81958296192A00000000}(It's dangerous to get so obsessed...)\n\n\n{x00}",
+   "source_sha256": "6fbc055b3b6f52d7f5d196aa182a9e54330f7d06c37d1c79b62327b38d5930b2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81939200}{C:819582961A2A00000000}We're pulling back, Jerid.\n\n{C:81938F00}{C:819582961B2A00000000}Not yet! I can still fight!\n\n{C:81939200}{C:819582961C2A00000000}Think about what this battle means!\nYou saw it too!\nAre you just going to do as you're told?!\n\n{C:81938F00}{C:819582961D2A00000000}All right... I'll retreat.\n\n\n\n{x00}",
+   "source_sha256": "2e0e5c628eea1343643f65f628b39ab0d5d3b383e34e95a853d0f0a4e70ddbec",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:8193A602}{C:81958296AE2A00000000}Give Wataru baaack!\n\n\n{x00}",
+   "source_sha256": "b8604e2efbac62632c8b93b538650aed40880d1d0ae3624c61570014abe62035",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n{C:8193A602}{C:81958296AF2A00000000}Hang on, Wataru!\nI'll save you now!\n\n{C:8193A502}{C:81958296B02A00000000}Toraoh, what's wrong?!\nWe're all right!\n\n{C:8193A602}{C:81958296B12A00000000}I'll take back Wataru\nand my bride!\n\n\n\n{x00}",
+   "source_sha256": "c9d8b78fecbcfd3373873ab5fcd53361d64d5eba42d03d297f7936a136b17c52",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:8193A602}{C:81958296B22A00000000}Huh?\nWhat am I doing\nin a place like this?\n\n\n{x00}",
+   "source_sha256": "65d772b5b89810c3431c33c100fdc478643e39900e0c53161f109e887c16a3a2",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:8193A602}{C:81958296B42A00000000}Aaaaaaah!!\n\n{x00}",
+   "source_sha256": "26f793bbdef149cd095d57597f3bec04687cfdbcac9e2d9c50f82fcee59754c9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:8193A502}{C:81958296B52A00000000}Toraooooh!!\n\n\n\n{x00}",
+   "source_sha256": "63d032de09a3cfc4abfa38a52339ed401c80de89f03fd34cd8797013398b022a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:8190A502}{C:81958296B62A00000000}Let's go, Himiko.\n\n{C:8190A702}{C:81958296B72A00000000}Okaaay!\n\n{C:81930100}{C:81958296B82A00000000}Wataru, Himiko,\nwhere are you off to in such a hurry?\n\n{C:8190A702}{C:81958296B92A00000000}We're going to look for Tora-chan!\n\n{C:81930100}{C:81958296BA2A00000000}Wait a moment!\nWataru, Himiko,\nI'll go with you.\n\n\n\n\n{x00}",
+   "source_sha256": "c2439ca20c23bc82e1ec52fa69a27f8564526a7177da150b4eddbcad2e504a84",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:8190A702}{C:81958296BB2A00000000}Wataruuu...\nDo you think Tora-chan's dead?\n\n{C:8190A502}{C:81958296BC2A00000000}Don't talk nonsense!\nThere's no way Toraoh's dead!\n\n{C:8190A702}{C:81958296BD2A00000000}But... but...\n\n{C:81930100}{C:81958296BE2A00000000}I'm sorry, Wataru.\nWe couldn't do anything.\n\n{C:8190A502}{C:81958296C12A00000000}Please don't...\nToraoh's all right.\n\n{C:8193A602}{C:81958296C22A00000000}Wataru! Himiko!\n\n{C:8190A502}{C:81958296C32A00000000}See? I can even hear him.\n\n\n\n{x00}",
+   "source_sha256": "38227ba449d953063dd2168d8049807e0170c31db161f48bad4b9076da9e9905",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:8193A502}{C:81958296C42A00000000}Gaaack!\n\n{C:8193A602}{C:81958296C62A00000000}What are you doing here?!\n\n{C:8193A702}{C:81958296C72A00000000}Tora-chan! Tora-chan!\nYou're alive!\n\n{C:8193A502}{C:81958296C82A00000000}Tora...oh... can't... breathe...\n\n{C:8193A602}{C:81958296CA2A00000000}Oh! Sorry, sorry!\n\n\n{x00}",
+   "source_sha256": "38e25037b1ff8ee2f6b611a81abb4a6b6e3171a38af40ffeedd8654cfe7b3921",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:8190A602}{C:81958296CB2A00000000}Well, when I came to,\nI was in a pile of rubble or something.\n\n{C:81958296CC2A00000000}Then I looked up and saw Ryujinmaru,\nso I came running!\n\n{C:8190A502}{C:81958296CD2A00000000}Toraoh... Toraoh... Toraooooh!\n\n{C:8190A602}{C:81958296CE2A00000000}What's with you, Wataru?\nAre you that happy\nto see me?\n\n{C:8190A702}{C:81958296CF2A00000000}Tora-chan, come\nwith us!\n\n{C:8190A602}{C:81958296D02A00000000}I've got nothing else to do anyway.\nAnd you and Wataru are here,\nso why not?\n\n{C:8190A702}{C:81958296D12A00000000}That's okay, right?\n\n{C:81930100}{C:81958296D22A00000000}Yeah, of course.\n\n\n\n\n\n\n\n{x00}",
+   "source_sha256": "0a2c580fccccff047528fdc635592b242ab4dc14172f5df88cec69ef2560c0db",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:8193D400}{C:81958296222A00000000}I've been waiting, Astante!\n\n\n{x00}",
+   "source_sha256": "1fa098ac9813e6853cec23abaf03498208f4c3e6b6cdbe4f58f2dbe66808c8db",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:8193C800}{C:81958296232A00000000}This is Chirico.\nEpsilon, release Fyana.\n\n{C:8193D400}{C:81958296252A00000000}Why do you call her Fyana?\nBecause of that, she...\nChirico, if only you weren't here!\n\n{C:81958296262A00000000}Face me, Chirico!\nI'll end it all here!\n\n\n{x00}",
+   "source_sha256": "ce41c6c8b336af6a73d40417d339b7a42d7e7608c1d251254e63c9f811c78c8e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:8193D300}{C:81958296282A00000000}I am Heloram Kanjelman.\nI am the man you're looking for.\n\n{C:8193CF00}{C:81958296C90100000000}Your Highness...\n\n{C:8193D300}{C:819582962A2A00000000}Pota...\nIt pains me to have to fight you.\nBut it cannot be helped.\n\n\n\n\n\n{x00}",
+   "source_sha256": "c403f9a340e72c623918e857cda1161e8b9bce4e5f8e5d638424afa05a457e70",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:8193D300}{C:819582962C2A00000000}This ship will sink soon.\nBefore that, may I speak with Pota?\n\n{C:81930300}{C:819582962D2A00000000}Potaria,\nplease use that communicator.\n\n\n\n{x00}",
+   "source_sha256": "e41514f6b5b12fa9956a23a1da80bf6a4758c5351d32da4badf6673b1d58f72d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 28,
+   "en": "\n{C:8193CF00}{C:81958296CA0100000000}Your Highness, why start a civil war...?\n\n{C:8193D300}{C:819582962E2A00000000}Under the influence of other continents,\nKummen has changed far too quickly.\n\n{C:819582962F2A00000000}As a result, nostalgia for the old ways\nhas become immeasurably strong.\nI am nostalgia itself.\n\n{C:8193CF00}{C:81958296CB0100000000}Your Highness, you can't mean...!\n\n{C:8193D300}{C:81958296302A00000000}For Kummen's future, it would be better\nif I, a member of the royal family, did not exist.\nBut... not while things stand as they are.\n\n{C:81958296322A00000000}Drive out Grados, and with those people,\ndefeat whoever stands behind them.\nYou will do this for me, Pota?\n\n{C:8193CF00}{C:81958296CC0100000000}I promise you, Your Highness.\n\n{C:8193D300}{C:81958296342A00000000}Pota...\nI... loved you...\n\n\n{x00}",
+   "source_sha256": "b949b717a606a1742060b84ebad2bd09fbe2bc5a8e66d8ded5171255d6183341",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 29,
+   "en": "\n{C:8193C800}{C:81958296362A00000000}Rie, take us down to Kummen.\nI want to look for Fyana.\n\n{C:81930300}{C:81958296382A00000000}Oh, yes!\n\n\n\n{x00}",
+   "source_sha256": "182e2f5d64b39ed78adeee6c37e2a998fd73bc9d96d0df03d20f61d8d54a7ac8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 30,
+   "en": "\n{C:81930100}{C:81958296392A00000000}Chirico should already\nbe here ahead of us.\nI wonder if he's found Fyana.\n\n{C:819582963A2A00000000}Oh, there he is!\nChirico!\nHow did it go?\n\n{C:8190C800}{C:819582963B2A00000000}She's nowhere to be found...\n\n{C:81904202}{C:819582963C2A00000000}According to Vanilla,\nsome strange man came and abducted her.\n\n{C:81930100}{C:819582963D2A00000000}Abducted her?\n\n{C:8190CE01}{C:819582963E2A00000000}He's apparently a soldier on Balarant's side.\nWe'll just have to look again.\n\n{C:81930100}{C:819582963F2A00000000}Chirico, let's go.\nIf she's not in Kummen, let's search {C:819782830300}Uoodo{C:819782830000} and \n{C:819782830300}Gilgamesh{C:819782830000} for her.\n\n{C:8190C800}{C:81958296402A00000000}Yeah. Thanks.\n\n\n\n\n{x00}",
+   "source_sha256": "7bd423147008abbe59f58f777665e79a767e5494c9bd3754dfd04c4b979d7ab4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 31,
+   "en": "\n{C:8193DB00}{C:81958296412A00000000}Well, well! Here they come!\nYou're going to fight with me too.\n\n{C:81958296422A00000000}Though I doubt you can move as you please\ninside that machine!\n\n{C:8193C900}{C:81958296432A00000000}Chirico...\n\n\n\n{x00}",
+   "source_sha256": "4faf902f7fb03223118f86e36effd3dd36468d5a05a7b76ab940cb8460075006",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 32,
+   "en": "\n{C:8193C800}{C:81958296462A00000000}Fyana!\nWhy are you fighting us?\nPull back!\n\n{C:8193C900}{C:81958296472A00000000}I'm sorry, Chirico.\nI can't control this AT.\n\n{C:8193DB00}{C:81958296482A00000000}Shut up, all of you!\nHurry up and die!\n\n\n\n\n\n{x00}",
+   "source_sha256": "fbb4dbc07c49aaab959290ff7b231003509d355125b3b35d564680cbe73916fb",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 33,
+   "en": "\n{C:81905401}{C:81958296492A00000000}Chirico, I've recovered\nFyana!\n\n{C:8190C800}{C:819582964B2A00000000}Thanks, Guy.\n\n{C:8190C900}{C:819582964C2A00000000}Chirico, I'm sorry.\nI... I...\n\n{C:8190C800}{C:819582964E2A00000000}It's all right, Fyana.\nIt's all over now.\n\n{C:81930100}{C:819582964F2A00000000}I'm glad, Chirico.\n\n{C:8190C800}{C:81958296502A00000000}Yeah. Thank you.\n\n\n\n\n\n{x00}",
+   "source_sha256": "09fcaa6f77c79e3f04d2b4c7a64fdff3f6eb364b37cedb1b9172ab8beb3bc40c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 34,
+   "en": "\n{C:81930100}{C:81958296512A00000000}What's wrong, Rie?!\n\n{C:81930300}{C:81958296522A00000000}The Norstan...\n\n{C:81930400}{C:81958296532A00000000}All hands, brace for impact!\n\n\n{x00}",
+   "source_sha256": "38674e0919793c2e10621652281f2739488794981b2c6a3b13915a1e7469483d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 35,
+   "en": "\n{C:81930C00}{C:81958296562A00000000}Sink, Astante...\nand take my life with you!\n\n\n\n\n\n{x00}",
+   "source_sha256": "3e524bc97ada650c346248819d4676a21236bc11bb67ebd33b615210854694b3",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 36,
+   "en": "\n{C:81900200}{C:81958296572A00000000}Don't let it get you down.\nWith such a reckless move,\nthere was nothing we could do.\n\n{C:81958296582A00000000}Instead, let's be grateful\nthat everyone is safe.\n\n{C:81930100}{C:81958296592A00000000}Yeah.\nYou're right, Lun.\nThank you, Lun!\n\n{C:819582965A2A00000000}I'll go see the others\nand discuss what we do next.\n\n{C:81900200}{C:819582965B2A00000000}All right. Good luck!\n\n{C:81900300}{C:819582965C2A00000000}That's our Lun!\nYou really understand\nwhat my big brother's like!\n\n{C:81900200}{C:819582965F2A00000000}Do I?\n\n{C:81900400}{C:81958296602A00000000}Now I see why he was so desperate\nto get you back,\nLun!\n\n{C:81900200}{C:81958296612A00000000}He was desperate?\nHim?\n\n{C:81900300}{C:81958296622A00000000}He thought\nhe was hiding it,\nbut it shows on his face so easily.\n\n{C:81900400}{C:81958296632A00000000}It was obvious, wasn't it?\n\n{C:81900300}{C:81958296642A00000000}Exactly!\nHe'd suddenly get all serious.\n\n{C:81909500}{C:81958296652A00000000}You look like you're having fun.\nMay I join you?\n\n{C:81900200}{C:81958296672A00000000}Of course.\n\n\n\n{x00}",
+   "source_sha256": "5ad14dd62ab9375ec0d1b449ac0dd8f8dc71b0f0e2b3e7ab999a3531c8580dab",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 37,
+   "en": "\n{C:81900300}{C:81958296682A00000000}Huh? What's going on?\n\n{C:8190A102}{C:81958296692A00000000}Look!\nSomething's flying this way!\n\n\n\n\n{x00}",
+   "source_sha256": "190e25308eaec718ebc50c51cbc6c3ae52521ad1ff8cf3a8eacd9bada9ec1233",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 38,
+   "en": "\n{C:81932B01}{C:819582966A2A00000000}Hear this!\nFrom this moment on, this continent\nis under the rule of Grados!\n\n{C:819582966B2A00000000}Anyone who resists will be purged without mercy!\nTake heed!\n\n\n{x00}",
+   "source_sha256": "ea855d7289daf7e8f6fab33180dfa25daa75893ed59966d9477fb88c7f4cc0ce",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 39,
+   "en": "\n{C:81932B01}{C:819582966C2A00000000}You will take control of this continent.\n\n{C:81932F01}{C:819582966D2A00000000}Understood!\n\n{C:81932D01}{C:819582966E2A00000000}And where are you going, Lord {C:819782830400}Le Caine{C:819782830000}?\n\n{C:81932B01}{C:819582966F2A00000000}I am heading to another continent.\nI leave the rest to you.\n\n{C:81932C01}{C:81958296702A00000000}Yes, my lord!\n\n\n{x00}",
+   "source_sha256": "0bf5802a24ed880580ce1af2a6a0f2a63b484dc1489c10eb3b7e3a958ed733f4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 40,
+   "en": "\n{C:81932E01}{C:81958296CD0000000000}So, what now?\n\n{C:81932D01}{C:81958296712A00000000}Don't worry about it.\nLet's do whatever the hell we want!\n\n{C:81932C01}{C:81958296722A00000000}That sounds good.\nI'm gonna have myself plenty of fun!\n\n{C:81932F01}{C:81958296732A00000000}You, {C:819782830400}Gosterro{C:819782830000}!\nYou don't get to make the decisions!\n\n{C:81932C01}{C:81958296742A00000000}What did you say?!\n\n\n\n\n{x00}",
+   "source_sha256": "b161d3d8bce4847b2509ed843ade8eb7895949a1ff529bd6f7efc5ef23bc7853",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 41,
+   "en": "\n{C:81930100}{C:81958296752A00000000}Damn it!\nWe can't do a thing at a time like this!\n\n{C:81905300}{C:81958296762A00000000}Gotho,\ncan't you find us a ship somehow?\n\n{C:81958296772A00000000}I left my ship\nback in Pentagona,\nso there's nothing I can do.\n\n{C:8190C800}{C:819582967A2A00000000}Fyana, do you know anything?\n\n{C:8190C900}{C:819582967B2A00000000}I'm sorry.\nI don't know much about this area...\n\n{C:8190CF00}{C:81958296CD0100000000}I don't remember hearing\nabout any ships in Kummen.\n\n{C:8190A202}{C:819582967C2A00000000}We've got nothing to lose.\nWhy don't we split up\nand search all over Kummen?\n\n{C:81900A01}{C:819582967D2A00000000}Let's do that!\nI don't know anything about ships,\nbut I can help look for one.\n\n{C:81900300}{C:819582967E2A00000000}Everyone's offering to help,\nso let's try looking, big brother.\n\n{C:81930100}{C:819582967F2A00000000}All right!\nLet's split up and search!\n\n\n\n\n{x00}",
+   "source_sha256": "223822fe9e63497e19a656f9a8d3c118d64d44fa4734e8a8852dcc9c9be7a719",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 42,
+   "en": "\n{C:81932C01}{C:81958296802A00000000}Hah... hah... hah... I finally won!\nNow, do as I say...\n\n\n{x00}",
+   "source_sha256": "eefc5a721608fa357bcc0872699acac99f16f65f472181e899676f6e8bb141f0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 43,
+   "en": "\n{C:81930A00}{C:81958296812A00000000}Hey, Kyo.\nThere's a mighty suspicious ship out there.\nWhat do we do? Shall we take it on?\n\n{C:81930700}{C:81958296822A00000000}Tail, prepare for battle.\nDon't attack yet.\n\n{C:81930600}{C:81958296832A00000000}No, here it comes!\n\n{C:81930A00}{C:81958296842A00000000}Oh! It's been a while since we saw\nthat intuition of yours, Kyo!\n\n\n\n\n{x00}",
+   "source_sha256": "ad7a74ab7abd5516cf84cdd0e3b28565f60d4fc5030606e0e69400dfed58faa6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 44,
+   "en": "\n{C:81932C01}{C:81958296852A00000000}Damn it!\nI'll let you off today!\n\n\n{x00}",
+   "source_sha256": "5c7a69860748ab8b34797909fb5e33634e6f8309042f754343a23da587d97ff0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 45,
+   "en": "\n{C:81930900}{C:81958296CE0000000000}What a vulgar enemy.\n\n{C:81930700}{C:81958296862A00000000}More importantly, can't we\nget in touch with the Astante?\nI'm concerned that there's no response.\n\n{C:81930A00}{C:81958296872A00000000}Speak of the devil.\n\n{x00}",
+   "source_sha256": "c730ce8552896f859cc0de4aeaed98c5724e91feb17867b99431270e9c776fbe",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 46,
+   "en": "\n{C:81930400}{C:81958296882A00000000}Uncle!\n\n\n{C:81930700}{C:81958296892A00000000}Stop calling me that.\n\n{C:81930400}{C:819582968A2A00000000}Look, it's Uncle and the others!\n\n{C:81930600}{C:819582968B2A00000000}Nelfea?\nYou're all there, then?\nTell me where you are.\n\n{C:81930300}{C:819582968C2A00000000}Dad, it's Rie.\nEveryone's in the town of Kummen.\nI'll send a signal.\n\n{C:81930A00}{C:819582968D2A00000000}Signal confirmed.\nWe're heading to Kummen.\n\n\n\n\n{x00}",
+   "source_sha256": "634e68ffddadf50ae258dfa8b24a2048b161b4c3f736efdb04d7d63730877490",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 47,
+   "en": "\n{C:81900600}{C:819582968E2A00000000}How was the Astante?\n\n{C:81900700}{C:819582968F2A00000000}Unfortunately, it can no longer fly.\nI had the parts that looked usable moved aboard\n{C:819782830400}Astante II{C:819782830000}.\n\n\n{x00}",
+   "source_sha256": "f03b9592316c67324c908c81a2fa3a85e84d1daf37e7afe8047508e7cf1435da",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 48,
+   "en": "\n{C:81900700}{C:81958296902A00000000}We're nearly finished loading\nthe machines from the other continents too.\n\n{C:81930100}{C:81958296912A00000000}Dad...\n\n{C:81900600}{C:81958296922A00000000}What is it?\n\n{C:81930100}{C:81958296932A00000000}I'm sorry... I...\n\n{C:81900600}{C:81958296942A00000000}You did well.\nI don't mean getting Lun back.\nYou did well to gather allies from other continents.\n\n{C:81958296952A00000000}Now we know who's pulling the strings,\nthey'll be an important source of strength.\n\n{C:81900400}{C:81958296962A00000000}{C:819782830400}Redros Binzvanker{C:819782830000}\nis the one who started\nthis war, apparently.\n\n{C:81900300}{C:81958296972A00000000}Isn't Redros a war hero just like\nyou and the others, Dad?\n\n{C:81900400}{C:81958296982A00000000}And Redros is also the one\nwho later set off the civil war.\n\n{C:81930100}{C:81958296992A00000000}But I thought Redros was dead?\n\n{C:81900A00}{C:819582969A2A00000000}Turns out Redros was still alive.\nStubborn bastard.\n\n{C:81900600}{C:819582969B2A00000000}That enemy is strong.\nWe'll help you in the battles ahead.\nStay on your guard.\n\n\n{x00}",
+   "source_sha256": "b85a3f4ed68679f2441aab0efbcce2c1d8d81bdeef0f993f6673cb48af7e3dd9",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 49,
+   "en": "\n{C:81930700}{C:819582969C2A00000000}Expecting the fighting to grow more difficult,\nI've prepared new FT units.\nDiscuss it with your companions and put them to good use.\n\n\n\n\n{x00}",
+   "source_sha256": "763d5de52772865fb46acb4b637cd554778d8ee51c2f654faa31f90155c52759",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 50,
+   "en": "\n{C:81900600}{C:819582969D2A00000000}All right, we're departing.\n\n{C:81930100}{C:819582969E2A00000000}Huh? But the Cloud Sea...\n\n{C:81900900}{C:81958296CF0000000000}The Cloud Sea has already opened\nso we can reach the next continent.\n\n{C:81900400}{C:819582969F2A00000000}Everyone's waiting.\n\n{C:81900300}{C:81958296A02A00000000}Let's go, big brother.\n\n\n\n\n\n{x00}",
+   "source_sha256": "e5c16cd5b6fddf44f7a172083795d6b10ba0130072921a6057d2a270aacdcdaa",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 51,
+   "en": "\n{C:81930600}{C:81958296AB2A00000000}Akatsuki!\nPut some spirit into it!\n\n{C:81930100}{C:81958296AC2A00000000}I know, Dad!\n\n{C:81930600}{C:81958296AD2A00000000}Then let us depart.\n\n\n\n\n\n{x00}",
+   "source_sha256": "2fe5e9b0e51f031f51e50298d7b557c7a184161b6c8c3474911ed964c1202833",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 52,
+   "en": "\n{C:81900300}{C:81958296203700000000}Hey, big brother!\nDid you hear?\n\n{C:81930100}{C:81958296213700000000}Hear what?\n\n{C:81900300}{C:81958296223700000000}{C:819782830400}Omega{C:819782830000} is apparently aboard\nthe Astante II.\n\n{C:81930100}{C:81958296233700000000}Omega?!\n\n{C:81900300}{C:81958296243700000000}Yeah.\nIt seems Dad and the others rescued Omega.\n\n{C:81930100}{C:81958296253700000000}Where is Omega now?\n\n{C:81900300}{C:81958296263700000000}I saw Omega in the corridor a moment ago.\n\n{C:81930100}{C:81958296273700000000}The corridor, right.\n\n{C:81900300}{C:81958296283700000000}Hey, wait, big brother!\n\n\n\n{x00}",
+   "source_sha256": "2ac79154a05d6921538375c85fbbe304ac8d596c673ceb7d4f923e93a963a289",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 53,
+   "en": "\n{C:81900700}{C:81958296293700000000}So you're saying you cannot help us?\n\n{C:81900C00}{C:819582962A3700000000}Of course.\nI have no reason to help you.\n\n{C:81900600}{C:819582962B3700000000}Do you understand\nwhat you've done?\n\n{C:81900C00}{C:819582962C3700000000}Of course... I have no regrets.\n\n\n{x00}",
+   "source_sha256": "37bb0cc683c61f3daebbf7eea974be0f42a263b0b2498eeb5b3dca648c40a066",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 54,
+   "en": "\n{C:81930100}{C:819582962D3700000000}Dad!\n\n{C:81900600}{C:819582962E3700000000}You... What are you doing here?\n\n{C:81930100}{C:819582962F3700000000}I wanted a word with that one.\n\n{C:81900C00}{C:81958296303700000000}I have nothing to say to you.\n\n{C:81930100}{C:81958296313700000000}Well, I have something to say.\n\n{C:81958296323700000000}...Thank you for not killing\nLun.\n\n{C:81900C00}{C:81958296333700000000}Heh... Ha ha ha ha!\nHow absurd!\n\n{C:81930100}{C:81958296343700000000}Say whatever you like.\nThat was all I wanted to say.\n\n{C:81900C00}{C:81958296353700000000}What a sorry state of affairs.\nThe son of a hero, acting like this.\n\n{C:81900600}{C:81958296363700000000}Yes, this boy's an idiot.\nBut I can't help loving\nthis idiot son of mine.\n\n{C:81900C00}{C:81958296373700000000}Hmph...\n\n{C:81930100}{C:81958296383700000000}Sorry to interrupt, Dad.\n\n\n{C:81930600}{C:81958296393700000000}Oh, it's fine.\n\n\n{x00}",
+   "source_sha256": "a9d430b0df71dfce0ebbccdd5fd3c241fdebedfa40575025198a004830e78aef",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all55unique465verdicts,tenactual453groups/independentassessments,foursharedqualifiers,eightfullJP-current-proposedsevenfieldupdates. Repairs3/6/13/21/30/40/43/48; other47whole453exact. Then separateall55complete474English editorial in sourceorder, no further changes. Author103/independent102 scopes separate; no inheritedcoverage. Current1182binding preserveshistoricalsnapshots; shared181names/finalCURRENTMAINproof follow. Tests deferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

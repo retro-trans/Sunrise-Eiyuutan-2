@@ -1,0 +1,16 @@
+Create a polished GitHub repository social preview banner for the PlayStation 2 English translation project SUNRISE EIYUUTAN 2. Landscape 2:1 aspect ratio, intended 1280 by 640 pixels.
+
+Reference image 1 is the STYLE AND LAYOUT reference only (Another Century's Episode banner). Reference image 2 is the actual SUNRISE EIYUUTAN 2 game cover. Use the supplied second image as the authentic flat rectangular cover artwork; preserve its composition, characters, Japanese game logo and original PlayStation 2 header as closely as possible. Do not substitute artwork from the first reference.
+
+Match the first reference's restrained navy editorial style: subtly textured deep midnight navy background with a little blue illumination, flat front-facing game cover on left with a thin warm ivory border and subtle shadow, generous orderly margins, right aligned content block with a left edge at about 39% of total width. Cover at x about 5%, y 8%, width 29.5%, height 83%, preserving its portrait proportions. No fake perspective or 3D case.
+
+On the right, exact typography:
+top eyebrow "PLAYSTATION 2", light cornflower blue, widely tracked uppercase, medium size.
+Below, very large heavy geometric sans-serif warm ivory title, exact two lines:
+"SUNRISE"
+"EIYUUTAN 2"
+Use bold normal proportions, not horizontally squeezed. Set the title large enough to command the right side while leaving comfortable right margin. It should occupy roughly y 25% through 57%. Use a sensible slight size adjustment for the longer second line to keep both lines within the right column.
+Below title, a short thick golden yellow horizontal rule.
+Below rule, exact text "English translation patch" in warm ivory bold sans-serif, clear and legible, one line fitting the column.
+Bottom right exact text "retro-trans" in light cornflower blue with gentle tracking, small but legible.
+No other text outside the actual supplied cover. Do not copy the words ANOTHER, CENTURY'S, EPISODE or A.C.E. into the banner. No watermark. Sharp clean text and faithful authentic cover. Make the finished graphic feel like the same visual series as reference 1.

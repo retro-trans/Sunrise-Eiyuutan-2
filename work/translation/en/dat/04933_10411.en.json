@@ -1,0 +1,369 @@
+{
+ "table": "04933_10411",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n{C:81930B00}{C:81958296500100000000}This is Tsuragi.\nAstante II, respond.\n\n{C:81900600}{C:819582961D3200000000}Admiral!\nAre you all right?!\n\n{C:81930B00}{C:81958296510100000000}Part of the army has gone underground.\nBut Binzvanker has taken control\neverywhere.\n\n{C:81958296520100000000}Akatsuki, I need you to use all your strength\nto retake the cities!\n\n{C:81900700}{C:819582961E3200000000}Do you know\nwhere Binzvanker is?\n\n{C:81930B00}{C:81958296530100000000}{C:819782830400}Rondo{C:819782830000}, is that you?\nProbably just where you imagine.\n\n\n{x00}",
+   "source_sha256": "f7c5502658457490845eda41591bdca1183de5fdddc6164dad8a085a23863f80",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81900600}{C:819582961F3200000000}Admiral!\nIt's no use...\n\n{C:81900400}{C:81958296203200000000}Uncle, where do you think\nBinzvanker is?\n\n{C:81900600}{C:81958296213200000000}There, I take it?\n\n{C:81900700}{C:81958296223200000000}Yes.\nWhere they first deployed\nImakarum in battle.\n\n{C:81958296233200000000}They have other ties\nto that place as well.\nI can't imagine them being anywhere else.\n\n{C:81908200}{C:81958296243200000000}Then why don't we just\nget over there\nand attack?\n\n{C:8190C800}{C:81958296263200000000}Naive. It won't be that easy.\nThey're bound to have\nsome kind of trap waiting.\n\n{C:8190CE01}{C:81958296273200000000}Then we'll defeat them one by one.\nLet's liberate the cities, one at a time.\n\n{C:81908400}{C:81958296283200000000}That sounds best.\n\n{C:81900300}{C:81958296293200000000}{C:819782830300}Astante Fortress{C:819782830000} aside,\nour two targets are {C:819782830300}Deon Town{C:819782830000} and\n{C:819782830300}Cloud City{C:819782830000}.\n\n{C:81930100}{C:819582962A3200000000}How did you know\nBinzvanker was in Astante Fortress,\nRie?\n\n{C:81900400}{C:819582962B3200000000}Honestly.\nIt's in any reasonably detailed\nhistory book.\n\n{C:81930100}{C:819582962C3200000000}Was it?\n\n{C:81900600}{C:819582962D3200000000}In any case,\nit'll be either Deon Town\nor Cloud City.\n\n\n\n{x00}",
+   "source_sha256": "e49446d0ce3a8dc0a333a1b56c754534508e7313ffde3e325e297f8377b7e5d8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:81930100}{C:819582962E3200000000}We'd better\nnot go any farther.\n\n\n\n{x00}",
+   "source_sha256": "01d4d9144c4e5715b1dc0b166a65588e10c1da1db6afecb07cb0af93a43f605d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81933200}{C:81958296540100000000}Behold our power, uniting\nall the might of Byston Well!\n\n{x00}",
+   "source_sha256": "51fedbf477ec0d60f8dadf6d684054448359e368ccdac472cf46261e99ddaa0f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:81931A00}{C:81958296550100000000}Drake Luft!\nHow long do you intend\nto cling to someone else's dream?\n\n{x00}",
+   "source_sha256": "2a10a0dd66d8c6db63a308351007f5c83c9cf357e7d842114e2594669391b906",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81933200}{C:81958296560100000000}What are you saying?\nI am not merely\nbeing used either!\n\n{x00}",
+   "source_sha256": "721145e9ef06e4b5d5639310155c5da1c21d92950d1794aa7b3757b1c97b7c8c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930A01}{C:819582962F3200000000}Mardoul realized that,\nand lent us his strength!\nYou, too...!\n\n{x00}",
+   "source_sha256": "5f436184262f26b78e44fe93e6a11faa5ab4d0b838713e1dc6c2626bc0e4061e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81933200}{C:81958296570100000000}Enough! I won't listen!!\n\n\n\n{x00}",
+   "source_sha256": "e70a5c6accf8d34e34a95ec346daa1ebc27f12cc06a90c94225d192605cee127",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:81931C00}{C:81958296313200000000}I hope this will make Drake\ngive up, but he won't, will he?\n\n{x00}",
+   "source_sha256": "6f94feb34d3d05a0ce5c7641592810b335c7fe9786827dc5d1f9e0f358577345",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 9,
+   "en": "\n{C:81930100}{C:81958296323200000000}Are there any other signs of the enemy?\n\n{C:81930400}{C:81958296333200000000}None at the moment.\nExcept in Cloud City.\n\n{C:81935300}{C:81958296343200000000}Then Cloud City is next.\n\n\n\n\n{x00}",
+   "source_sha256": "2297bc4b9b018411880edaa6c385e9f08990e321dba572ae67b0b029eb4ea6c7",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 10,
+   "en": "\n{C:81939B00}{C:819582964E3200000000}To think I have to come\nall the way to a place like this.\n\n{C:81936F00}{C:819582964F3200000000}Then finish your business\nand hurry back to that Terra place.\n\n{C:81939B00}{C:81958296503200000000}I'll do just that.\n\n\n{x00}",
+   "source_sha256": "c56473c9c7ff70b724763588c55be7cf2d084b6c978434c195cdafe1ec4f0ab6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 11,
+   "en": "\n{C:81939B00}{C:819582969E3700000000}To think you'd even create an impostor of me...\nYou've got some nerve, Binzvanker!\n\n\n\n{x00}",
+   "source_sha256": "67ffb0e8da1446790e8888eba764c3764ad650d9317ecd1bfff6d46045034ef0",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 12,
+   "en": "\n{C:81930D00}{C:81958296523200000000}So you've liberated the cities?\nThen come.\nCome to Astante Fortress.\n\n\n\n\n{x00}",
+   "source_sha256": "94d13b962d64f65fb63af37c689d96f2025a115b8f21d71d3d5dc9ced88ce0af",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 13,
+   "en": "\n{C:81930D00}{C:81958296633200000000}You actually came, you fools?\nThen come into my world.\n\n\n{x00}",
+   "source_sha256": "6948045412526029592c0dcb665f2b3a0bdd891def4799d844ef2bf9827054c8",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 14,
+   "en": "\n{C:81930D00}{C:81958296643200000000}Why do you think I started these wars?\nI knew of the existence of\n{C:819782830400}Mediator{C:819782830000}.\n\n{C:81958296653200000000}People's hatred, anger, sorrow...\nI knew that such intense emotions\nwould draw the Mediator here.\n\n{C:81958296663200000000}You were delightfully active,\nspreading the ravages of war.\n\n{C:81958296673200000000}Thanks to you, I have obtained\nthis magnificent power!!\nLet me show you a glimpse of it.\n\n\n\n{x00}",
+   "source_sha256": "583ebad8619a5fe8783f4929b768bb668e556ffdd3bcf782924c65a828db5f55",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 15,
+   "en": "\n{C:81930D00}{C:81958296693200000000}I can now\nbring even the dead back to life\nwith ease!!\n\n{C:819582966A3200000000}Next, you shall\nface these opponents.\n\n\n\n\n{x00}",
+   "source_sha256": "ef09b8bdf8178c093332614f1843bac255e5937227301d5f91ef1ae1b21161e4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 16,
+   "en": "\n\n\n{x00}",
+   "source_sha256": "a05efd50a5da6efe6daf47e253ea1e5d5104ffc329b77005cbff6cdd48fb1429",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 17,
+   "en": "\n{C:81930D00}{C:819582966C3200000000}That's what I'd expect.\nIt wouldn't be any fun otherwise.\n\n{C:819582966F3200000000}I acknowledge you as worthy opponents,\nand I shall fight you!!\n\n\n\n{x00}",
+   "source_sha256": "b9f89b2a143e1a4ef6159e470220eb09a23237eec040c950e57b497dc4c2484f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 18,
+   "en": "\n{C:81930D00}{C:81958296703200000000}Impossible! I...\nImpossible! Impossible! Impossiiible!!\n\n\n{x00}",
+   "source_sha256": "5d2dec5b83e0fcfb2014689c9dee7e2326175d73a415eac6a24dad72ed86d485",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 19,
+   "en": "\n{C:81930100}{C:81958296713200000000}We won...?\nWe won!!\n\n\n{x00}",
+   "source_sha256": "7d3e62eb61cacd76d2ba7d122218475eb2935c88422d7278f78039142c4e667c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 20,
+   "en": "\n{C:81935300}{C:81958296723200000000}Well, we'll be going.\nWe have to restore Pentagona.\n\n{x00}",
+   "source_sha256": "952924646f77c018790b760a0310d85e34b276a83a031111a92f724c510bd44d",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 21,
+   "en": "\n{C:81938400}{C:81958296733200000000}We still have work to do\non our respective continents.\n\n{x00}",
+   "source_sha256": "458967e2fcd0256e76c45dd0c5046704d41bd86f2046428ef665a0cf9cc80779",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 22,
+   "en": "\n{C:81939E00}{C:81958296743200000000}Including a showdown with me.\n\n{x00}",
+   "source_sha256": "b05605b6dae71211c42356e8ff834c94665c0b39283ec39725d6c5143578284c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 23,
+   "en": "\n{C:81935401}{C:81958296753200000000}See you.\nIt was fun.\n\n{x00}",
+   "source_sha256": "95a7b6ea61ffb2182dc07cbdc5a0dd5c20df445df4915fb1fec238bd7d89a58a",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 24,
+   "en": "\n{C:81931A00}{C:819582965D0100000000}Let's meet again someday.\n\n\n{x00}",
+   "source_sha256": "daede1a7e355287cdbe6023a51714984d912476766da55819b8e321fe059b98f",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 25,
+   "en": "\n{C:81930100}{C:81958296763200000000}Come on, let's go home too.\n\n{x00}",
+   "source_sha256": "73fcb8efa85df34ad023ba259cd4689416c8a7008fa0e5c1fc97662e24b68e7b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 26,
+   "en": "\n{C:81930200}{C:81958296783200000000}Yes!\n\n{x00}",
+   "source_sha256": "e2351af82cf502b296441e8011dc0808944c5f9c72821c0ecf0a298224775bae",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 27,
+   "en": "\n{C:81930300}{C:81958296793200000000}Astante II\nwill head for Claudia.\n\n\n\n\n{x00}",
+   "source_sha256": "4f90e5bcb9cfb564136d28abb5ca7424d0d5a0190c4eebe725550efd4a978c91",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Root all53 unique516 meaning/omission verdicts,7shared qualifications,6actual507groups+assessments and both full guardedJP/current/proposed7field repairs read. Applied2source repairs526; other51whole507records retained including empty04933:16. Separate all28 complete526English editorialread in sceneorder, no changes. Author132/independent133 originals separately scoped. Current1213preservesprior1209/1210/1212fullentries. Shared184names/finalCURRENTMAIN proof follow; alltestsdeferred. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

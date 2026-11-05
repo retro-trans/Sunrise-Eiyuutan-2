@@ -1,0 +1,464 @@
+{
+ "version": "0.2.27",
+ "source_elf_sha256": "00c598e051bd1287ec4523dc757ae2326fb5af28f2dc6c92a2450d6f290290a3",
+ "inputs": {
+  "work\\source\\episode_titles_audit_027.json": "2634ae2c6363efa068aa6e0cef106c989e782349023397ab06289a5c02084b84",
+  "work\\translation\\en\\pending\\compiled_rodata_indices80_159_language540.json": "beecb76f8d3574355a8fcc7b5b3e771c3585fa9576798340342788508efae095"
+ },
+ "review_scope": "All 19 source titles and prefixes examined; 16 existing independent reviews, three new separate accuracy/editorial/proofreading reviews. Prefix/title indices independent.",
+ "maximum_combined_bytes": 56,
+ "prefixes": [
+  {
+   "index": 0,
+   "site": 2235880,
+   "pointer": 2325424,
+   "en": "",
+   "raw_hex": ""
+  },
+  {
+   "index": 1,
+   "site": 2235884,
+   "pointer": 10203456,
+   "en": "Episode 1\u3000",
+   "raw_hex": "457069736f646520318140"
+  },
+  {
+   "index": 2,
+   "site": 2235888,
+   "pointer": 10203472,
+   "en": "Episode 2\u3000",
+   "raw_hex": "457069736f646520328140"
+  },
+  {
+   "index": 3,
+   "site": 2235892,
+   "pointer": 10203488,
+   "en": "Episode 3\u3000",
+   "raw_hex": "457069736f646520338140"
+  },
+  {
+   "index": 4,
+   "site": 2235896,
+   "pointer": 10203504,
+   "en": "Episode 4\u3000",
+   "raw_hex": "457069736f646520348140"
+  },
+  {
+   "index": 5,
+   "site": 2235900,
+   "pointer": 10203520,
+   "en": "Episode 5\u3000",
+   "raw_hex": "457069736f646520358140"
+  },
+  {
+   "index": 6,
+   "site": 2235904,
+   "pointer": 10203536,
+   "en": "Episode 6\u3000",
+   "raw_hex": "457069736f646520368140"
+  },
+  {
+   "index": 7,
+   "site": 2235908,
+   "pointer": 10203552,
+   "en": "Final Episode\u3000",
+   "raw_hex": "46696e616c20457069736f64658140"
+  },
+  {
+   "index": 8,
+   "site": 2235912,
+   "pointer": 10203568,
+   "en": "Heroic Tales: Run 1\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20318140"
+  },
+  {
+   "index": 9,
+   "site": 2235916,
+   "pointer": 10203592,
+   "en": "Heroic Tales: Run 2\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20328140"
+  },
+  {
+   "index": 10,
+   "site": 2235920,
+   "pointer": 10203616,
+   "en": "Heroic Tales: Run 3\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20338140"
+  },
+  {
+   "index": 11,
+   "site": 2235924,
+   "pointer": 10203640,
+   "en": "Heroic Tales: Run 4\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20348140"
+  },
+  {
+   "index": 12,
+   "site": 2235928,
+   "pointer": 10203664,
+   "en": "Heroic Tales: Run 5\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20358140"
+  },
+  {
+   "index": 13,
+   "site": 2235932,
+   "pointer": 10203688,
+   "en": "Heroic Tales: Run 6\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20368140"
+  },
+  {
+   "index": 14,
+   "site": 2235936,
+   "pointer": 10203712,
+   "en": "Heroic Tales: Run 7\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20378140"
+  },
+  {
+   "index": 15,
+   "site": 2235940,
+   "pointer": 10203736,
+   "en": "Heroic Tales: Run 8\u3000",
+   "raw_hex": "4865726f69632054616c65733a2052756e20388140"
+  },
+  {
+   "index": 16,
+   "site": 2235944,
+   "pointer": 10203760,
+   "en": "Heroic Tales: Final Run\u3000",
+   "raw_hex": "4865726f69632054616c65733a2046696e616c2052756e8140"
+  },
+  {
+   "index": 17,
+   "site": 2235948,
+   "pointer": 2325424,
+   "en": "",
+   "raw_hex": ""
+  },
+  {
+   "index": 18,
+   "site": 2235952,
+   "pointer": 2325424,
+   "en": "",
+   "raw_hex": ""
+  }
+ ],
+ "rows": [
+  {
+   "index": 0,
+   "va": 2235960,
+   "site": 2236264,
+   "expected_pointer": 10203792,
+   "source_size": 11,
+   "source_sha256": "ff4909ad7405f95028a33cede0c1086177368e36223e292fb691a30c2aac3971",
+   "source_with_nul_sha256": "e77e80db76c8efb2bc3ff846aa19352dbbe47e1eb139beb89986fba8390d783e",
+   "en": "Prologue",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 1,
+   "va": 2235976,
+   "site": 2236268,
+   "expected_pointer": 10203808,
+   "source_size": 19,
+   "source_sha256": "598a3cbd3decd9b9e48507bdb02e7280a23dbd98a8328c4ff6a67a0a34bbcb47",
+   "source_with_nul_sha256": "abf616b9ade81a2f5d099cdc4b35e03d295f09a16b345bb5accc28c09f714dd7",
+   "en": "Launch!\u3000Astante",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 2,
+   "va": 2325432,
+   "site": 2236272,
+   "expected_pointer": 2325432,
+   "source_size": 7,
+   "source_sha256": "3920ce40f8578d80b2f954b6e2b23ff6f49fd6c67669b4ce9b2688b61e88a72c",
+   "source_with_nul_sha256": "a37760bd60ab54c95f89b0191c10221333122362a584cc014e4ccf8b24fd2905",
+   "en": "Encounter",
+   "review": {
+    "accuracy": "Independent full source caption comparison passed with nominal title extent and ambiguity retained.",
+    "editorial": "Separate complete English-title read passed. Existing cross-media project spelling retained; no fitting-driven shortening.",
+    "proofread": "Separate final saved-English spelling, Title Case, punctuation and completeness check passed."
+   }
+  },
+  {
+   "index": 3,
+   "va": 2325440,
+   "site": 2236276,
+   "expected_pointer": 2325440,
+   "source_size": 5,
+   "source_sha256": "41b07219d9c6149cdb8bb521c5b33edd433863b97e70f1b6818af6d621128bb4",
+   "source_with_nul_sha256": "ddc002b4ff4e068e9289986a0c8711485e5e939b53c94c9894da3d76c8d22ae2",
+   "en": "Transfer Voyage",
+   "review": {
+    "accuracy": "Independent full source caption comparison passed with nominal title extent and ambiguity retained.",
+    "editorial": "Separate complete English-title read passed. Existing cross-media project spelling retained; no fitting-driven shortening.",
+    "proofread": "Separate final saved-English spelling, Title Case, punctuation and completeness check passed."
+   }
+  },
+  {
+   "index": 4,
+   "va": 2236000,
+   "site": 2236280,
+   "expected_pointer": 2236000,
+   "source_size": 13,
+   "source_sha256": "689212e7b6f100cf5923c4096417440d479f48911dc4637580551ccc0ff1a250",
+   "source_with_nul_sha256": "1539eb6c5059082736027b1dc0e7a5c2e2d31f2f69f7121230f9980a324eae2a",
+   "en": "The One Behind It",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 5,
+   "va": 2236016,
+   "site": 2236284,
+   "expected_pointer": 2236016,
+   "source_size": 15,
+   "source_sha256": "0488dd7578622afe5ec3bbd35b88b1738f27c663a06cb2aa143bc921dd1e1054",
+   "source_with_nul_sha256": "7290860e679f7abb2a8109409398fd0d54415e05f9a014b0113c56f033404b7b",
+   "en": "Awakening of the Iron Giant",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 6,
+   "va": 2236032,
+   "site": 2236288,
+   "expected_pointer": 2236032,
+   "source_size": 17,
+   "source_sha256": "d2ada33eb3d09e65e9d1673ab27c4c25dbce0e40b2776258c515bb54987e0cd0",
+   "source_with_nul_sha256": "02c9d5e7cf91a033cc9b85581c11fec83c4165a0ea6a4ae8b2f6ac6c2389a90e",
+   "en": "Heroes of Light Gather",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 7,
+   "va": 2236056,
+   "site": 2236292,
+   "expected_pointer": 2236056,
+   "source_size": 19,
+   "source_sha256": "bdaee6bc4d1795e6992ead09747b454e5fe140dd76f454c4c32adac6facb4bac",
+   "source_with_nul_sha256": "f52958ad6cddb5e7555a51fadd84fb6156b07ba58f8f6feccc6537a99f2d4c44",
+   "en": "Final\u30fbBattle",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 8,
+   "va": 2236080,
+   "site": 2236296,
+   "expected_pointer": 2236080,
+   "source_size": 9,
+   "source_sha256": "75932597941ed11d8daeb62e3ea9a4b23e411e364e38d3c771c439afa147fe1b",
+   "source_with_nul_sha256": "2b333634eb398e718f1ba7b3058914b07701e5777b36b5e895c7b7289afccfa6",
+   "en": "Blue Comet",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 9,
+   "va": 2236096,
+   "site": 2236300,
+   "expected_pointer": 2236096,
+   "source_size": 21,
+   "source_sha256": "f9636766f290e01a18653ad8e9a609bf9cfd68927c15b8ac4a74a691d7f63bb5",
+   "source_with_nul_sha256": "984cc4d09d6aabc6b2cb6cf6eb7292e3b410123951228008837364a86e6ab9ef",
+   "en": "Reunion at Kilimanjaro",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 10,
+   "va": 2236120,
+   "site": 2236304,
+   "expected_pointer": 2236120,
+   "source_size": 11,
+   "source_sha256": "dd8e96d6961490267b17f4e5fb53db0671267366faf6ddc6c8f264825e8db97e",
+   "source_with_nul_sha256": "939b7bcec73c2f13efa48f0b75e3c70bafde9b370fd2946ac3c037dcfa626653",
+   "en": "New Power",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 11,
+   "va": 2236136,
+   "site": 2236308,
+   "expected_pointer": 2236136,
+   "source_size": 15,
+   "source_sha256": "e2e89f88eb5b80d020acd678b6e5e038ec213a716092e370ec34e85752c271e4",
+   "source_with_nul_sha256": "1cffd34e615958d941c9713a46ed0af398d0f39708cd02a2b279e46d7afd5e2d",
+   "en": "Mardoul's True Intentions",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 12,
+   "va": 2236152,
+   "site": 2236312,
+   "expected_pointer": 2236152,
+   "source_size": 19,
+   "source_sha256": "318045a6069ae0a938736bfc7118d6a1e773257232b66bcf497fbe2c1224e0b3",
+   "source_with_nul_sha256": "8bb570288d70934a6f8963121035c8c6360b7db6707e5a412c559acbe6eb8782",
+   "en": "Showdown!\u3000King of the Braves!!",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 13,
+   "va": 2236176,
+   "site": 2236316,
+   "expected_pointer": 2236176,
+   "source_size": 9,
+   "source_sha256": "4b8b0bb31c3d27f859264f63a5d96d24f6924a3801dd623ee242362b48b4c017",
+   "source_with_nul_sha256": "8eef25ef66a0d3297e03e4770311b468622b76246301cca5c4f32f847e346b65",
+   "en": "Search\u3012",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 14,
+   "va": 2236192,
+   "site": 2236320,
+   "expected_pointer": 2236192,
+   "source_size": 9,
+   "source_sha256": "a101cbcd50e9c145cefdbcd44479a8d39819cc49976b44d11eacfdecf78f68b0",
+   "source_with_nul_sha256": "3f5b1527ac2fcf7c2210cf3a0ebdce173d48b3a3433b7177c35204536b27412a",
+   "en": "Queen of the Storm",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 15,
+   "va": 2236208,
+   "site": 2236324,
+   "expected_pointer": 2236208,
+   "source_size": 17,
+   "source_sha256": "6b8468b70b1f1e77ffcaf1c402d6ed159f6fde36aa207c0c82c4930931e2cc2c",
+   "source_with_nul_sha256": "84921d4229a023212eac5715df2602f343291bfddccfe1699791959968c85289",
+   "en": "Binzvanker",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 16,
+   "va": 2325448,
+   "site": 2236328,
+   "expected_pointer": 2325448,
+   "source_size": 7,
+   "source_sha256": "5dcd633765a62d08fd1fdb457d9445f317eb8440d56d982aeef19f2913464b61",
+   "source_with_nul_sha256": "8ca33b8fb9b295997c582716b5f06901da2d359de7e4c26f9c87835ea6d83dda",
+   "en": "Dark Power",
+   "review": {
+    "accuracy": "Independent full source caption comparison passed with nominal title extent and ambiguity retained.",
+    "editorial": "Separate complete English-title read passed. Existing cross-media project spelling retained; no fitting-driven shortening.",
+    "proofread": "Separate final saved-English spelling, Title Case, punctuation and completeness check passed."
+   }
+  },
+  {
+   "index": 17,
+   "va": 2236232,
+   "site": 2236332,
+   "expected_pointer": 2236232,
+   "source_size": 13,
+   "source_sha256": "6ee3a338d575e0d0d27f17e2c64cbabc6f44da63f2de3e44bfe51ffb558e273c",
+   "source_with_nul_sha256": "264bc4b51073140ed41ff622d0e889a2db9fc81675881ee90aefc72a4d11e7a2",
+   "en": "Ending",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  },
+  {
+   "index": 18,
+   "va": 2236248,
+   "site": 2236336,
+   "expected_pointer": 2236248,
+   "source_size": 15,
+   "source_sha256": "7a3d56bfb8b7a0b337f4f7e56942286c8ab94a4a7c0915b7c100b2264d45026e",
+   "source_with_nul_sha256": "33bc4c0e7f71a7bcb8bde9dc66362ab5a2060eb334eef26168d4f5da4af2cea0",
+   "en": "Credits",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "root separate complete English read; zero changes",
+    "name_audit": "actual compiled proposal names audit; zero registered-variant changes",
+    "proofread": "Root separate complete final saved-text proofreading after actual name audit; zero changes",
+    "rendered_fit": "pending"
+   }
+  }
+ ]
+}

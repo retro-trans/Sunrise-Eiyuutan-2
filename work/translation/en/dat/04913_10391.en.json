@@ -1,0 +1,122 @@
+{
+ "table": "04913_10391",
+ "rows": [
+  {
+   "id": 0,
+   "en": "\n\n\n\n\n{C:81900A01}{C:81958296432300000000}{C:819782830400}Churull{C:819782830000},\nit's dangerous to run that fast!\n\n{C:81900B01}{C:81958296B50100000000}I'll be fiiine!\n\n\n{x00}",
+   "source_sha256": "a45d26dd3d0d7d3448ee31c26751a0feb5bb86c5a446866cbc6688f48a6cdea6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 1,
+   "en": "\n{C:81930100}{C:81958296442300000000}Whoa?!\nW-what's going on?\n\n{C:81900B01}{C:81958296B60100000000}Oh, I'm sorry!\n\n{C:81900A01}{C:81958296452300000000}I told you, didn't I?\nIt's dangerous to run.\n\n{C:81958296462300000000}I'm sorry about that.\nCome on, Churull, you apologize too!\n\n{C:81900B01}{C:81958296B70100000000}I'm soooorry!\n\n{C:81930100}{C:81958296472300000000}Oh, it's all right.\n\n{C:81900400}{C:81958296482300000000}More importantly, are you hurt?\nUm... Churull, was it?\n\n{C:81900B01}{C:81958296B80100000000}Nope! I'm fine!\n\n{C:81900A01}{C:81958296492300000000}I'm really sorry.\nWe'll be going now.\n\n\n{C:81900300}{C:819582964A2300000000}They're such lively children.\n\n\n{C:81900400}{C:819582964B2300000000}They're just like you, Rie.\n\n{C:81900300}{C:819582964D2300000000}What's that supposed to mean?!\n\n{C:81930100}{C:819582964E2300000000}(I thought so too,\nbut I'm glad I didn't say it...)\n\n\n\n\n\n{x00}",
+   "source_sha256": "ff398dc9ee656518119d5bb728a15c72d8e447870bacae2a14147a2f84acf91c",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 2,
+   "en": "\n{C:8190A802}{C:81958296272300000000}Hmm? Where might I be?\nOh, pretty laaadies!\n\n\n{C:8190A802}{C:81958296292300000000}Pray, wait a moment!\nYou beautiful young ladies there,\nwould you answer a question for me?\n\n{C:81900400}{C:819582962A2300000000}A hippo. A hippo's talking...\n\n{C:81900300}{C:819582962B2300000000}Nelfea, that's rude.\n\n{C:819582962C2300000000}Um, if it's something we know,\nwe'll answer.\n\n{C:8190A802}{C:819582962D2300000000}I live on {C:819782830300}Mt. Soukai{C:819782830000}, and I am \n{C:819782830400}Shibaraku Tsurugibe{C:819782830000}, a master swordsman.\n\n{C:81900300}{C:819582962E2300000000}Thank you for introducing yourself.\nI'm Rie Akatsuki.\nSo, um, what was your question?\n\n{C:8190A802}{C:819582962F2300000000}Where might I be?\n\n{C:81900300}{C:81958296302300000000}Huh?\n\n{C:8190A802}{C:81958296312300000000}I thought I was traveling with {C:819782830400}Wataru{C:819782830000} and {C:819782830400}Himiko{C:819782830000}\non Mt. Soukai, but...\n\n{C:81900400}{C:81958296322300000000}I'm afraid we don't know\nanything about this continent either.\n\n{C:8190A802}{C:81958296342300000000}Hmm... Is this {C:819782830400}Doakudar{C:819782830000}'s trap?\nOr perhaps...\n\n{C:81930100}{C:81958296352300000000}Doakudar?\n\n{C:8190A802}{C:81958296362300000000}Ah, forgive me.\nI shall take my leave.\n\n\n{C:81930100}{C:81958296372300000000}He seemed out of place\nin all sorts of ways.\n\n{C:81900300}{C:81958296382300000000}Yeah...\n\n\n\n\n\n{x00}",
+   "source_sha256": "c138a65a17c1c865e418ffc0c9c373057e5c0cf18304fe0c14e6c3ce0f88546b",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 3,
+   "en": "\n{C:81930100}{C:81958296392300000000}A bar, huh?\nI wonder if Azuves\nwould be somewhere like this.\n\n\n{C:81901701}{C:81958296B20100000000}You lot!\nThis is no place\nfor brats like you!\n\n{C:81958296B30100000000}Leave at once.\n\n{C:81900400}{C:819582963A2300000000}What?!\n\n{C:81930100}{C:819582963B2300000000}Don't, Nelfea.\n\n{C:819582963C2300000000}I understand.\nExcuse us.\n\n{C:81901701}{C:81958296B40100000000}As long as you understand.\n\n{C:81900400}{C:819582963D2300000000}Why did you\nback down so easily?\n\n{C:8190D101}{C:819582963E2300000000}We're in enemy territory,\nso it's wiser to keep a low profile\nuntil we find Azuves.\n\n{C:81900400}{C:81958296402300000000}That's true,\nbut it's so frustrating!\n\n{C:81930100}{C:81958296412300000000}I'm frustrated too.\nBut for now, we have to put up with it.\n\n{C:81900400}{C:81958296422300000000}All right, I get it!\n\n\n\n\n{x00}",
+   "source_sha256": "1ca15aa8e6e7c87a201c7377b6891e209b558f469c65586222c4ff8a2dfe5511",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 4,
+   "en": "\n{C:8193A702}{C:819582966F2300000000}Tatatatatatatataaaa!\n\n{C:8193A502}{C:81958296702300000000}Waaah! Stop it, Himikooo!!\n\n\n{x00}",
+   "source_sha256": "8dcdf21da7a7a280bb1d5a99035ebee61f5bdc11cfe9c7bcbd4194646730ba6e",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 5,
+   "en": "\n{C:81930100}{C:81958296712300000000}Gwaaah!!\n\n{C:8190A502}{C:81958296722300000000}Oh, no!\nNow we've done it!\n\n\n{x00}",
+   "source_sha256": "cd9116d463ca048b8f5811af6deaf01eeaec593646ebaad9f897607f59f6b2c5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 6,
+   "en": "\n{C:81930100}{C:81958296732300000000}Ughghghghghghgh...\n\n{C:8190A702}{C:81958296742300000000}Huh?\nWataru, there's something weird about him.\nHe isn't recovering right away!\n\n{C:8190A502}{C:81958296752300000000}That's what I told you!\nPeople in this world\nhave different bodies from ours!\n\n{C:81958296762300000000}He might be seriously hurt!\n\n{C:8190A702}{C:81958296772300000000}Is thaaat so?\n\n{C:81900300}{C:81958296782300000000}Big brother, are you all right?!\n\n{C:81930100}{C:819582967A2300000000}Ow, ow, ow...\nI'm all right for now.\n\n{C:8190A502}{C:819582967B2300000000}I'm sorry, mister.\nCome on, Himiko, you apologize too!\n\n{C:8190A702}{C:819582967C2300000000}Nahahahaha!\nSorry, sorry!\n\n{C:8190A502}{C:819582967D2300000000}I said apologize properly!\n\n{C:8190A702}{C:819582967E2300000000}I apologize properly.\n\n{C:81930100}{C:819582967F2300000000}It's all right. I'm not hurt.\nBut please, no more\nheadbutts, okay?\n\n{C:8190A702}{C:81958296802300000000}Got it!\nYou're a nice guy, mister.\n\n{C:81958296812300000000}I'm Himiko!\nI'm the head of the Shinobibe clan!\n\n{C:81930100}{C:81958296822300000000}I see. Nice to meet you.\n\n{C:8190A702}{C:81958296832300000000}Nice to meet you!\nThis is Wataru.\n\n{C:8190A502}{C:81958296842300000000}I'm Wataru Ikusabe.\n\n{C:8190A702}{C:81958296852300000000}It looks fun over there!\nFuhahahaha...\n\n\n{C:8190A502}{C:81958296862300000000}The savior of Mt. Soukai... Hey,\nHimiko!\n\n{C:81958296872300000000}We're really sorry!\nBye!\n\n{C:81900400}{C:81958296882300000000}Is it just me, or do they\nseem completely out of place\nin this world?\n\n{C:81900300}{C:81958296892300000000}I agree...\n\n\n\n\n\n{x00}",
+   "source_sha256": "5c823c27c3c12c6db065b5892dddcea90c623c26dc9bb14b81610670c11075d4",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 7,
+   "en": "\n{C:81901C01}{C:81958296F42300000000}Heh heh heh heh heh heh heh!\nYou're from another continent, aren't you?!\nIt's obvious from your clothes!!\n\n{C:81958296F52300000000}I'll capture you and drag you\nbefore His Majesty!!\n\n{C:81930100}{C:81958296F62300000000}Not again!\n\n{C:8190D101}{C:81958296F72300000000}Let's run!\n\n\n\n{x00}",
+   "source_sha256": "bedf31d75777dedf57a641d004bcb4a29998b173cad7b4992140935ed104f3e5",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  },
+  {
+   "id": 8,
+   "en": "\n{C:8190B901}{C:81958296F82300000000}Good grief. How uncivilized.\nAre you all right, mademoiselle?\n\n{C:81900300}{C:81958296F92300000000}Oh, thank you.\nYou saved me.\n\n{C:8190B901}{C:81958296FA2300000000}I am {C:819782830400}George de Sand.{C:819782830000}\nMight I ask your name?\n\n{C:81900300}{C:81958296FB2300000000}I'm R-Rie Akatsuki.\n\n{C:8190B901}{C:81958296FC2300000000}Rie... What a beautiful name.\nMiss Rie, this is a dangerous place.\nPlease take care.\n\n{C:81900300}{C:81958296FD2300000000}Y-yes...\n\n{C:8190B901}{C:81958296FE2300000000}Now, if you'll excuse me.\n\n{C:8190D101}{C:81958296FF2300000000}Heh.\nHe's rather unusual, isn't he?\n\n{C:81930100}{C:81958296002400000000}He's so pretentious...\nHe's unbelievably pretentious.\n\n{C:81900400}{C:81958296012400000000}Isn't that fine?\nRie seems happy enough.\n\n{C:81930100}{C:81958296022400000000}I guess so...\n\n\n\n{x00}",
+   "source_sha256": "2e7cedbd7ac843d948cc0b163ffc1bbb847251ea40b449cb24a63e02fe2dd4f6",
+   "status": "reviewed-draft",
+   "review": {
+    "accuracy": "independent-reviewed",
+    "editorial": "self-reviewed",
+    "proofread": "self-reviewed",
+    "rendered_fit": "pending"
+   },
+   "notes": "Parent read all9unique415verdicts/omissions/all7shared andall6actual414groups, bothfullJP/current/proposedEnglish/metadata correctionframes3/7 andfullQ5before/after.423correctsONLY2decisions+sharedQ5 sourceattribution:3HighSchultatte/native279/profile107,7genericMardoulArmySoldier/native284/profile111. All9English/hash/native/contextIDs/flagsunchanged,other7whole414records exact; originalgroupsimmutablehistory/currentQ5corrected. Then separatelyreadall9complete423Englishsourceorder, noadditionaledits. Preserve125calls84voices0fn97literalspans8raw0continuations,lowvoices434–440. Row2narrowliteralLFedgequalified/orderedcontrolsLFexact, noEnglishnativeadmission. Shared179namesfollowallmeaning/editorialedits,thenactualCURRENTMAINproof. Alltestsdeferreduntilentirepipelinecomplete. Actual glossary audit and separate complete final CURRENT MAIN proofreading passed, no further changes."
+  }
+ ]
+}

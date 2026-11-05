@@ -1,0 +1,108 @@
+{
+ "rows": [
+  {
+   "va": 2325592,
+   "en": "No",
+   "source_size": 7,
+   "source_sha256": "994caed121f428d33bb71973ea63274c195a077b15e1d3474004dc01ef30b6cd",
+   "left_padding": false
+  },
+  {
+   "va": 2325600,
+   "en": "Yes",
+   "source_size": 7,
+   "source_sha256": "e36c47a18f8d3df8e016062ff7f3e0e28bca82a73de7e4d92038f9617ffd2269",
+   "left_padding": false
+  },
+  {
+   "va": 2325960,
+   "en": "Yes",
+   "source_size": 7,
+   "source_sha256": "8c51045f07e76413a65548eafd1a3c936a09be5fce54dc128512fcfe29d57f36",
+   "left_padding": true
+  },
+  {
+   "va": 2325968,
+   "en": "No",
+   "source_size": 7,
+   "source_sha256": "994caed121f428d33bb71973ea63274c195a077b15e1d3474004dc01ef30b6cd",
+   "left_padding": true
+  }
+ ],
+ "references": [
+  {
+   "kind": "code",
+   "site": 1377600,
+   "lui": 1377592,
+   "target": 2325960,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614825416,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1377640,
+   "lui": 1377632,
+   "target": 2325968,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614825424,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1386216,
+   "lui": 1386208,
+   "target": 2325960,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614825416,
+   "adjacent": false
+  },
+  {
+   "kind": "code",
+   "site": 1386240,
+   "lui": 1386232,
+   "target": 2325968,
+   "register": 5,
+   "base_register": 5,
+   "lui_word": 1006960675,
+   "word": 614825424,
+   "adjacent": false
+  },
+  {
+   "kind": "pointer",
+   "site": 2325584,
+   "target": 2325600
+  },
+  {
+   "kind": "pointer",
+   "site": 2325588,
+   "target": 2325592
+  }
+ ],
+ "padded_confirmations": [
+  2247456,
+  2247664,
+  2247744,
+  2247768,
+  2247792
+ ],
+ "review": {
+  "accuracy": "independent-reviewed",
+  "editorial": "complete",
+  "glossary": "complete",
+  "proofreading": "complete"
+ },
+ "accuracy": "Independent reviewer760 follow-up reread all four original literals and native Yes/No tables/callers. No/Yes/Yes/No approved in physical address order; preserve Yes-then-No native table/button order. No meaning uncertainty.",
+ "editorial": "Retain standard Yes/No wording; whitespace-only display padding on memory-card choices, confirmation lines and Last Updated fixes observed left-edge clipping without changing meanings, date placeholders or native choice order.",
+ "glossary": {
+  "registered_variants": 24,
+  "hits": []
+ },
+ "proofreading": "Saved four complete labels checked in address order. Confirmation wording remains exactly the earlier reviewed English; only leading display spaces change."
+}
