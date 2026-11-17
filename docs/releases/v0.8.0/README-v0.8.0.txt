@@ -61,7 +61,7 @@ Thanks to the creators of [Noto Sans JP](https://github.com/notofonts/noto-cjk) 
 
 ### Contribute
 
-Bug reports, proofreading and playtesting are welcome through [GitHub Issues](https://github.com/retro-trans/Sunrise-Eiyuutan-2/issues) or [Discord](https://discord.gg/MssepShjmB). Include the release version, episode/location, a screenshot and whether you started the patched image fresh.
+Bug reports, proofreading and playtesting are welcome through [GitHub Issues](https://github.com/retro-trans/Sunrise-Eiyuutan-2/issues) or [Discord](https://discord.gg/nZBZfTDfCP). Include the release version, episode/location, a screenshot and whether you started the patched image fresh.
 
 ---
 

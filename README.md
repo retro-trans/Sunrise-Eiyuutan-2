@@ -8,7 +8,7 @@ An English translation of **Sunrise Eiyuutan 2** for PlayStation 2, Japanese ori
 
 Translation and playtesting are still in progress. Bug reports, proofreading and playtesting are welcome through [GitHub Issues](https://github.com/retro-trans/Sunrise-Eiyuutan-2/issues) or Discord:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 ## Play it
 
